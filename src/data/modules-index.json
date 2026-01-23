@@ -1,0 +1,94 @@
+{
+  "modules": [
+    {
+      "id": "MOD_001",
+      "number": 1,
+      "name": "Instituciones y Legislación Aeronáutica",
+      "shortName": "Entorno Profesional",
+      "syllabusFile": "1.md",
+      "mcqFile": "mcq_modulo1_entorno.json",
+      "questionCount": 40,
+      "icon": "🏛️"
+    },
+    {
+      "id": "MOD_002",
+      "number": 2,
+      "name": "Aerodinámica y Mecánica de Vuelo",
+      "shortName": "Aerodinámica",
+      "syllabusFile": "2.md",
+      "mcqFile": "mcq_modulo2_aerodinamica.json",
+      "questionCount": 60,
+      "icon": "✈️"
+    },
+    {
+      "id": "MOD_003",
+      "number": 3,
+      "name": "Navegación y Sistemas",
+      "shortName": "Navegación",
+      "syllabusFile": "3.md",
+      "mcqFile": "mcq_modulo3_navegacion.json",
+      "questionCount": 80,
+      "icon": "🧭"
+    },
+    {
+      "id": "MOD_004",
+      "number": 4,
+      "name": "Plan de Vuelo y ATFCM",
+      "shortName": "Plan de Vuelo",
+      "syllabusFile": "4.md",
+      "mcqFile": "mcq_modulo4_plan_vuelo_atfcm.json",
+      "questionCount": 50,
+      "icon": "📋"
+    },
+    {
+      "id": "MOD_005",
+      "number": 5,
+      "name": "Códigos OACI/IATA y Aeronaves",
+      "shortName": "Códigos",
+      "syllabusFile": "5.md",
+      "mcqFile": "mcq_modulo5_codigos.json",
+      "questionCount": 30,
+      "icon": "🔤"
+    },
+    {
+      "id": "MOD_006",
+      "number": 6,
+      "name": "Cartografía Aeronáutica",
+      "shortName": "Cartografía",
+      "syllabusFile": "6.md",
+      "mcqFile": "mcq_modulo6_cartografia.json",
+      "questionCount": 40,
+      "icon": "🗺️"
+    },
+    {
+      "id": "MOD_007",
+      "number": 7,
+      "name": "Módulo 7",
+      "shortName": "Módulo 7",
+      "syllabusFile": "7.md",
+      "mcqFile": null,
+      "questionCount": 0,
+      "icon": "📚"
+    },
+    {
+      "id": "MOD_008",
+      "number": 8,
+      "name": "Módulo 8",
+      "shortName": "Módulo 8",
+      "syllabusFile": "8.md",
+      "mcqFile": null,
+      "questionCount": 0,
+      "icon": "📚"
+    },
+    {
+      "id": "MOD_009",
+      "number": 9,
+      "name": "Módulo 9",
+      "shortName": "Módulo 9",
+      "syllabusFile": "9.md",
+      "mcqFile": null,
+      "questionCount": 0,
+      "icon": "📚"
+    }
+  ]
+}

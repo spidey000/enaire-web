@@ -1,0 +1,70 @@
+import markdownIt from 'markdown-it';
+
+// Configure markdown-it
+const md = new markdownIt({
+  html: true,
+  linkify: true,
+  typographer: true
+});
+
+export function renderMarkdown(text) {
+  if (!text) return '';
+  return md.render(text);
+}
+
+export function extractTOC(markdown) {
+  const lines = markdown.split('\n');
+  const toc = [];
+
+  lines.forEach((line, index) => {
+    const match = line.match(/^(#{1,3})\s+(.+)$/);
+    if (match) {
+      const level = match[1].length;
+      const title = match[2].trim();
+      const id = title.toLowerCase()
+        .replace(/[^\w\s-]/g, '')
+        .replace(/\s+/g, '-')
+        .replace(/-+/g, '-');
+
+      toc.push({
+        level,
+        title,
+        id,
+        index
+      });
+    }
+  });
+
+  return toc;
+}
+
+export function searchInMarkdown(markdown, query) {
+  if (!query) return null;
+
+  const lines = markdown.split('\n');
+  const results = [];
+
+  lines.forEach((line, index) => {
+    if (line.toLowerCase().includes(query.toLowerCase())) {
+      results.push({
+        line: index + 1,
+        text: line.trim(),
+        context: getLineContext(lines, index, 2)
+      });
+    }
+  });
+
+  return results;
+}
+
+function getLineContext(lines, index, contextLines) {
+  const start = Math.max(0, index - contextLines);
+  const end = Math.min(lines.length, index + contextLines + 1);
+  return lines.slice(start, end).join('\n');
+}
+
+export function highlightText(text, query) {
+  if (!query) return text;
+  const regex = new RegExp(`(${query})`, 'gi');
+  return text.replace(regex, '<mark>$1</mark>');
+}

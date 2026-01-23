@@ -1,0 +1,511 @@
+{
+  "module_id": "MOD_005",
+  "module_name": "Códigos OACI/IATA y Aeronaves",
+  "mcq_set": [
+    {
+      "question_id": "MOD5_001",
+      "question_text": "¿Cuántas letras tiene un indicador de lugar OACI?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "3 letras"},
+        {"option_id": "B", "text": "4 letras"},
+        {"option_id": "C", "text": "5 letras"},
+        {"option_id": "D", "text": "6 letras"}
+      ],
+      "correct_answer": "B",
+      "hint": "Ejemplo: LEMD para Madrid-Barajas",
+      "explanation": "Los indicadores de lugar OACI están formados por un grupo de cuatro letras que identifican localizaciones geográficas conectadas al AFS (Servicio Fijo Aeronáutico).",
+      "tags": ["oaci", "indicadores", "lugar"]
+    },
+    {
+      "question_id": "MOD5_002",
+      "question_text": "¿Qué indica la primera letra de un indicador de lugar OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El país específico"},
+        {"option_id": "B", "text": "El área de encaminamiento del AFS (Servicio Fijo Aeronáutico)"},
+        {"option_id": "C", "text": "La región dentro del país"},
+        {"option_id": "D", "text": "El tipo de aeródromo"}
+      ],
+      "correct_answer": "B",
+      "hint": "El mundo está dividido en áreas de encaminamiento AFS con una letra cada una",
+      "explanation": "La primera letra indica el área de encaminamiento del AFS. A España le corresponden L para la Península y G para Canarias, Ceuta y Melilla.",
+      "tags": ["oaci", "indicadores", "estructura"]
+    },
+    {
+      "question_id": "MOD5_003",
+      "question_text": "¿Qué letras corresponden a España en los indicadores de lugar OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "S para la Península, C para Canarias"},
+        {"option_id": "B", "text": "L para la Península, E para Canarias"},
+        {"option_id": "C", "text": "L para la Península, G para Canarias, Ceuta y Melilla"},
+        {"option_id": "D", "text": "E para la Península, C para Canarias"}
+      ],
+      "correct_answer": "C",
+      "hint": "Primera letra: L (España peninsular), G (Canarias/Ceuta/Melilla)",
+      "explanation": "A España le corresponden L para la Península y G para Canarias, Ceuta y Melilla como áreas de encaminamiento del AFS.",
+      "tags": ["oaci", "indicadores", "espana"]
+    },
+    {
+      "question_id": "MOD5_004",
+      "question_text": "¿Qué indica la segunda letra de un indicador de lugar OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El área de encaminamiento"},
+        {"option_id": "B", "text": "El Estado o territorio dentro del cual está situado el lugar"},
+        {"option_id": "C", "text": "El tipo de instalación (aeródromo, helipuerto, etc.)"},
+        {"option_id": "D", "text": "La región del país"}
+      ],
+      "correct_answer": "B",
+      "hint": "Para España: E en la Península, C en Canarias",
+      "explanation": "La segunda letra es la letra asignada al Estado o territorio. A España le corresponden E para la Península, Ceuta y Melilla, y C para Canarias.",
+      "tags": ["oaci", "indicadores", "estructura"]
+    },
+    {
+      "question_id": "MOD5_005",
+      "question_text": "¿Cuál es el indicador de lugar OACI de Madrid-Barajas?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "LEMG"},
+        {"option_id": "B", "text": "LEMD"},
+        {"option_id": "C", "text": "LEBL"},
+        {"option_id": "D", "text": "LECM"}
+      ],
+      "correct_answer": "B",
+      "hint": "LE = España (Península), MD = Madrid",
+      "explanation": "El indicador OACI de Madrid-Barajas es LEMD. LE indica España (Península) y MD identifica Madrid-Barajas específicamente.",
+      "tags": ["oaci", "indicadores", "aeropuertos_espana"]
+    },
+    {
+      "question_id": "MOD5_006",
+      "question_text": "¿Cuál es el indicador de lugar OACI de Barcelona-El Prat?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "LEBL"},
+        {"option_id": "B", "text": "LEMD"},
+        {"option_id": "C", "text": "LEAL"},
+        {"option_id": "D", "text": "LEPA"}
+      ],
+      "correct_answer": "A",
+      "hint": "LE = España (Península), BL = Barcelona",
+      "explanation": "El indicador OACI de Barcelona-El Prat es LEBL. LE indica España (Península) y BL identifica Barcelona.",
+      "tags": ["oaci", "indicadores", "aeropuertos_espana"]
+    },
+    {
+      "question_id": "MOD5_007",
+      "question_text": "¿Cuál es el indicador de lugar OACI del Centro de Control de Madrid?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "LECB"},
+        {"option_id": "B", "text": "LECM"},
+        {"option_id": "C", "text": "LECS"},
+        {"option_id": "D", "text": "LECP"}
+      ],
+      "correct_answer": "B",
+      "hint": "LECM = Madrid FIC/ACC",
+      "explanation": "El indicador OACI del Madrid FIC/ACC es LECM. MCM indica el centro de control de Madrid.",
+      "tags": ["oaci", "indicadores", "centros_control"]
+    },
+    {
+      "question_id": "MOD5_008",
+      "question_text": "¿Cuál es el indicador de lugar OACI del Centro de Control de Canarias?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "GCCC"},
+        {"option_id": "B", "text": "GCXO"},
+        {"option_id": "C", "text": "GCLP"},
+        {"option_id": "D", "text": "GCRR"}
+      ],
+      "correct_answer": "A",
+      "hint": "GC = Canarias, CC = Centro de Control",
+      "explanation": "El indicador OACI del Canarias FIC/ACC es GCCC. GC indica Canarias y CC identifica el centro de control.",
+      "tags": ["oaci", "indicadores", "centros_control"]
+    },
+    {
+      "question_id": "MOD5_009",
+      "question_text": "¿Cómo se identifican los indicadores de lugar OACI no conectados a la red AFTN?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Con un guion (-) al final"},
+        {"option_id": "B", "text": "Con un asterisco (*) al final"},
+        {"option_id": "C", "text": "Con una letra Z adicional"},
+        {"option_id": "D", "text": "Con un número al final"}
+      ],
+      "correct_answer": "B",
+      "hint": "Los aeródromos privados suelen llevar *",
+      "explanation": "Los indicadores de lugar que no están conectados a la red AFTN se identifican con un asterisco (*) al final, como ocurre con algunos aeródromos privados.",
+      "tags": ["oaci", "indicadores", "aftn"]
+    },
+    {
+      "question_id": "MOD5_010",
+      "question_text": "¿Cuántas letras tiene un indicador de lugar IATA?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "3 letras"},
+        {"option_id": "B", "text": "4 letras"},
+        {"option_id": "C", "text": "5 letras"},
+        {"option_id": "D", "text": "2 letras"}
+      ],
+      "correct_answer": "A",
+      "hint": "Ejemplo: MAD para Madrid-Barajas",
+      "explanation": "Los indicadores de lugar IATA están formados por tres letras, utilizados principalmente por las aerolíneas para gestión comercial y operaciones.",
+      "tags": ["iata", "indicadores", "lugar"]
+    },
+    {
+      "question_id": "MOD5_011",
+      "question_text": "¿Cuál es el código IATA de Madrid-Barajas?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "BCN"},
+        {"option_id": "B", "text": "MAD"},
+        {"option_id": "C", "text": "AGP"},
+        {"option_id": "D", "text": "PMI"}
+      ],
+      "correct_answer": "B",
+      "hint": "Es el código que ves en las etiquetas de equipaje",
+      "explanation": "El código IATA de Madrid-Barajas es MAD. Este código de 3 letras se usa en billetes, etiquetas de equipaje y sistemas de gestión de aerolíneas.",
+      "tags": ["iata", "indicadores", "aeropuertos_espana"]
+    },
+    {
+      "question_id": "MOD5_012",
+      "question_text": "¿Cuál es el código IATA de Barcelona-El Prat?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "BCN"},
+        {"option_id": "B", "text": "MAD"},
+        {"option_id": "C", "text": "SVQ"},
+        {"option_id": "D", "text": "VLC"}
+      ],
+      "correct_answer": "A",
+      "hint": "BCN = Barcelona",
+      "explanation": "El código IATA de Barcelona-El Prat es BCN. Se usa comercialmente por aerolíneas para operaciones y gestión de pasajeros.",
+      "tags": ["iata", "indicadores", "aeropuertos_espana"]
+    },
+    {
+      "question_id": "MOD5_013",
+      "question_text": "¿Cuántos caracteres tiene un designador telefónico OACI de aerolínea?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "2 caracteres"},
+        {"option_id": "B", "text": "3 caracteres"},
+        {"option_id": "C", "text": "4 caracteres"},
+        {"option_id": "D", "text": "5 caracteres"}
+      ],
+      "correct_answer": "B",
+      "hint": "Se usa en comunicaciones radiotelefónicas (ej: IBERIA 301)",
+      "explanation": "Los designadores telefónicos OACI tienen 3 caracteres y se usan en comunicaciones radiotelefónicas como parte del distintivo de llamada (ej: IBE 301 para Iberia).",
+      "tags": ["oaci", "aerolineas", "designador_telefonico"]
+    },
+    {
+      "question_id": "MOD5_014",
+      "question_text": "¿Cuántos caracteres tiene un designador telegráfico OACI de aerolínea?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "2 caracteres"},
+        {"option_id": "B", "text": "3 caracteres"},
+        {"option_id": "C", "text": "4 caracteres"},
+        {"option_id": "D", "text": "5 caracteres"}
+      ],
+      "correct_answer": "B",
+      "hint": "Se usa en AFTN y telecomunicaciones (ej: IBE para Iberia)",
+      "explanation": "Los designadores telegráficos OACI tienen 3 caracteres y se usan en el servicio internacional de telecomunicaciones (AFTN) para identificar aerolíneas.",
+      "tags": ["oaci", "aerolineas", "designador_telegrafico"]
+    },
+    {
+      "question_id": "MOD5_015",
+      "question_text": "¿Cuál es el designador OACI de Iberia?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "IBE / IBERIA"},
+        {"option_id": "B", "text": "VLG / VUELING"},
+        {"option_id": "C", "text": "RYR / RYANAIR"},
+        {"option_id": "D", "text": "BAW / SPEEDBIRD"}
+      ],
+      "correct_answer": "A",
+      "hint": "IBE telegráfico, IBERIA telefónico",
+      "explanation": "El designador OACI de Iberia es IBE (telegráfico) / IBERIA (teléfono). IBE se usa en AFTN e IBERIA en comunicaciones radio.",
+      "tags": ["oaci", "aerolineas", "iberia"]
+    },
+    {
+      "question_id": "MOD5_016",
+      "question_text": "¿Cuál es el designador OACI de Ryanair?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "IBE / IBERIA"},
+        {"option_id": "B", "text": "RYR / RYANAIR"},
+        {"option_id": "C", "text": "VLG / VUELING"},
+        {"option_id": "D", "text": "AFR / AIRFRANS"}
+      ],
+      "correct_answer": "B",
+      "hint": "RYR telegráfico, RYANAIR telefónico",
+      "explanation": "El designador OACI de Ryanair es RYR (telegráfico) / RYANAIR (teléfono).",
+      "tags": ["oaci", "aerolineas", "ryanair"]
+    },
+    {
+      "question_id": "MOD5_017",
+      "question_text": "¿Cuál es el designador OACI de British Airways?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "AAL / AMERICAN"},
+        {"option_id": "B", "text": "BAW / SPEEDBIRD"},
+        {"option_id": "C", "text": "AFR / AIRFRANS"},
+        {"option_id": "D", "text": "IBE / IBERIA"}
+      ],
+      "correct_answer": "B",
+      "hint": "SPEEDBIRD es el callsign telefónico de British Airways",
+      "explanation": "El designador OACI de British Airways es BAW (telegráfico) / SPEEDBIRD (teléfono).",
+      "tags": ["oaci", "aerolineas", "british_airways"]
+    },
+    {
+      "question_id": "MOD5_018",
+      "question_text": "¿Cuántos caracteres tiene un código IATA de aerolínea?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "2 caracteres"},
+        {"option_id": "B", "text": "3 caracteres"},
+        {"option_id": "C", "text": "4 caracteres"},
+        {"option_id": "D", "text": "5 caracteres"}
+      ],
+      "correct_answer": "A",
+      "hint": "Ejemplo: IB para Iberia, BA para British Airways",
+      "explanation": "Los códigos IATA de aerolíneas tienen 2 caracteres y se usan para gestión comercial, emisión de billetes y relaciones con clientes.",
+      "tags": ["iata", "aerolineas", "codigos"]
+    },
+    {
+      "question_id": "MOD5_019",
+      "question_text": "¿Cuál es el código IATA de Iberia?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "IB"},
+        {"option_id": "B", "text": "BA"},
+        {"option_id": "C", "text": "AF"},
+        {"option_id": "D", "text": "VY"}
+      ],
+      "correct_answer": "A",
+      "hint": "IB = Iberia (lo ves en billetes y tarjetas de embarque)",
+      "explanation": "El código IATA de Iberia es IB. Se usa en la gestión comercial y emisión de billetes.",
+      "tags": ["iata", "aerolineas", "iberia"]
+    },
+    {
+      "question_id": "MOD5_020",
+      "question_text": "¿Qué es la marca de nacionalidad en una matrícula de aeronave?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El nombre del fabricante de la aeronave"},
+        {"option_id": "B", "text": "Uno o dos caracteres que indican el Estado en cuyo registro está inscrita la aeronave"},
+        {"option_id": "C", "text": "El número de serie de la aeronave"},
+        {"option_id": "D", "text": "El modelo de la aeronave"}
+      ],
+      "correct_answer": "B",
+      "hint": "Ejemplo: EC- para España, N- para EE.UU., F- para Francia",
+      "explanation": "La marca de nacionalidad está formada por uno o dos caracteres que indican el Estado en cuyo registro está inscrita la aeronave (ej: EC- para España).",
+      "tags": ["matriculas", "nacionalidad", "oaci"]
+    },
+    {
+      "question_id": "MOD5_021",
+      "question_text": "¿Cuál es la marca de nacionalidad de España?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "EC-"},
+        {"option_id": "B", "text": "F-"},
+        {"option_id": "C", "text": "D-"},
+        {"option_id": "D", "text": "G-"}
+      ],
+      "correct_answer": "A",
+      "hint": "EC- = España (España Civil)",
+      "explanation": "La marca de nacionalidad de España es EC-. Las aeronaves españolas tienen matrículas como EC-XXX.",
+      "tags": ["matriculas", "nacionalidad", "espana"]
+    },
+    {
+      "question_id": "MOD5_022",
+      "question_text": "¿Cuál es la marca de nacionalidad de Estados Unidos?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "F-"},
+        {"option_id": "B", "text": "N-"},
+        {"option_id": "C", "text": "D-"},
+        {"option_id": "D", "text": "G-"}
+      ],
+      "correct_answer": "B",
+      "hint": "N- = N-Number (Número de registro estadounidense)",
+      "explanation": "La marca de nacionalidad de Estados Unidos es N-. Las aeronaves estadounidenses tienen matrículas como N12345.",
+      "tags": ["matriculas", "nacionalidad", "estados_unidos"]
+    },
+    {
+      "question_id": "MOD5_023",
+      "question_text": "¿Cuál es la marca de nacionalidad de Francia?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "F-"},
+        {"option_id": "B", "text": "G-"},
+        {"option_id": "C", "text": "D-"},
+        {"option_id": "D", "text": "I-"}
+      ],
+      "correct_answer": "A",
+      "hint": "F- = France (Francia)",
+      "explanation": "La marca de nacionalidad de Francia es F-. Las aeronaves francesas tienen matrículas como F-XXXX.",
+      "tags": ["matriculas", "nacionalidad", "francia"]
+    },
+    {
+      "question_id": "MOD5_024",
+      "question_text": "¿Cuál es la marca de nacionalidad del Reino Unido?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "F-"},
+        {"option_id": "B", "text": "G-"},
+        {"option_id": "C", "text": "D-"},
+        {"option_id": "D", "text": "EC-"}
+      ],
+      "correct_answer": "B",
+      "hint": "G- = Great Britain / United Kingdom",
+      "explanation": "La marca de nacionalidad del Reino Unido es G-. Las aeronaves británicas tienen matrículas como G-XXXX.",
+      "tags": ["matriculas", "nacionalidad", "reino_unido"]
+    },
+    {
+      "question_id": "MOD5_025",
+      "question_text": "¿Cómo se define una aeronave ligera según OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Aeronave de masa certificada de despegue de 7.000 kg o menos"},
+        {"option_id": "B", "text": "Aeronave de menos de 5.000 kg"},
+        {"option_id": "C", "text": "Aeronave con menos de 19 asientos"},
+        {"option_id": "D", "text": "Aeronave monomotor"}
+      ],
+      "correct_answer": "A",
+      "hint": "L = Light (Ligera) en categorías WTC",
+      "explanation": "Una aeronave ligera es aquella con masa certificada de despegue de 7.000 kg o menos, según la clasificación OACI de estela turbulenta (WTC).",
+      "tags": ["aeronaves", "categorias", "wtc", "ligera"]
+    },
+    {
+      "question_id": "MOD5_026",
+      "question_text": "¿Cómo se define una aeronave media (M) según OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Aeronave de 7.000 kg o menos"},
+        {"option_id": "B", "text": "Aeronave de menos de 136.000 kg y más de 7.000 kg"},
+        {"option_id": "C", "text": "Aeronave de 136.000 kg o más"},
+        {"option_id": "D", "text": "Aeronave de más de 200.000 kg"}
+      ],
+      "correct_answer": "B",
+      "hint": "M = Medium (Media) en categorías WTC",
+      "explanation": "Una aeronave media (M) es aquella con masa máxima certificada de despegue de menos de 136.000 kg pero más de 7.000 kg.",
+      "tags": ["aeronaves", "categorias", "wtc", "media"]
+    },
+    {
+      "question_id": "MOD5_027",
+      "question_text": "¿Cómo se define una aeronave pesada (H) según OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Aeronave de más de 100.000 kg"},
+        {"option_id": "B", "text": "Aeronave de 136.000 kg o más"},
+        {"option_id": "C", "text": "Aeronave de más de 200.000 kg"},
+        {"option_id": "D", "text": "Aeronave Airbus A380 únicamente"}
+      ],
+      "correct_answer": "B",
+      "hint": "H = Heavy (Pesada) en categorías WTC",
+      "explanation": "Una aeronave pesada (H) es aquella con masa máxima certificada de despegue de 136.000 kg o más, según la clasificación OACI de estela turbulenta (WTC).",
+      "tags": ["aeronaves", "categorias", "wtc", "pesada"]
+    },
+    {
+      "question_id": "MOD5_028",
+      "question_text": "¿Qué categoría WTC (Wake Turbulence Category) tiene exclusivamente el Airbus A380-800?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "H (Heavy)"},
+        {"option_id": "B", "text": "J (Super)"},
+        {"option_id": "C", "text": "M (Medium)"},
+        {"option_id": "D", "text": "L (Light)"}
+      ],
+      "correct_answer": "B",
+      "hint": "J = Super (Jumbo), exclusiva del A380-800",
+      "explanation": "La categoría J (Súper) es exclusiva para el Airbus A380-800 con 560.000 kg de masa máxima certificada al despegue.",
+      "tags": ["aeronaves", "categorias", "wtc", "a380", "super"]
+    },
+    {
+      "question_id": "MOD5_029",
+      "question_text": "¿Cómo se debe considerar el Boeing 757 (B757) en separación de estela turbulenta?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Siempre como LIGERA (L)"},
+        {"option_id": "B", "text": "Siempre como PESADA (H)"},
+        {"option_id": "C", "text": "PESADA (H) cuando va seguida de otra aeronave, y MEDIA (M) cuando sigue a otra aeronave"},
+        {"option_id": "D", "text": "Como SUPER (J)"}
+      ],
+      "correct_answer": "C",
+      "hint": "El B757 genera estela turbulenta desproporcionada para su peso",
+      "explanation": "Los modelos Boeing 757 deben considerarse como PESADOS (H) cuando van seguidos de otra aeronave (generan fuerte estela), y como MEDIOS (M) cuando siguen a otra aeronave.",
+      "tags": ["aeronaves", "wtc", "b757", "estela_turbulenta", "especial"]
+    },
+    {
+      "question_id": "MOD5_030",
+      "question_text": "¿Qué significa RECAT-EU?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Régimen de Certificación de Aeronaves Europeo"},
+        {"option_id": "B", "text": "Esquema europeo de categorización de estela turbulenta con 6 categorías"},
+        {"option_id": "C", "text": "Reglamento de Espacio Aéreo Europeo"},
+        {"option_id": "D", "text": "Requisitos de Equipamiento de Cabina Europea"}
+      ],
+      "correct_answer": "B",
+      "hint": "RECAT-EU = Recategorización europea de estela turbulenta",
+      "explanation": "RECAT-EU es el esquema europeo de estela turbulenta que introduce 6 categorías basadas tanto en peso como en envergadura: SUPER, UPPER HEAVY, LOWER HEAVY, UPPER MEDIUM, LOWER MEDIUM, LIGHT.",
+      "tags": ["estela_turbulenta", "recat_eu", "categorias", "europa"]
+    }
+  ],
+  "metadata": {
+    "total_questions": 30,
+    "difficulty_distribution": {
+      "muy_facil": 8,
+      "facil": 10,
+      "media": 7,
+      "dificil": 4,
+      "muy_dificil": 1
+    },
+    "topics_covered": [
+      "Indicadores de lugar OACI (4 letras)",
+      "Indicadores de lugar IATA (3 letras)",
+      "Designadores de aerolíneas OACI (telegráfico/telefónico)",
+      "Códigos de aerolíneas IATA (2 caracteres)",
+      "Marcas de nacionalidad y matrículas",
+      "Categorías WTC (L, M, H, J)",
+      "Casos especiales (B757)",
+      "RECAT-EU"
+    ],
+    "created_at": "2025-01-23",
+    "language": "es",
+    "exam_format": "mcq_multiple_choice",
+    "answer_format": "single_correct",
+    "scope": "modulo_5_completo"
+  }
+}

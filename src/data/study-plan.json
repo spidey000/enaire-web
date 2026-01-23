@@ -1,0 +1,216 @@
+{
+  "objective": "Preparar examen MCQ tipo test en 14 días con 1-2 horas/día",
+  "examDate": null,
+  "phases": [
+    {
+      "id": "phase1",
+      "name": "FASE 1: Inventario y Estructura",
+      "tasks": [
+        { "id": "p1-1", "text": "Crear registro de recursos (Resource Register)", "completed": true },
+        { "id": "p1-2", "text": "Crear esquema maestro de temas (Master Outline)", "completed": true },
+        { "id": "p1-3", "text": "Identificar dependencias entre temas", "completed": true },
+        { "id": "p1-4", "text": "Revisar y validar esquema con material real", "completed": false }
+      ]
+    },
+    {
+      "id": "phase2",
+      "name": "FASE 2: Generación de Preguntas MCQ",
+      "completed": true,
+      "modules": [
+        {
+          "id": "m1",
+          "name": "Módulo 1: Entorno Profesional",
+          "questions": 40,
+          "completed": true,
+          "tasks": [
+            "Generar MCQs - ENAIRE y estructura",
+            "Generar MCQs - Plan Vuelo 2025 y SES",
+            "Generar MCQs - Servicios ATS/CNS",
+            "Revisar y validar MCQs del Módulo 1"
+          ]
+        },
+        {
+          "id": "m2",
+          "name": "Módulo 2: Aerodinámica y Mecánica de Vuelo",
+          "questions": 60,
+          "completed": true,
+          "tasks": [
+            "Generar MCQs - Principios físicos (Bernoulli, ISA)",
+            "Generar MCQs - Fuerzas aerodinámicas",
+            "Generar MCQs - Estela turbulenta y performance",
+            "Generar MCQs - Despegue y aterrizaje (velocidades V1, VR, V2...)",
+            "Revisar y validar MCQs del Módulo 2"
+          ]
+        },
+        {
+          "id": "m3",
+          "name": "Módulo 3: Navegación y Sistemas",
+          "questions": 80,
+          "completed": true,
+          "tasks": [
+            "Generar MCQs - Técnicas de navegación",
+            "Generar MCQs - Sistemas radioayudas (NDB, VOR, DME, ILS)",
+            "Generar MCQs - GNSS y sistemas de aumentación",
+            "Generar MCQs - Sistemas de vigilancia (PSR, SSR, MLAT, ADS)",
+            "Revisar y validar MCQs del Módulo 3"
+          ]
+        },
+        {
+          "id": "m4",
+          "name": "Módulo 4: Plan de Vuelo y ATFCM",
+          "questions": 50,
+          "completed": true,
+          "tasks": [
+            "Generar MCQs - Plan de vuelo FPL (campos 1-18)",
+            "Generar MCQs - Mensajes AFTN y prioridades",
+            "Generar MCQs - ATFCM (fases, NM, regulaciones, CTOT)",
+            "Generar MCQs - FUA (TSA, TRA, CDR, AMC, AUP)",
+            "Revisar y validar MCQs del Módulo 4"
+          ]
+        },
+        {
+          "id": "m5",
+          "name": "Módulo 5: Códigos OACI/IATA y Aeronaves",
+          "questions": 30,
+          "completed": true,
+          "tasks": [
+            "Generar MCQs - Indicadores de lugar OACI/IATA",
+            "Generar MCQs - Designadores de aerolíneas",
+            "Generar MCQs - Matrículas y nacionalidad",
+            "Generar MCQs - Tipos de aeronaves y reconocimiento",
+            "Revisar y validar MCQs del Módulo 5"
+          ]
+        },
+        {
+          "id": "m6",
+          "name": "Módulo 6: Cartografía",
+          "questions": 40,
+          "completed": true,
+          "tasks": [
+            "Generar MCQs - Geodesia y coordenadas",
+            "Generar MCQs - Proyecciones cartográficas",
+            "Generar MCQs - Escalas y simbología",
+            "Generar MCQs - Cartas aeronáuticas OACI",
+            "Revisar y validar MCQs del Módulo 6"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "phase3.5",
+      "name": "FASE 3.5: Web de Estudio ENAIRE",
+      "completed": true,
+      "tasks": [
+        { "id": "web-1", "text": "Estructura del proyecto (Vite + Vanilla JS)", "completed": true },
+        { "id": "web-2", "text": "Página Home con dashboard de progreso", "completed": true },
+        { "id": "web-3", "text": "Visualizador de temario Markdown (9 módulos)", "completed": true },
+        { "id": "web-4", "text": "Sistema de Quiz interactivo", "completed": true },
+        { "id": "web-5", "text": "Sistema de Flashcards con Spaced Repetition (SRS)", "completed": true },
+        { "id": "web-6", "text": "Página de progreso con estadísticas", "completed": true },
+        { "id": "web-7", "text": "LocalStorage para persistencia de datos", "completed": true },
+        { "id": "web-8", "text": "Router hash-based para navegación", "completed": true },
+        { "id": "web-9", "text": "Estilos responsive y CSS variables", "completed": true },
+        { "id": "web-10", "text": "Búsqueda dentro de módulos", "completed": true },
+        { "id": "web-11", "text": "Tabla de contenidos automática", "completed": true },
+        { "id": "web-12", "text": "Deployment a GitHub Pages / Netlify", "completed": false }
+      ]
+    },
+    {
+      "id": "phase3",
+      "name": "FASE 3: Flashcards y Materiales Complementarios",
+      "completed": true,
+      "modules": [
+        { "id": "fc1", "name": "Módulo 1", "cards": 35, "completed": true },
+        { "id": "fc2", "name": "Módulo 2", "cards": 33, "completed": true },
+        { "id": "fc3", "name": "Módulo 3", "cards": 33, "completed": true },
+        { "id": "fc4", "name": "Módulo 4", "cards": 30, "completed": true },
+        { "id": "fc5", "name": "Módulo 5", "cards": 33, "completed": true },
+        { "id": "fc6", "name": "Módulo 6", "cards": 35, "completed": true }
+      ],
+      "totalCards": 199
+    },
+    {
+      "id": "phase3.5.songs",
+      "name": "FASE 3.5: Canciones Educativas",
+      "completed": false,
+      "modules": [
+        { "id": "songs1", "name": "Módulo 1 - Entorno", "total": 4, "completed": 0 },
+        { "id": "songs2", "name": "Módulo 2 - Aerodinámica", "total": 8, "completed": 8 },
+        { "id": "songs3", "name": "Módulo 3 - Navegación", "total": 10, "completed": 10 },
+        { "id": "songs4", "name": "Módulo 4 - Plan de Vuelo", "total": 6, "completed": 6 },
+        { "id": "songs5", "name": "Módulo 5 - Códigos", "total": 4, "completed": 0 },
+        { "id": "songs6", "name": "Módulo 6 - Cartografía", "total": 3, "completed": 0 }
+      ],
+      "totalSongs": 35,
+      "completedSongs": 24
+    },
+    {
+      "id": "phase4",
+      "name": "FASE 4: Planificación del Estudio",
+      "completed": false,
+      "tasks": [
+        { "id": "p4-1", "text": "Crear calendario 14 días con sesiones diarias (2h)", "completed": false },
+        { "id": "p4-2", "text": "Asignar temas por día con interleaving", "completed": false },
+        { "id": "p4-3", "text": "Programar sesiones de repaso espaciado (días 2, 5, 9, 14)", "completed": false },
+        { "id": "p4-4", "text": "Incluir sesiones de práctica mixta (MCQ + flashcards)", "completed": false },
+        { "id": "p4-5", "text": "Reservar tiempo para simulacros/exámenes prueba", "completed": false }
+      ]
+    },
+    {
+      "id": "phase5",
+      "name": "FASE 5: Sistema de Seguimiento",
+      "completed": true,
+      "tasks": [
+        { "id": "p5-1", "text": "Crear plantilla de Error Log", "completed": true },
+        { "id": "p5-2", "text": "Configurar hoja de tracking de progreso por tema", "completed": true },
+        { "id": "p5-3", "text": "Crear sistema de programación de repaso basado en errores", "completed": true },
+        { "id": "p5-4", "text": "Establecer criterios de dominio por tema (>80% correctas)", "completed": true },
+        { "id": "p5-5", "text": "Script generador de exámenes practice aleatorios", "completed": true }
+      ]
+    },
+    {
+      "id": "phase6",
+      "name": "FASE 6: Materiales de Estudio",
+      "completed": true,
+      "modules": [
+        { "id": "cs1", "name": "Cheatsheet Módulo 1 - Entorno Profesional", "completed": true },
+        { "id": "cs2", "name": "Cheatsheet Módulo 2 - Aerodinámica", "completed": true },
+        { "id": "cs3", "name": "Cheatsheet Módulo 3 - Navegación", "completed": true },
+        { "id": "cs4", "name": "Cheatsheet Módulo 4 - Plan de Vuelo", "completed": true },
+        { "id": "cs5", "name": "Cheatsheet Módulo 5 - Códigos y Aeronaves", "completed": true },
+        { "id": "cs6", "name": "Cheatsheet Módulo 6 - Cartografía", "completed": true }
+      ]
+    },
+    {
+      "id": "phase7",
+      "name": "FASE 7: Validación y Ajuste",
+      "completed": false,
+      "tasks": [
+        { "id": "p7-1", "text": "Realizar simulacro completo (día 7)", "completed": false },
+        { "id": "p7-2", "text": "Ajustar planificación según resultados simulacro", "completed": false },
+        { "id": "p7-3", "text": "Reprogramar temas con baja performance", "completed": false },
+        { "id": "p7-4", "text": "Crear sesión intensiva repaso final (día 13)", "completed": false },
+        { "id": "p7-5", "text": "Preparar logística día del examen", "completed": false }
+      ]
+    }
+  ],
+  "modules": [
+    { "id": "MOD_001", "name": "1. Entorno", "mcq": 40, "flashcards": 35, "completed": true },
+    { "id": "MOD_002", "name": "2. Aerodinámica", "mcq": 60, "flashcards": 33, "completed": true },
+    { "id": "MOD_003", "name": "3. Navegación", "mcq": 80, "flashcards": 33, "completed": true },
+    { "id": "MOD_004", "name": "4. Plan Vuelo", "mcq": 50, "flashcards": 30, "completed": true },
+    { "id": "MOD_005", "name": "5. Códigos", "mcq": 30, "flashcards": 33, "completed": true },
+    { "id": "MOD_006", "name": "6. Cartografía", "mcq": 40, "flashcards": 35, "completed": true }
+  ],
+  "deliverables": [
+    { "id": "d1", "text": "6 archivos JSON con sets completos de MCQs", "completed": true },
+    { "id": "d2", "text": "199 Flashcards (JSON + CSV Anki)", "completed": true },
+    { "id": "d3", "text": "6 cheatsheets en Markdown", "completed": true },
+    { "id": "d4", "text": "Calendario 14 días en formato PDF", "completed": false },
+    { "id": "d5", "text": "Plantilla Error Log en Excel", "completed": true },
+    { "id": "d6", "text": "Script Python para generar exámenes", "completed": true },
+    { "id": "d7", "text": "Dashboard de progreso", "completed": true },
+    { "id": "d8", "text": "Script de repaso espaciado", "completed": true },
+    { "id": "d9", "text": "Web de estudio completa", "completed": true }
+  ]
+}

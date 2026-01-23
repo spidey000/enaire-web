@@ -1,0 +1,674 @@
+{
+  "module_id": "MOD_001",
+  "module_name": "Entorno Profesional",
+  "mcq_set": [
+    {
+      "question_id": "MOD1_001",
+      "question_text": "¿Cuándo fue creada ENAIRE como Entidad Pública Empresarial?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Ley 4/1990 de 29 de junio"},
+        {"option_id": "B", "text": "Ley 18/2014 de 15 de octubre"},
+        {"option_id": "C", "text": "Ley 21/2003 de 7 de julio"},
+        {"option_id": "D", "text": "Real Decreto 925/2020"}
+      ],
+      "correct_answer": "B",
+      "hint": "Recuerda: ENAIRE es el nuevo nombre de Aena EPE desde 2014",
+      "explanation": "La Entidad Pública Empresarial Aeropuertos Españoles y Navegación Aérea (Aena EPE) pasó a denominarse ENAIRE por la Ley 18/2014 de 15 de octubre.",
+      "tags": ["enaire", "historia", "legislacion"]
+    },
+    {
+      "question_id": "MOD1_002",
+      "question_text": "¿A qué Ministerio está adscrita ENAIRE?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Ministerio del Interior"},
+        {"option_id": "B", "text": "Ministerio de Fomento"},
+        {"option_id": "C", "text": "Ministerio de Transportes y Movilidad Sostenible"},
+        {"option_id": "D", "text": "Ministerio de Defensa"}
+      ],
+      "correct_answer": "C",
+      "hint": "El ministerio responsable de transportes en España",
+      "explanation": "ENAIRE está adscrita al Ministerio de Transportes y Movilidad Sostenible (antes Ministerio de Fomento).",
+      "tags": ["enaire", "organizacion", "ministerio"]
+    },
+    {
+      "question_id": "MOD1_003",
+      "question_text": "¿Cuántos vuelos gestiona aproximadamente ENAIRE al año?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Alrededor de 500.000 vuelos"},
+        {"option_id": "B", "text": "Más de 1 millón de vuelos"},
+        {"option_id": "C", "text": "Más de 2 millones de vuelos"},
+        {"option_id": "D", "text": "Más de 5 millones de vuelos"}
+      ],
+      "correct_answer": "C",
+      "hint": "ENAIRE gestiona más de 2 millones de vuelos anuales",
+      "explanation": "ENAIRE gestiona más de 2 millones de vuelos al año a través de sus cinco centros de control y 21 torres de control.",
+      "tags": ["enaire", "trafico", "estadisticas"]
+    },
+    {
+      "question_id": "MOD1_004",
+      "question_text": "¿Cuántos centros de control tiene ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "3 centros de control"},
+        {"option_id": "B", "text": "4 centros de control"},
+        {"option_id": "C", "text": "5 centros de control"},
+        {"option_id": "D", "text": "6 centros de control"}
+      ],
+      "correct_answer": "C",
+      "hint": "Barcelona, Madrid, Canarias, Palma de Mallorca, Santiago",
+      "explanation": "ENAIRE tiene 5 centros de control: Barcelona (LECB), Madrid (LECM), Canarias (GCCC), Palma de Mallorca (LECP) y Santiago de Compostela (LECG).",
+      "tags": ["enaire", "centros_control", "infrestructura"]
+    },
+    {
+      "question_id": "MOD1_005",
+      "question_text": "¿Cuántas torres de control gestiona ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "15 torres de control"},
+        {"option_id": "B", "text": "21 torres de control"},
+        {"option_id": "C", "text": "25 torres de control"},
+        {"option_id": "D", "text": "30 torres de control"}
+      ],
+      "correct_answer": "B",
+      "hint": "Recuerda: 5 ACC + 21 TWR",
+      "explanation": "ENAIRE gestiona 21 torres de control (TWR) en todo el territorio español.",
+      "tags": ["enaire", "torres_control", "infraestructura"]
+    },
+    {
+      "question_id": "MOD1_006",
+      "question_text": "¿Qué espacio aéreo gestiona ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "500.000 kilómetros cuadrados"},
+        {"option_id": "B", "text": "1.000.000 kilómetros cuadrados"},
+        {"option_id": "C", "text": "2.190.000 kilómetros cuadrados"},
+        {"option_id": "D", "text": "5.000.000 kilómetros cuadrados"}
+      ],
+      "correct_answer": "C",
+      "hint": "Más de 2 millones de km² de espacio aéreo",
+      "explanation": "ENAIRE gestiona el espacio aéreo español: 2.190.000 kilómetros cuadrados.",
+      "tags": ["enaire", "espacio_aereo", "infraestructura"]
+    },
+    {
+      "question_id": "MOD1_007",
+      "question_text": "¿En qué año fue designada ENAIRE como Operador de Infraestructuras Críticas?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "2010"},
+        {"option_id": "B", "text": "2015"},
+        {"option_id": "C", "text": "2019"},
+        {"option_id": "D", "text": "2021"}
+      ],
+      "correct_answer": "B",
+      "hint": "Designación anterior a Operador de Servicios Esenciales (2019)",
+      "explanation": "ENAIRE fue designada como Operador de Infraestructuras Críticas en 2015 y como Operador de Servicios Esenciales en 2019.",
+      "tags": ["enaire", "seguridad", "infraestructura_critica"]
+    },
+    {
+      "question_id": "MOD1_008",
+      "question_text": "¿Cuántas personas trabajan en ENAIRE aproximadamente?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Alrededor de 2.000 personas"},
+        {"option_id": "B", "text": "Alrededor de 3.000 personas"},
+        {"option_id": "C", "text": "Más de 4.200 personas"},
+        {"option_id": "D", "text": "Más de 6.000 personas"}
+      ],
+      "correct_answer": "C",
+      "hint": "La plantilla supera las 4.000 personas",
+      "explanation": "La plantilla de ENAIRE la componen más de 4.200 personas trabajadoras.",
+      "tags": ["enaire", "recursos_humanos", "plantilla"]
+    },
+    {
+      "question_id": "MOD1_009",
+      "question_text": "¿Qué porcentaje de la plantilla son controladores aéreos?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Alrededor del 30%"},
+        {"option_id": "B", "text": "Alrededor del 49%"},
+        {"option_id": "C", "text": "Alrededor del 60%"},
+        {"option_id": "D", "text": "Alrededor del 75%"}
+      ],
+      "correct_answer": "B",
+      "hint": "Casi la mitad de la plantilla son controladores",
+      "explanation": "Los controladores aéreos representan alrededor del 49% de la plantilla de ENAIRE.",
+      "tags": ["enaire", "recursos_humanos", "controladores"]
+    },
+    {
+      "question_id": "MOD1_010",
+      "question_text": "¿Cuál es el propósito de ENAIRE según el Plan de Vuelo 2025?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "\"Ser el líder mundial en navegación aérea\""},
+        {"option_id": "B", "text": "\"Cuidamos de tu vuelo para que sea seguro, rápido, eficiente y sostenible\""},
+        {"option_id": "C", "text": "\"Maximizar beneficios para los accionistas\""},
+        {"option_id": "D", "text": "\"Gestionar todos los aeropuertos de España\""}
+      ],
+      "correct_answer": "B",
+      "hint": "El propósito se centra en el servicio al cliente/vuelo",
+      "explanation": "El propósito de ENAIRE es \"Cuidamos de tu vuelo para que sea seguro, rápido, eficiente y sostenible\" según el Plan de Vuelo 2025.",
+      "tags": ["enaire", "plan_vuelo_2025", "proposito"]
+    },
+    {
+      "question_id": "MOD1_011",
+      "question_text": "¿Cuál es la misión de ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "\"Convertirnos en el operador global líder del sector\""},
+        {"option_id": "B", "text": "\"Proporcionar servicios de navegación aérea con seguridad, calidad, eficiencia y respeto al medioambiente\""},
+        {"option_id": "C", "text": "\"Maximizar el tráfico aéreo en España\""},
+        {"option_id": "D", "text": "\"Gestionar el espacio aéreo de Europa\""}
+      ],
+      "correct_answer": "B",
+      "hint": "La misión define qué hace ENAIRE día a día",
+      "explanation": "La misión de ENAIRE es \"Proporcionar servicios de navegación aérea con seguridad, calidad, eficiencia y respeto al medioambiente, contribuyendo al desarrollo de la aviación y al desarrollo económico y social de España\".",
+      "tags": ["enaire", "plan_vuelo_2025", "mision"]
+    },
+    {
+      "question_id": "MOD1_012",
+      "question_text": "¿Cuál es la visión de ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "\"Ser el cuarto proveedor de navegación aérea de Europa\""},
+        {"option_id": "B", "text": "\"Convertir a ENAIRE en un operador global, líder del sector de la navegación aérea, basándonos en las personas, la innovación y la digitalización\""},
+        {"option_id": "C", "text": "\"Gestionar 2 millones de vuelos anuales\""},
+        {"option_id": "D", "text": "\"Ser el mayor empleador del sector aeronáutico\""}
+      ],
+      "correct_answer": "B",
+      "hint": "La visión es la aspiración futura de la organización",
+      "explanation": "La visión de ENAIRE es \"Convertir a ENAIRE en un operador global, líder del sector de la navegación aérea, basándonos en las personas, la innovación y la digitalización\".",
+      "tags": ["enaire", "plan_vuelo_2025", "vision"]
+    },
+    {
+      "question_id": "MOD1_013",
+      "question_text":¿Qué es el SES (Single European Sky)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Un sistema de vigilancia europeo por satélite"},
+        {"option_id": "B", "text": "Una iniciativa de la Comisión Europea para aumentar la eficiencia de la gestión del tránsito aéreo"},
+        {"option_id": "C", "text": "Un sistema de navegación europeo"},
+        {"option_id": "D", "text": "Un tratado de aviación militar"}
+      ],
+      "correct_answer": "B",
+      "hint": "SES = Single European Sky (Cielo Único Europeo)",
+      "explanation": "El SES (Single European Sky) es una iniciativa de la Comisión Europea creada en 1999 para aumentar la eficiencia de la gestión del tránsito aéreo y reducir la fragmentación del espacio aéreo europeo.",
+      "tags": ["ses", "europa", "iniciativa"]
+    },
+    {
+      "question_id": "MOD1_014",
+      "question_text": "¿Cuándo fue creada la iniciativa SES?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "1989"},
+        {"option_id": "B", "text": "1999"},
+        {"option_id": "C", "text": "2004"},
+        {"option_id": "D", "text": "2009"}
+      ],
+      "correct_answer": "B",
+      "hint": "Creada en 1999, SES I aprobado en 2004",
+      "explanation": "La iniciativa SES fue creada por la Comisión Europea en 1999. Posteriormente se aprobaron los paquetes legislativos SES I en 2004 y SES II en 2009.",
+      "tags": ["ses", "historia", "cronologia"]
+    },
+    {
+      "question_id": "MOD1_015",
+      "question_text": "¿Cuáles son los objetivos principales del SES?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Aumentar el número de aeropuertos en Europa"},
+        {"option_id": "B", "text": "Mejorar la capacidad, seguridad, coste-eficiencia y medio ambiente, y reducir la fragmentación del espacio aéreo"},
+        {"option_id": "C", "text": "Crear una única aerolínea europea"},
+        {"option_id": "D", "text": "Eliminar todos los radares en Europa"}
+      ],
+      "correct_answer": "B",
+      "hint": "SES busca mejorar 4 áreas: capacidad, seguridad, coste-eficiencia, medio ambiente",
+      "explanation": "Los objetivos del SES son aumentar la eficiencia en capacidad, seguridad, coste-eficiencia y medio ambiente, además de reducir la fragmentación del espacio aéreo europeo.",
+      "tags": ["ses", "objetivos"]
+    },
+    {
+      "question_id": "MOD1_016",
+      "question_text": "¿Qué es el Sistema de Rendimientos (Performance System) del SES?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Un sistema de evaluación de controladores"},
+        {"option_id": "B", "text": "Un sistema que requiere cumplimiento de metas en Seguridad, Coste-Eficiencia, Capacidad y Medioambiente"},
+        {"option_id": "C", "text": "Un sistema de medición de retrasos en aeropuertos"},
+        {"option_id": "D", "text": "Un sistema de certificación de aeropuertos"}
+      ],
+      "correct_answer": "B",
+      "hint": "4 Key Performance Areas (KPAs): Seguridad, Coste-Eficiencia, Capacidad, Medioambiente",
+      "explanation": "El Sistema de Rendimientos del SES requiere a los Estados y proveedores de servicios el cumplimiento de metas en cuatro áreas: Seguridad, Coste-Eficiencia, Capacidad y Medioambiente.",
+      "tags": ["ses", "rendimiento", "kpas"]
+    },
+    {
+      "question_id": "MOD1_017",
+      "question_text": "¿Cuál es la duración de los períodos del Sistema de Rendimientos SES?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "3 años"},
+        {"option_id": "B", "text": "4 años"},
+        {"option_id": "C", "text": "5 años"},
+        {"option_id": "D", "text": "10 años"}
+      ],
+      "correct_answer": "C",
+      "hint": "RP1 (3 años), RP2 (5 años), RP3 (5 años), RP4 (2025-2029)",
+      "explanation": "La normativa SES se despliega en períodos de cinco años (aunque el primero RP1 duró solo 3 años). El período actual RP4 se extiende de 2025 a 2029.",
+      "tags": ["ses", "rendimiento", "periodos"]
+    },
+    {
+      "question_id": "MOD1_018",
+      "question_text": "¿Qué significa ATS?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Air Traffic Service"},
+        {"option_id": "B", "text": "Air Traffic System"},
+        {"option_id": "C", "text": "Air Transportation Service"},
+        {"option_id": "D", "text": "Aeronautical Traffic Service"}
+      ],
+      "correct_answer": "A",
+      "hint": "ATS = Air Traffic Service (Servicio de Tránsito Aéreo)",
+      "explanation": "ATS significa Air Traffic Service (Servicio de Tránsito Aéreo). Es el servicio proporcionado para prevenir colisiones y acelerar el movimiento del tránsito aéreo.",
+      "tags": ["ats", "siglas", "servicios"]
+    },
+    {
+      "question_id": "MOD1_019",
+      "question_text": "¿Cuál de las siguientes NO es una función del Servicio de Tránsito Aéreo (ATS)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Prevenir colisiones entre aeronaves"},
+        {"option_id": "B", "text": "Prevenir colisiones entre aeronaves y obstáculos en el área de maniobras"},
+        {"option_id": "C", "text": "Expedir certificados de aeronavegabilidad"},
+        {"option_id": "D", "text": "Acelerar y mantener ordenadamente el movimiento del tránsito aéreo"}
+      ],
+      "correct_answer": "C",
+      "hint": "Expedir certificados es función de autoridades de aviación civil, no de ATS",
+      "explanation": "El Servicio de Tránsito Aéreo previene colisiones, acelera y ordena el tránsito, y proporciona información y alerta. Expedir certificados de aeronavegabilidad no es función de ATS.",
+      "tags": ["ats", "funciones", "servicios"]
+    },
+    {
+      "question_id": "MOD1_020",
+      "question_text": "¿Qué significa CNS?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Communications, Navigation and Surveillance"},
+        {"option_id": "B", "text": "Control, Navigation and Security"},
+        {"option_id": "C", "text": "Communications, Navigation and Systems"},
+        {"option_id": "D", "text": "Control, Navigation and Surveillance"}
+      ],
+      "correct_answer": "A",
+      "hint": "CNS son los servicios técnicos de apoyo al ATM",
+      "explanation": "CNS significa Communications, Navigation and Surveillance (Comunicaciones, Navegación y Vigilancia). Son servicios técnicos que actúan como soporte del ATM.",
+      "tags": ["cns", "siglas", "servicios"]
+    },
+    {
+      "question_id": "MOD1_021",
+      "question_text": "¿Qué función tiene el servicio de Comunicaciones en CNS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Determinar la posición de las aeronaves"},
+        {"option_id": "B", "text": "Permitir la difusión de los datos de interés para las operaciones aéreas"},
+        {"option_id": "C", "text": "Gestionar el espacio aéreo"},
+        {"option_id": "D", "text": "Certificar aeronaves"}
+      ],
+      "correct_answer": "B",
+      "hint": "Comunicaciones = difusión de datos entre aeronaves y tierra",
+      "explanation": "El servicio de Comunicaciones permite la difusión de los datos de interés para las operaciones aéreas, facilitando el intercambio de información entre aeronaves y estaciones terrestres.",
+      "tags": ["cns", "comunicaciones", "funciones"]
+    },
+    {
+      "question_id": "MOD1_022",
+      "question_text": "¿Qué significa AIS?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Aeronautical Information Service"},
+        {"option_id": "B", "text": "Air Information System"},
+        {"option_id": "C", "text": "Aeronautical Intelligence Service"},
+        {"option_id": "D", "text": "Air Intelligence System"}
+      ],
+      "correct_answer": "A",
+      "hint": "AIS = Servicio de Información Aeronáutica",
+      "explanation": "AIS significa Aeronautical Information Service (Servicio de Información Aeronáutica). Pone a disposición información relevante para la planificación de operaciones aéreas.",
+      "tags": ["ais", "siglas", "servicios"]
+    },
+    {
+      "question_id": "MOD1_023",
+      "question_text": "¿Qué significa ATFM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Air Traffic Flow Management"},
+        {"option_id": "B", "text": "Air Traffic Force Management"},
+        {"option_id": "C", "text": "Air Transportation Flow Management"},
+        {"option_id": "D", "text": "Aeronautical Traffic Flow Management"}
+      ],
+      "correct_answer": "A",
+      "hint": "ATFM = Gestión de Afluencia del Tráfico Aéreo",
+      "explanation": "ATFM significa Air Traffic Flow Management (Gestión de Afluencia del Tráfico Aéreo). Garantiza la regularidad de los vuelos y la capacidad en el espacio aéreo.",
+      "tags": ["atfm", "siglas", "servicios"]
+    },
+    {
+      "question_id": "MOD1_024",
+      "question_text": "¿Qué significa ASM en el contexto de los servicios de ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Air Space Management"},
+        {"option_id": "B", "text": "Aeronautical Service Management"},
+        {"option_id": "C", "text": "Air Traffic System Management"},
+        {"option_id": "D", "text": "Aeronautical Surveillance Management"}
+      ],
+      "correct_answer": "A",
+      "hint": "ASM = Gestión del Espacio Aéreo",
+      "explanation": "ASM significa Air Space Management (Gestión del Espacio Aéreo). ENAIRE realiza la gestión del espacio aéreo local (táctico/nivel 3) asegurando la coordinación civil/militar.",
+      "tags": ["asm", "siglas", "espacio_aereo"]
+    },
+    {
+      "question_id": "MOD1_025",
+      "question_text": "¿Qué significa FPD en los servicios de ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Flight Procedures Design"},
+        {"option_id": "B", "text": "Flight Plan Development"},
+        {"option_id": "C", "text": "Flight Path Design"},
+        {"option_id": "D", "text": "Flight Planning Division"}
+      ],
+      "correct_answer": "A",
+      "hint": "FPD = Diseño de procedimientos de vuelo",
+      "explanation": "FPD significa Flight Procedures Design (Diseño de procedimientos de vuelo). ENAIRE es responsable del diseño de procedimientos de vuelo.",
+      "tags": ["fpd", "siglas", "procedimientos"]
+    },
+    {
+      "question_id": "MOD1_026",
+      "question_text": "¿Qué es la formación de unidad en ENAIRE para controladores?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Formación teórica básica de controlador aéreo"},
+        {"option_id": "B", "text": "Formación para cada anotación de unidad, tras la cual se pueden ejercer las atribuciones de la licencia en dicha unidad"},
+        {"option_id": "C", "text": "Formación para convertirse en instructor"},
+        {"option_id": "D", "text": "Formación de actualización obligatoria anual"}
+      ],
+      "correct_answer": "B",
+      "hint": "Formación de unidad = formación específica para trabajar en un puesto determinado",
+      "explanation": "La formación de unidad es la formación para cada anotación de unidad establecida en la dependencia de ATC. Tras superarla, se pueden ejercer las atribuciones de la licencia en dicha unidad.",
+      "tags": ["formacion", "controladores", "unidad"]
+    },
+    {
+      "question_id": "MOD1_027",
+      "question_text": "¿Qué es OJT (On the Job Training)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Formación teórica en aula"},
+        {"option_id": "B", "text": "Formación en simulador"},
+        {"option_id": "C", "text": "Formación en el puesto de trabajo bajo supervisión"},
+        {"option_id": "D", "text": "Formación de actualización periódica"}
+      ],
+      "correct_answer": "C",
+      "hint": "OJT = formación práctica en el puesto real de trabajo",
+      "explanation": "OJT (On the Job Training) es la formación en el puesto de trabajo bajo supervisión, forma parte de la formación de unidad después de la formación de transición (teoría) y Pre-OJT (simulador).",
+      "tags": ["formacion", "ojt", "entrenamiento"]
+    },
+    {
+      "question_id": "MOD1_028",
+      "question_text": "¿Qué es la formación continua de controladores en ENAIRE?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Formación para obtener la licencia de controlador"},
+        {"option_id": "B", "text": "Formación de actualización y conversión dirigida a mantener la cualificación"},
+        {"option_id": "C", "text": "Formación para convertirse en instructor"},
+        {"option_id": "D", "text": "Formación inicial de controlador"}
+      ],
+      "correct_answer": "B",
+      "hint": "Formación continua = mantener cualificación y conversión",
+      "explanation": "La formación continua incluye formación de actualización (para mantener la anotación de unidad) y conversión (asociada a cambios operativos en cada unidad).",
+      "tags": ["formacion", "continua", "controladores"]
+    },
+    {
+      "question_id": "MOD1_029",
+      "question_text": "¿Qué significa FIC?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Flight Information Centre"},
+        {"option_id": "B", "text": "Flight Information Control"},
+        {"option_id": "C", "text": "Flight Information Center"},
+        {"option_id": "D", "text": "Flight Intelligence Centre"}
+      ],
+      "correct_answer": "A",
+      "hint": "FIC = Centro de Información de Vuelo",
+      "explanation": "FIC significa Flight Information Centre (Centro de Información de Vuelo). Proporciona servicios de información de vuelo y alerta.",
+      "tags": ["fic", "siglas", "centros"]
+    },
+    {
+      "question_id": "MOD1_030",
+      "question_text": "¿Qué significa ACC?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Area Control Centre"},
+        {"option_id": "B", "text": "Air Control Centre"},
+        {"option_id": "C", "text": "Area Control Center"},
+        {"option_id": "D", "text": "Airspace Control Centre"}
+      ],
+      "correct_answer": "A",
+      "hint": "ACC = Centro de Control de Área",
+      "explanation": "ACC significa Area Control Centre (Centro de Control de Área). Proporciona servicio de control de tránsito aéreo en áreas de control (en ruta).",
+      "tags": ["acc", "siglas", "centros"]
+    },
+    {
+      "question_id": "MOD1_031",
+      "question_text": "¿Qué significa TACC?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Terminal Area Control Centre"},
+        {"option_id": "B", "text": "Terminal Air Control Centre"},
+        {"option_id": "C", "text": "Terminal Area Control Center"},
+        {"option_id": "D", "text": "Traffic Area Control Centre"}
+      ],
+      "correct_answer": "A",
+      "hint": "TACC = Centro de Control de Área Terminal",
+      "explanation": "TACC significa Terminal Area Control Centre (Centro de Control de Área Terminal). Proporciona servicio de control de aproximación en áreas terminales.",
+      "tags": ["tacc", "siglas", "centros"]
+    },
+    {
+      "question_id": "MOD1_032",
+      "question_text": "¿Qué significa UAC?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Upper Area Centre"},
+        {"option_id": "B", "text": "Upper Air Control"},
+        {"option_id": "C", "text": "Upper Area Control"},
+        {"option_id": "D", "text": "Upper Airspace Centre"}
+      ],
+      "correct_answer": "A",
+      "hint": "UAC = Centro de Control de Área Superior",
+      "explanation": "UAC significa Upper Area Centre (Centro de Control de Área Superior). Proporciona servicio de control en niveles superiores del espacio aéreo.",
+      "tags": ["uac", "siglas", "centros"]
+    },
+    {
+      "question_id": "MOD1_033",
+      "question_text": "¿Qué significa OAC?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Oceanic Area Centre"},
+        {"option_id": "B", "text": "Oceanic Air Control"},
+        {"option_id": "C", "text": "Oceanic Area Control"},
+        {"option_id": "D", "text": "Oceanic Airspace Centre"}
+      ],
+      "correct_answer": "A",
+      "hint": "OAC = Centro de Control de Área Oceánica",
+      "explanation": "OAC significa Oceanic Area Centre (Centro de Control de Área Oceánica). Proporciona servicio de control en espacios aéreos oceánicos.",
+      "tags": ["oac", "siglas", "centros"]
+    },
+    {
+      "question_id": "MOD1_034",
+      "question_text": "¿Qué organización ofrece ENAIRE junto con universidades españolas?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Curso de Controlador Aéreo"},
+        {"option_id": "B", "text": "Máster en Gestión de Servicios de Navegación Aérea"},
+        {"option_id": "C", "text": "Grado en Ingeniería Aeronáutica"},
+        {"option_id": "D", "text": "Curso de Formación de Pilotos"}
+      ],
+      "correct_answer": "B",
+      "hint": "Máster certificado por OACI TRAINAIR PLUS",
+      "explanation": "ENAIRE junto con la Universidad Politécnica y la Universidad Autónoma de Madrid ofrece el Máster en Gestión de Servicios de Navegación Aérea, certificado con el programa TRAINAIR PLUS de OACI.",
+      "tags": ["formacion", "master", "universidad"]
+    },
+    {
+      "question_id": "MOD1_035",
+      "question_text": "¿Qué certificación tiene el Máster en Gestión de Servicios de Navegación Aérea de ENAIRE?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Certificación EASA"},
+        {"option_id": "B", "text": "Certificación TRAINAIR PLUS de OACI"},
+        {"option_id": "C", "text": "Certificación ISO 9001"},
+        {"option_id": "D", "text": "Certificación AESA"}
+      ],
+      "correct_answer": "B",
+      "hint": "Es un programa de formación OACI certificado",
+      "explanation": "El Máster en Gestión de Servicios de Navegación Aérea cuenta con la certificación de programa TRAINAIR PLUS de OACI.",
+      "tags": ["formacion", "master", "oaci", "trainair"]
+    },
+    {
+      "question_id": "MOD1_036",
+      "question_text": "¿A quién está dirigido principalmente el Máster en Gestión de Servicios de Navegación Aérea?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Solo a estudiantes de secundaria"},
+        {"option_id": "B", "text": "A profesionales de ENAIRE, proveedores internacionales, aerolíneas, gestores aeroportuarios, reguladores y titulados universitarios"},
+        {"option_id": "C", "text": "Solo a controladores aéreos"},
+        {"option_id": "D", "text": "Solo a personal militar"}
+      ],
+      "correct_answer": "B",
+      "hint": "Es un máster orientado al management para múltiples perfiles del sector",
+      "explanation": "El máster está dirigido principalmente a profesionales de ENAIRE, proveedores internacionales, aerolíneas, gestores aeroportuarios, reguladores, autoridades militares y titulados universitarios interesados en el sector.",
+      "tags": ["formacion", "master", "destinatarios"]
+    },
+    {
+      "question_id": "MOD1_037",
+      "question_text": "¿Cuál es el objetivo principal del Máster en Gestión de Servicios de Navegación Aérea?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Formar controladores aéreos"},
+        {"option_id": "B", "text": "Capacitar candidatos con competencias técnicas, operativas y de gestión especializadas para adquirir comprensión de los servicios de navegación aérea"},
+        {"option_id": "C", "text": "Enseñar a pilotar aeronaves"},
+        {"option_id": "D", "text": "Formar técnicos en mantenimiento de sistemas"}
+      ],
+      "correct_answer": "B",
+      "hint": "Está orientado al management y comprensión global del sector",
+      "explanation": "El objetivo del máster es capacitar candidatos con competencias técnicas, operativas y de gestión especializadas para adquirir una amplia comprensión de los servicios de navegación aérea y los retos del sector.",
+      "tags": ["formacion", "master", "objetivo"]
+    },
+    {
+      "question_id": "MOD1_038",
+      "question_text": "¿Qué porcentaje de acciones de Aena S.A. posee ENAIRE?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "25%"},
+        {"option_id": "B", "text": "51%"},
+        {"option_id": "C", "text": "75%"},
+        {"option_id": "D", "text": "100%"}
+      ],
+      "correct_answer": "B",
+      "hint": "ENAIRE es accionista mayoritario de Aena S.A.",
+      "explanation": "ENAIRE es el accionista mayoritario del gestor aeroportuario Aena S.A., con el 51% de sus acciones.",
+      "tags": ["enaire", "aena", "acciones"]
+    },
+    {
+      "question_id": "MOD1_039",
+      "question_text": "¿Qué otras empresas participadas destaca ENAIRE en su grupo empresarial?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Solo Aena S.A."},
+        {"option_id": "B", "text": "CRIDA (66,66%), STARTICAL (50%), Ineco (45,85%) y Grupo EAD (36%)"},
+        {"option_id": "C", "text": "Iberia y Air Europa"},
+        {"option_id": "D", "text": "Boeing y Airbus"}
+      ],
+      "correct_answer": "B",
+      "hint": "CRIDA, STARTICAL, Ineco y EAD son participaciones estratégicas de ENAIRE",
+      "explanation": "Además de Aena S.A. (51%), ENAIRE posee accionariado en CRIDA (66,66%), STARTICAL (50%), Ineco (45,85%) y el Grupo EAD (36%).",
+      "tags": ["enaire", "grupo_empresarial", "participaciones"]
+    },
+    {
+      "question_id": "MOD1_040",
+      "question_text": "¿Qué es la Fundación ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Una fundación que gestiona aeropuertos"},
+        {"option_id": "B", "text": "Una fundación dedicada a gestionar, conservar y difundir el patrimonio artístico y fomentar la cultura aeronáutica"},
+        {"option_id": "C", "text": "Una fundación que forma controladores"},
+        {"option_id": "D", "text": "Una fundación que investiga nuevas tecnologías de navegación"}
+      ],
+      "correct_answer": "B",
+      "hint": "La Fundación ENAIRE está enfocada en patrimonio artístico y cultura aeronáutica",
+      "explanation": "La Fundación ENAIRE está dedicada a gestionar, conservar y difundir el patrimonio artístico de la entidad, así como a fomentar y divulgar la cultura aeronáutica en la sociedad.",
+      "tags": ["enaire", "fundacion", "cultura"]
+    }
+  ],
+  "metadata": {
+    "total_questions": 40,
+    "difficulty_distribution": {
+      "muy_facil": 8,
+      "facil": 12,
+      "media": 11,
+      "dificil": 7,
+      "muy_dificil": 2
+    },
+    "topics_covered": [
+      "Historia y creación de ENAIRE",
+      "Estructura organizativa",
+      "Centros de control y torres",
+      "Plan de Vuelo 2025 (misión, visión, propósito)",
+      "Single European Sky (SES)",
+      "Sistema de Rendimientos (RP1-RP4)",
+      "Servicios ATS, CNS, AIS, ATFM, ASM, FPD",
+      "Formación de controladores (unidad, OJT, continua)",
+      "Máster en Gestión de Servicios de Navegación Aérea",
+      "Grupo empresarial y participaciones",
+      "Fundación ENAIRE"
+    ],
+    "created_at": "2025-01-23",
+    "language": "es",
+    "exam_format": "mcq_multiple_choice",
+    "answer_format": "single_correct",
+    "scope": "modulo_1_completo"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "enaire-web",
+  "version": "1.0.0",
+  "description": "Web de estudio para examen ENAIRE",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "markdown-it": "^14.1.0"
+  },
+  "devDependencies": {
+    "vite": "^5.4.11"
+  }
+}
