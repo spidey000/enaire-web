@@ -1,4 +1,4 @@
-import { ORP } from './orp.js';
+import { calculateORP, renderWord, getWordDelay } from './orp.js';
 
 /**
  * RSVP (Rapid Serial Visual Presentation) Reader
@@ -305,7 +305,7 @@ export class RSVPReader {
    * @returns {string} HTML string with ORP highlighting
    */
   _renderWord(word) {
-    return ORP.renderWord(word);
+    return renderWord(word);
   }
 
   /**
