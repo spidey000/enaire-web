@@ -172,8 +172,8 @@ export class RSVPUI {
     playBtn.addEventListener('click', this._togglePlay);
 
     // Navigation buttons
-    document.getElementById('spritzBackBtn').addEventListener('click', () => this.reader.previousSection());
-    document.getElementById('spritzForwardBtn').addEventListener('click', () => this.reader.nextSection());
+    document.getElementById('spritzBackBtn').addEventListener('click', () => this.reader.previousWord());
+    document.getElementById('spritzForwardBtn').addEventListener('click', () => this.reader.nextWord());
 
     // WPM slider
     const wpmSlider = document.getElementById('spritzWPMSlider');
@@ -249,7 +249,7 @@ export class RSVPUI {
    */
   _handleNavChange(e) {
     const position = parseInt(e.target.value);
-    this.reader.seekToPosition(position);
+    this.reader.seekToWord(position);
   }
 
   /**
@@ -331,11 +331,11 @@ export class RSVPUI {
         break;
       case 'ArrowLeft':
         e.preventDefault();
-        this.reader.previousSection();
+        this.reader.previousWord();
         break;
       case 'ArrowRight':
         e.preventDefault();
-        this.reader.nextSection();
+        this.reader.nextWord();
         break;
       case 'ArrowUp':
         e.preventDefault();
@@ -403,7 +403,7 @@ export class RSVPUI {
         // Click on bookmark to jump to position
         li.addEventListener('click', (e) => {
           if (!e.target.classList.contains('spritz-bookmark-delete')) {
-            this.reader.seekToPosition(bookmark.position);
+            this.reader.seekToWord(bookmark.position);
             dropdown.style.display = 'none';
           }
         });
@@ -448,6 +448,12 @@ export class RSVPUI {
     const total = this.reader.getTotalWords();
     document.getElementById('spritzTotal').textContent = total;
     document.getElementById('spritzWord').textContent = 'Ready';
+
+    // Update slider max value to match total words
+    const navSlider = document.getElementById('spritzNavSlider');
+    if (navSlider) {
+      navSlider.max = total;
+    }
 
     // Show start screen
     document.getElementById('spritzStartScreen').style.display = 'block';
@@ -498,7 +504,7 @@ export class RSVPUI {
         const state = JSON.parse(saved);
 
         if (state.position !== undefined) {
-          this.reader.seekToPosition(state.position);
+          this.reader.seekToWord(state.position);
         }
 
         if (state.wpm) {
