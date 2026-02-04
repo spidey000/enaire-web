@@ -14,7 +14,6 @@ export class RSVPUI {
   constructor(container, moduleData) {
     this.container = container;
     this.moduleData = moduleData;
-    this.reader = new RSVPReader();
 
     // UI State
     this.isPlaying = false;
@@ -29,10 +28,35 @@ export class RSVPUI {
     this._handleNavChange = this._handleNavChange.bind(this);
     this._toggleBookmark = this._toggleBookmark.bind(this);
 
-    // Initialize UI
+    // Initialize UI first (creates DOM elements)
     this._initUI();
     this._initControls();
+
+    // Create RSVPReader after UI is initialized
+    const wordContainer = document.getElementById('spritzWord');
+    this.reader = new RSVPReader({
+      container: wordContainer,
+      wpm: moduleData.initialWPM || 300,
+      onWordChange: this._onWordChange.bind(this)
+    });
+
     this.restorePosition();
+  }
+
+  /**
+   * Callback when word changes
+   * @private
+   */
+  _onWordChange(word, index) {
+    // Update position display
+    const positionEl = document.getElementById('spritzPosition');
+    const totalEl = document.getElementById('spritzTotal');
+    if (positionEl) positionEl.textContent = index;
+    if (totalEl) totalEl.textContent = this.reader.words.length;
+
+    // Update slider
+    const slider = document.getElementById('spritzNavSlider');
+    if (slider) slider.value = index;
   }
 
   /**
@@ -199,10 +223,6 @@ export class RSVPUI {
 
     // Keyboard shortcuts
     document.addEventListener('keydown', this._handleKeyboard);
-
-    // Reader update callbacks
-    this.reader.onUpdate = () => this._updateDisplay();
-    this.reader.onSectionChange = () => this._updateSlider();
   }
 
   /**
@@ -289,7 +309,7 @@ export class RSVPUI {
   _updateDisplay() {
     const word = this.reader.getCurrentWord();
     const position = this.reader.getCurrentPosition();
-    const total = this.reader.getTotalWords();
+    const total = this.reader.words.length;
 
     document.getElementById('spritzWord').textContent = word || 'Ready';
     document.getElementById('spritzPosition').textContent = position;
@@ -304,7 +324,7 @@ export class RSVPUI {
    */
   _updateSlider() {
     const position = this.reader.getCurrentPosition();
-    const total = this.reader.getTotalWords();
+    const total = this.reader.words.length;
     const percentage = total > 0 ? (position / total) * 100 : 0;
 
     const slider = document.getElementById('spritzNavSlider');
@@ -445,7 +465,7 @@ export class RSVPUI {
     this.isStarted = false;
 
     // Update total word count
-    const total = this.reader.getTotalWords();
+    const total = this.reader.words.length;
     document.getElementById('spritzTotal').textContent = total;
     document.getElementById('spritzWord').textContent = 'Ready';
 

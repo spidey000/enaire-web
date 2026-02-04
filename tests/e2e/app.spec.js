@@ -137,7 +137,7 @@ test.describe('ENAIRE Study App - Visual Tests', () => {
     await page.goto('#/quiz');
 
     // Wait for quiz page
-    await page.waitForSelector('.quiz-container', { timeout: 5000 });
+    await page.waitForSelector('.quiz-setup', { timeout: 5000 });
 
     // Take screenshot
     await page.screenshot({
@@ -166,7 +166,7 @@ test.describe('ENAIRE Study App - Visual Tests', () => {
     await page.goto('#/progress');
 
     // Wait for progress page
-    await page.waitForSelector('.progress-container', { timeout: 5000 });
+    await page.waitForSelector('.progress-page', { timeout: 5000 });
 
     // Take screenshot
     await page.screenshot({

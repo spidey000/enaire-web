@@ -16,14 +16,23 @@ export const router = {
   async handleRoute() {
     const hash = window.location.hash.slice(1) || '';
     const route = this.parseRoute(hash);
-    const pageName = routes[route.page] || 'home';
+    const pageName = routes[route.page];
+
+    // Show error page for unknown routes (but not for empty hash which goes to home)
+    if (!pageName && route.page !== '') {
+      this.showError();
+      return;
+    }
+
+    // Default to home for empty hash
+    const finalPageName = pageName || 'home';
 
     try {
       // Update active nav link
       this.updateActiveNav(route.page);
 
       // Load page
-      const pageLoader = await import(`../pages/${pageName}/${pageName}.js`);
+      const pageLoader = await import(`../pages/${finalPageName}/${finalPageName}.js`);
       await pageLoader.render(route.params);
     } catch (error) {
       console.error('Error loading page:', error);
@@ -34,8 +43,10 @@ export const router = {
   parseRoute(hash) {
     const [page, paramString] = hash.split('?');
     const params = new URLSearchParams(paramString || '');
+    // Remove leading slash from page name if present
+    const cleanPage = page.startsWith('/') ? page.slice(1) : page;
     return {
-      page: page || '',
+      page: cleanPage || '',
       params: Object.fromEntries(params.entries())
     };
   },
