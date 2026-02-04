@@ -1,5 +1,6 @@
 import { renderMarkdown, extractTOC, searchInMarkdown, highlightText } from '../../js/utils/markdown.js';
 import { storage } from '../../js/storage.js';
+import { RSVPUI } from '../../js/rsvp/ui.js';
 
 export async function render(params) {
   const content = document.getElementById('page-content');
@@ -14,8 +15,12 @@ export async function render(params) {
     return;
   }
 
-  // Load module content
-  const markdown = await loadModuleContent(currentModule.syllabusFile);
+  // Load module content (try annotated first, fall back to original)
+  let markdown = await loadModuleContent(currentModule.syllabusFile);
+  let annotatedMarkdown = await loadAnnotatedModuleContent(currentModule.syllabusFile);
+  if (!annotatedMarkdown) {
+    annotatedMarkdown = markdown;
+  }
   const toc = extractTOC(markdown);
   const html = renderMarkdown(markdown);
 
@@ -49,6 +54,9 @@ export async function render(params) {
           </div>
         </header>
 
+        <!-- RSVP Reader Banner -->
+        <div id="rsvp-banner-container"></div>
+
         <!-- Search -->
         <div class="syllabus-search">
           <input type="text" class="search-input" placeholder="🔍 Buscar en este módulo..." id="search-input">
@@ -79,6 +87,9 @@ export async function render(params) {
   // Initialize search functionality
   initSearch(markdown);
 
+  // Initialize RSVP Reader
+  initRSVPReader(moduleId, annotatedMarkdown);
+
   // Save reading progress
   saveReadingProgress(moduleId);
 }
@@ -100,6 +111,19 @@ async function loadModuleContent(filename) {
   } catch (error) {
     console.error('Error loading module content:', error);
     return '# Error cargando contenido';
+  }
+}
+
+async function loadAnnotatedModuleContent(filename) {
+  try {
+    const response = await fetch(`/src/data/modules-annotated/${filename}`);
+    if (!response.ok) {
+      return null;
+    }
+    return await response.text();
+  } catch (error) {
+    console.log('No annotated content found, using original:', error.message);
+    return null;
   }
 }
 
@@ -153,6 +177,53 @@ function initSearch(markdown) {
   });
 }
 
+function initRSVPReader(moduleId, annotatedMarkdown) {
+  try {
+    const container = document.getElementById('rsvp-banner-container');
+    if (!container) {
+      console.error('RSVP banner container not found');
+      return;
+    }
+
+    // Get initial WPM from localStorage if available
+    let initialWPM = 300;
+    const savedRSVP = localStorage.getItem(`rsvp_progress_${moduleId}`);
+    if (savedRSVP) {
+      try {
+        const savedState = JSON.parse(savedRSVP);
+        if (savedState.wpm) {
+          initialWPM = savedState.wpm;
+        }
+      } catch (e) {
+        console.warn('Failed to parse saved RSVP state:', e);
+      }
+    }
+
+    // Initialize RSVPUI with module data
+    const rsvpUI = new RSVPUI(container, {
+      moduleId: moduleId,
+      initialWPM: initialWPM
+    });
+
+    // Load the annotated content
+    rsvpUI.loadModule(moduleId, annotatedMarkdown);
+
+    // Set initial WPM
+    rsvpUI.setWPM(initialWPM);
+
+    // Store reference for cleanup (useful for SPA navigation)
+    container._rsvpUI = rsvpUI;
+
+  } catch (error) {
+    console.error('Failed to initialize RSVP reader:', error);
+    // Silently fail - the page should still work without RSVP
+    const container = document.getElementById('rsvp-banner-container');
+    if (container) {
+      container.innerHTML = '';
+    }
+  }
+}
+
 function saveReadingProgress(moduleId) {
   // Update module progress with reading time
   const progress = storage.getProgress();
@@ -174,4 +245,14 @@ function saveReadingProgress(moduleId) {
   progress.lastStudyDate = now.split('T')[0];
 
   storage.set('enaire_progress', progress);
+
+  // Also save RSVP progress if RSVP reader is active
+  try {
+    const container = document.getElementById('rsvp-banner-container');
+    if (container && container._rsvpUI) {
+      container._rsvpUI.savePosition();
+    }
+  } catch (error) {
+    console.warn('Failed to save RSVP progress:', error);
+  }
 }

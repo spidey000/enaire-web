@@ -559,11 +559,6 @@ export class StateManager {
 // Instancia singleton
 export const stateManager = new StateManager();
 
-// Funciones de compatibilidad con código anterior
-export function initStorage() {
-  return stateManager;
-}
-
 export const storage = {
   get(key) {
     return stateManager._get(key);

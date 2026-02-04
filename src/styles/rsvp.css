@@ -1,0 +1,651 @@
+/**
+ * RSVP (Rapid Serial Visual Presentation) Reader Styles
+ * Spritz-inspired design for fast, efficient reading
+ */
+
+/* ============================================
+   ROOT CSS VARIABLES - Theme Configuration
+   ============================================ */
+:root {
+  /* Spritz Color Palette */
+  --spritz-background: #f5f5f5;
+  --spritz-white: #ffffff;
+  --spritz-black: #000000;
+  --spritz-red: #ff0000;
+  --spritz-gray-light: #e8e8e8;
+  --spritz-gray-medium: #cccccc;
+  --spritz-gray-dark: #666666;
+  --spritz-shadow: rgba(0, 0, 0, 0.1);
+  --spritz-shadow-dark: rgba(0, 0, 0, 0.2);
+
+  /* Typography */
+  --spritz-font-family: 'Arial', 'Helvetica', sans-serif;
+
+  /* Spacing */
+  --spritz-spacing-xs: 5px;
+  --spritz-spacing-sm: 10px;
+  --spritz-spacing-md: 20px;
+  --spritz-spacing-lg: 30px;
+  --spritz-spacing-xl: 40px;
+
+  /* Border Radius */
+  --spritz-radius-sm: 4px;
+  --spritz-radius-md: 8px;
+  --spritz-radius-lg: 12px;
+
+  /* Transitions */
+  --spritz-transition-fast: 50ms;
+  --spritz-transition-normal: 200ms;
+  --spritz-transition-slow: 300ms;
+}
+
+/* ============================================
+   MAIN BANNER CONTAINER
+   ============================================ */
+.spritz-banner {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: var(--spritz-spacing-lg);
+  background-color: var(--spritz-background);
+  box-sizing: border-box;
+  font-family: var(--spritz-font-family);
+}
+
+/* ============================================
+   WORD DISPLAY BOX
+   ============================================ */
+.spritz-display {
+  background-color: var(--spritz-white);
+  border-radius: var(--spritz-radius-md);
+  box-shadow: 0 2px 8px var(--spritz-shadow);
+  padding: var(--spritz-spacing-xl) var(--spritz-spacing-lg);
+  text-align: center;
+  margin-bottom: var(--spritz-spacing-lg);
+  min-height: 150px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+/* ============================================
+   WORD STYLING
+   ============================================ */
+.spritz-word {
+  font-family: var(--spritz-font-family);
+  font-size: 60px;
+  font-weight: bold;
+  color: var(--spritz-black);
+  line-height: 1.2;
+  letter-spacing: normal;
+  transition: opacity var(--spritz-transition-fast) ease-in-out;
+  opacity: 1;
+  display: inline-block;
+}
+
+.spritz-word.fade-in {
+  animation: spritzFadeIn var(--spritz-transition-fast) ease-in-out;
+}
+
+@keyframes spritzFadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* ============================================
+   OPTIMAL RECOGNITION POINT (ORP)
+   ============================================ */
+.spritz-orp {
+  color: var(--spritz-red);
+  font-size: 110%;
+  position: relative;
+  display: inline-block;
+}
+
+/* ============================================
+   START BUTTON
+   ============================================ */
+.spritz-start-button {
+  width: 200px;
+  height: 80px;
+  margin: var(--spritz-spacing-lg) auto;
+  display: block;
+  background-color: var(--spritz-black);
+  color: var(--spritz-white);
+  border: none;
+  border-radius: var(--spritz-radius-md);
+  font-family: var(--spritz-font-family);
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background-color var(--spritz-transition-normal) ease,
+              transform var(--spritz-transition-fast) ease,
+              box-shadow var(--spritz-transition-normal) ease;
+  box-shadow: 0 2px 4px var(--spritz-shadow);
+}
+
+.spritz-start-button:hover {
+  background-color: var(--spritz-gray-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px var(--spritz-shadow-dark);
+}
+
+.spritz-start-button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 4px var(--spritz-shadow);
+}
+
+.spritz-start-button:focus {
+  outline: 2px solid var(--spritz-gray-medium);
+  outline-offset: 2px;
+}
+
+/* ============================================
+   CONTROLS PANEL
+   ============================================ */
+.spritz-controls {
+  display: none;
+  background-color: var(--spritz-white);
+  border-radius: var(--spritz-radius-md);
+  padding: var(--spritz-spacing-md);
+  box-shadow: 0 2px 8px var(--spritz-shadow);
+  margin-top: var(--spritz-spacing-md);
+}
+
+.spritz-controls.active {
+  display: block;
+  animation: spritzSlideDown var(--spritz-transition-normal) ease;
+}
+
+@keyframes spritzSlideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* ============================================
+   WPM SLIDER
+   ============================================ */
+.spritz-wpm-container {
+  margin-bottom: var(--spritz-spacing-md);
+}
+
+.spritz-wpm-label {
+  font-family: var(--spritz-font-family);
+  font-size: 14px;
+  font-weight: bold;
+  color: var(--spritz-gray-dark);
+  margin-bottom: var(--spritz-spacing-sm);
+  display: block;
+}
+
+.spritz-wpm-value {
+  float: right;
+  color: var(--spritz-red);
+}
+
+.spritz-wpm-slider {
+  width: 100%;
+  height: 6px;
+  border-radius: 3px;
+  background: var(--spritz-gray-light);
+  outline: none;
+  -webkit-appearance: none;
+  appearance: none;
+  cursor: pointer;
+}
+
+.spritz-wpm-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--spritz-black);
+  cursor: pointer;
+  transition: background var(--spritz-transition-fast) ease,
+              transform var(--spritz-transition-fast) ease;
+}
+
+.spritz-wpm-slider::-webkit-slider-thumb:hover {
+  background: var(--spritz-gray-dark);
+  transform: scale(1.1);
+}
+
+.spritz-wpm-slider::-moz-range-thumb {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: var(--spritz-black);
+  cursor: pointer;
+  border: none;
+  transition: background var(--spritz-transition-fast) ease,
+              transform var(--spritz-transition-fast) ease;
+}
+
+.spritz-wpm-slider::-moz-range-thumb:hover {
+  background: var(--spritz-gray-dark);
+  transform: scale(1.1);
+}
+
+/* ============================================
+   NAVIGATION SLIDER
+   ============================================ */
+.spritz-nav-slider {
+  width: 100%;
+  height: 8px;
+  border-radius: 4px;
+  background: var(--spritz-gray-light);
+  outline: none;
+  -webkit-appearance: none;
+  appearance: none;
+  cursor: pointer;
+  margin-bottom: var(--spritz-spacing-md);
+}
+
+.spritz-nav-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--spritz-black);
+  cursor: pointer;
+  transition: background var(--spritz-transition-fast) ease;
+}
+
+.spritz-nav-slider::-webkit-slider-thumb:hover {
+  background: var(--spritz-gray-dark);
+}
+
+.spritz-nav-slider::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--spritz-black);
+  cursor: pointer;
+  border: none;
+  transition: background var(--spritz-transition-fast) ease;
+}
+
+.spritz-nav-slider::-moz-range-thumb:hover {
+  background: var(--spritz-gray-dark);
+}
+
+/* ============================================
+   PROGRESS DISPLAY
+   ============================================ */
+.spritz-progress {
+  font-family: var(--spritz-font-family);
+  font-size: 12px;
+  color: var(--spritz-gray-dark);
+  text-align: center;
+  margin-top: var(--spritz-spacing-sm);
+}
+
+/* ============================================
+   BOOKMARK BUTTON
+   ============================================ */
+.spritz-bookmark-button {
+  background-color: var(--spritz-white);
+  border: 1px solid var(--spritz-gray-medium);
+  border-radius: var(--spritz-radius-sm);
+  padding: var(--spritz-spacing-sm) var(--spritz-spacing-md);
+  font-family: var(--spritz-font-family);
+  font-size: 14px;
+  color: var(--spritz-black);
+  cursor: pointer;
+  transition: background-color var(--spritz-transition-fast) ease,
+              border-color var(--spritz-transition-fast) ease;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spritz-spacing-xs);
+}
+
+.spritz-bookmark-button:hover {
+  background-color: var(--spritz-gray-light);
+  border-color: var(--spritz-gray-dark);
+}
+
+.spritz-bookmark-button:focus {
+  outline: 2px solid var(--spritz-gray-medium);
+  outline-offset: 2px;
+}
+
+/* ============================================
+   BOOKMARK DROPDOWN
+   ============================================ */
+.spritz-bookmark-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: var(--spritz-white);
+  border-radius: var(--spritz-radius-md);
+  box-shadow: 0 4px 12px var(--spritz-shadow-dark);
+  min-width: 200px;
+  max-height: 300px;
+  overflow-y: auto;
+  z-index: 1000;
+  display: none;
+  margin-top: var(--spritz-spacing-xs);
+}
+
+.spritz-bookmark-dropdown.active {
+  display: block;
+  animation: spritzFadeIn var(--spritz-transition-normal) ease;
+}
+
+.spritz-bookmark-item {
+  padding: var(--spritz-spacing-sm) var(--spritz-spacing-md);
+  font-family: var(--spritz-font-family);
+  font-size: 14px;
+  color: var(--spritz-black);
+  cursor: pointer;
+  transition: background-color var(--spritz-transition-fast) ease;
+  border-bottom: 1px solid var(--spritz-gray-light);
+}
+
+.spritz-bookmark-item:last-child {
+  border-bottom: none;
+}
+
+.spritz-bookmark-item:hover {
+  background-color: var(--spritz-gray-light);
+}
+
+.spritz-bookmark-item-title {
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+
+.spritz-bookmark-item-position {
+  font-size: 12px;
+  color: var(--spritz-gray-dark);
+}
+
+.spritz-bookmark-empty {
+  padding: var(--spritz-spacing-md);
+  font-family: var(--spritz-font-family);
+  font-size: 14px;
+  color: var(--spritz-gray-dark);
+  text-align: center;
+}
+
+/* ============================================
+   HELP MODAL
+   ============================================ */
+.spritz-help-modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  padding: var(--spritz-spacing-md);
+}
+
+.spritz-help-modal.active {
+  display: flex;
+  animation: spritzFadeIn var(--spritz-transition-normal) ease;
+}
+
+.spritz-help-content {
+  background-color: var(--spritz-white);
+  border-radius: var(--spritz-radius-lg);
+  padding: var(--spritz-spacing-lg);
+  max-width: 500px;
+  width: 100%;
+  box-shadow: 0 8px 24px var(--spritz-shadow-dark);
+  position: relative;
+}
+
+.spritz-help-title {
+  font-family: var(--spritz-font-family);
+  font-size: 24px;
+  font-weight: bold;
+  color: var(--spritz-black);
+  margin: 0 0 var(--spritz-spacing-md) 0;
+}
+
+.spritz-help-text {
+  font-family: var(--spritz-font-family);
+  font-size: 14px;
+  color: var(--spritz-gray-dark);
+  line-height: 1.6;
+  margin-bottom: var(--spritz-spacing-sm);
+}
+
+.spritz-help-close {
+  position: absolute;
+  top: var(--spritz-spacing-md);
+  right: var(--spritz-spacing-md);
+  background: none;
+  border: none;
+  font-size: 28px;
+  color: var(--spritz-gray-dark);
+  cursor: pointer;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: background-color var(--spritz-transition-fast) ease,
+              color var(--spritz-transition-fast) ease;
+}
+
+.spritz-help-close:hover {
+  background-color: var(--spritz-gray-light);
+  color: var(--spritz-black);
+}
+
+/* ============================================
+   CONTROL BUTTONS GROUP
+   ============================================ */
+.spritz-control-buttons {
+  display: flex;
+  justify-content: center;
+  gap: var(--spritz-spacing-sm);
+  margin-top: var(--spritz-spacing-md);
+}
+
+.spritz-control-button {
+  background-color: var(--spritz-white);
+  border: 1px solid var(--spritz-gray-medium);
+  border-radius: var(--spritz-radius-sm);
+  padding: var(--spritz-spacing-sm) var(--spritz-spacing-md);
+  font-family: var(--spritz-font-family);
+  font-size: 14px;
+  color: var(--spritz-black);
+  cursor: pointer;
+  transition: background-color var(--spritz-transition-fast) ease,
+              border-color var(--spritz-transition-fast) ease;
+  min-width: 80px;
+}
+
+.spritz-control-button:hover {
+  background-color: var(--spritz-gray-light);
+  border-color: var(--spritz-gray-dark);
+}
+
+.spritz-control-button:focus {
+  outline: 2px solid var(--spritz-gray-medium);
+  outline-offset: 2px;
+}
+
+.spritz-control-button.primary {
+  background-color: var(--spritz-black);
+  color: var(--spritz-white);
+  border-color: var(--spritz-black);
+}
+
+.spritz-control-button.primary:hover {
+  background-color: var(--spritz-gray-dark);
+  border-color: var(--spritz-gray-dark);
+}
+
+/* ============================================
+   BOOKMARK CONTAINER (for positioning)
+   ============================================ */
+.spritz-bookmark-container {
+  position: relative;
+  display: inline-block;
+}
+
+/* ============================================
+   RESPONSIVE BREAKPOINTS
+   ============================================ */
+
+/* Tablet (768px - 1024px) */
+@media (max-width: 1024px) and (min-width: 768px) {
+  .spritz-banner {
+    max-width: 500px;
+    padding: var(--spritz-spacing-md);
+  }
+
+  .spritz-word {
+    font-size: 50px;
+  }
+
+  .spritz-display {
+    padding: var(--spritz-spacing-lg) var(--spritz-spacing-md);
+    min-height: 130px;
+  }
+
+  .spritz-start-button {
+    width: 180px;
+    height: 70px;
+    font-size: 22px;
+  }
+}
+
+/* Mobile (< 768px) */
+@media (max-width: 767px) {
+  .spritz-banner {
+    max-width: 100%;
+    padding: var(--spritz-spacing-md);
+  }
+
+  .spritz-word {
+    font-size: 40px;
+  }
+
+  .spritz-display {
+    padding: var(--spritz-spacing-md);
+    min-height: 100px;
+  }
+
+  .spritz-start-button {
+    width: 160px;
+    height: 60px;
+    font-size: 20px;
+  }
+
+  .spritz-controls {
+    padding: var(--spritz-spacing-sm);
+  }
+
+  .spritz-wpm-label {
+    font-size: 13px;
+  }
+
+  .spritz-control-button {
+    padding: var(--spritz-spacing-xs) var(--spritz-spacing-sm);
+    font-size: 13px;
+    min-width: 60px;
+  }
+
+  .spritz-bookmark-button {
+    padding: var(--spritz-spacing-xs) var(--spritz-spacing-sm);
+    font-size: 13px;
+  }
+
+  .spritz-help-content {
+    padding: var(--spritz-spacing-md);
+  }
+
+  .spritz-help-title {
+    font-size: 20px;
+  }
+
+  .spritz-help-text {
+    font-size: 13px;
+  }
+}
+
+/* Extra Small Mobile (< 480px) */
+@media (max-width: 479px) {
+  .spritz-banner {
+    padding: var(--spritz-spacing-sm);
+  }
+
+  .spritz-word {
+    font-size: 32px;
+  }
+
+  .spritz-display {
+    min-height: 80px;
+  }
+
+  .spritz-start-button {
+    width: 140px;
+    height: 50px;
+    font-size: 18px;
+  }
+
+  .spritz-control-buttons {
+    flex-wrap: wrap;
+  }
+
+  .spritz-control-button {
+    flex: 1 1 calc(50% - var(--spritz-spacing-xs));
+    min-width: auto;
+  }
+}
+
+/* ============================================
+   UTILITY CLASSES
+   ============================================ */
+.spritz-hidden {
+  display: none !important;
+}
+
+.spritz-visible {
+  display: block !important;
+}
+
+/* Accessibility */
+.spritz-banner *:focus-visible {
+  outline: 2px solid var(--spritz-black);
+  outline-offset: 2px;
+}
+
+/* Reduced motion preference */
+@media (prefers-reduced-motion: reduce) {
+  .spritz-word,
+  .spritz-start-button,
+  .spritz-controls,
+  .spritz-wpm-slider,
+  .spritz-nav-slider,
+  .spritz-bookmark-button,
+  .spritz-help-modal,
+  .spritz-control-button {
+    transition: none;
+    animation: none;
+  }
+}
