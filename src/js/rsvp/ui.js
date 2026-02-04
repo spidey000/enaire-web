@@ -41,53 +41,53 @@ export class RSVPUI {
    */
   _initUI() {
     this.container.innerHTML = `
-      <div class="rsvp-banner" id="rsvpBanner">
-        <div class="rsvp-container">
+      <div class="spritz-banner" id="spritzBanner">
+        <div class="spritz-container">
           <!-- Start Screen -->
-          <div class="rsvp-start-screen" id="rsvpStartScreen">
-            <div class="rsvp-title">Speed Reading Mode</div>
-            <button class="rsvp-start-btn" id="rsvpStartBtn">
+          <div class="spritz-start-screen" id="spritzStartScreen">
+            <div class="spritz-title">Speed Reading Mode</div>
+            <button class="spritz-start-btn" id="spritzStartBtn">
               START
             </button>
-            <div class="rsvp-info">
+            <div class="spritz-info">
               Read through content quickly using Spritz-style presentation
             </div>
           </div>
 
           <!-- Main Reader UI (hidden initially) -->
-          <div class="rsvp-reader-ui" id="rsvpReaderUI" style="display: none;">
+          <div class="spritz-reader-ui" id="spritzReaderUI" style="display: none;">
             <!-- Spritz Display Area -->
-            <div class="rsvp-display">
-              <div class="rsvp-word" id="rsvpWord">Ready</div>
-              <div class="rsvp-progress">
-                <span id="rsvpPosition">0</span> / <span id="rsvpTotal">0</span>
+            <div class="spritz-display">
+              <div class="spritz-word" id="spritzWord">Ready</div>
+              <div class="spritz-progress">
+                <span id="spritzPosition">0</span> / <span id="spritzTotal">0</span>
               </div>
             </div>
 
             <!-- Controls Panel -->
-            <div class="rsvp-controls">
+            <div class="spritz-controls">
               <!-- Playback Controls -->
-              <div class="rsvp-playback-controls">
-                <button class="rsvp-btn rsvp-btn-secondary" id="rsvpBackBtn" title="Previous section (←)">
+              <div class="spritz-playback-controls">
+                <button class="spritz-control-button" id="spritzBackBtn" title="Previous section (←)">
                   ◀◀
                 </button>
-                <button class="rsvp-btn rsvp-btn-primary" id="rsvpPlayBtn" title="Play/Pause (Space)">
+                <button class="spritz-control-button primary" id="spritzPlayBtn" title="Play/Pause (Space)">
                   ▶
                 </button>
-                <button class="rsvp-btn rsvp-btn-secondary" id="rsvpForwardBtn" title="Next section (→)">
+                <button class="spritz-control-button" id="spritzForwardBtn" title="Next section (→)">
                   ▶▶
                 </button>
               </div>
 
               <!-- WPM Slider -->
-              <div class="rsvp-wpm-control">
-                <label class="rsvp-wpm-label">
-                  Speed: <span id="rsvpWPMValue">300</span> WPM
+              <div class="spritz-wpm-control">
+                <label class="spritz-wpm-label">
+                  Speed: <span id="spritzWPMValue">300</span> WPM
                 </label>
                 <input
                   type="range"
-                  class="rsvp-wpm-slider"
-                  id="rsvpWPMSlider"
+                  class="spritz-wpm-slider"
+                  id="spritzWPMSlider"
                   min="100"
                   max="1000"
                   step="25"
@@ -96,28 +96,28 @@ export class RSVPUI {
               </div>
 
               <!-- Navigation Slider -->
-              <div class="rsvp-nav-control">
+              <div class="spritz-nav-control">
                 <input
                   type="range"
-                  class="rsvp-nav-slider"
-                  id="rsvpNavSlider"
+                  class="spritz-nav-slider"
+                  id="spritzNavSlider"
                   min="0"
                   max="100"
                   step="1"
                   value="0"
                 >
-                <div class="rsvp-nav-labels" id="rsvpNavLabels"></div>
+                <div class="spritz-nav-labels" id="spritzNavLabels"></div>
               </div>
 
               <!-- Action Buttons -->
-              <div class="rsvp-action-controls">
-                <button class="rsvp-btn rsvp-btn-action" id="rsvpBookmarkBtn" title="Bookmark (Ctrl+B)">
+              <div class="spritz-action-controls">
+                <button class="spritz-control-button" id="spritzBookmarkBtn" title="Bookmark (Ctrl+B)">
                   🔖
                 </button>
-                <button class="rsvp-btn rsvp-btn-action" id="rsvpHelpBtn" title="Help (?)">
+                <button class="spritz-control-button" id="spritzHelpBtn" title="Help (?)">
                   ?
                 </button>
-                <button class="rsvp-btn rsvp-btn-close" id="rsvpCloseBtn" title="Close (Esc)">
+                <button class="spritz-control-button" id="spritzCloseBtn" title="Close (Esc)">
                   ✕
                 </button>
               </div>
@@ -126,14 +126,14 @@ export class RSVPUI {
         </div>
 
         <!-- Help Modal -->
-        <div class="rsvp-modal" id="rsvpHelpModal" style="display: none;">
-          <div class="rsvp-modal-content">
-            <div class="rsvp-modal-header">
+        <div class="spritz-modal" id="spritzHelpModal" style="display: none;">
+          <div class="spritz-modal-content">
+            <div class="spritz-modal-header">
               <h3>Keyboard Shortcuts</h3>
-              <button class="rsvp-modal-close" id="rsvpCloseHelp">×</button>
+              <button class="spritz-modal-close" id="spritzCloseHelp">×</button>
             </div>
-            <div class="rsvp-modal-body">
-              <table class="rsvp-shortcuts-table">
+            <div class="spritz-modal-body">
+              <table class="spritz-shortcuts-table">
                 <tr><td><kbd>Space</kbd></td><td>Play / Pause</td></tr>
                 <tr><td><kbd>←</kbd></td><td>Previous section</td></tr>
                 <tr><td><kbd>→</kbd></td><td>Next section</td></tr>
@@ -148,10 +148,10 @@ export class RSVPUI {
         </div>
 
         <!-- Bookmark Dropdown -->
-        <div class="rsvp-dropdown" id="rsvpBookmarkDropdown" style="display: none;">
-          <div class="rsvp-dropdown-content">
+        <div class="spritz-dropdown" id="spritzBookmarkDropdown" style="display: none;">
+          <div class="spritz-dropdown-content">
             <h4>Bookmarks</h4>
-            <ul class="rsvp-bookmark-list" id="rsvpBookmarkList"></ul>
+            <ul class="spritz-bookmark-list" id="spritzBookmarkList"></ul>
           </div>
         </div>
       </div>
@@ -164,37 +164,37 @@ export class RSVPUI {
    */
   _initControls() {
     // Start button
-    const startBtn = document.getElementById('rsvpStartBtn');
+    const startBtn = document.getElementById('spritzStartBtn');
     startBtn.addEventListener('click', () => this._startReading());
 
     // Play/Pause button
-    const playBtn = document.getElementById('rsvpPlayBtn');
+    const playBtn = document.getElementById('spritzPlayBtn');
     playBtn.addEventListener('click', this._togglePlay);
 
     // Navigation buttons
-    document.getElementById('rsvpBackBtn').addEventListener('click', () => this.reader.previousSection());
-    document.getElementById('rsvpForwardBtn').addEventListener('click', () => this.reader.nextSection());
+    document.getElementById('spritzBackBtn').addEventListener('click', () => this.reader.previousSection());
+    document.getElementById('spritzForwardBtn').addEventListener('click', () => this.reader.nextSection());
 
     // WPM slider
-    const wpmSlider = document.getElementById('rsvpWPMSlider');
+    const wpmSlider = document.getElementById('spritzWPMSlider');
     wpmSlider.addEventListener('input', this._handleWPMChange);
 
     // Navigation slider
-    const navSlider = document.getElementById('rsvpNavSlider');
+    const navSlider = document.getElementById('spritzNavSlider');
     navSlider.addEventListener('input', this._handleNavChange);
 
     // Bookmark button
-    document.getElementById('rsvpBookmarkBtn').addEventListener('click', this._toggleBookmark);
+    document.getElementById('spritzBookmarkBtn').addEventListener('click', this._toggleBookmark);
 
     // Help button
-    document.getElementById('rsvpHelpBtn').addEventListener('click', () => this._showHelpModal());
+    document.getElementById('spritzHelpBtn').addEventListener('click', () => this._showHelpModal());
 
     // Close button
-    document.getElementById('rsvpCloseBtn').addEventListener('click', () => this.close());
+    document.getElementById('spritzCloseBtn').addEventListener('click', () => this.close());
 
     // Help modal close
-    document.getElementById('rsvpCloseHelp').addEventListener('click', () => {
-      document.getElementById('rsvpHelpModal').style.display = 'none';
+    document.getElementById('spritzCloseHelp').addEventListener('click', () => {
+      document.getElementById('spritzHelpModal').style.display = 'none';
     });
 
     // Keyboard shortcuts
@@ -211,8 +211,8 @@ export class RSVPUI {
    */
   _startReading() {
     this.isStarted = true;
-    document.getElementById('rsvpStartScreen').style.display = 'none';
-    document.getElementById('rsvpReaderUI').style.display = 'block';
+    document.getElementById('spritzStartScreen').style.display = 'none';
+    document.getElementById('spritzReaderUI').style.display = 'block';
 
     // Start playback
     this._togglePlay();
@@ -226,11 +226,11 @@ export class RSVPUI {
     if (this.isPlaying) {
       this.reader.pause();
       this.isPlaying = false;
-      document.getElementById('rsvpPlayBtn').textContent = '▶';
+      document.getElementById('spritzPlayBtn').textContent = '▶';
     } else {
       this.reader.play();
       this.isPlaying = true;
-      document.getElementById('rsvpPlayBtn').textContent = '⏸';
+      document.getElementById('spritzPlayBtn').textContent = '⏸';
     }
   }
 
@@ -291,9 +291,9 @@ export class RSVPUI {
     const position = this.reader.getCurrentPosition();
     const total = this.reader.getTotalWords();
 
-    document.getElementById('rsvpWord').textContent = word || 'Ready';
-    document.getElementById('rsvpPosition').textContent = position;
-    document.getElementById('rsvpTotal').textContent = total;
+    document.getElementById('spritzWord').textContent = word || 'Ready';
+    document.getElementById('spritzPosition').textContent = position;
+    document.getElementById('spritzTotal').textContent = total;
 
     this._updateSlider();
   }
@@ -307,7 +307,7 @@ export class RSVPUI {
     const total = this.reader.getTotalWords();
     const percentage = total > 0 ? (position / total) * 100 : 0;
 
-    const slider = document.getElementById('rsvpNavSlider');
+    const slider = document.getElementById('spritzNavSlider');
     slider.value = percentage;
     slider.max = 100;
   }
@@ -369,7 +369,7 @@ export class RSVPUI {
    * @private
    */
   _showHelpModal() {
-    document.getElementById('rsvpHelpModal').style.display = 'block';
+    document.getElementById('spritzHelpModal').style.display = 'block';
   }
 
   /**
@@ -377,39 +377,39 @@ export class RSVPUI {
    * @private
    */
   _showBookmarkDropdown() {
-    const dropdown = document.getElementById('rsvpBookmarkDropdown');
-    const list = document.getElementById('rsvpBookmarkList');
+    const dropdown = document.getElementById('spritzBookmarkDropdown');
+    const list = document.getElementById('spritzBookmarkList');
 
     // Clear existing list
     list.innerHTML = '';
 
     if (this.bookmarks.length === 0) {
-      list.innerHTML = '<li class="rsvp-bookmark-empty">No bookmarks saved</li>';
+      list.innerHTML = '<li class="spritz-bookmark-empty">No bookmarks saved</li>';
     } else {
       this.bookmarks.forEach((bookmark, index) => {
         const li = document.createElement('li');
-        li.className = 'rsvp-bookmark-item';
+        li.className = 'spritz-bookmark-item';
 
         const date = new Date(bookmark.timestamp);
         const timeStr = date.toLocaleTimeString();
 
         li.innerHTML = `
-          <span class="rsvp-bookmark-position">Pos: ${bookmark.position}</span>
-          <span class="rsvp-bookmark-word">"${bookmark.word}"</span>
-          <span class="rsvp-bookmark-time">${timeStr}</span>
-          <button class="rsvp-bookmark-delete" data-index="${index}">×</button>
+          <span class="spritz-bookmark-position">Pos: ${bookmark.position}</span>
+          <span class="spritz-bookmark-word">"${bookmark.word}"</span>
+          <span class="spritz-bookmark-time">${timeStr}</span>
+          <button class="spritz-bookmark-delete" data-index="${index}">×</button>
         `;
 
         // Click on bookmark to jump to position
         li.addEventListener('click', (e) => {
-          if (!e.target.classList.contains('rsvp-bookmark-delete')) {
+          if (!e.target.classList.contains('spritz-bookmark-delete')) {
             this.reader.seekToPosition(bookmark.position);
             dropdown.style.display = 'none';
           }
         });
 
         // Delete bookmark
-        li.querySelector('.rsvp-bookmark-delete').addEventListener('click', (e) => {
+        li.querySelector('.spritz-bookmark-delete').addEventListener('click', (e) => {
           e.stopPropagation();
           this.bookmarks.splice(index, 1);
           this.savePosition();
@@ -446,12 +446,12 @@ export class RSVPUI {
 
     // Update total word count
     const total = this.reader.getTotalWords();
-    document.getElementById('rsvpTotal').textContent = total;
-    document.getElementById('rsvpWord').textContent = 'Ready';
+    document.getElementById('spritzTotal').textContent = total;
+    document.getElementById('spritzWord').textContent = 'Ready';
 
     // Show start screen
-    document.getElementById('rsvpStartScreen').style.display = 'block';
-    document.getElementById('rsvpReaderUI').style.display = 'none';
+    document.getElementById('spritzStartScreen').style.display = 'block';
+    document.getElementById('spritzReaderUI').style.display = 'none';
 
     // Restore position if available
     this.restorePosition();
@@ -466,8 +466,8 @@ export class RSVPUI {
     this.reader.setWPM(this.currentWPM);
 
     // Update slider and display
-    document.getElementById('rsvpWPMSlider').value = this.currentWPM;
-    document.getElementById('rsvpWPMValue').textContent = this.currentWPM;
+    document.getElementById('spritzWPMSlider').value = this.currentWPM;
+    document.getElementById('spritzWPMValue').textContent = this.currentWPM;
   }
 
   /**
@@ -482,7 +482,7 @@ export class RSVPUI {
       timestamp: Date.now()
     };
 
-    localStorage.setItem(`rsvp_progress_${this.currentModuleId}`, JSON.stringify(state));
+    localStorage.setItem(`spritz_progress_${this.currentModuleId}`, JSON.stringify(state));
   }
 
   /**
@@ -491,7 +491,7 @@ export class RSVPUI {
   restorePosition() {
     if (!this.currentModuleId) return;
 
-    const saved = localStorage.getItem(`rsvp_progress_${this.currentModuleId}`);
+    const saved = localStorage.getItem(`spritz_progress_${this.currentModuleId}`);
 
     if (saved) {
       try {
@@ -527,7 +527,7 @@ export class RSVPUI {
     }
 
     this.isStarted = false;
-    document.getElementById('rsvpStartScreen').style.display = 'block';
-    document.getElementById('rsvpReaderUI').style.display = 'none';
+    document.getElementById('spritzStartScreen').style.display = 'block';
+    document.getElementById('spritzReaderUI').style.display = 'none';
   }
 }
