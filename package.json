@@ -7,12 +7,18 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "annotate": "node scripts/annotate-markdown.js"
+    "annotate": "node scripts/annotate-markdown.js",
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "test:debug": "playwright test --debug",
+    "test:report": "playwright show-report"
   },
   "dependencies": {
     "markdown-it": "^14.1.0"
   },
   "devDependencies": {
+    "@playwright/test": "^1.58.1",
     "vite": "^5.4.11"
   }
 }
