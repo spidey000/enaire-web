@@ -1,6 +1,7 @@
 import { renderMarkdown, extractTOC, searchInMarkdown, highlightText } from '../../js/utils/markdown.js';
 import { storage } from '../../js/storage.js';
-import { RSVPUI } from '../../js/rsvp/ui.js';
+// RSVPUI import removed - will be loaded dynamically to avoid breaking page rendering
+// import { RSVPUI } from '../../js/rsvp/ui.js';
 
 export async function render(params) {
   const content = document.getElementById('page-content');
@@ -177,13 +178,16 @@ function initSearch(markdown) {
   });
 }
 
-function initRSVPReader(moduleId, annotatedMarkdown) {
+async function initRSVPReader(moduleId, annotatedMarkdown) {
   try {
     const container = document.getElementById('rsvp-banner-container');
     if (!container) {
       console.error('RSVP banner container not found');
       return;
     }
+
+    // Dynamic import of RSVPUI to avoid breaking page rendering
+    const { RSVPUI } = await import('../../js/rsvp/ui.js');
 
     // Get initial WPM from localStorage if available
     let initialWPM = 300;
