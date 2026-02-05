@@ -43,7 +43,7 @@ async function loadFlashcards() {
       if (!module.mcqFile) continue;
 
       try {
-        const response = await fetch(`/src/data/mcq/${module.mcqFile}`);
+        const response = await fetch(`/mcq/${module.mcqFile}`);
         const data = await response.json();
 
         const flashcards = data.mcq_set.map(q => ({
