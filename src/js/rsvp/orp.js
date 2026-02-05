@@ -51,18 +51,16 @@ export function calculateORP(word) {
 /**
  * Renders a word with the ORP letter highlighted in red.
  *
- * Creates an HTML string where the entire word is displayed in black,
- * except for the ORP letter which is displayed in red and slightly larger.
- * The red highlighting draws the reader's attention to the optimal
- * recognition point.
+ * Creates a structured HTML string where the word is split into three parts:
+ * 1. spritz-word-left: The part before the ORP (right-aligned)
+ * 2. spritz-word-orp: The ORP character itself (red)
+ * 3. spritz-word-right: The part after the ORP (left-aligned)
+ *
+ * This structure allows CSS to align the ORP character to a fixed position.
  *
  * @param {string} word - The word to render
- * @returns {string} HTML string with ORP letter styled in red
+ * @returns {string} HTML string with structured word parts
  * @throws {Error} If word is not a valid string
- *
- * @example
- * renderWord('hello')
- * // Returns: '<span style="color: #000000;">he<span style="color: #ff0000; font-size: 110%;">l</span>lo</span>'
  */
 export function renderWord(word) {
   // Validation
@@ -76,10 +74,6 @@ export function renderWord(word) {
     return '';
   }
 
-  if (trimmedWord.length === 1) {
-    return `<span style="color: #ff0000; font-size: 110%;">${trimmedWord}</span>`;
-  }
-
   // Calculate ORP position
   const orpIndex = calculateORP(trimmedWord);
 
@@ -88,20 +82,10 @@ export function renderWord(word) {
   const orpChar = trimmedWord[orpIndex];
   const afterORP = trimmedWord.substring(orpIndex + 1);
 
-  // Build HTML with styling
-  let html = '<span style="color: #000000;">';
-
-  if (beforeORP.length > 0) {
-    html += beforeORP;
-  }
-
-  html += `<span style="color: #ff0000; font-size: 110%;">${orpChar}</span>`;
-
-  if (afterORP.length > 0) {
-    html += afterORP;
-  }
-
-  html += '</span>';
+  // Build structured HTML
+  let html = `<span class="spritz-word-left">${beforeORP}</span>`;
+  html += `<span class="spritz-word-orp">${orpChar}</span>`;
+  html += `<span class="spritz-word-right">${afterORP}</span>`;
 
   return html;
 }

@@ -321,18 +321,28 @@ export class RSVPReader {
 
     if (!word) return;
 
+    // Reset container classes (keeping the base spritz-word class)
+    this._container.className = 'spritz-word';
+
     if (word.text && word.text.length > 0) {
-      // Render word with ORP highlighting (even if it has a pause marker)
-      let html = this._renderWord(word.text);
+      // Render word with ORP highlighting
+      this._container.innerHTML = this._renderWord(word.text);
       
       if (word.hasPauseMarker) {
-        html = `<span class="rsvp-pause rsvp-pause-${word.pauseType.toLowerCase()}">${html}</span>`;
+        this._container.classList.add('rsvp-pause');
+        if (word.pauseType) {
+          this._container.classList.add(`rsvp-pause-${word.pauseType.toLowerCase()}`);
+        }
       }
-      
-      this._container.innerHTML = html;
     } else {
       // Empty word (pure pause) - keep blank
       this._container.innerHTML = '';
+      if (word.hasPauseMarker) {
+        this._container.classList.add('rsvp-pause');
+        if (word.pauseType) {
+          this._container.classList.add(`rsvp-pause-${word.pauseType.toLowerCase()}`);
+        }
+      }
     }
 
     // Trigger callback if provided

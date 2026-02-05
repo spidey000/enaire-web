@@ -72,45 +72,109 @@
    ============================================ */
 .spritz-display-area {
   margin-bottom: var(--spritz-spacing-lg);
+  position: relative;
+  background-color: var(--spritz-white);
+  border-radius: var(--spritz-radius-md);
+  box-shadow: 0 2px 8px var(--spritz-shadow);
+  padding: 10px;
 }
 
 .spritz-display {
   background-color: var(--spritz-white);
-  border-radius: var(--spritz-radius-md);
-  box-shadow: 0 2px 8px var(--spritz-shadow);
-  padding: var(--spritz-spacing-xl) var(--spritz-spacing-lg);
-  text-align: center;
-  min-height: 150px;
+  min-height: 120px;
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
   overflow: hidden;
   transition: min-height var(--spritz-transition-normal) ease;
+  border-top: 2px solid var(--spritz-black);
+  border-bottom: 2px solid var(--spritz-black);
+  padding: 40px 0;
+}
+
+/* Spritz Guide Marks */
+.spritz-display::before,
+.spritz-display::after {
+  content: '';
+  position: absolute;
+  left: 35%; /* Focus point */
+  width: 2px;
+  height: 20px;
+  background-color: var(--spritz-red);
+  z-index: 10;
+  transform: translateX(-50%);
+}
+
+.spritz-display::before {
+  top: 0;
+}
+
+.spritz-display::after {
+  bottom: 0;
 }
 
 .spritz-banner.fullscreen .spritz-display {
   min-height: 300px;
+  padding: 100px 0;
+}
+
+.spritz-banner.fullscreen .spritz-display::before,
+.spritz-banner.fullscreen .spritz-display::after {
+  height: 40px;
+  width: 4px;
 }
 
 /* ============================================
    WORD STYLING
    ============================================ */
 .spritz-word {
-  font-family: var(--spritz-font-family);
+  font-family: 'Courier New', Courier, monospace;
   font-size: 60px;
   font-weight: bold;
   color: var(--spritz-black);
-  line-height: 1.2;
-  letter-spacing: normal;
-  transition: opacity var(--spritz-transition-fast) ease-in-out,
-              font-size var(--spritz-transition-normal) ease;
+  line-height: 1;
   opacity: 1;
-  display: inline-block;
+  display: flex;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: center; /* Center by default for 'Ready' state */
+  user-select: none;
+}
+
+/* When the word is structured into spans for fixed ORP positioning */
+.spritz-word:has(.spritz-word-orp) {
+  justify-content: flex-start;
+}
+
+.spritz-word-left {
+  flex: 0 0 35%;
+  text-align: right;
+}
+
+.spritz-word-orp {
+  color: var(--spritz-red);
+  flex: 0 0 auto;
+  /* Center the ORP letter on the guide mark */
+  transform: translateX(-50%);
+  position: relative;
+}
+
+.spritz-word-right {
+  flex: 1;
+  text-align: left;
+  /* Shift the right part to start exactly after the centered ORP */
+  margin-left: -0.5ch;
+}
+
+/* Pausing State */
+.spritz-word.rsvp-pause {
+  background-color: rgba(255, 0, 0, 0.05);
 }
 
 .spritz-banner.fullscreen .spritz-word {
-  font-size: 120px;
+  font-size: 140px;
 }
 
 .spritz-word.fade-in {
