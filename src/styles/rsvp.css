@@ -81,16 +81,16 @@
 
 .spritz-display {
   background-color: var(--spritz-white);
-  min-height: 120px;
+  height: 120px; /* Fixed height to prevent layout shifts (CLS) */
   display: flex;
   align-items: center;
   justify-content: center;
   position: relative;
   overflow: hidden;
-  transition: min-height var(--spritz-transition-normal) ease;
+  transition: height var(--spritz-transition-normal) ease;
   border-top: 2px solid var(--spritz-black);
   border-bottom: 2px solid var(--spritz-black);
-  padding: 40px 0;
+  padding: 0; /* Vertical centering handled by height + flex */
 }
 
 /* Spritz Guide Marks */
@@ -98,7 +98,7 @@
 .spritz-display::after {
   content: '';
   position: absolute;
-  left: 35%; /* Focus point */
+  left: 35%; /* Fixed Focus point */
   width: 2px;
   height: 20px;
   background-color: var(--spritz-red);
@@ -115,8 +115,7 @@
 }
 
 .spritz-banner.fullscreen .spritz-display {
-  min-height: 300px;
-  padding: 100px 0;
+  height: 300px; /* Fixed height in fullscreen too */
 }
 
 .spritz-banner.fullscreen .spritz-display::before,
@@ -145,7 +144,7 @@
 
 .spritz-word:has(.spritz-word-orp) {
   justify-content: flex-start;
-  align-items: baseline;
+  /* align-items: baseline removed to keep ORP vertically centered in the fixed-height box */
 }
 
 .spritz-word-left,
@@ -157,13 +156,14 @@
 }
 
 .spritz-word-left {
+  /* This ensures the ORP (which is 1ch) starts so that its center is exactly at 35% of the container width */
   flex: 0 0 calc(35% - 0.5ch);
   text-align: right;
 }
 
 .spritz-word-orp {
   color: var(--spritz-red);
-  flex: 0 0 1ch;
+  flex: 0 0 1ch; /* Exact width of one character */
   text-align: center;
   position: relative;
   z-index: 5;

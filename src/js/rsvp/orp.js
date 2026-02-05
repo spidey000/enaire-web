@@ -9,39 +9,23 @@
  * Calculates the Optimal Recognition Point (ORP) for a given word.
  *
  * The ORP is the letter in a word where the eye should focus to maximize
- * reading speed and comprehension. Based on the Spritz algorithm:
- * - Words shorter than 8 characters: ORP is at 35% from the left
- * - Words 8 or more characters: ORP is at the center
- *
- * Punctuation is ignored for the length calculation to keep focus on content.
+ * reading speed and comprehension.
+ * Standard rapid reading rule: (length + 1) * 0.35
  *
  * @param {string} word - The word to calculate ORP for (clean word)
  * @returns {number} The zero-based index of the ORP character
  */
 export function calculateORP(word) {
-  // Validation
-  if (typeof word !== 'string') {
-    throw new Error('Word must be a string');
-  }
-
+  if (typeof word !== 'string') throw new Error('Word must be a string');
   const trimmedWord = word.trim();
+  if (trimmedWord.length === 0) throw new Error('Word cannot be empty');
+  if (trimmedWord.length === 1) return 0;
 
-  if (trimmedWord.length === 0) {
-    throw new Error('Word cannot be empty');
-  }
-
-  if (trimmedWord.length === 1) {
-    return 0;
-  }
-
-  // Apply Spritz algorithm
-  if (trimmedWord.length < 8) {
-    // ORP at 35% from left for shorter words
-    return Math.round(trimmedWord.length * 0.35);
-  } else {
-    // ORP at center for longer words
-    return Math.floor(trimmedWord.length / 2);
-  }
+  // Apply the 35% rule: (L + 1) * 0.35
+  const index = Math.floor((trimmedWord.length + 1) * 0.35);
+  
+  // Ensure index is within bounds
+  return Math.min(index, trimmedWord.length - 1);
 }
 
 /**
