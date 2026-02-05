@@ -231,6 +231,16 @@ export class RSVPUI {
 
     // Keyboard shortcuts
     document.addEventListener('keydown', this._handleKeyboard);
+
+    // Fullscreen change listener
+    document.addEventListener('fullscreenchange', () => {
+      const banner = document.getElementById('spritzBanner');
+      if (document.fullscreenElement === banner) {
+        banner.classList.add('fullscreen');
+      } else if (!document.fullscreenElement) {
+        banner.classList.remove('fullscreen');
+      }
+    });
   }
 
   /**
@@ -272,10 +282,8 @@ export class RSVPUI {
       banner.requestFullscreen().catch(err => {
         console.error(`Error attempting to enable fullscreen: ${err.message}`);
       });
-      banner.classList.add('fullscreen');
     } else {
       document.exitFullscreen();
-      banner.classList.remove('fullscreen');
     }
   }
 

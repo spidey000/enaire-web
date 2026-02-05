@@ -1,4 +1,4 @@
-import { calculateORP, renderWord, getWordDelay } from './orp.js';
+import { renderWord } from './orp.js';
 
 /**
  * RSVP (Rapid Serial Visual Presentation) Reader
@@ -53,6 +53,23 @@ export class RSVPReader {
   }
 
   /**
+   * Get current word index (position)
+   * @returns {number} Current word index
+   */
+  getCurrentPosition() {
+    return this._currentWordIndex;
+  }
+
+  /**
+   * Get current word text
+   * @returns {string|null} Current word text or null
+   */
+  getCurrentWord() {
+    const word = this._words[this._currentWordIndex];
+    return word ? word.text : null;
+  }
+
+  /**
    * Check if reader is currently playing
    * @returns {boolean} Playing state
    */
@@ -64,7 +81,7 @@ export class RSVPReader {
    * Load and process text content for RSVP playback
    * Splits text into words and detects pause markers
    * Pause marker format: {{PAUSE:TYPE}} where TYPE can be: ACRONYM, LIST, etc.
-   * Adds +500ms delay to words containing pause markers (except END)
+   * Adds +500ms delay to words for each pause marker found (except END)
    * @param {string} text - Text content to load
    */
   loadContent(text) {
@@ -75,28 +92,40 @@ export class RSVPReader {
     const tokens = text.split(/\s+/);
 
     tokens.forEach((token) => {
-      // Check for pause marker
-      const pauseMarker = this._detectPauseMarker(token);
+      // Find all pause markers in this token
+      const pauseRegex = /\{\{PAUSE:(\w+)\}\}/g;
+      const matches = [...token.matchAll(pauseRegex)];
       
-      if (pauseMarker) {
-        const cleanText = token.replace(pauseMarker.fullMarker, '').trim();
-        const isEndMarker = pauseMarker.type.toUpperCase() === 'END';
-        
+      if (matches.length > 0) {
+        const cleanText = token.replace(/\{\{PAUSE:\w+\}\}/g, '').trim();
+        let totalPauseDelay = 0;
+        let lastPauseType = null;
+
+        matches.forEach(match => {
+          const type = match[1];
+          if (type.toUpperCase() !== 'END') {
+            totalPauseDelay += 500;
+          }
+          lastPauseType = type;
+        });
+
         if (cleanText.length > 0) {
-          // Word with a pause marker
+          // Word with pause marker(s)
           this._words.push({
             text: cleanText,
             hasPauseMarker: true,
-            pauseType: pauseMarker.type,
-            delay: this._calculateWordDelay(cleanText) + (isEndMarker ? 0 : 500)
+            pauseType: lastPauseType, // Store last one for styling if needed
+            pauseDelay: totalPauseDelay,
+            delay: this._calculateWordDelay(cleanText) + totalPauseDelay
           });
-        } else if (!isEndMarker) {
-          // Pure pause marker - use as a delay entry with empty text
+        } else if (totalPauseDelay > 0) {
+          // Pure pause markers - use as a delay entry with empty text
           this._words.push({
             text: '',
             hasPauseMarker: true,
-            pauseType: pauseMarker.type,
-            delay: 500
+            pauseType: lastPauseType,
+            pauseDelay: totalPauseDelay,
+            delay: totalPauseDelay
           });
         }
       } else if (token.trim().length > 0) {
@@ -190,10 +219,12 @@ export class RSVPReader {
 
     // Recalculate delays for all words
     this._words.forEach((word) => {
-      if (word.hasPauseMarker) {
-        word.delay = this._getPauseDelay(word.pauseType);
+      const pauseDelay = word.pauseDelay || 0;
+      
+      if (word.text && word.text.length > 0) {
+        word.delay = this._calculateWordDelay(word.text) + pauseDelay;
       } else {
-        word.delay = this._calculateWordDelay(word.text);
+        word.delay = pauseDelay;
       }
     });
   }
@@ -237,47 +268,6 @@ export class RSVPReader {
       if (this._isPlaying) {
         this._scheduleNextWord();
       }
-    }
-  }
-
-  /**
-   * Detect and extract pause marker from word
-   * @private
-   * @param {string} word - Word to check
-   * @returns {Object|null} Pause marker object with type, or null if not found
-   */
-  _detectPauseMarker(word) {
-    const pauseRegex = /\{\{PAUSE:(\w+)\}\}/;
-    const match = word.match(pauseRegex);
-
-    if (match) {
-      return {
-        type: match[1],
-        fullMarker: match[0]
-      };
-    }
-
-    return null;
-  }
-
-  /**
-   * Get pause delay in milliseconds based on pause type
-   * @private
-   * @param {string} type - Pause type (SHORT, MEDIUM, LONG)
-   * @returns {number} Delay in milliseconds
-   */
-  _getPauseDelay(type) {
-    const baseDelay = 60000 / this._wpm; // Base delay from WPM
-
-    switch (type) {
-      case 'SHORT':
-        return baseDelay * 2;
-      case 'MEDIUM':
-        return baseDelay * 4;
-      case 'LONG':
-        return baseDelay * 6;
-      default:
-        return baseDelay;
     }
   }
 
@@ -329,12 +319,20 @@ export class RSVPReader {
   _displayCurrentWord() {
     const word = this._words[this._currentWordIndex];
 
-    if (word.hasPauseMarker) {
-      // Display pause marker as-is or with special styling
-      this._container.innerHTML = `<span class="rsvp-pause rsvp-pause-${word.pauseType.toLowerCase()}">${word.text}</span>`;
+    if (!word) return;
+
+    if (word.text && word.text.length > 0) {
+      // Render word with ORP highlighting (even if it has a pause marker)
+      let html = this._renderWord(word.text);
+      
+      if (word.hasPauseMarker) {
+        html = `<span class="rsvp-pause rsvp-pause-${word.pauseType.toLowerCase()}">${html}</span>`;
+      }
+      
+      this._container.innerHTML = html;
     } else {
-      // Render word with ORP highlighting
-      this._container.innerHTML = this._renderWord(word.text);
+      // Empty word (pure pause) - keep blank
+      this._container.innerHTML = '';
     }
 
     // Trigger callback if provided
