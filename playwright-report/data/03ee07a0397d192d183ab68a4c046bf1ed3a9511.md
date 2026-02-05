@@ -1,0 +1,1980 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - generic [ref=e4]:
+      - link "📚 ENAIRE Study" [ref=e6] [cursor=pointer]:
+        - /url: "#/"
+      - generic [ref=e7]:
+        - link "Inicio" [ref=e8] [cursor=pointer]:
+          - /url: "#/"
+        - link "Temario" [ref=e9] [cursor=pointer]:
+          - /url: "#/syllabus"
+        - link "Quiz" [ref=e10] [cursor=pointer]:
+          - /url: "#/quiz"
+        - link "Flashcards" [ref=e11] [cursor=pointer]:
+          - /url: "#/flashcards"
+        - link "Progreso" [ref=e12] [cursor=pointer]:
+          - /url: "#/progress"
+        - link "📋 Plan" [ref=e13] [cursor=pointer]:
+          - /url: "#/plan"
+  - main [ref=e14]:
+    - generic [ref=e16]:
+      - complementary [ref=e17]:
+        - generic [ref=e18]: Módulos
+        - list [ref=e19]:
+          - listitem [ref=e20]:
+            - link "🏛️ Entorno Profesional 40 preguntas" [ref=e21] [cursor=pointer]:
+              - /url: "#/syllabus?id=MOD_001"
+              - generic [ref=e22]: 🏛️
+              - generic [ref=e23]:
+                - generic [ref=e24]: Entorno Profesional
+                - generic [ref=e25]: 40 preguntas
+          - listitem [ref=e26]:
+            - link "✈️ Aerodinámica 60 preguntas" [ref=e27] [cursor=pointer]:
+              - /url: "#/syllabus?id=MOD_002"
+              - generic [ref=e28]: ✈️
+              - generic [ref=e29]:
+                - generic [ref=e30]: Aerodinámica
+                - generic [ref=e31]: 60 preguntas
+          - listitem [ref=e32]:
+            - link "🧭 Navegación 80 preguntas" [ref=e33] [cursor=pointer]:
+              - /url: "#/syllabus?id=MOD_003"
+              - generic [ref=e34]: 🧭
+              - generic [ref=e35]:
+                - generic [ref=e36]: Navegación
+                - generic [ref=e37]: 80 preguntas
+          - listitem [ref=e38]:
+            - link "📋 Plan de Vuelo 50 preguntas" [ref=e39] [cursor=pointer]:
+              - /url: "#/syllabus?id=MOD_004"
+              - generic [ref=e40]: 📋
+              - generic [ref=e41]:
+                - generic [ref=e42]: Plan de Vuelo
+                - generic [ref=e43]: 50 preguntas
+          - listitem [ref=e44]:
+            - link "🔤 Códigos 30 preguntas" [ref=e45] [cursor=pointer]:
+              - /url: "#/syllabus?id=MOD_005"
+              - generic [ref=e46]: 🔤
+              - generic [ref=e47]:
+                - generic [ref=e48]: Códigos
+                - generic [ref=e49]: 30 preguntas
+          - listitem [ref=e50]:
+            - link "🗺️ Cartografía 40 preguntas" [ref=e51] [cursor=pointer]:
+              - /url: "#/syllabus?id=MOD_006"
+              - generic [ref=e52]: 🗺️
+              - generic [ref=e53]:
+                - generic [ref=e54]: Cartografía
+                - generic [ref=e55]: 40 preguntas
+          - listitem [ref=e56]:
+            - link "📚 Módulo 7 0 preguntas" [ref=e57] [cursor=pointer]:
+              - /url: "#/syllabus?id=MOD_007"
+              - generic [ref=e58]: 📚
+              - generic [ref=e59]:
+                - generic [ref=e60]: Módulo 7
+                - generic [ref=e61]: 0 preguntas
+          - listitem [ref=e62]:
+            - link "📚 Módulo 8 0 preguntas" [ref=e63] [cursor=pointer]:
+              - /url: "#/syllabus?id=MOD_008"
+              - generic [ref=e64]: 📚
+              - generic [ref=e65]:
+                - generic [ref=e66]: Módulo 8
+                - generic [ref=e67]: 0 preguntas
+          - listitem [ref=e68]:
+            - link "📚 Módulo 9 0 preguntas" [ref=e69] [cursor=pointer]:
+              - /url: "#/syllabus?id=MOD_009"
+              - generic [ref=e70]: 📚
+              - generic [ref=e71]:
+                - generic [ref=e72]: Módulo 9
+                - generic [ref=e73]: 0 preguntas
+      - generic [ref=e74]:
+        - generic [ref=e75]:
+          - heading "🏛️ Instituciones y Legislación Aeronáutica" [level=1] [ref=e76]
+          - generic [ref=e77]:
+            - generic [ref=e78]: 40 preguntas
+            - generic [ref=e79]:
+              - text: •
+              - link "Practicar Quiz" [ref=e80] [cursor=pointer]:
+                - /url: "#/quiz?module=MOD_001"
+        - generic [ref=e84]:
+          - generic [ref=e85]: Speed Reading Mode
+          - button "START" [ref=e86]
+          - generic [ref=e87]: Read through content quickly using Spritz-style presentation
+        - textbox "🔍 Buscar en este módulo..." [ref=e89]
+        - navigation [ref=e90]:
+          - heading "Índice" [level=3] [ref=e91]
+          - list [ref=e92]:
+            - listitem [ref=e93]:
+              - link "INSTITUCIONES Y" [ref=e94] [cursor=pointer]:
+                - /url: "#instituciones-y"
+            - listitem [ref=e95]:
+              - link "LEGISLACIÓN" [ref=e96] [cursor=pointer]:
+                - /url: "#legislacin"
+            - listitem [ref=e97]:
+              - link "AERONÁUTICA" [ref=e98] [cursor=pointer]:
+                - /url: "#aeronutica"
+            - listitem [ref=e99]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e100] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e101]:
+              - link "ÍNDICE" [ref=e102] [cursor=pointer]:
+                - /url: "#ndice"
+            - listitem [ref=e103]:
+              - link "1. INTRODUCCIÓN ____________________________________________________________ 5" [ref=e104] [cursor=pointer]:
+                - /url: "#1-introduccin-____________________________________________________________-5"
+            - listitem [ref=e105]:
+              - link "2. INSTITUCIONES INTERNACIONALES ________________________________________ 5" [ref=e106] [cursor=pointer]:
+                - /url: "#2-instituciones-internacionales-________________________________________-5"
+            - listitem [ref=e107]:
+              - link "2.4 EASA (EUROPEAN UNION AVIATION SAFETY AGENCY / AGENCIA DE SEGURIDAD" [ref=e108] [cursor=pointer]:
+                - /url: "#24-easa-european-union-aviation-safety-agency-agencia-de-seguridad"
+            - listitem [ref=e109]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e110] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e111]:
+              - link "3. INSTITUCIONES NACIONALES _____________________________________________ 23" [ref=e112] [cursor=pointer]:
+                - /url: "#3-instituciones-nacionales-_____________________________________________-23"
+            - listitem [ref=e113]:
+              - link "3.2. DESDOBLAMIENTO DE LA AUTORIDAD AERONÁUTICA ________________________ 23" [ref=e114] [cursor=pointer]:
+                - /url: "#32-desdoblamiento-de-la-autoridad-aeronutica-________________________-23"
+            - listitem [ref=e115]:
+              - link "3.4. AESA (AGENCIA ESTATAL DE SEGURIDAD AÉREA) ____________________________ 26" [ref=e116] [cursor=pointer]:
+                - /url: "#34-aesa-agencia-estatal-de-seguridad-area-____________________________-26"
+            - listitem [ref=e117]:
+              - link "4. LEGISLACIÓN _____________________________________________________________ 32" [ref=e118] [cursor=pointer]:
+                - /url: "#4-legislacin-_____________________________________________________________-32"
+            - listitem [ref=e119]:
+              - link "4.2 FUENTES DEL DERECHO AERONÁUTICO ________________________________________ 32" [ref=e120] [cursor=pointer]:
+                - /url: "#42-fuentes-del-derecho-aeronutico-________________________________________-32"
+            - listitem [ref=e121]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e122] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e123]:
+              - link "4.3 RESUMEN DE LA NORMATIVA DE LA UNIÓN EUROPEA APLICABLE A ENAIRE ____ 35" [ref=e124] [cursor=pointer]:
+                - /url: "#43-resumen-de-la-normativa-de-la-unin-europea-aplicable-a-enaire-____-35"
+            - listitem [ref=e125]:
+              - link "4.4 RESUMEN DE LA NORMATIVA DE NACIONAL CON MAYORES IMPLICACIONES PARA" [ref=e126] [cursor=pointer]:
+                - /url: "#44-resumen-de-la-normativa-de-nacional-con-mayores-implicaciones-para"
+            - listitem [ref=e127]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e128] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e129]:
+              - link "1. INTRODUCCIÓN" [ref=e130] [cursor=pointer]:
+                - /url: "#1-introduccin"
+            - listitem [ref=e131]:
+              - link "2. INSTITUCIONES INTERNACIONALES" [ref=e132] [cursor=pointer]:
+                - /url: "#2-instituciones-internacionales"
+            - listitem [ref=e133]:
+              - link "2.1 OACI" [ref=e134] [cursor=pointer]:
+                - /url: "#21-oaci"
+            - listitem [ref=e135]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e136] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e137]:
+              - link "2.1.3 Misión" [ref=e138] [cursor=pointer]:
+                - /url: "#213-misin"
+            - listitem [ref=e139]:
+              - link "2.1.4 Objetivos" [ref=e140] [cursor=pointer]:
+                - /url: "#214-objetivos"
+            - listitem [ref=e141]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e142] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e143]:
+              - link "Asamblea" [ref=e144] [cursor=pointer]:
+                - /url: "#asamblea"
+            - listitem [ref=e145]:
+              - link "Consejo" [ref=e146] [cursor=pointer]:
+                - /url: "#consejo"
+            - listitem [ref=e147]:
+              - link "-" [ref=e148] [cursor=pointer]:
+                - /url: "#-"
+            - listitem [ref=e149]:
+              - link "Principales" [ref=e150] [cursor=pointer]:
+                - /url: "#principales"
+            - listitem [ref=e151]:
+              - link "Secretaría" [ref=e152] [cursor=pointer]:
+                - /url: "#secretara"
+            - listitem [ref=e153]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e154] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e155]:
+              - link "●" [ref=e156] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e157]:
+              - link "●" [ref=e158] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e159]:
+              - link "●" [ref=e160] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e161]:
+              - link "●" [ref=e162] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e163]:
+              - link "●" [ref=e164] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e165]:
+              - link "REGIONES OFICINAS" [ref=e166] [cursor=pointer]:
+                - /url: "#regiones-oficinas"
+            - listitem [ref=e167]:
+              - link "2.1.6 Documentación" [ref=e168] [cursor=pointer]:
+                - /url: "#216-documentacin"
+            - listitem [ref=e169]:
+              - link "2.1.6.1 Anexos" [ref=e170] [cursor=pointer]:
+                - /url: "#2161-anexos"
+            - listitem [ref=e171]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e172] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e173]:
+              - link "ANEXO NOMBRE" [ref=e174] [cursor=pointer]:
+                - /url: "#anexo-nombre"
+            - listitem [ref=e175]:
+              - link "8 Aeronavegabilidad" [ref=e176] [cursor=pointer]:
+                - /url: "#8-aeronavegabilidad"
+            - listitem [ref=e177]:
+              - link "9 Facilitación" [ref=e178] [cursor=pointer]:
+                - /url: "#9-facilitacin"
+            - listitem [ref=e179]:
+              - link "14 Aeródromos" [ref=e180] [cursor=pointer]:
+                - /url: "#14-aerdromos"
+            - listitem [ref=e181]:
+              - link "2.1.6.2 Documentos" [ref=e182] [cursor=pointer]:
+                - /url: "#2162-documentos"
+            - listitem [ref=e183]:
+              - link "ANEXO MANUAL QUE LO DESARROLLA" [ref=e184] [cursor=pointer]:
+                - /url: "#anexo-manual-que-lo-desarrolla"
+            - listitem [ref=e185]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e186] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e187]:
+              - link "(PANS–ATM)" [ref=e188] [cursor=pointer]:
+                - /url: "#pansatm"
+            - listitem [ref=e189]:
+              - link "(PANS – OPS)" [ref=e190] [cursor=pointer]:
+                - /url: "#pans-ops"
+            - listitem [ref=e191]:
+              - link "2.1.6.3 Circulares" [ref=e192] [cursor=pointer]:
+                - /url: "#2163-circulares"
+            - listitem [ref=e193]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e194] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e195]:
+              - link "2.2 EUROCONTROL" [ref=e196] [cursor=pointer]:
+                - /url: "#22-eurocontrol"
+            - listitem [ref=e197]:
+              - link "2.2.1 Orígenes" [ref=e198] [cursor=pointer]:
+                - /url: "#221-orgenes"
+            - listitem [ref=e199]:
+              - link "2.2.2 Misión" [ref=e200] [cursor=pointer]:
+                - /url: "#222-misin"
+            - listitem [ref=e201]:
+              - link "2.2.3 Objetivos" [ref=e202] [cursor=pointer]:
+                - /url: "#223-objetivos"
+            - listitem [ref=e203]:
+              - link "2.2.4 Estructura" [ref=e204] [cursor=pointer]:
+                - /url: "#224-estructura"
+            - listitem [ref=e205]:
+              - link "ESTRUCTURA" [ref=e206] [cursor=pointer]:
+                - /url: "#estructura"
+            - listitem [ref=e207]:
+              - link "DE GOBIERNO" [ref=e208] [cursor=pointer]:
+                - /url: "#de-gobierno"
+            - listitem [ref=e209]:
+              - link "Comisión Permanente" [ref=e210] [cursor=pointer]:
+                - /url: "#comisin-permanente"
+            - listitem [ref=e211]:
+              - link "Consejo Provisional" [ref=e212] [cursor=pointer]:
+                - /url: "#consejo-provisional"
+            - listitem [ref=e213]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e214] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e215]:
+              - link "ESTRUCTURA" [ref=e216] [cursor=pointer]:
+                - /url: "#estructura"
+            - listitem [ref=e217]:
+              - link "EJECUTIVA" [ref=e218] [cursor=pointer]:
+                - /url: "#ejecutiva"
+            - listitem [ref=e219]:
+              - link "La Agencia" [ref=e220] [cursor=pointer]:
+                - /url: "#la-agencia"
+            - listitem [ref=e221]:
+              - link "" [ref=e222] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e223]:
+              - link "" [ref=e224] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e225]:
+              - link "Network Manager Directorate" [ref=e226] [cursor=pointer]:
+                - /url: "#network-manager-directorate"
+            - listitem [ref=e227]:
+              - link "" [ref=e228] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e229]:
+              - link "Directorate Air Traffic Management" [ref=e230] [cursor=pointer]:
+                - /url: "#directorate-air-traffic-management"
+            - listitem [ref=e231]:
+              - link "" [ref=e232] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e233]:
+              - link "" [ref=e234] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e235]:
+              - link "Directorate Central Route Charges Office" [ref=e236] [cursor=pointer]:
+                - /url: "#directorate-central-route-charges-office"
+            - listitem [ref=e237]:
+              - link "" [ref=e238] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e239]:
+              - link "ESTRUCTURA" [ref=e240] [cursor=pointer]:
+                - /url: "#estructura"
+            - listitem [ref=e241]:
+              - link "CONSULTIVA" [ref=e242] [cursor=pointer]:
+                - /url: "#consultiva"
+            - listitem [ref=e243]:
+              - link "●" [ref=e244] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e245]:
+              - link "●" [ref=e246] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e247]:
+              - link "●" [ref=e248] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e249]:
+              - link "●" [ref=e250] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e251]:
+              - link "●" [ref=e252] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e253]:
+              - link "●" [ref=e254] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e255]:
+              - link "●" [ref=e256] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e257]:
+              - link "●" [ref=e258] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e259]:
+              - link "●" [ref=e260] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e261]:
+              - link "Representatives Conference)" [ref=e262] [cursor=pointer]:
+                - /url: "#representatives-conference"
+            - listitem [ref=e263]:
+              - link "●" [ref=e264] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e265]:
+              - link "●" [ref=e266] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e267]:
+              - link "●" [ref=e268] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e269]:
+              - link "2.2.5 Normativa" [ref=e270] [cursor=pointer]:
+                - /url: "#225-normativa"
+            - listitem [ref=e271]:
+              - link "2.2.6 Documentación" [ref=e272] [cursor=pointer]:
+                - /url: "#226-documentacin"
+            - listitem [ref=e273]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e274] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e275]:
+              - link "Aérea." [ref=e276] [cursor=pointer]:
+                - /url: "#area"
+            - listitem [ref=e277]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e278] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e279]:
+              - link "2.3 UNIÓN EUROPEA" [ref=e280] [cursor=pointer]:
+                - /url: "#23-unin-europea"
+            - listitem [ref=e281]:
+              - link "2.3.1 Orígenes" [ref=e282] [cursor=pointer]:
+                - /url: "#231-orgenes"
+            - listitem [ref=e283]:
+              - link "1986." [ref=e284] [cursor=pointer]:
+                - /url: "#1986"
+            - listitem [ref=e285]:
+              - link "2.3.2 Misión" [ref=e286] [cursor=pointer]:
+                - /url: "#232-misin"
+            - listitem [ref=e287]:
+              - link "2.3.3 Objetivos" [ref=e288] [cursor=pointer]:
+                - /url: "#233-objetivos"
+            - listitem [ref=e289]:
+              - link "1. Económicos:" [ref=e290] [cursor=pointer]:
+                - /url: "#1-econmicos"
+            - listitem [ref=e291]:
+              - link "1" [ref=e292] [cursor=pointer]:
+                - /url: "#1"
+            - listitem [ref=e293]:
+              - link "1" [ref=e294] [cursor=pointer]:
+                - /url: "#1"
+            - listitem [ref=e295]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e296] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e297]:
+              - link "2.3.4 Estructura" [ref=e298] [cursor=pointer]:
+                - /url: "#234-estructura"
+            - listitem [ref=e299]:
+              - link "Parlamento Europeo" [ref=e300] [cursor=pointer]:
+                - /url: "#parlamento-europeo"
+            - listitem [ref=e301]:
+              - link "Consejo Europeo" [ref=e302] [cursor=pointer]:
+                - /url: "#consejo-europeo"
+            - listitem [ref=e303]:
+              - link "Unión Europea." [ref=e304] [cursor=pointer]:
+                - /url: "#unin-europea"
+            - listitem [ref=e305]:
+              - link "Comisión Europea" [ref=e306] [cursor=pointer]:
+                - /url: "#comisin-europea"
+            - listitem [ref=e307]:
+              - link "UE" [ref=e308] [cursor=pointer]:
+                - /url: "#ue"
+            - listitem [ref=e309]:
+              - link "(TJUE)" [ref=e310] [cursor=pointer]:
+                - /url: "#tjue"
+            - listitem [ref=e311]:
+              - link "(SEAE)" [ref=e312] [cursor=pointer]:
+                - /url: "#seae"
+            - listitem [ref=e313]:
+              - link "(CESE)" [ref=e314] [cursor=pointer]:
+                - /url: "#cese"
+            - listitem [ref=e315]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e316] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e317]:
+              - link "CAMPOS AFECTADOS TEMAS DE LAS NORMAS" [ref=e318] [cursor=pointer]:
+                - /url: "#campos-afectados-temas-de-las-normas"
+            - listitem [ref=e319]:
+              - link "2.3.6.1 Orígenes" [ref=e320] [cursor=pointer]:
+                - /url: "#2361-orgenes"
+            - listitem [ref=e321]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e322] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e323]:
+              - link "√ EUROCONTROL." [ref=e324] [cursor=pointer]:
+                - /url: "#-eurocontrol"
+            - listitem [ref=e325]:
+              - link "●" [ref=e326] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e327]:
+              - link "●" [ref=e328] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e329]:
+              - link "2.4.6.3" [ref=e330] [cursor=pointer]:
+                - /url: "#2463"
+            - listitem [ref=e331]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e332] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e333]:
+              - link "2" [ref=e334] [cursor=pointer]:
+                - /url: "#2"
+            - listitem [ref=e335]:
+              - link "Tasas" [ref=e336] [cursor=pointer]:
+                - /url: "#tasas"
+            - listitem [ref=e337]:
+              - link "2" [ref=e338] [cursor=pointer]:
+                - /url: "#2"
+            - listitem [ref=e339]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e340] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e341]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e342] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e343]:
+              - link "2.4 EASA (EUROPEAN UNION AVIATION SAFETY AGENCY / AGENCIA DE" [ref=e344] [cursor=pointer]:
+                - /url: "#24-easa-european-union-aviation-safety-agency-agencia-de"
+            - listitem [ref=e345]:
+              - link "SEGURIDAD AÉREA DE LA UNIÓN EUROPEA)" [ref=e346] [cursor=pointer]:
+                - /url: "#seguridad-area-de-la-unin-europea"
+            - listitem [ref=e347]:
+              - link "2.4.1 Orígenes" [ref=e348] [cursor=pointer]:
+                - /url: "#241-orgenes"
+            - listitem [ref=e349]:
+              - link "2.4.2 Misión" [ref=e350] [cursor=pointer]:
+                - /url: "#242-misin"
+            - listitem [ref=e351]:
+              - link "2.4.3 Objetivos" [ref=e352] [cursor=pointer]:
+                - /url: "#243-objetivos"
+            - listitem [ref=e353]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e354] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e355]:
+              - link "2.4.4 Estructura" [ref=e356] [cursor=pointer]:
+                - /url: "#244-estructura"
+            - listitem [ref=e357]:
+              - link "Administración" [ref=e358] [cursor=pointer]:
+                - /url: "#administracin"
+            - listitem [ref=e359]:
+              - link "Dirección" [ref=e360] [cursor=pointer]:
+                - /url: "#direccin"
+            - listitem [ref=e361]:
+              - link "Ejecutiva" [ref=e362] [cursor=pointer]:
+                - /url: "#ejecutiva"
+            - listitem [ref=e363]:
+              - link "- Composición" [ref=e364] [cursor=pointer]:
+                - /url: "#-composicin"
+            - listitem [ref=e365]:
+              - link "Unión Europea." [ref=e366] [cursor=pointer]:
+                - /url: "#unin-europea"
+            - listitem [ref=e367]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e368] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e369]:
+              - link "Unión Europea." [ref=e370] [cursor=pointer]:
+                - /url: "#unin-europea"
+            - listitem [ref=e371]:
+              - link "2.5 OTRAS ORGANIZACIONES" [ref=e372] [cursor=pointer]:
+                - /url: "#25-otras-organizaciones"
+            - listitem [ref=e373]:
+              - link "EUROCAE" [ref=e374] [cursor=pointer]:
+                - /url: "#eurocae"
+            - listitem [ref=e375]:
+              - link "RCTA" [ref=e376] [cursor=pointer]:
+                - /url: "#rcta"
+            - listitem [ref=e377]:
+              - link "(CNS/ATM)" [ref=e378] [cursor=pointer]:
+                - /url: "#cnsatm"
+            - listitem [ref=e379]:
+              - link "IATA" [ref=e380] [cursor=pointer]:
+                - /url: "#iata"
+            - listitem [ref=e381]:
+              - link "CANSO" [ref=e382] [cursor=pointer]:
+                - /url: "#canso"
+            - listitem [ref=e383]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e384] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e385]:
+              - link "ACI" [ref=e386] [cursor=pointer]:
+                - /url: "#aci"
+            - listitem [ref=e387]:
+              - link "ESA" [ref=e388] [cursor=pointer]:
+                - /url: "#esa"
+            - listitem [ref=e389]:
+              - link "Siglas Agencia Espacial Europea / European Space Agency" [ref=e390] [cursor=pointer]:
+                - /url: "#siglas-agencia-espacial-europea-european-space-agency"
+            - listitem [ref=e391]:
+              - link "Miembros 23 Estados Miembros" [ref=e392] [cursor=pointer]:
+                - /url: "#miembros-23-estados-miembros"
+            - listitem [ref=e393]:
+              - link "3. INSTITUCIONES NACIONALES" [ref=e394] [cursor=pointer]:
+                - /url: "#3-instituciones-nacionales"
+            - listitem [ref=e395]:
+              - link "3.1. INSTITUCIONES NACIONALES" [ref=e396] [cursor=pointer]:
+                - /url: "#31-instituciones-nacionales"
+            - listitem [ref=e397]:
+              - link "3.2. DESDOBLAMIENTO DE LA AUTORIDAD AERONÁUTICA" [ref=e398] [cursor=pointer]:
+                - /url: "#32-desdoblamiento-de-la-autoridad-aeronutica"
+            - listitem [ref=e399]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e400] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e401]:
+              - link "3.3. DGAC (DIRECCIÓN GENERAL DE AVIACIÓN CIVIL)" [ref=e402] [cursor=pointer]:
+                - /url: "#33-dgac-direccin-general-de-aviacin-civil"
+            - listitem [ref=e403]:
+              - link "3.3.1. Funciones" [ref=e404] [cursor=pointer]:
+                - /url: "#331-funciones"
+            - listitem [ref=e405]:
+              - link "Específicas" [ref=e406] [cursor=pointer]:
+                - /url: "#especficas"
+            - listitem [ref=e407]:
+              - link "•" [ref=e408] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e409]:
+              - link "•" [ref=e410] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e411]:
+              - link "•" [ref=e412] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e413]:
+              - link "•" [ref=e414] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e415]:
+              - link "•" [ref=e416] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e417]:
+              - link "Ministerio." [ref=e418] [cursor=pointer]:
+                - /url: "#ministerio"
+            - listitem [ref=e419]:
+              - link "•" [ref=e420] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e421]:
+              - link "•" [ref=e422] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e423]:
+              - link "Propuestas" [ref=e424] [cursor=pointer]:
+                - /url: "#propuestas"
+            - listitem [ref=e425]:
+              - link "•" [ref=e426] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e427]:
+              - link "Aeropuertos" [ref=e428] [cursor=pointer]:
+                - /url: "#aeropuertos"
+            - listitem [ref=e429]:
+              - link "•" [ref=e430] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e431]:
+              - link "Aeropuertos" [ref=e432] [cursor=pointer]:
+                - /url: "#aeropuertos"
+            - listitem [ref=e433]:
+              - link "•" [ref=e434] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e435]:
+              - link "•" [ref=e436] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e437]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e438] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e439]:
+              - link "•" [ref=e440] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e441]:
+              - link "•" [ref=e442] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e443]:
+              - link "•" [ref=e444] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e445]:
+              - link "3.3.2. Estructura" [ref=e446] [cursor=pointer]:
+                - /url: "#332-estructura"
+            - listitem [ref=e447]:
+              - link "Subdirección General" [ref=e448] [cursor=pointer]:
+                - /url: "#subdireccin-general"
+            - listitem [ref=e449]:
+              - link "Subdirección General" [ref=e450] [cursor=pointer]:
+                - /url: "#subdireccin-general"
+            - listitem [ref=e451]:
+              - link "Navegación Aérea" [ref=e452] [cursor=pointer]:
+                - /url: "#navegacin-area"
+            - listitem [ref=e453]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e454] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e455]:
+              - link "3.4. AESA (AGENCIA ESTATAL DE SEGURIDAD AÉREA)" [ref=e456] [cursor=pointer]:
+                - /url: "#34-aesa-agencia-estatal-de-seguridad-area"
+            - listitem [ref=e457]:
+              - link "3.4.1. Funciones" [ref=e458] [cursor=pointer]:
+                - /url: "#341-funciones"
+            - listitem [ref=e459]:
+              - link "•" [ref=e460] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e461]:
+              - link "•" [ref=e462] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e463]:
+              - link "•" [ref=e464] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e465]:
+              - link "•" [ref=e466] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e467]:
+              - link "•" [ref=e468] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e469]:
+              - link "•" [ref=e470] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e471]:
+              - link "•" [ref=e472] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e473]:
+              - link "•" [ref=e474] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e475]:
+              - link "•" [ref=e476] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e477]:
+              - link "•" [ref=e478] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e479]:
+              - link "•" [ref=e480] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e481]:
+              - link "Colaboración" [ref=e482] [cursor=pointer]:
+                - /url: "#colaboracin"
+            - listitem [ref=e483]:
+              - link "•" [ref=e484] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e485]:
+              - link "•" [ref=e486] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e487]:
+              - link "Otras" [ref=e488] [cursor=pointer]:
+                - /url: "#otras"
+            - listitem [ref=e489]:
+              - link "•" [ref=e490] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e491]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e492] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e493]:
+              - link "3.4.2. Estructura" [ref=e494] [cursor=pointer]:
+                - /url: "#342-estructura"
+            - listitem [ref=e495]:
+              - link "(DSA)" [ref=e496] [cursor=pointer]:
+                - /url: "#dsa"
+            - listitem [ref=e497]:
+              - link "3.5.1. Orígenes" [ref=e498] [cursor=pointer]:
+                - /url: "#351-orgenes"
+            - listitem [ref=e499]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e500] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e501]:
+              - link "3.5.2. Gestión" [ref=e502] [cursor=pointer]:
+                - /url: "#352-gestin"
+            - listitem [ref=e503]:
+              - link "3.5.3. Funciones" [ref=e504] [cursor=pointer]:
+                - /url: "#353-funciones"
+            - listitem [ref=e505]:
+              - link "Aeropuertos" [ref=e506] [cursor=pointer]:
+                - /url: "#aeropuertos"
+            - listitem [ref=e507]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e508] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e509]:
+              - link "Sociedad." [ref=e510] [cursor=pointer]:
+                - /url: "#sociedad"
+            - listitem [ref=e511]:
+              - link "Formación" [ref=e512] [cursor=pointer]:
+                - /url: "#formacin"
+            - listitem [ref=e513]:
+              - link "3.6. ENAIRE E.P.E." [ref=e514] [cursor=pointer]:
+                - /url: "#36-enaire-epe"
+            - listitem [ref=e515]:
+              - link "3.6.1. Orígenes" [ref=e516] [cursor=pointer]:
+                - /url: "#361-orgenes"
+            - listitem [ref=e517]:
+              - link "3.6.2. Gestión" [ref=e518] [cursor=pointer]:
+                - /url: "#362-gestin"
+            - listitem [ref=e519]:
+              - link "3.6.3. Funciones" [ref=e520] [cursor=pointer]:
+                - /url: "#363-funciones"
+            - listitem [ref=e521]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e522] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e523]:
+              - link "3.7. ASOCIACIONES" [ref=e524] [cursor=pointer]:
+                - /url: "#37-asociaciones"
+            - listitem [ref=e525]:
+              - link "AECA" [ref=e526] [cursor=pointer]:
+                - /url: "#aeca"
+            - listitem [ref=e527]:
+              - link "ALA" [ref=e528] [cursor=pointer]:
+                - /url: "#ala"
+            - listitem [ref=e529]:
+              - link "ACETA" [ref=e530] [cursor=pointer]:
+                - /url: "#aceta"
+            - listitem [ref=e531]:
+              - link "AOC" [ref=e532] [cursor=pointer]:
+                - /url: "#aoc"
+            - listitem [ref=e533]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e534] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e535]:
+              - link "3.8. COMISIONES Y SUBCOMITÉ" [ref=e536] [cursor=pointer]:
+                - /url: "#38-comisiones-y-subcomit"
+            - listitem [ref=e537]:
+              - link "CIDETRA" [ref=e538] [cursor=pointer]:
+                - /url: "#cidetra"
+            - listitem [ref=e539]:
+              - link "CIPAI" [ref=e540] [cursor=pointer]:
+                - /url: "#cipai"
+            - listitem [ref=e541]:
+              - link "SCA" [ref=e542] [cursor=pointer]:
+                - /url: "#sca"
+            - listitem [ref=e543]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e544] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e545]:
+              - link "4. LEGISLACIÓN" [ref=e546] [cursor=pointer]:
+                - /url: "#4-legislacin"
+            - listitem [ref=e547]:
+              - link "4.1 DERECHO AERONÁUTICO" [ref=e548] [cursor=pointer]:
+                - /url: "#41-derecho-aeronutico"
+            - listitem [ref=e549]:
+              - link "D. Administrativo" [ref=e550] [cursor=pointer]:
+                - /url: "#d-administrativo"
+            - listitem [ref=e551]:
+              - link "4.2 FUENTES DEL DERECHO AERONÁUTICO" [ref=e552] [cursor=pointer]:
+                - /url: "#42-fuentes-del-derecho-aeronutico"
+            - listitem [ref=e553]:
+              - link "2. Derecho Comunitario" [ref=e554] [cursor=pointer]:
+                - /url: "#2-derecho-comunitario"
+            - listitem [ref=e555]:
+              - link "ACUERDOS" [ref=e556] [cursor=pointer]:
+                - /url: "#acuerdos"
+            - listitem [ref=e557]:
+              - link "MULTILATE-" [ref=e558] [cursor=pointer]:
+                - /url: "#multilate-"
+            - listitem [ref=e559]:
+              - link "RALES" [ref=e560] [cursor=pointer]:
+                - /url: "#rales"
+            - listitem [ref=e561]:
+              - link "Ordenamiento" [ref=e562] [cursor=pointer]:
+                - /url: "#ordenamiento"
+            - listitem [ref=e563]:
+              - link "Tipos" [ref=e564] [cursor=pointer]:
+                - /url: "#tipos"
+            - listitem [ref=e565]:
+              - link "1969." [ref=e566] [cursor=pointer]:
+                - /url: "#1969"
+            - listitem [ref=e567]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e568] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e569]:
+              - link "CONVENIOS" [ref=e570] [cursor=pointer]:
+                - /url: "#convenios"
+            - listitem [ref=e571]:
+              - link "BILATERALES" [ref=e572] [cursor=pointer]:
+                - /url: "#bilaterales"
+            - listitem [ref=e573]:
+              - link "Ordenamiento" [ref=e574] [cursor=pointer]:
+                - /url: "#ordenamiento"
+            - listitem [ref=e575]:
+              - link "Tipos" [ref=e576] [cursor=pointer]:
+                - /url: "#tipos"
+            - listitem [ref=e577]:
+              - link "LIBERTADES" [ref=e578] [cursor=pointer]:
+                - /url: "#libertades"
+            - listitem [ref=e579]:
+              - link "DEL AIRE" [ref=e580] [cursor=pointer]:
+                - /url: "#del-aire"
+            - listitem [ref=e581]:
+              - link "Técnicas" [ref=e582] [cursor=pointer]:
+                - /url: "#tcnicas"
+            - listitem [ref=e583]:
+              - link "Comerciales" [ref=e584] [cursor=pointer]:
+                - /url: "#comerciales"
+            - listitem [ref=e585]:
+              - link "Otras" [ref=e586] [cursor=pointer]:
+                - /url: "#otras"
+            - listitem [ref=e587]:
+              - link "Estado." [ref=e588] [cursor=pointer]:
+                - /url: "#estado"
+            - listitem [ref=e589]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e590] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e591]:
+              - link "REGLAMENTOS" [ref=e592] [cursor=pointer]:
+                - /url: "#reglamentos"
+            - listitem [ref=e593]:
+              - link "COMUNITARIOS" [ref=e594] [cursor=pointer]:
+                - /url: "#comunitarios"
+            - listitem [ref=e595]:
+              - link "Seguridad Aérea." [ref=e596] [cursor=pointer]:
+                - /url: "#seguridad-area"
+            - listitem [ref=e597]:
+              - link "DIRECTIVAS" [ref=e598] [cursor=pointer]:
+                - /url: "#directivas"
+            - listitem [ref=e599]:
+              - link "COMUNITARIAS" [ref=e600] [cursor=pointer]:
+                - /url: "#comunitarias"
+            - listitem [ref=e601]:
+              - link "DECISIONES" [ref=e602] [cursor=pointer]:
+                - /url: "#decisiones"
+            - listitem [ref=e603]:
+              - link "COMUNITARIAS" [ref=e604] [cursor=pointer]:
+                - /url: "#comunitarias"
+            - listitem [ref=e605]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e606] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e607]:
+              - link "- Leyes" [ref=e608] [cursor=pointer]:
+                - /url: "#-leyes"
+            - listitem [ref=e609]:
+              - link "- Reales Decretos" [ref=e610] [cursor=pointer]:
+                - /url: "#-reales-decretos"
+            - listitem [ref=e611]:
+              - link "- Órdenes Ministeriales" [ref=e612] [cursor=pointer]:
+                - /url: "#-rdenes-ministeriales"
+            - listitem [ref=e613]:
+              - link "- Circulares Aeronáuticas" [ref=e614] [cursor=pointer]:
+                - /url: "#-circulares-aeronuticas"
+            - listitem [ref=e615]:
+              - link "4.2.3.1 Circulares Aeronáuticas" [ref=e616] [cursor=pointer]:
+                - /url: "#4231-circulares-aeronuticas"
+            - listitem [ref=e617]:
+              - link "4.3 RESUMEN DE LA NORMATIVA DE LA UNIÓN EUROPEA APLICABLE A ENAIRE" [ref=e618] [cursor=pointer]:
+                - /url: "#43-resumen-de-la-normativa-de-la-unin-europea-aplicable-a-enaire"
+            - listitem [ref=e619]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e620] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e621]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e622] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e623]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e624] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e625]:
+              - 'link "▪ Capítulo 3: Señales." [ref=e626] [cursor=pointer]':
+                - /url: "#-captulo-3-seales"
+            - listitem [ref=e627]:
+              - 'link "▪ Capítulo 4: Hora." [ref=e628] [cursor=pointer]':
+                - /url: "#-captulo-4-hora"
+            - listitem [ref=e629]:
+              - link "Apéndice 1. Señales" [ref=e630] [cursor=pointer]:
+                - /url: "#apndice-1-seales"
+            - listitem [ref=e631]:
+              - link "ATM." [ref=e632] [cursor=pointer]:
+                - /url: "#atm"
+            - listitem [ref=e633]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e634] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e635]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e636] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e637]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e638] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e639]:
+              - link "ATM/ANS" [ref=e640] [cursor=pointer]:
+                - /url: "#atmans"
+            - listitem [ref=e641]:
+              - link "Europa." [ref=e642] [cursor=pointer]:
+                - /url: "#europa"
+            - listitem [ref=e643]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e644] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e645]:
+              - link "4.4 RESUMEN DE LA NORMATIVA DE NACIONAL CON MAYORES IMPLICACIONES" [ref=e646] [cursor=pointer]:
+                - /url: "#44-resumen-de-la-normativa-de-nacional-con-mayores-implicaciones"
+            - listitem [ref=e647]:
+              - link "PARA ENAIRE" [ref=e648] [cursor=pointer]:
+                - /url: "#para-enaire"
+            - listitem [ref=e649]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e650] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e651]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e652] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e653]:
+              - link "Ley 8/2011." [ref=e654] [cursor=pointer]:
+                - /url: "#ley-82011"
+            - listitem [ref=e655]:
+              - link "Administrativo." [ref=e656] [cursor=pointer]:
+                - /url: "#administrativo"
+            - listitem [ref=e657]:
+              - link "Administración Pública." [ref=e658] [cursor=pointer]:
+                - /url: "#administracin-pblica"
+            - listitem [ref=e659]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e660] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e661]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e662] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e663]:
+              - link "Funciones:" [ref=e664] [cursor=pointer]:
+                - /url: "#funciones"
+            - listitem [ref=e665]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e666] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e667]:
+              - link "Servicios." [ref=e668] [cursor=pointer]:
+                - /url: "#servicios"
+            - listitem [ref=e669]:
+              - link "(CIDETRA)." [ref=e670] [cursor=pointer]:
+                - /url: "#cidetra"
+            - listitem [ref=e671]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e672] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e673]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e674] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e675]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e676] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e677]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e678] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e679]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e680] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e681]:
+              - link "4.4.7 Aeropuertos" [ref=e682] [cursor=pointer]:
+                - /url: "#447-aeropuertos"
+            - listitem [ref=e683]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e684] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+            - listitem [ref=e685]:
+              - link "1981." [ref=e686] [cursor=pointer]:
+                - /url: "#1981"
+            - listitem [ref=e687]:
+              - 'link "Elaborado: Noviembre 2025" [ref=e688] [cursor=pointer]':
+                - /url: "#elaborado-noviembre-2025"
+        - article [ref=e689]:
+          - heading "INSTITUCIONES Y" [level=2] [ref=e690]
+          - heading "LEGISLACIÓN" [level=2] [ref=e691]
+          - heading "AERONÁUTICA" [level=2] [ref=e692]
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e693]'
+          - paragraph [ref=e694]: "Página: 2 de 54"
+          - paragraph [ref=e695]: Instituciones y Legislación Aeronáutica
+          - heading "ÍNDICE" [level=2] [ref=e696]
+          - heading "1. INTRODUCCIÓN ____________________________________________________________ 5" [level=2] [ref=e697]
+          - heading "2. INSTITUCIONES INTERNACIONALES ________________________________________ 5" [level=2] [ref=e698]
+          - paragraph [ref=e699]: 2.1 OACI ___________________________________________________________________________ 5 2.1.1 Sobre la OACI _________________________________________________________________________ 5 2.1.2 Orígenes. La Conferencia de Chicago ____________________________________________________ 5 2.1.3 Misión ________________________________________________________________________________ 6 2.1.4 Objetivos ______________________________________________________________________________ 6 2.1.5 Estructura de OACI _____________________________________________________________________ 7 2.1.6 Documentación ________________________________________________________________________ 8 2.2 EUROCONTROL ________________________________________________________________ 11 2.2.1 Orígenes _____________________________________________________________________________ 11 2.2.2 Misión _______________________________________________________________________________ 11 2.2.3 Objetivos _____________________________________________________________________________ 11 2.2.4 Estructura ____________________________________________________________________________ 11 2.2.5 Normativa ____________________________________________________________________________ 12 2.2.6 Documentación _______________________________________________________________________ 12 2.2.7 EAD (European AIS Database / Base de datos AIS a nivel europeo) ________________________ 13 2.2.8 MUAC (Maastricht Upper Area Control Centre / Centro de control de área en espacio aéreo superior en Maastricht) _________________________________________________________________________ 13 2.2.9 Participación de España _______________________________________________________________ 13 2.2.10 Participación ENAIRE _________________________________________________________________ 13 2.3 UNIÓN EUROPEA ______________________________________________________________ 14 2.3.1 Orígenes _____________________________________________________________________________ 14 2.3.2 Misión _______________________________________________________________________________ 14 2.3.3 Objetivos _____________________________________________________________________________ 14 2.3.4 Estructura ____________________________________________________________________________ 15 2.3.5 Normativa en materia de transporte aéreo _______________________________________________ 15 2.3.6 Cielo Único Europeo (Single European Sky, SES) ________________________________________ 16 2.3.7 Participación de España _______________________________________________________________ 20
+          - heading "2.4 EASA (EUROPEAN UNION AVIATION SAFETY AGENCY / AGENCIA DE SEGURIDAD" [level=2] [ref=e700]
+          - paragraph [ref=e701]: AÉREA DE LA UNIÓN EUROPEA) _____________________________________________________ 20 2.4.1 Orígenes _____________________________________________________________________________ 20 2.4.2 Misión _______________________________________________________________________________ 20
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e702]'
+          - paragraph [ref=e703]: "Página: 3 de 54"
+          - paragraph [ref=e704]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e705]: 2.4.3 Objetivos _____________________________________________________________________________ 20 2.4.4 Estructura ____________________________________________________________________________ 21 2.4.5 Proceso de elaboración de normas ______________________________________________________ 22 2.5 OTRAS ORGANIZACIONES______________________________________________________ 22
+          - heading "3. INSTITUCIONES NACIONALES _____________________________________________ 23" [level=2] [ref=e706]
+          - paragraph [ref=e707]: 3.1. INSTITUCIONES NACIONALES ________________________________________________ 23
+          - heading "3.2. DESDOBLAMIENTO DE LA AUTORIDAD AERONÁUTICA ________________________ 23" [level=2] [ref=e708]
+          - paragraph [ref=e709]: 3.3. DGAC (DIRECCIÓN GENERAL DE AVIACIÓN CIVIL) _____________________________ 24 3.3.1. Funciones ____________________________________________________________________________ 24 3.3.2. Estructura ____________________________________________________________________________ 25 3.3.3. CIAIAC (Comisión de Investigación de Accidentes e Incidentes de Aviación Civil) ____________ 25
+          - heading "3.4. AESA (AGENCIA ESTATAL DE SEGURIDAD AÉREA) ____________________________ 26" [level=2] [ref=e710]
+          - paragraph [ref=e711]: 3.4.1. Funciones ____________________________________________________________________________ 26 3.4.2. Estructura ____________________________________________________________________________ 27 3.5. Aena S.M.E., S.A. _____________________________________________________________ 27 3.5.1. Orígenes _____________________________________________________________________________ 27 3.5.2. Gestión ______________________________________________________________________________ 28 3.5.3. Funciones ____________________________________________________________________________ 28 3.6. ENAIRE E.P.E. ________________________________________________________________ 29 3.6.1. Orígenes _____________________________________________________________________________ 29 3.6.2. Gestión ______________________________________________________________________________ 29 3.6.3. Funciones ____________________________________________________________________________ 29 3.7. ASOCIACIONES ______________________________________________________________ 30 3.8. COMISIONES Y SUBCOMITÉ __________________________________________________ 31
+          - heading "4. LEGISLACIÓN _____________________________________________________________ 32" [level=2] [ref=e712]
+          - paragraph [ref=e713]: 4.1 DERECHO AERONÁUTICO ______________________________________________________ 32
+          - heading "4.2 FUENTES DEL DERECHO AERONÁUTICO ________________________________________ 32" [level=2] [ref=e714]
+          - paragraph [ref=e715]: 4.2.1 Derecho internacional _________________________________________________________________ 32 4.2.2 Derecho comunitario ___________________________________________________________________ 33 4.2.3 Derecho nacional _____________________________________________________________________ 35
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e716]'
+          - paragraph [ref=e717]: "Página: 4 de 54"
+          - paragraph [ref=e718]: Instituciones y Legislación Aeronáutica
+          - heading "4.3 RESUMEN DE LA NORMATIVA DE LA UNIÓN EUROPEA APLICABLE A ENAIRE ____ 35" [level=2] [ref=e719]
+          - paragraph [ref=e720]: 4.3.1 Marco para la creación del Cielo Único Europeo __________________________________________ 35 4.3.2 Prestación de servicios de navegación aérea _____________________________________________ 36 4.3.3 Organización y utilización del espacio aéreo ______________________________________________ 37 4.3.4 Normas comunes en aviación civil y constitución de EASA _________________________________ 39 4.3.5 Investigación de accidentes e incidentes _________________________________________________ 41 4.3.6 Notificación de sucesos ________________________________________________________________ 41 4.3.7 Establecimiento de Empresa Común SESAR 3 ___________________________________________ 41
+          - heading "4.4 RESUMEN DE LA NORMATIVA DE NACIONAL CON MAYORES IMPLICACIONES PARA" [level=2] [ref=e721]
+          - paragraph [ref=e722]: ENAIRE _____________________________________________________________________________ 42 4.4.1 Normativa de primer nivel ______________________________________________________________ 43 4.4.2 Marco institucional ____________________________________________________________________ 44 4.4.3 Supervisión y certificación ______________________________________________________________ 48 4.4.4 Recursos humanos ____________________________________________________________________ 49 4.4.5 Sistemas y operaciones ________________________________________________________________ 50 4.4.6 Seguridad operacional _________________________________________________________________ 51 4.4.7 Aeropuertos __________________________________________________________________________ 52 4.4.8 Regulación económica _________________________________________________________________ 53 4.4.9 Regulación ambiental __________________________________________________________________ 54
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e723]'
+          - paragraph [ref=e724]: "Página: 5 de 54"
+          - paragraph [ref=e725]: Instituciones y Legislación Aeronáutica
+          - heading "1. INTRODUCCIÓN" [level=2] [ref=e726]
+          - paragraph [ref=e727]: La regulación de los servicios de navegación aérea es la función encargada de preservar tanto el orden como la seguridad en la provisión de dichos servicios, así como los derechos e intereses legítimos de los usuarios del transporte aéreo, mediante la ordenación, supervisión y control de sus diferentes sectores de actividad. En la actualidad, la Organización de Aviación Civil Internacional (OACI), se erige como el mayor órgano de regulación mundial para la aviación civil. Además, existe otras instituciones europeas y nacionales que emiten normativa en sus respectivos ámbitos de responsabilidad.
+          - heading "2. INSTITUCIONES INTERNACIONALES" [level=2] [ref=e728]
+          - paragraph [ref=e729]: La Navegación Aérea, como fenómeno que va más allá de las fronteras de los Estados, necesita de acuerdos y criterios comunes para el desarrollo y operación de los servicios aéreos internacionales. Los organismos internacionales constituyen el principal foro legal, humano y físico para la consecución de acuerdos y compromisos. Las organizaciones internacionales son creadas para gestionar intereses colectivos por medio de un tratado y dotadas de órganos para cumplir sus fines. Están compuestas por Estados y tanto su organización como fines se determinan mediante tratados, cartas, convenciones, etc.
+          - heading "2.1 OACI" [level=2] [ref=e730]
+          - paragraph [ref=e731]: "2.1.1 Sobre la OACI La Organización de Aviación Civil Internacional - OACI (ICAO –International Civil Aviation Organization) es un organismo especializado de las Naciones Unidas (ONU), creado por los Estados en 1944 para ejercer la administración y velar por la aplicación del Convenio sobre Aviación Civil Internacional (Convenio de Chicago). La OACI trabaja junto a los 193 Estados miembros del Convenio y a grupos de la industria para alcanzar un consenso sobre las Normas y métodos recomendados (SARPs) para la aviación civil internacional y sobre políticas que hagan posible que el sector de la aviación civil sea operacionalmente seguro, eficiente, protegido, económicamente sostenible y ambientalmente responsable. 2.1.2 Orígenes. La Conferencia de Chicago El marco actual de la regulación del transporte aéreo internacional tiene su origen en la Conferencia de Chicago, convocada a iniciativa del Gobierno de Estados Unidos en 1944 a fin de reunificar varios acuerdos vigentes hasta entonces y lograr una legislación de carácter internacional que regulase la navegación aérea y facilitase su desarrollo de cara a las décadas siguientes. Representantes de 54 países se reunieron en la ciudad estadounidense de Chicago, entre el 1 de noviembre y el 7 de diciembre de 1944, con la intención de:"
+          - list [ref=e732]:
+            - listitem [ref=e733]: Llegar a acuerdos que permitieran el establecimiento de rutas y servicios aéreos provisionales a nivel mundial.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e734]'
+          - paragraph [ref=e735]: "Página: 6 de 54"
+          - paragraph [ref=e736]: Instituciones y Legislación Aeronáutica
+          - list [ref=e737]:
+            - listitem [ref=e738]: "Establecer una junta o grupo interino responsable de recoger, registrar y estudiar datos relativos a la aviación internacional y hacer recomendaciones para sus mejoras. Para el día de su clausura, 52 de ellos habían firmado el nuevo Convenio sobre Aviación Civil Internacional que se había concertado. Este acuerdo histórico, más conocido entonces y ahora como el “Convenio de Chicago”:"
+            - listitem [ref=e739]: Sentó la base de las normas y procedimientos de la navegación aérea mundial en tiempos de paz.
+            - listitem [ref=e740]: Establecía como su objetivo principal que la aviación civil internacional debe desarrollarse… “de manera segura y ordenada” y que los servicios de transporte aéreo deben establecerse “sobre una base de igualdad de oportunidades y realizarse de modo sólido y económico”
+            - listitem [ref=e741]: Dio lugar a la creación del organismo especializado que desde entonces se encarga de su supervisión – la Organización de Aviación Civil Internacional (OACI).
+            - listitem [ref=e742]: Consta de una primera parte dedicada a regular la navegación internacional y una segunda que se centra en las características y funcionamiento de OACI. Debido a los retrasos en la ratificación de la Convención, la Conferencia de Chicago firmó un Acuerdo Interino que preveía la creación de una OACI Provisional (PICAO) que serviría como órgano asesor y coordinador temporal. El 4 de abril de 1947, al obtenerse el número suficiente de ratificaciones del Convenio de Chicago, los aspectos provisionales de la PICAO dejaron de ser pertinentes y pasó a denominarse oficialmente OACI (ICAO), celebrándose la primera Asamblea oficial de la OACI en Montreal en mayo de dicho año.
+          - heading "2.1.3 Misión" [level=2] [ref=e743]
+          - paragraph [ref=e744]: "Tiene como misión:"
+          - list [ref=e745]:
+            - listitem [ref=e746]: Velar por todos los aspectos relacionados con la armonización y normalización de métodos de operación de los servicios aéreos civiles internacionales
+            - listitem [ref=e747]: Desarrollar los principios y técnicas de la navegación aérea internacional
+            - listitem [ref=e748]: Fomentar la organización y desarrollo del transporte aéreo internacional mediante el establecimiento de principios, acuerdos, normas y reglamentos necesarios para la seguridad, regularidad y economía del transporte aéreo.
+          - heading "2.1.4 Objetivos" [level=2] [ref=e749]
+          - paragraph [ref=e750]: "Para apoyar y facilitar una red mundial de transporte aéreo que: ✓ satisfaga o supere las necesidades de desarrollo social y económico y de una conectividad más amplia de empresas y pasajeros en todo el mundo, ✓ reconozca la clara necesidad de prever y manejar la duplicación proyectada de la capacidad del transporte aéreo mundial para 2030,"
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e751]'
+          - paragraph [ref=e752]: "Página: 7 de 54"
+          - paragraph [ref=e753]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e754]: "✓ no tenga repercusiones adversas innecesarias en la seguridad operacional, la eficiencia, la conveniencia y el comportamiento medioambiental del sistema, La OACI ha establecido los siguientes objetivos estratégicos generales:"
+          - list [ref=e755]:
+            - listitem [ref=e756]: "Seguridad operacional: Fortalecer la seguridad operacional de la aviación civil mundial."
+            - listitem [ref=e757]: "Capacidad y eficiencia de la navegación aérea: Aumentar la capacidad y mejorar la eficiencia del sistema de la aviación civil mundial."
+            - listitem [ref=e758]: "Seguridad y Facilitación: Fortalecer la facilitación y la seguridad de la aviación civil mundial."
+            - listitem [ref=e759]: "Desarrollo económico del transporte aéreo: Fomentar el desarrollo de un sistema de aviación civil sólido y económicamente viable."
+            - listitem [ref=e760]: "Protección del medio ambiente: Minimizar los efectos ambientales adversos de las actividades de la aviación civil. 2.1.5 Estructura de OACI a) Asamblea, Consejo y Secretaría General Desde su fundación, OACI tiene su sede permanente en Montreal (Canadá). Está compuesta por:"
+          - heading "Asamblea" [level=2] [ref=e761]
+          - list [ref=e762]:
+            - listitem [ref=e763]: Es el órgano soberano de la Organización, constituido por todos los Estados Miembros de la OACI.
+            - listitem [ref=e764]: Se reúne al menos una vez cada tres años, convocada por el Consejo.
+            - listitem [ref=e765]: Todos los Estados tienen igual derecho a estar representados y ninguna persona podrá representar a más de un Estado.
+            - listitem [ref=e766]: Cada Estado tiene derecho a un voto y las decisiones se toman por mayoría de los votos emitidos, salvo cuando el Consejo establezca lo contrario.
+            - listitem [ref=e767]: revisan y adoptan las prioridades del programa de trabajo y el presupuesto de la OACI, establecen políticas y objetivos del sector público para el transporte aéreo internacional y respaldan la planificación estratégica global desarrollada por la Secretaría de la OACI, entre otras acciones y decisiones, para el trienio próximo.
+          - heading "Consejo" [level=2] [ref=e768]
+          - list [ref=e769]:
+            - listitem [ref=e770]: Es un órgano ejecutivo permanente, responsable ante la Asamblea y está integrado por representantes de 36 Estados contratantes, elegidos por la Asamblea para un mandato de tres años.
+          - heading "-" [level=2] [ref=e771]
+          - heading "Principales" [level=2] [ref=e772]
+          - paragraph [ref=e773]: funciones
+          - list [ref=e774]:
+            - listitem [ref=e775]: Convocar a la Asamblea.
+            - listitem [ref=e776]: Adoptar normas internacionales y métodos recomendados, e incorporarlos a los Anexos al Convenio sobre Aviación Civil Internacional, que cubren todos los aspectos de la aviación civil internacional.
+            - listitem [ref=e777]: Oficiar de árbitro entre los Estados Miembros en cuestiones relacionadas con la aviación y la aplicación de las disposiciones del Convenio.
+            - listitem [ref=e778]: Puede investigar cualquier situación que presente obstáculos evitables al desarrollo de la navegación aérea internacional.
+            - listitem [ref=e779]: tomar las medidas necesarias para mantener la seguridad operacional y regularidad del transporte aéreo internacional.
+            - listitem [ref=e780]: España forma parte del Consejo.
+          - heading "Secretaría" [level=2] [ref=e781]
+          - paragraph [ref=e782]: general
+          - list [ref=e783]:
+            - listitem [ref=e784]: Ejerce el liderazgo del personal internacional especializado en el ámbito de la aviación civil internacional.
+            - listitem [ref=e785]: También oficia de Secretaría del Consejo de la OACI, responsable ante el Consejo en su conjunto.
+            - listitem [ref=e786]: Lleva a cabo las funciones que le asigna el Consejo, respetando las políticas establecidas.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e787]'
+          - paragraph [ref=e788]: "Página: 8 de 54"
+          - paragraph [ref=e789]: Instituciones y Legislación Aeronáutica
+          - list [ref=e790]:
+            - listitem [ref=e791]: Prepara informes periódicos al Consejo sobre el desarrollo de las actividades de la Secretaría.
+          - heading "●" [level=2] [ref=e792]
+          - paragraph [ref=e793]: Oficina de navegación aérea
+          - heading "●" [level=2] [ref=e794]
+          - paragraph [ref=e795]: Oficina de transporte aéreo
+          - list [ref=e796]:
+            - listitem [ref=e797]: "Se compone de cinco oficinas:"
+          - heading "●" [level=2] [ref=e798]
+          - paragraph [ref=e799]: Oficina de desarrollo de capacidades e implementación
+          - heading "●" [level=2] [ref=e800]
+          - paragraph [ref=e801]: Oficina de asuntos jurídicos y relaciones externas
+          - heading "●" [level=2] [ref=e802]
+          - paragraph [ref=e803]: Oficina de administración y servicios
+          - paragraph [ref=e804]: "b) Regiones Con el objetivo de descentralizar la gestión y estar más próxima a los problemas de las diferentes zonas del mundo, OACI se configura en nueve regiones de navegación aérea que son dirigidas a través de siete oficinas:"
+          - heading "REGIONES OFICINAS" [level=2] [ref=e805]
+          - paragraph [ref=e806]: Región del Pacífico (PAC) la Oficina Asia y Pacífico, en Bangkok, Tailandia Región de Asia (ASIA) Región de África-Océano Índico (AFI) la Oficina África oriental y meridional, en Nairobi, Kenia la Oficina África occidental y central, en Dakar, Senegal Región de Europa (EUR) La Oficina Europa y Atlántico Norte, en París, Francia Región del Atlántico Norte (NAT) Región del Oriente Medio (MID) la Oficina Oriente Medio, en El Cairo, Egipto Región de América del Norte (NAM) la Oficina América del Norte, América Central y Caribe, Región del Caribe (CAR) en la Ciudad de México, México Región de América del Sur (SAM) la Oficina América del Sur, en Lima, Perú.
+          - heading "2.1.6 Documentación" [level=2] [ref=e807]
+          - paragraph [ref=e808]: "Se compone de anexos, documentos y circulares:"
+          - heading "2.1.6.1 Anexos" [level=2] [ref=e809]
+          - paragraph [ref=e810]: Para la consecución de los fines establecidos en el Convenio de Chicago, OACI tiene establecidos 19 anexos, en los que se detallan, con carácter general, los distintos aspectos relacionados con la regulación de la aviación civil. Los anexos tienen por objeto el establecimiento de ciertos niveles mínimos de actuación y prestación de servicios mediante normas y métodos recomendados, así como la consecución de determinada uniformidad en su aplicación.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e811]'
+          - paragraph [ref=e812]: "Página: 9 de 54"
+          - paragraph [ref=e813]: Instituciones y Legislación Aeronáutica
+          - heading "ANEXO NOMBRE" [level=2] [ref=e814]
+          - paragraph [ref=e815]: 1 Licencias al personal 2 Reglamento del aire 3 Servicio meteorológico para la navegación aérea internacional 4 Cartas aeronáuticas 5 Unidades de medida que se emplearán en las operaciones aéreas y terrestres 6 Operación de aeronaves 7 Marcas de nacionalidad y de matrícula de las aeronaves
+          - heading "8 Aeronavegabilidad" [level=2] [ref=e816]
+          - heading "9 Facilitación" [level=2] [ref=e817]
+          - paragraph [ref=e818]: 10 Telecomunicaciones aeronáuticas 11 Servicios de tránsito aéreo 12 Búsqueda y salvamento 13 Investigación de accidentes e incidentes de aviación
+          - heading "14 Aeródromos" [level=2] [ref=e819]
+          - paragraph [ref=e820]: 15 Servicios de información aeronáutica 16 Protección del medio ambiente 17 Seguridad — Protección de la aviación civil internacional contra actos de interferencia ilícita 18 Transporte sin riesgos de mercancías peligrosas por vía aérea 19 Gestión de la seguridad operacional.
+          - heading "2.1.6.2 Documentos" [level=2] [ref=e821]
+          - paragraph [ref=e822]: "Además de los 19 anexos, OACI produce los llamados documentos, en los que se desarrolla al detalle el contenido de los Anexos. Un Anexo puede tener varios desarrollos en manuales:"
+          - heading "ANEXO MANUAL QUE LO DESARROLLA" [level=2] [ref=e823]
+          - paragraph [ref=e824]: Anexo 2 Reglamento del aire Doc. 4444 Gestión del Tránsito Aéreo Doc. 7030 Procedimientos suplementarios regionales Anexo 4 Cartas aeronáuticas Doc. 8697 Manual de cartas aeronáuticas
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e825]'
+          - paragraph [ref=e826]: "Página: 10 de 54"
+          - paragraph [ref=e827]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e828]: "Algunos ejemplos son: Nº Doc. TITULO CONTENIDO 9750 Plan mundial de navegación aérea (GANP)"
+          - paragraph [ref=e829]: Es un marco general que incluye los principios clave de la política de aviación civil en el periodo 2016-2030 para ayudar a las Regiones, subregiones y Estados de la OACI a preparar sus planes Regionales y Estatales de navegación aérea. El objetivo del GANP es aumentar la capacidad y mejorar la eficiencia del sistema mundial de aviación civil mejorando o, al menos, manteniendo la seguridad operacional, e incluye estrategias para abordar los otros Objetivos Estratégicos de la OACI. 4444 Gestión del tránsito aéreo
+          - heading "(PANS–ATM)" [level=2] [ref=e830]
+          - paragraph [ref=e831]: Estos procedimientos complementan las normas y métodos recomendados contenidos en los Anexos 2 y 11. Se especifican más detalladamente los procedimientos efectivos que han de aplicar las dependencias de los servicios de tránsito aéreo al tráfico aéreo para facilitar los diversos servicios de su ramo. 8168 Operación de aeronaves
+          - heading "(PANS – OPS)" [level=2] [ref=e832]
+          - paragraph [ref=e833]: "Volumen I - Procedimientos de vuelo Describe los procedimientos operacionales recomendados para guía del personal de operaciones de vuelo. Marca la necesidad de que el personal de operaciones y las tripulaciones de vuelo respeten estrictamente los procedimientos publicados, con el fin de lograr y preservar un nivel aceptable de seguridad en las operaciones. Volumen II — Construcción de procedimientos de vuelo visual y por instrumentos Sirve de guía para los especialistas en procedimientos, ya que:"
+          - list [ref=e834]:
+            - listitem [ref=e835]: Describe las áreas esenciales y las condiciones que deben satisfacer los márgenes de franqueamiento de obstáculos, para poder hacer regularmente, y con seguridad, vuelos por instrumentos.
+            - listitem [ref=e836]: Proporciona orientación básica a los Estados y a los explotadores y organismos que editan cartas de vuelo por instrumentos 8126 Manual para los servicios de información aeronáutica (AIS) Su objetivo es explicar las funciones básicas del AIS y describir el tipo de organización básica que se requiere, y ayudar a que se instruya al personal AIS
+          - heading "2.1.6.3 Circulares" [level=2] [ref=e837]
+          - paragraph [ref=e838]: "Funcionan como textos de orientación sobre determinados aspectos en materia de navegación aérea y aviación civil. Son ejemplos de circulares:"
+          - list [ref=e839]:
+            - listitem [ref=e840]: Circular 207, Operaciones simultaneas en pistas instrumentales paralelas o casi paralelas (SOIR)
+            - listitem [ref=e841]: Circular 247, Factores humanos, gestión y organización
+            - listitem [ref=e842]: Circular 257, Aspectos económicos en la navegación por satélite.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e843]'
+          - paragraph [ref=e844]: "Página: 11 de 54"
+          - paragraph [ref=e845]: Instituciones y Legislación Aeronáutica
+          - heading "2.2 EUROCONTROL" [level=2] [ref=e846]
+          - heading "2.2.1 Orígenes" [level=2] [ref=e847]
+          - paragraph [ref=e848]: EUROCONTROL es la Organización Europea para la Seguridad de la Navegación Aérea. Creada en 1960, es una organización intergubernamental civil y militar dedicada a apoyar la aviación europea. Cuenta actualmente con 42 Estados Miembros de Europa más 2 Estados del Acuerdo Global (Israel y Marruecos). Su sede está en Bruselas, con oficinas especializadas en otros tres países europeos (Países Bajos, Francia y Luxemburgo). España es miembro desde 1997 y, el 8 de octubre de 2002, se firmó el protocolo de adhesión de la Unión Europea al Convenio Revisado de EUROCONTROL, que ratificó en 2016 el parlamento español.
+          - heading "2.2.2 Misión" [level=2] [ref=e849]
+          - paragraph [ref=e850]: EUROCONTROL tiene como misión armonizar e integrar los servicios de navegación aérea en Europa, con miras a la creación de un sistema uniforme de gestión del tráfico aéreo (ATM) para los usuarios civiles y militares, a fin de lograr el desarrollo seguro, ordenado, rápido y económico del flujo de tráfico aéreo en toda Europa, al tiempo que minimiza el impacto medioambiental adverso.
+          - heading "2.2.3 Objetivos" [level=2] [ref=e851]
+          - paragraph [ref=e852]: "EUROCONTROL tiene como objetivos y prioridades estratégicas:"
+          - list [ref=e853]:
+            - listitem [ref=e854]: Liderar el diseño y la aplicación de la futura red de gestión del tráfico aéreo (ATM) en todo el continente europeo, en cooperación con partes interesadas de la aviación.
+            - listitem [ref=e855]: Continuar con la gestión eficiente de las funciones paneuropeas como la función centralizada de los flujos de tráfico aéreo y de capacidad (ATFCM).
+            - listitem [ref=e856]: Utilizar sus conocimientos especializados para apoyar las actividades de regulación ATM.
+            - listitem [ref=e857]: Proporcionar control regional de los servicios de tráfico aéreo, cuando así se solicite por los Estados.
+            - listitem [ref=e858]: Asegurar el éxito del programa SESAR (Single European Sky ATM Research / Investigación del Cielo Único Europeo ATM).
+          - heading "2.2.4 Estructura" [level=2] [ref=e859]
+          - heading "ESTRUCTURA" [level=2] [ref=e860]
+          - heading "DE GOBIERNO" [level=2] [ref=e861]
+          - heading "Comisión Permanente" [level=2] [ref=e862]
+          - paragraph [ref=e863]: (CN - Permanent Commission) Máximo Órgano de decisión
+          - list [ref=e864]:
+            - listitem [ref=e865]: Está compuesto por representantes de los estados a nivel ministerial
+            - listitem [ref=e866]: Formula las políticas generales de la Organización
+            - listitem [ref=e867]: Aprueba el presupuesto anual, el programa de cinco años, las normas contractuales, las normas financieras y de personal
+            - listitem [ref=e868]: Es responsable del nombramiento del Director General
+          - heading "Consejo Provisional" [level=2] [ref=e869]
+          - paragraph [ref=e870]: (PC - Provisional Council)
+          - list [ref=e871]:
+            - listitem [ref=e872]: Está compuesto por representantes de los estados a nivel de Directores Generales de Aviación Civil
+            - listitem [ref=e873]: Se encarga de la aplicación y funcionamiento de la política general establecida por la Comisión Permanente, así como de supervisar el trabajo de la Agencia
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e874]'
+          - paragraph [ref=e875]: "Página: 12 de 54"
+          - paragraph [ref=e876]: Instituciones y Legislación Aeronáutica
+          - heading "ESTRUCTURA" [level=2] [ref=e877]
+          - heading "EJECUTIVA" [level=2] [ref=e878]
+          - heading "La Agencia" [level=2] [ref=e879]
+          - paragraph [ref=e880]: "√ Es responsable de la ejecución de tareas previstas en el Convenio o que le encomiende la Comisión Permanente o el Consejo Provisional. √ Se compone:"
+          - heading "" [level=2] [ref=e881]
+          - paragraph [ref=e882]: "Director General: responsable de su gestión"
+          - heading "" [level=2] [ref=e883]
+          - heading "Network Manager Directorate" [level=2] [ref=e884]
+          - heading "" [level=2] [ref=e885]
+          - heading "Directorate Air Traffic Management" [level=2] [ref=e886]
+          - heading "" [level=2] [ref=e887]
+          - paragraph [ref=e888]: Directorate Pan-European Single Sky
+          - heading "" [level=2] [ref=e889]
+          - heading "Directorate Central Route Charges Office" [level=2] [ref=e890]
+          - heading "" [level=2] [ref=e891]
+          - paragraph [ref=e892]: Maastricht Upper Area Control Centre (MUAC)
+          - heading "ESTRUCTURA" [level=2] [ref=e893]
+          - heading "CONSULTIVA" [level=2] [ref=e894]
+          - heading "●" [level=2] [ref=e895]
+          - paragraph [ref=e896]: Comisión de Cuentas (Audit Board)
+          - heading "●" [level=2] [ref=e897]
+          - paragraph [ref=e898]: Comisión de evaluación de resultados (PRC - Performance Review Commission)
+          - heading "●" [level=2] [ref=e899]
+          - paragraph [ref=e900]: Comisión de Regulación de seguridad (SRC - Safety Regulation Commission)
+          - heading "●" [level=2] [ref=e901]
+          - paragraph [ref=e902]: Comité de partes interesadasCivil-Militar (CMSC - Civil-military Stakeholder Committee)
+          - heading "●" [level=2] [ref=e903]
+          - paragraph [ref=e904]: Comité Permanente de Finanzas (SCF - Standing Committee on Finance)
+          - heading "●" [level=2] [ref=e905]
+          - paragraph [ref=e906]: Junta de los Servicios de Navegación Aérea (ANSB - Air Navigation Services Board)
+          - heading "●" [level=2] [ref=e907]
+          - paragraph [ref=e908]: Junta de la Gestión de Tráfico Aéreo Militar (MAB - Military ATM Board)
+          - heading "●" [level=2] [ref=e909]
+          - paragraph [ref=e910]: Órgano Asesor de la Agencia (AAB - Agency Advisory Body)
+          - heading "●" [level=2] [ref=e911]
+          - paragraph [ref=e912]: Conferencia de Representantes de Personal ATM europeo (ESAC - European ATM Staff
+          - heading "Representatives Conference)" [level=2] [ref=e913]
+          - heading "●" [level=2] [ref=e914]
+          - paragraph [ref=e915]: Consejos Supervisores (SB - Supervisory Boards)
+          - heading "●" [level=2] [ref=e916]
+          - paragraph [ref=e917]: Comité de Coordinación del Consejo Provisional (PCC - PC Coordinating Committee)
+          - heading "●" [level=2] [ref=e918]
+          - paragraph [ref=e919]: Auditoría Interna (Internal Audit)
+          - heading "2.2.5 Normativa" [level=2] [ref=e920]
+          - paragraph [ref=e921]: Las normas ESARR son adoptadas por el Consejo Provisional y aprobadas por la Comisión de EUROCONTROL. Una vez aprobadas, los Estados miembros deberán incorporarlas a sus regulaciones internas, al tiempo que se recomienda a los Estados no miembros de la organización que hagan lo mismo.
+          - heading "2.2.6 Documentación" [level=2] [ref=e922]
+          - paragraph [ref=e923]: "El principal mecanismo de armonización puesto en marcha por la Comisión de Regulación de seguridad son las normas ESARR (EUROCONTROL Safety Regulation Requirements / Requerimientos reglamentarios de seguridad de Eurocontrol). Hasta el momento, se han aprobado seis normas ESARR que se han ido integrando en Reglamentos, Directivas y Leyes: ESARR 1 Safety Oversight in ATM ESARR 2 Reporting and Assessment of Safety Occurrences in ATM ESARR 3 Use of Safety Management System by ATM Service Providers"
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e924]'
+          - paragraph [ref=e925]: "Página: 13 de 54"
+          - paragraph [ref=e926]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e927]: "ESARR 4 Risk Assessment and Mitigation in ATM ESARR 5 ATM Services’ Personnel ESARR 6 Software in ATM Functional Systems 2.2.7 EAD (European AIS Database / Base de datos AIS a nivel europeo) EUROCONTROL tiene una posición particular en Europa, ya que tiene una visión europea global sobre los asuntos de gestión del tráfico aéreo en sus 42 Estados Miembros, y una serie de acuerdos bilaterales con otros proveedores. A este respecto cabe mencionar los servicios EAD, la base de datos AIS desarrollada por los estados miembros de EUROCONTROL con vista a asegurar la calidad de los datos aeronáuticos que contiene y destinada a su uso compartido por todos los usuarios del espacio aéreo. La EAD constituye una única fuente de referencia de información aeronáutica fiable (NOTAM y datos AIP) y de calidad que cubre la totalidad del continente europeo y más allá de sus fronteras, y permite la generación de boletines de información previos al vuelo (PIBs). 2.2.8 MUAC (Maastricht Upper Area Control Centre / Centro de control de área en espacio aéreo superior en Maastricht) Es el centro de control de tráfico aéreo de EUROCONTROL y proporciona servicios de navegación aérea uniformes en el espacio aéreo superior de Bélgica, Luxemburgo, Países Bajos y el noroeste de Alemania. 2.2.9 Participación de España España, como miembro de EUROCONTROL, pertenece y tiene representación en la Comisión Permanente y en el Consejo Provisional, y asimismo participa en el Comité de Coordinación del Consejo Provisional. Además, participa con expertos en las reuniones de trabajo que se desarrollan en los distintos órganos consultivos. 2.2.10 Participación ENAIRE ENAIRE participa en los siguientes grupos consultivos:"
+          - list [ref=e928]:
+            - listitem [ref=e929]: "ANSB: es el Consejo Asesor creado por el Consejo Provisional para elaborar y coordinar el punto de vista a los objetivos estratégicos, plan de negocios y presupuestos de EUROCONTROL, de los Proveedores de Servicio de Navegación Aérea, Aerolíneas, Aeropuertos y Militares (estos últimos, sin derecho a voto)."
+            - listitem [ref=e930]: "AAB: es el Órgano Asesor del Director General de la Agencia, en temas relacionados con los objetivos estratégicos del Consejo Provisional y la operación de la red ATM europea según lo establecido en el plan de negocio de EUROCONTROL. Enaire participa como Proveedor de Servicios de Navegación"
+          - heading "Aérea." [level=2] [ref=e931]
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e932]'
+          - paragraph [ref=e933]: "Página: 14 de 54"
+          - paragraph [ref=e934]: Instituciones y Legislación Aeronáutica
+          - heading "2.3 UNIÓN EUROPEA" [level=2] [ref=e935]
+          - heading "2.3.1 Orígenes" [level=2] [ref=e936]
+          - paragraph [ref=e937]: La Unión está compuesta por 27 Estados miembros, entre los que se encuentra España desde el 1 de enero de
+          - heading "1986." [level=2] [ref=e938]
+          - heading "2.3.2 Misión" [level=2] [ref=e939]
+          - paragraph [ref=e940]: Su misión final consiste en la convergencia política y económica del continente europeo, mediante la libre circulación de mercancías, capitales, personas y servicios.
+          - heading "2.3.3 Objetivos" [level=2] [ref=e941]
+          - paragraph [ref=e942]: "Los objetivos principales en cuanto al transporte y la navegación aérea son:"
+          - heading "1. Económicos:" [level=2] [ref=e943]
+          - paragraph [ref=e944]: − Libertad de acceso al mercado. − Libertad de tarifas en el campo de los transportes aéreos.
+          - list [ref=e945]:
+            - listitem [ref=e946]: Desarrollo e implantación de las redes transeuropeas
+          - heading "1" [level=2] [ref=e947]
+          - paragraph [ref=e948]: del transporte
+          - list [ref=e949]:
+            - listitem [ref=e950]: Desarrollo de las políticas de seguridad. − Seguridad operacional (aeronaves, productos, organizaciones que los operan, mantienen, diseñan y fabrican, y licencias a personas relacionadas) − Seguridad contra actos de interferencia ilícita, navegación aérea, medioambiente y de derechos de los pasajeros, entre otros
+            - listitem [ref=e951]: Impulso de la investigación y desarrollo. − El transporte aéreo es el medio de transporte que experimenta mayor crecimiento. Sin embargo, debe afrontar el problema de la saturación de sus infraestructuras. En este sentido, la Unión Europea pretende modernizar y adaptar las infraestructuras al creciente flujo de pasajeros, reforzando el derecho y la seguridad de estos últimos. Para ello, la Unión trabaja para unificar el cielo europeo. − La introducción de tecnologías que favorecen la gestión óptima del tráfico también permite conciliar la rentabilidad económica, la seguridad y el respeto del medio ambiente.
+          - heading "1" [level=2] [ref=e952]
+          - paragraph [ref=e953]: "Red transeuropea de transporte: es un conjunto planificado de redes prioritarias de transporte pensadas para facilitar la comunicación de personas y mercancías a lo largo de toda la Unión Europea"
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e954]'
+          - paragraph [ref=e955]: "Página: 15 de 54"
+          - paragraph [ref=e956]: Instituciones y Legislación Aeronáutica
+          - heading "2.3.4 Estructura" [level=2] [ref=e957]
+          - heading "Parlamento Europeo" [level=2] [ref=e958]
+          - paragraph [ref=e959]: Órgano de la UE elegido por sufragio directo, con responsabilidades legislativas, de supervisión y presupuestarias. Constituido por 720 eurodiputados.
+          - heading "Consejo Europeo" [level=2] [ref=e960]
+          - paragraph [ref=e961]: Definir la orientación y las prioridades políticas generales de la
+          - heading "Unión Europea." [level=2] [ref=e962]
+          - paragraph [ref=e963]: Constituido por Jefes de Estado o de Gobierno de los países de la UE, presidente de la Comisión Europea y alto representante para Asuntos Exteriores y Política de Seguridad. Consejo de la Unión Europea Representar a los Gobiernos de los Estados miembros, adoptar la legislación europea y coordinar las políticas de la UE. Constituido por Ministros de cada país de la UE, en función del tema que se vaya a tratar.
+          - heading "Comisión Europea" [level=2] [ref=e964]
+          - paragraph [ref=e965]: Velar por los intereses generales de la UE proponiendo y comprobando que se cumpla la legislación y aplicando las políticas y el presupuesto de la UE. Constituido por un equipo de comisarios, uno por cada país de la
+          - heading "UE" [level=2] [ref=e966]
+          - paragraph [ref=e967]: Tribunal de Justicia de la Unión Europea
+          - heading "(TJUE)" [level=2] [ref=e968]
+          - paragraph [ref=e969]: Garantizar que la legislación de la UE se interpreta y aplica de la misma manera en cada uno de los países miembros. Garantizar que los países miembros y las instituciones europeas cumplen la legislación de la UE. Banco Central Europeo (BCE) Gestionar el euro, mantener la estabilidad de los precios y llevar adelante la política económica y monetaria de la UE. Tribunal de Cuentas Europeo (TCE) Comprobar que los fondos de la UE se perciben y se utilizan correctamente, contribuir a mejorar la gestión financiera de la UE. Servicio Europeo de Acción Exterior
+          - heading "(SEAE)" [level=2] [ref=e970]
+          - paragraph [ref=e971]: Gestionar las relaciones diplomáticas de la UE con otros países fuera del territorio de la UE y dirigir la política exterior y de seguridad de la UE Comité Económico y Social Europeo
+          - heading "(CESE)" [level=2] [ref=e972]
+          - paragraph [ref=e973]: Órgano consultivo que representa a las organizaciones de trabajadores y empresarios y otros grupos de interés Comité Europeo de las Regiones (CDR) Organismo consultivo que representa a los entes regionales y locales de Europa Banco Europeo de Inversiones (BEI) Conceder financiación para proyectos que contribuyan a lograr los objetivos de la UE, tanto dentro como fuera de ella Defensor del Pueblo Europeo Investigar las reclamaciones contra las instituciones, organismos, oficinas y agencias de la UE. Supervisor Europeo de Protección de Datos (SEPD) Garantizar que, a la hora de tratar datos personales, las instituciones y organismos de la UE respetan el derecho a la intimidad de los ciudadanos.
+          - paragraph [ref=e974]: 2.3.5 Normativa en materia de transporte aéreo El carácter de las normas (obligatoria, consultiva, etc.) se desarrolla en el punto 4.2 Fuentes del derecho, 4.2.2 Derecho comunitario.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e975]'
+          - paragraph [ref=e976]: "Página: 16 de 54"
+          - paragraph [ref=e977]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e978]: "La UE ha creado distinta normativa en el campo de la aviación:"
+          - heading "CAMPOS AFECTADOS TEMAS DE LAS NORMAS" [level=2] [ref=e979]
+          - paragraph [ref=e980]: Mercado interior Normas comunes para la explotación de servicios aéreos. Tarifas y fletes de los servicios aéreos. Concesión de licencias a las compañías aéreas, etc. Prestación de servicios y licencias Un marco común para las tasas aeroportuarias. Asignación de franjas horarias. Licencias del personal de aviación civil y controlador de tránsito aéreo, etc. Derechos de los pasajeros Protección de los pasajeros aéreos. Derechos de las personas de movilidad reducida en el transporte aéreo. Sistemas informatizados de reserva, etc. Seguridad aérea Aviación civil y Agencia Europea de Seguridad Aérea. Seguridad en la aviación respecto accidentes e incidentes en la aviación civil. Seguridad aérea respecto a notificaciones de sucesos en la aviación civil y aeronaves de terceros países que utilizan los aeropuertos de la Comunidad, etc. Cielo único y gestión del tráfico aéreo
+          - list [ref=e981]:
+            - listitem [ref=e982]: "Paquete legislativo Cielo Único Europeo I: Marco para su creación. Prestación de servicios de navegación aérea en el mismo. Gestión del tráfico: Organización y utilización del espacio aéreo. Interoperabilidad de la red europea de gestión del tráfico aéreo."
+            - listitem [ref=e983]: "Paquete legislativo Cielo Único Europeo II: Establecimiento de un Sistema de Evaluación de Rendimientos. un Sistema Común de Tarificación, de los requisitos comunes para la prestación de servicios de navegación aérea. Ampliación de las competencias de la Agencia Europea de la Seguridad Aérea (EASA) a los ámbitos de aeródromos, control de tránsito aéreo y servicios de navegación aérea. Constitución de un Gestor de Red Europeo (Network Manager). Participación de las autoridades militares en la elaboración y aplicación del marco normativo. Establecimiento de Bloques Funcionales de Espacio Aéreo (FABs) Colaboración de la industria, compañías aéreas y proveedores de servicio de navegación aérea En la definición de nuevas soluciones tecnológicas a través del programa tecnológico SESAR y protección del medio ambiente, tales como: Clean Sky, Integración del medio ambiente en el ámbito de los transportes aéreos. Gestión del ruido en los aeropuertos de la UE, etc. Dimensión internacional Desarrollar la agenda de la política exterior comunitaria en el sector de la aviación. Acuerdos de servicio de transporte aéreo entre Estados miembros y países terceros, etc. Protección de la aviación Normas comunes sobre la seguridad de la aviación civil. Uso de escáneres de protección en los aeropuertos de la UE, etc."
+          - paragraph [ref=e984]: 2.3.6 Cielo Único Europeo (Single European Sky, SES)
+          - heading "2.3.6.1 Orígenes" [level=2] [ref=e985]
+          - paragraph [ref=e986]: En el año 1999 la Comisión Europea propuso la creación del Cielo Único Europeo para reformar la arquitectura de la red de gestión de tránsito aéreo europea (ATM) con objeto de alcanzar las necesidades futuras en cuanto a capacidad y seguridad a nivel europeo, desarrollando y poniendo en práctica una política común de transportes. Ello, entre otras cuestiones, suponía la necesidad de la homogeneización de los criterios técnicos y operacionales en la prestación de servicios de navegación aérea por parte de todos los Estados miembros.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e987]'
+          - paragraph [ref=e988]: "Página: 17 de 54"
+          - paragraph [ref=e989]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e990]: "Los objetivos clave iniciales de esta iniciativa SES fueron: a) Reestructurar el espacio aéreo europeo en función de los flujos de tráfico aéreo, sin perjuicio de las fronteras nacionales. b) Generar capacidad adicional para atender a la demanda futura prevista. c) Aumentar la eficiencia global del sistema europeo de gestión de tránsito aéreo. En el año 2000 las instituciones europeas comenzaron el desarrollo de un conjunto completo de medidas legislativas y de cooperación para lograr dichos objetivos SES, de tal forma que en abril de 2004 entraron en vigor los cuatro reglamentos comunitarios, pilares normativos de la iniciativa de Cielo Único Europeo, teniendo como principal objetivo la mejora global de las prestaciones del Sistema de Navegación Aérea europeo. Estos reglamentos han sido modificados y posteriormente derogados por los actuales:"
+          - list [ref=e991]:
+            - listitem [ref=e992]: Reglamento UE 2018/1139 sobre normas comunes en el ámbito de la aviación civil y por el que se crea una Agencia de la Unión Europea para la Seguridad Aérea.
+            - listitem [ref=e993]: "Reglamento UE 2024/2803 relativo a la realización del Cielo Único Europeo. 2.3.6.2 Principales objetivos alcanzados Marco institucional Establecimiento de un marco institucional que permita la participación de todas las partes interesadas en la iniciativa y que abarca: √ el Comité de Cielo Único (representados los Estados miembros) √ el Órgano Consultivo del Sector (donde está representada la industria, operadores aéreos, proveedores de servicio, etc.) √ el diálogo social (involucrando a las organizaciones profesionales y de trabajadores a nivel comunitario)"
+          - heading "√ EUROCONTROL." [level=2] [ref=e994]
+          - paragraph [ref=e995]: Proveedores de servicios de navegación aérea
+          - list [ref=e996]:
+            - listitem [ref=e997]: "Separación de las funciones de provisión de servicio de navegación aérea y supervisión: cada Estado ha designado Autoridades Nacionales de Supervisión (ANS). España ha designado como ANS a la Agencia Estatal de Seguridad Aérea (AESA), para los servicios civiles de navegación excluyendo los servicios meteorológicos."
+            - listitem [ref=e998]: "Certificación de proveedores de servicio de tránsito aéreo: los proveedores de servicios de navegación aérea están sujetos a certificación por parte de las ANS, estableciendo los requisitos comunes y el nivel exigible de calidad para la prestación de dichos servicios. Creación de órganos"
+            - listitem [ref=e999]: "Establecimiento de un regulador comunitario:"
+          - heading "●" [level=2] [ref=e1000]
+          - paragraph [ref=e1001]: Que tenga suficientes recursos y autonomía respecto de los diferentes intereses que permitan definir normas de alto nivel y garantizar su cumplimiento.
+          - heading "●" [level=2] [ref=e1002]
+          - paragraph [ref=e1003]: Que defina objetivos ambiciosos o incluso mejore los niveles de seguridad. Esta función es asumida por la Comisión Europea.
+          - list [ref=e1004]:
+            - listitem [ref=e1005]: Establecimiento de un Gestor de Red Europeo (Network Manager- NM) Ver punto
+          - heading "2.4.6.3" [level=2] [ref=e1006]
+          - paragraph [ref=e1007]: Sistemas de evaluación Establecimiento de un sistema de evaluación de rendimientos que fija niveles de rendimiento requeridos para todos los actores del sector respecto a la seguridad, el medio ambiente, la capacidad y la rentabilidad.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1008]'
+          - paragraph [ref=e1009]: "Página: 18 de 54"
+          - paragraph [ref=e1010]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1011]: Espacio aéreo
+          - list [ref=e1012]:
+            - listitem [ref=e1013]: Considerar el espacio aéreo “europeo” como un único elemento continuo, gestionado en aras de la eficiencia global del sistema, empezando por el espacio aéreo superior y de forma coherente con el espacio aéreo inferior.
+            - listitem [ref=e1014]: "Avances en el uso eficiente del espacio aéreo: se establecen normas comunes para la utilización flexible del espacio aéreo."
+            - listitem [ref=e1015]: Establecimiento de bloques funcionales
+          - heading "2" [level=2] [ref=e1016]
+          - paragraph [ref=e1017]: "de espacio aéreo (FAB) transfronterizos: diseñados en base a requisitos operacionales y establecidos independientemente de las fronteras estatales, con el objeto de facilitar el uso óptimo del espacio aéreo a través de una cooperación reforzada de los prestadores de servicios de navegación aérea."
+          - heading "Tasas" [level=2] [ref=e1018]
+          - paragraph [ref=e1019]: "Transparencia de las tasas: se establece un sistema común de tarificación de los servicios de navegación aérea, garantiza la plena transparencia en el establecimiento de las tasas aplicables a los servicios de navegación aérea, ya que obliga a notificar las bases de costes de los proveedores de servicios y a consultar a los usuarios del espacio aéreo. 2.3.6.3 SESAR (Single European Sky ATM Research/Investigación del Cielo Único Europeo ATM) SESAR es un proyecto conjunto de la comunidad del transporte aéreo europea cuyo objetivo es la implantación de una red ATM europea de altas prestaciones. El objetivo del Programa SESAR, como pilar tecnológico del Cielo Único Europeo, es definir, desarrollar y desplegar las nuevas tecnologías y procedimientos a poner en servicio en Europa en el ámbito de la gestión del Tránsito Aéreo. La hoja de ruta la marca el llamado Plan Maestro Europeo para la Gestión del Tránsito Aéreo (European ATM Master Plan). El Programa SESAR consta actualmente de dos fases que transcurren en paralelo."
+          - list [ref=e1020]:
+            - listitem [ref=e1021]:
+              - paragraph [ref=e1022]: "Fase de Investigación y Desarrollo (I+D): en la que se desarrollan y validan los nuevos componentes tecnológicos y las nuevas formas de trabajo, hasta que se encuentran a un nivel de madurez que permite su puesta en servicio. En esta fase se van generando progresivamente soluciones que se consideran listas para ser desplegadas, denominadas “Soluciones SESAR”."
+            - listitem [ref=e1023]:
+              - paragraph [ref=e1024]: "Fase de Despliegue: se inició formalmente en 2014, año en el que la Comisión Europea publicó el Proyecto Común Piloto, que establece una relación de funcionalidades esenciales del Plan Maestro Europeo para la Gestión del Tránsito Aéreo. 2.3.6.4 NMOC (Network Manager Operations Center / Centro de Operaciones del Gestor de Red) Con este programa, que comenzó a estar operativo en marzo de 1996, se han centralizado las actividades de control de la afluencia en Europa. Su última fase contempla la implantación de un sistema integrado o uniforme europeo: EATMS (European Air Traffic Management System / Sistema europeo de gestión del tráfico aéreo)."
+          - heading "2" [level=2] [ref=e1025]
+          - paragraph [ref=e1026]: Un bloque funcional de espacio aéreo se puede definir como un bloque de espacio aéreo basado en exigencias operativas que reflejan la necesidad de garantizar una gestión más integrada del espacio aéreo con independencia de las fronteras nacionales existentes.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1027]'
+          - paragraph [ref=e1028]: "Página: 19 de 54"
+          - paragraph [ref=e1029]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1030]: "Sus principales objetivos consisten en:"
+          - list [ref=e1031]:
+            - listitem [ref=e1032]:
+              - paragraph [ref=e1033]: Equilibrar la demanda y la capacidad disponible de espacio aéreo, reduciendo por lo tanto la congestión del espacio aéreo europeo.
+            - listitem [ref=e1034]:
+              - paragraph [ref=e1035]: Centralizar y ejecutar los servicios de Gestión del flujo de tráfico aéreo (ATFCM) y de la capacidad en el área comprendida por los países miembros de la CEAC.
+            - listitem [ref=e1036]:
+              - paragraph [ref=e1037]: "Actuar en coordinación con los operadores aéreos y las posiciones de gestión de afluencia (FMP) pertenecientes a su área de responsabilidad. Las FMP se encargan, dentro del proceso de gestión de afluencia del tráfico aéreo, de funcionar como enlace entre la Unidad Central de Gestión del ACC y aeródromos asociados, proporcionando la información local necesaria para cada fase del control de la afluencia. 2.3.6.5 Gestor de Red Europeo (Network Manager- NM) La Comisión Europea (CE) creó el Gestor de Red Europeo (NM) dentro de la legislación del SES II como una entidad imparcial y competente para desarrollar y ejecutar las funciones de la red ATM europea. El objetivo principal del NM es mejorar el rendimiento de la red ATM europea, desempeñando las funciones siguientes en distintos apartados: Frecuencias y códigos"
+            - listitem [ref=e1038]:
+              - paragraph [ref=e1039]: desempeñar la función central de coordinación de las radiofrecuencias
+            - listitem [ref=e1040]:
+              - paragraph [ref=e1041]: coordinar la mejora del proceso de atribución de códigos de transpondedor SSR Gestión del tráfico aéreo
+            - listitem [ref=e1042]:
+              - paragraph [ref=e1043]: elaborar el diseño integrado de la red europea de rutas
+            - listitem [ref=e1044]:
+              - paragraph [ref=e1045]: organizar la gestión y el ejercicio de las funciones y ejecutar las obligaciones de la dependencia central de Gestión de Afluencia de Tráfico Aéreo (Air traffic flow management ATFM). Red ATM - aplicar un enfoque consolidado y coordinado a todas las actividades operativas y de planificación de la red, entre ellas el seguimiento y la mejora de su rendimiento global.
+            - listitem [ref=e1046]:
+              - paragraph [ref=e1047]: garantizar la coordinación con otras regiones y terceros países que no participen en las labores del Gestor de la Red.
+            - listitem [ref=e1048]:
+              - paragraph [ref=e1049]: proporcionar apoyo en la gestión de las crisis de la red.
+            - listitem [ref=e1050]:
+              - paragraph [ref=e1051]: apoyar a las diferentes partes interesadas operativas, en el cumplimiento de las obligaciones que les incumben, en el despliegue de sistemas y procedimientos en materia de servicios de gestión del tránsito aéreo y/o navegación aérea (ATM/ANS).
+            - listitem [ref=e1052]:
+              - paragraph [ref=e1053]: identificar los riesgos para la seguridad de funcionamiento a nivel de la red y evaluar el riesgo correspondiente para la seguridad de la red. Planes y programas
+            - listitem [ref=e1054]:
+              - paragraph [ref=e1055]: elaborar, mantener y aplicar el Plan estratégico de la red.
+            - listitem [ref=e1056]:
+              - paragraph [ref=e1057]: contribuir al despliegue del SESAR.
+            - listitem [ref=e1058]:
+              - paragraph [ref=e1059]: elaborar un Plan de Rendimiento de la Red.
+            - listitem [ref=e1060]:
+              - paragraph [ref=e1061]: desarrollar, mantener y aplicar su programa de trabajo y su presupuesto anual. Apoyo a entidades
+            - listitem [ref=e1062]:
+              - paragraph [ref=e1063]: asistir a las entidades habilitadas para la investigación de accidentes e incidentes en la aviación civil, o para el análisis de los mismos, cuando así lo soliciten.
+            - listitem [ref=e1064]:
+              - paragraph [ref=e1065]: proporcionar a la Comisión un sistema de aviso o de alerta, basado en el análisis de los planes de vuelos, con el fin de controlar el cumplimiento de la prohibición de explotación aplicada a las compañías aéreas y/u otras medidas de seguridad.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1066]'
+          - paragraph [ref=e1067]: "Página: 20 de 54"
+          - paragraph [ref=e1068]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1069]: 2.3.7 Participación de España En el ámbito del transporte aéreo, participan tanto funcionarios del Ministerio de Asuntos Exteriores, como funcionarios del Ministerio de Transportes y Movilidad Sostenible, procedentes principalmente de la Dirección General de Aviación Civil y de la Agencia Estatal de Seguridad Aérea. La labor fundamental de la Dirección General de Aviación Civil en relación con estas tareas se centra en la colaboración con el resto de organismos interesados para la definición de posturas nacionales que sean compatibles con el bien común de la Unión y con los intereses de España y sus ciudadanos. Para ello, se realiza un seguimiento constante de los distintos procesos legislativos en curso. En particular, en lo que respecta al desarrollo de la regulación de Cielo Único, participa en el Comité de Cielo Único (Single Sky Committee) en el que se discuten las políticas comunitarias y proyectos de reglamentación. ENAIRE junto con los principales Proveedores de Servicio de Navegación Aérea, Aerolíneas y Aeropuertos Europeos, es miembro del Consorcio SESAR Deployment Alliance (SDA) desde su creación y designación por la Comisión Europea en diciembre 2014 para ejercer la función del Gestor de Despliegue de SESAR (SDM). El 1 de enero de 2018, el Consorcio SDA evolucionará a una Asociación Internacional sin ánimo de lucro, en la que ENAIRE seguirá participando.
+          - heading "2.4 EASA (EUROPEAN UNION AVIATION SAFETY AGENCY / AGENCIA DE" [level=2] [ref=e1070]
+          - heading "SEGURIDAD AÉREA DE LA UNIÓN EUROPEA)" [level=2] [ref=e1071]
+          - heading "2.4.1 Orígenes" [level=2] [ref=e1072]
+          - paragraph [ref=e1073]: La Agencia de seguridad aérea de la Unión Europea es el componente esencial de la estrategia de seguridad aérea de la Unión Europea, se creó en 2002 y actualmente se rige por el Reglamento UE 2018/1139. Tiene estatus de organismo comunitario y personalidad jurídica propia, mediante la que puede establecer sus propias sedes locales en los Estados miembros, previo consentimiento de éstos.
+          - heading "2.4.2 Misión" [level=2] [ref=e1074]
+          - list [ref=e1075]:
+            - listitem [ref=e1076]: Garantizar los más altos niveles comunes de seguridad para los ciudadanos de la Unión Europea y de protección del medio ambiente de la aviación civil.
+            - listitem [ref=e1077]: Un proceso único de reglamentación y certificación entre los Estados miembros.
+            - listitem [ref=e1078]: Facilitar el mercado único interno de la aviación y crear igualdad de condiciones.
+            - listitem [ref=e1079]: Colaborar con otras organizaciones y organismos reguladores internacionales de la aviación.
+          - heading "2.4.3 Objetivos" [level=2] [ref=e1080]
+          - paragraph [ref=e1081]: "Las principales tareas de la Agencia en la actualidad incluyen:"
+          - list [ref=e1082]:
+            - listitem [ref=e1083]: "Normativa: elaborar la legislación en materia de seguridad y proporcionar apoyo técnico a la Comisión Europea y a los Estados miembros."
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1084]'
+          - paragraph [ref=e1085]: "Página: 21 de 54"
+          - paragraph [ref=e1086]: Instituciones y Legislación Aeronáutica
+          - list [ref=e1087]:
+            - listitem [ref=e1088]: Inspecciones, programas de formación y de estandarización para garantizar la aplicación uniforme de la legislación europea de seguridad aérea en todos los Estados miembros.
+            - listitem [ref=e1089]: Certificación de tipo de aeronavegabilidad en el ámbito de la seguridad y compatibilidad medioambiental de aeronaves, motores y componentes.
+            - listitem [ref=e1090]: Certificación y supervisión de los productos aeronáuticos y de las organizaciones que participen en su diseño, producción y mantenimiento en países terceros.
+            - listitem [ref=e1091]: Recogida de datos, análisis e investigación para mejorar la seguridad aérea.
+            - listitem [ref=e1092]: Coordinar el programa de la Comunidad Europea SAFA (Safety Assessment of Foreign Aircraft), por orden de la Comisión Europea.
+          - heading "2.4.4 Estructura" [level=2] [ref=e1093]
+          - paragraph [ref=e1094]: "Su estructura se compone de: Consejo de"
+          - heading "Administración" [level=2] [ref=e1095]
+          - list [ref=e1096]:
+            - listitem [ref=e1097]: Es el órgano directivo de EASA, que cuenta con un representante de cada Estado miembro y de un representante de la Comisión.
+            - listitem [ref=e1098]: Cada Estado miembro y la Comisión nombran a un miembro del Consejo de Administración y a un suplente, que lo sustituirá en su ausencia.
+            - listitem [ref=e1099]: La duración de los mandatos es de cinco años renovables
+          - heading "Dirección" [level=2] [ref=e1100]
+          - heading "Ejecutiva" [level=2] [ref=e1101]
+          - list [ref=e1102]:
+            - listitem [ref=e1103]: La gestión de la Agencia correrá a cargo de un Director ejecutivo, quien será totalmente independiente en el cumplimiento de sus obligaciones. Sin perjuicio de las competencias respectivas de la Comisión y del Consejo de Administración, el director ejecutivo no pedirá ni recibirá instrucciones de ningún Gobierno o de cualquier otro organismo.
+            - listitem [ref=e1104]: El Parlamento Europeo o el Consejo podrán convocar al director ejecutivo de la Agencia para que rinda cuentas acerca del ejercicio de su cometido.
+          - heading "- Composición" [level=2] [ref=e1105]
+          - paragraph [ref=e1106]: Dirección de gestión de estrategia y seguridad Es responsable de programas, investigación, análisis y acciones a tomar sobre la seguridad y cooperación internacional estrechando relaciones de trabajo con otras organizaciones mundiales homólogas, OACI, la Administración Federal de aviación de Estados Unidos y las autoridades aeronáuticas de Canadá, Brasil, Israel, China y Rusia. Dirección de certificación Tiene atribuidas también competencias en la certificación de tipo de aeronavegabilidad, es decir, la certificación de modelos concretos de aeronaves, motores o componentes aprobados para su explotación en la
+          - heading "Unión Europea." [level=2] [ref=e1107]
+          - paragraph [ref=e1108]: Dirección de normas de vuelo Tienen por objeto armonizar las normas, fomentar las mejores prácticas en el ámbito de la seguridad aérea Es responsable de la normalización (supervisión nacional) y la elaboración de normas sobre mantenimiento, operaciones aéreas, tripulación y aspectos médicos, gestión del tráfico aéreo / servicios de navegación aérea y aeródromos. Dirección de recursos y apoyo Se encarga de las finanzas y contratación, recursos humanos, informática y servicios empresariales.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1109]'
+          - paragraph [ref=e1110]: "Página: 22 de 54"
+          - paragraph [ref=e1111]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1112]: Salas de recursos
+          - list [ref=e1113]:
+            - listitem [ref=e1114]: En el seno de la Agencia existirán una o más salas de recursos, que serán competentes para pronunciarse sobre los recursos interpuestos contra las decisiones tales como las adoptadas en materia de certificaciones de aeronavegabilidad y medioambiental, investigación de empresas y/o tasas e ingresos, etc.
+            - listitem [ref=e1115]: Se convocará a la sala o salas de recursos siempre que sean necesarios.
+            - listitem [ref=e1116]: La Comisión decidirá el número de salas de recursos y el reparto de tareas.
+          - paragraph [ref=e1117]: 2.4.5 Proceso de elaboración de normas La Agencia elabora material normativo en forma de reglamentos de ejecución, medios aceptables de cumplimiento, material guía y especificaciones de certificación. Estos documentos están disponibles para consulta (como términos de referencia (ToR), avisos de modificación propuesta (NPA) y documentos de respuesta a comentarios CRD)). Tras la consulta, los proyectos de reglamentos de ejecución se envían a la Comisión Europea, que, si supera la revisión del Parlamento Europeo y del Consejo, se publicará en el Diario Oficial de la
+          - heading "Unión Europea." [level=2] [ref=e1118]
+          - heading "2.5 OTRAS ORGANIZACIONES" [level=2] [ref=e1119]
+          - heading "EUROCAE" [level=2] [ref=e1120]
+          - paragraph [ref=e1121]: Siglas Organización Europea para el Equipamiento en la Aviación Civil / European Organization for Civil Aviation Equipment Origen Es una organización sin ánimo de lucro que se formó en Lucerna (Suiza) Función Intentaba proporcionar un foro europeo para la resolución de problemas y creación de estándares para la electrónica en la aviación Miembros Más de 500 entre especialistas en aviación, universidades, laboratorios, fabricantes, reguladores, proveedores de servicios y/o usuarios Normas Las normas recogidas en sus documentos son de carácter voluntario
+          - heading "RCTA" [level=2] [ref=e1122]
+          - paragraph [ref=e1123]: Siglas Comisión Radiotécnica para la aeronáutica / Radio Technical Commission for Aeronautics Origen Es una organización estadounidense sin ánimo de lucro con sede en Washington D.C. Función Realiza recomendaciones para la comunicación, navegación y vigilancia de la gestión del tráfico aéreo
+          - heading "(CNS/ATM)" [level=2] [ref=e1124]
+          - paragraph [ref=e1125]: Miembros 400 organizaciones gubernamentales, industriales y académicas, líneas aéreas, usuarios del espacio aéreo y los aeropuertos, sindicatos, además de servicio de aviación y proveedores de equipos de los Estados Unidos y del resto del mundo Normas Son recomendaciones, adoptadas por las autoridades federales estadounidenses (Federal Aviation Administration, FAA), así como por empresas privadas
+          - heading "IATA" [level=2] [ref=e1126]
+          - paragraph [ref=e1127]: Siglas Asociación internacional del Transporte Aéreo / International Air Transport Association Origen Es un organismo no gubernamental fundada en La Habana, Cuba Función Es el primer vehículo para la cooperación entre las aerolíneas en la promoción de servicios de transporte aéreo seguro, fiable y económico Miembros Más de 350 aerolíneas que comprenden el 80% del tráfico aéreo total
+          - heading "CANSO" [level=2] [ref=e1128]
+          - paragraph [ref=e1129]: "Siglas Organización de proveedores de Servicios de Navegación Aérea / Civil Air Navigation Service Organization Origen Fundada para representar los intereses de los proveedores de servicio de navegación aérea (ANSP) en todo el mundo, así como la gestión del tráfico aéreo Función Es proporcionar una plataforma mundial para los clientes y aquéllos interesados en impulsar los Servicios de Navegación Aérea civiles (SNA), con el fin de prestar un servicio eficaz, seguro, eficiente y rentable Miembros M. de pleno derecho: Cualquier organización establecida como proveedor de servicio de navegación aérea. M. asociados: Cualquier otra organización, como suministradores de bienes y servicios a instituciones académicas y operadores de aeronaves"
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1130]'
+          - paragraph [ref=e1131]: "Página: 23 de 54"
+          - paragraph [ref=e1132]: Instituciones y Legislación Aeronáutica
+          - heading "ACI" [level=2] [ref=e1133]
+          - paragraph [ref=e1134]: Siglas Consejo Internacional de Aeropuertos / Airports Council International Origen Los operadores de aeropuertos en todo el mundo crearon la primera asociación mundial para representar sus intereses comunes y fomentar la cooperación con socios de toda la industria del transporte aéreo Función • Desarrollar a escala mundial una política aeroportuaria común para los aeropuertos miembros y presentarla ante los organismos mundiales más relevantes.
+          - list [ref=e1135]:
+            - listitem [ref=e1136]: Promover el intercambio de información sobre asuntos técnicos, financieros, comerciales, de marketing o medio ambiente. Miembros 2181 aeropuertos principales del mundo pertenecientes a 830 operadores en 170 países.
+          - heading "ESA" [level=2] [ref=e1137]
+          - heading "Siglas Agencia Espacial Europea / European Space Agency" [level=2] [ref=e1138]
+          - paragraph [ref=e1139]: Origen Fue establecida en Paris por el Convenio de creación de una Agencia Espacial Europea Función Consiste en elaborar el programa espacial europeo y llevarlo a cabo. La ESA también trabaja en estrecha colaboración con organizaciones espaciales no europeas
+          - heading "Miembros 23 Estados Miembros" [level=2] [ref=e1140]
+          - heading "3. INSTITUCIONES NACIONALES" [level=2] [ref=e1141]
+          - heading "3.1. INSTITUCIONES NACIONALES" [level=2] [ref=e1142]
+          - paragraph [ref=e1143]: Dentro de la Administración General del Estado, el Ministerio de Transportes y Movilidad Sostenible representa la máxima autoridad aeronáutica civil en el ámbito nacional, encargada de la ordenación, supervisión y control de los diferentes sectores de actividad que constituyen la aviación civil. Como veremos, distintas entidades realizan dichas funciones dentro del mismo.
+          - heading "3.2. DESDOBLAMIENTO DE LA AUTORIDAD AERONÁUTICA" [level=2] [ref=e1144]
+          - paragraph [ref=e1145]: El transporte aéreo reviste una importancia estratégica para España, tanto desde el punto de vista de las comunicaciones internacionales como por su contribución a la actividad económica, al desarrollo de la industria turística y a la generación de empleo. Durante los quince últimos años el tráfico aéreo se ha multiplicado por 2,5, y las previsiones apuntan a que se doblará en los próximos años, por lo que la Administración aeronáutica se viene enfrentando a este crecimiento de la actividad con el reto de aumentar la seguridad del transporte y la calidad de los servicios. Por todo ello, se aprueba el Real Decreto 184/2008, en el que se lleva a cabo un nuevo modelo de gestión, que se caracteriza por un desdoblamiento de la autoridad aeronáutica. − La Dirección General de Aviación Civil del Ministerio de Transportes y Movilidad Sostenible es responsable de la competencia para la formulación de propuestas sectoriales y de la política estratégica en materia de aviación civil, la representación y coordinación con otras administraciones y con la Unión Europea en materia de política de transporte aéreo, y la adopción de circulares aeronáuticas, entre otras. − La Agencia Estatal de Seguridad Aérea (AESA) es el organismo al que compete el ejercicio de las potestades inspectoras y sancionadoras en materia de aviación civil, la iniciativa para la aprobación de la normativa reguladora en los ámbitos de la seguridad aérea y la protección del usuario del transporte aéreo para su elevación a los órganos competentes del Ministerio de Transportes y Movilidad Sostenible, así como la evaluación de riesgos en materia de seguridad de la aviación civil.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1146]'
+          - paragraph [ref=e1147]: "Página: 24 de 54"
+          - paragraph [ref=e1148]: Instituciones y Legislación Aeronáutica
+          - heading "3.3. DGAC (DIRECCIÓN GENERAL DE AVIACIÓN CIVIL)" [level=2] [ref=e1149]
+          - paragraph [ref=e1150]: La Dirección General de Aviación Civil (DGAC) es el órgano mediante el cual el Ministerio de Transportes Movilidad Sostenible diseña la estrategia, dirige la política aeronáutica, a cuyo efecto coordina a los organismos, entes y entidades adscritos al Departamento con funciones en aviación civil, y ejerce de regulador en el sector aéreo, dentro de las competencias de la Administración General del Estado.
+          - heading "3.3.1. Funciones" [level=2] [ref=e1151]
+          - paragraph [ref=e1152]: "Realiza las siguientes funciones:"
+          - heading "Específicas" [level=2] [ref=e1153]
+          - heading "•" [level=2] [ref=e1154]
+          - paragraph [ref=e1155]: La aprobación de circulares aeronáuticas de Seguridad aérea, bien por propia iniciativa o a propuesta de la Agencia Estatal de Seguridad Aérea.
+          - heading "•" [level=2] [ref=e1156]
+          - paragraph [ref=e1157]: La coordinación de las actuaciones que corresponden a los Ministerios de Defensa y Transportes en el ámbito de sus respectivas competencias, asumiendo la Presidencia de la Comisión Interministerial entre Defensa y Transportes (CIDETRA), según se establezca en su normativa reguladora.
+          - heading "•" [level=2] [ref=e1158]
+          - paragraph [ref=e1159]: La máxima representación del Departamento ante los organismos nacionales e internacionales relacionados con la aviación civil. Con carácter general
+          - heading "•" [level=2] [ref=e1160]
+          - paragraph [ref=e1161]: El fomento del desarrollo sostenible del transporte aéreo, y del uso eficaz y seguro del sistema aeroportuario y de navegación aérea.
+          - heading "•" [level=2] [ref=e1162]
+          - paragraph [ref=e1163]: La preparación de la normativa reguladora en el ámbito de la aviación civil para su elevación a los órganos competentes del
+          - heading "Ministerio." [level=2] [ref=e1164]
+          - heading "•" [level=2] [ref=e1165]
+          - paragraph [ref=e1166]: La representación del Departamento ante los organismos nacionales e internacionales relacionados con la aviación civil, y la participación internacional en asuntos relacionados con esta materia, sin perjuicio de las competencias de otros órganos superiores o directivos del Ministerio de Transportes y Movilidad Sostenible y del Ministerio de Asuntos Exteriores y de Cooperación, así como de las competencias atribuidas a la Agencia Estatal de Seguridad Aérea.
+          - heading "•" [level=2] [ref=e1167]
+          - heading "Propuestas" [level=2] [ref=e1168]
+          - paragraph [ref=e1169]: sobre política ■ La elaboración de estudios y formulación de propuestas sobre política estratégica en materia de transporte aéreo y sistemas de navegación aérea y aeroportuarios ■ La coordinación de los intereses y puntos de vista del sector para la formulación de propuestas sobre política aeronáutica en el ámbito nacional e internacional, en particular en el ámbito de la Unión Europea. En materia de política de infraestructuras aeronáuticas
+          - heading "•" [level=2] [ref=e1170]
+          - heading "Aeropuertos" [level=2] [ref=e1171]
+          - paragraph [ref=e1172]: ► Informar las propuestas de calificación de los aeropuertos civiles. ► Elaboración de las propuestas de autorización para el establecimiento de los aeropuertos que sean competencia de la Administración General del Estado, y de las modificaciones estructurales que alteren dicha autorización, así como de su autorización de puesta en funcionamiento o clausura, sin perjuicio de las competencias de elaboración y aprobación de proyectos de aeropuertos públicos civiles atribuidas a la Entidad Pública Empresarial ENAIRE. ► El informe previo sobre el establecimiento, modificación y apertura al tráfico aéreo de los aeródromos y aeropuertos de competencia de las comunidades autónomas, y sobre la aprobación de planes o instrumentos de ordenación y delimitación de su respectiva zona de servicios, así como la certificación de compatibilidad del espacio aéreo en el caso de helipuertos de competencia autonómica.
+          - heading "•" [level=2] [ref=e1173]
+          - heading "Aeropuertos" [level=2] [ref=e1174]
+          - paragraph [ref=e1175]: de interés general ◊ El informe a los planes directores y planes especiales de aeropuertos de interés general. Este informe será vinculante en el caso de que se afecten competencias de la Administración General del Estado. ◊ El informe de los instrumentos de ordenación territorial y urbanística que afecten a los aeropuertos de interés general y sistemas de navegación, y en particular a su zona de servicio y servidumbres aeronáuticas.
+          - heading "•" [level=2] [ref=e1176]
+          - paragraph [ref=e1177]: Las actuaciones expropiatorias en materia de infraestructuras aeroportuarias y de navegación aérea cuya gestión esté reservada al Estado.
+          - heading "•" [level=2] [ref=e1178]
+          - paragraph [ref=e1179]: La Presidencia de la Comisión Interministerial entre Defensa y Transportes (CIDETRA), según se establezca en su normativa reguladora, para la coordinación de las actuaciones que corresponden a los Ministerios de Defensa y Transportes en el ámbito de sus respectivas competencias, así como la participación en el Pleno, ponencias y grupos de trabajo que correspondan, sin perjuicio de las competencias atribuidas a la Agencia Estatal de Seguridad Aérea.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1180]'
+          - paragraph [ref=e1181]: "Página: 25 de 54"
+          - paragraph [ref=e1182]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1183]: En materia de promoción del transporte aéreo y continuidad de los servicios
+          - heading "•" [level=2] [ref=e1184]
+          - paragraph [ref=e1185]: La negociación de los convenios internacionales de transporte aéreo, bien bilaterales o en negociaciones supranacionales, y la asignación de los derechos de tráfico derivados de los mismos, sin perjuicio de las competencias del Ministerio de Asuntos Exteriores y de Cooperación y del apoyo técnico atribuido a la Agencia Estatal de Seguridad Aérea.
+          - heading "•" [level=2] [ref=e1186]
+          - paragraph [ref=e1187]: La gestión de los créditos consignados para subvenciones al transporte aéreo.
+          - heading "•" [level=2] [ref=e1188]
+          - paragraph [ref=e1189]: La propuesta de obligaciones de servicio público en el ámbito de la aviación civil.
+          - paragraph [ref=e1190]: Cualesquiera otras en el ámbito de la aviación civil que no estén atribuidas a la Agencia Estatal de Seguridad Aérea de acuerdo con su estatuto.
+          - heading "3.3.2. Estructura" [level=2] [ref=e1191]
+          - paragraph [ref=e1192]: "La Dirección de Aviación Civil (DGAC) depende del Ministerio de Transportes y Movilidad Sostenible y su estructura es: Unidad de Apoyo"
+          - list [ref=e1193]:
+            - listitem [ref=e1194]: Unidad de Ordenación y Normativa Aeronáutica
+            - listitem [ref=e1195]: Servicio de Gestión Económico-Financiera
+            - listitem [ref=e1196]: Servicio de Gestión de Recursos Humanos
+          - heading "Subdirección General" [level=2] [ref=e1197]
+          - paragraph [ref=e1198]: de Transporte Aéreo
+          - list [ref=e1199]:
+            - listitem [ref=e1200]: Unidad de Política Estratégica del Transporte Aéreo
+            - listitem [ref=e1201]: Área de Explotación
+            - listitem [ref=e1202]: Área de Convenios Internacionales
+            - listitem [ref=e1203]: Oficina de Relaciones Internacionales
+            - listitem [ref=e1204]: Área de Estudios Estratégicos y Análisis de Mercados
+          - heading "Subdirección General" [level=2] [ref=e1205]
+          - paragraph [ref=e1206]: de Aeropuertos y
+          - heading "Navegación Aérea" [level=2] [ref=e1207]
+          - list [ref=e1208]:
+            - listitem [ref=e1209]: Área de Política de Estrategia de Navegación Aérea
+            - listitem [ref=e1210]: Área de Estrategia Aeroportuaria
+            - listitem [ref=e1211]: Servicio de Expropiaciones
+            - listitem [ref=e1212]: Servicio de Planificación y Representación Institucional
+            - listitem [ref=e1213]: Servicio Civil de la Comisión Interministerial entre Defensa y Transportes y Movilidad Sostenible (CIDETMA) 3.3.3. CIAIAC (Comisión de Investigación de Accidentes e Incidentes de Aviación Civil) Adscrita a la Subsecretaría del Ministerio de Transportes y Movilidad Sostenible, es el organismo oficial encargado de realizar la investigación de los accidentes e incidentes de aviación civil que se producen en territorio español.
+            - listitem [ref=e1214]: La investigación tiene un carácter exclusivamente técnico, su fin último es la prevención de futuros accidentes e incidentes, y no está dirigida a determinar ni establecer culpa o responsabilidad de tipo alguno.
+            - listitem [ref=e1215]: Los resultados de la investigación se plasman en un informe que contempla la información factual en relación con el accidente o incidente, un análisis de la misma, unas conclusiones y unas recomendaciones
+            - listitem [ref=e1216]: en materia de seguridad. Estas recomendaciones constituyen el medio que se considera más adecuado para proponer medidas que permitan aumentar la seguridad aérea.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1217]'
+          - paragraph [ref=e1218]: "Página: 26 de 54"
+          - paragraph [ref=e1219]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1220]: La CIAIAC cuenta con personal y medios propios adecuados para el desarrollo de su actividad, así como con la colaboración puntual de organismos y especialistas externos.
+          - heading "3.4. AESA (AGENCIA ESTATAL DE SEGURIDAD AÉREA)" [level=2] [ref=e1221]
+          - paragraph [ref=e1222]: AESA es el organismo del Estado, adscrito a la Secretaría de Estado de Transporte del Ministerio de Transportes y Movilidad Sostenible, que vela para que se cumplan las normas de aviación civil en el conjunto de la actividad aeronáutica de España.
+          - heading "3.4.1. Funciones" [level=2] [ref=e1223]
+          - paragraph [ref=e1224]: "La Agencia tiene las misiones de Supervisión, Inspección y Ordenación del Transporte Aéreo, la Navegación Aérea y la Seguridad Aeroportuaria. Evalúa los riesgos en la seguridad del transporte y tiene potestad sancionadora ante las infracciones de las normas de aviación civil. Trabaja para que se cumplan las normas de seguridad en el transporte aéreo en España, para promover el desarrollo, establecimiento y aplicación de legislación aeronáutica nacional e internacional de seguridad aérea y protección a los pasajeros. Para el cumplimiento de dicho objeto, la Agencia ejerce las siguientes competencias: Licencias y registro"
+          - heading "•" [level=2] [ref=e1225]
+          - paragraph [ref=e1226]: La expedición, renovación, suspensión, mantenimiento y revocación de autorizaciones, habilitaciones, licencias, certificaciones y otros títulos habilitantes para la realización de actividades aeronáuticas civiles, tales como la operación de aeronaves, de aeropuertos y de servicios de navegación aérea, así como para el diseño, fabricación, mantenimiento, y uso de las aeronaves, los productos, componentes y equipos aeronáuticos civiles.
+          - heading "•" [level=2] [ref=e1227]
+          - paragraph [ref=e1228]: El reconocimiento y aceptación de títulos, licencias, autorizaciones o certificados expedidos por otras autoridades y que sean requeridos para el ejercicio de profesiones aeronáuticas.
+          - heading "•" [level=2] [ref=e1229]
+          - paragraph [ref=e1230]: La gestión del Registro de matrícula de aeronaves. Inspección y sanción
+          - heading "•" [level=2] [ref=e1231]
+          - paragraph [ref=e1232]: La inspección aeronáutica.
+          - heading "•" [level=2] [ref=e1233]
+          - paragraph [ref=e1234]: La autorización, acreditación e inspección a personas físicas y jurídicas para su actuación como entidades colaboradoras en materia de inspección aeronáutica.
+          - heading "•" [level=2] [ref=e1235]
+          - paragraph [ref=e1236]: La gestión de riesgos en materia de seguridad de la aviación civil.
+          - heading "•" [level=2] [ref=e1237]
+          - paragraph [ref=e1238]: El ejercicio de la potestad sancionadora en materia de aviación. Aprobación y aplicación de normas
+          - heading "•" [level=2] [ref=e1239]
+          - paragraph [ref=e1240]: Las funciones que los reglamentos o directivas comunitarios atribuyen al Estado, y corresponden al Ministerio de Transportes y Movilidad Sostenible, en el ámbito de la seguridad en el transporte aéreo civil y la protección al usuario del transporte aéreo, entre otras, como autoridad nacional de supervisión o como organismo responsable del cumplimiento de los mismos.
+          - heading "•" [level=2] [ref=e1241]
+          - paragraph [ref=e1242]: La aprobación previa de procedimientos y programas internos de autoverificación y control desarrollados y aplicados por los explotadores de servicios de transporte aéreo y los titulares o prestadores de servicios aeroportuarios y de navegación aérea en cumplimiento de la normativa técnica y de seguridad aplicable.
+          - heading "•" [level=2] [ref=e1243]
+          - paragraph [ref=e1244]: La iniciativa de la normativa reguladora en los ámbitos de la aviación civil atribuidos a su responsabilidad, para su elevación a los órganos competentes del Ministerio de Transportes y Movilidad Sostenible. Accesibilidad a infraestructuras
+          - heading "•" [level=2] [ref=e1245]
+          - paragraph [ref=e1246]: La facilitación en el transporte aéreo para garantizar la accesibilidad y el tránsito eficaz, fluido y seguro de personas y bienes a través de las infraestructuras del transporte aéreo.
+          - heading "Colaboración" [level=2] [ref=e1247]
+          - heading "•" [level=2] [ref=e1248]
+          - paragraph [ref=e1249]: La colaboración técnica y participación en organismos nacionales e internacionales en materia de seguridad aérea y protección al usuario del transporte aéreo, así como la colaboración con la Unión Europea y la Agencia Europea de Seguridad Aérea para realizar inspecciones e investigaciones en territorio español.
+          - heading "•" [level=2] [ref=e1250]
+          - paragraph [ref=e1251]: Prestará asistencia técnica y colaborará con el Ministerio de Transportes y Movilidad Sostenible en el ejercicio de las competencias de aquél en materia de aviación civil.
+          - heading "Otras" [level=2] [ref=e1252]
+          - heading "•" [level=2] [ref=e1253]
+          - paragraph [ref=e1254]: Aquellas otras relacionadas con el objeto y fines de la Agencia que pudieran serle atribuidas.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1255]'
+          - paragraph [ref=e1256]: "Página: 27 de 54"
+          - paragraph [ref=e1257]: Instituciones y Legislación Aeronáutica
+          - heading "3.4.2. Estructura" [level=2] [ref=e1258]
+          - paragraph [ref=e1259]: "La Agencia se compone de las siguientes direcciones: D. de seguridad de aeronaves"
+          - heading "(DSA)" [level=2] [ref=e1260]
+          - list [ref=e1261]:
+            - listitem [ref=e1262]: Es responsable de aquellas en los ámbitos de la seguridad de la operación y el mantenimiento, la certificación de aeronaves, así como de la explotación del transporte aéreo y los permisos comerciales.
+            - listitem [ref=e1263]:
+              - text: Será competente para la gestión del Registro de matrícula de aeronaves. Competencias en materia de derechos de emisión de gases de efecto invernadero. La Oficina de seguridad en vuelo (OSV) se integran en esta dirección.
+              - link "D.de" [ref=e1264] [cursor=pointer]:
+                - /url: http://D.de
+              - text: gestión de la seguridad y personal de vuelo Ejerce la competencia en materia de gestión de riesgos en materia de seguridad de la aviación civil. Competencias en relación con el personal de vuelo, las escuelas de vuelo y la medicina aeronáutica. Protección del usuario, incluida la supervisión de los planes de asistencia a las víctimas de accidentes de aviación civil y sus familiares. D. de aeropuertos y seguridad de la aviación civil Ejerce las competencias en el ámbito de los aeropuertos. Competencias frente a los actos de interferencia ilícita en la aviación civil. Ejercicio de las funciones de facilitación en el transporte aéreo. Órgano sustantivo en la evaluación ambiental. D. de navegación aérea Ejerce las competencias recogidas en el ámbito de la navegación aérea.
+          - paragraph [ref=e1265]: 3.5. Aena S.M.E., S.A. Aena S.M.E., S.A. (antes Aena Aeropuertos, S.A.) es una sociedad mercantil estatal que gestiona 46 aeropuertos y 2 helipuertos españoles de interés general. A través de su filial Aena Internacional, participa también en la gestión de 32 aeropuertos en distintos países.
+          - heading "3.5.1. Orígenes" [level=2] [ref=e1266]
+          - paragraph [ref=e1267]: Se constituye por el Real Decreto 905/1991 con ente público bajo las siglas AENA que responden a Aeropuertos Españoles y Navegación Aérea, sentando las bases para la modernización del sistema aeroportuario español.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1268]'
+          - paragraph [ref=e1269]: "Página: 28 de 54"
+          - paragraph [ref=e1270]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1271]: En 1998 nace AENA Internacional para gestionar el desarrollo de su negocio fuera de España, siendo el primer paso de AENA en el ámbito internacional en 1997 con el contrato de concesión del aeropuerto de Barranquilla (Colombia). Entre el 2000 y el 2010 se lleva a cabo la mejora y ampliación de tres grandes aeropuertos mediante el Plan Barajas, el Plan Barcelona y el Plan Málaga, además de la ampliación de la red con nuevos aeropuertos en Logroño, Albacete, Burgos y Huesca-Pirineos. En virtud del Real Decreto-ley 13/2010 se liberaliza la prestación de servicios aeroportuarios, creándose Aena Aeropuertos, S.A. con un 49% de capital privado. Mientras que Aeropuertos Españoles y Navegación Aérea mantiene su naturaleza y régimen jurídico ejerciendo solo las competencias en materia de navegación aérea. En julio de 2014 pasó a denominarse Aena, S.A., añadiéndose en abril de 2017 la abreviatura S.M.E. en su condición de sociedad mercantil estatal. Además, en 2014 se establece un nuevo marco de regulación y supervisión aeroportuaria para garantizar la calidad del servicio y el mantenimiento de la totalidad de la red, el régimen de inversiones y los ingresos máximos por pasajeros de Aena, a través del Documento de Regulación Aeroportuaria (DORA). Desde el 11 de febrero de 2015, Aena, S.A. cotiza en Bolsa.
+          - heading "3.5.2. Gestión" [level=2] [ref=e1272]
+          - paragraph [ref=e1273]: Aena es el primer operador aeroportuario del mundo por número de pasajeros. La Sociedad gestiona 46 aeropuertos y 2 helipuertos en España y participa directa e indirectamente en la gestión de otros 32 aeropuertos en Europa y América, entre ellos el londinense de Luton, del que posee el 51% del capital. Cerro el año 2024 con un récord histórico de 2,5 millones de operaciones y 309,3 millones de pasajeros.
+          - heading "3.5.3. Funciones" [level=2] [ref=e1274]
+          - paragraph [ref=e1275]: "La Sociedad tiene por objeto:"
+          - heading "Aeropuertos" [level=2] [ref=e1276]
+          - list [ref=e1277]:
+            - listitem [ref=e1278]: La ordenación, dirección, coordinación, explotación, conservación, administración y gestión de los aeropuertos de interés general y de los helipuertos gestionados por Aena SME, S.A. y de los servicios afectos a ellos.
+            - listitem [ref=e1279]: La coordinación, explotación, conservación administración y gestión de las zonas civiles de las bases aéreas abiertas al tráfico civil y de los aeropuertos de utilización conjunta.
+            - listitem [ref=e1280]: La participación, gestión y dirección, directa o indirectamente, en aeropuertos extranjeros. Infraestructuras e instalaciones
+            - listitem [ref=e1281]: El diseño y elaboración de los proyectos, ejecución, dirección y control de las inversiones en las infraestructuras e instalaciones aeroportuarias y en bienes destinados a la prestación de los servicios de tránsito aéreo de aeródromo adscritos a las mismas.
+            - listitem [ref=e1282]: La evaluación de las necesidades y, en su caso, la propuesta de planificación de nuevas infraestructuras aeroportuarias y de las servidumbres aeronáuticas y
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1283]'
+          - paragraph [ref=e1284]: "Página: 29 de 54"
+          - paragraph [ref=e1285]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1286]: acústicas vinculadas a los aeropuertos y servicios cuya gestión se atribuya a la
+          - heading "Sociedad." [level=2] [ref=e1287]
+          - list [ref=e1288]:
+            - listitem [ref=e1289]: El desarrollo de los servicios de orden y seguridad en las instalaciones aeroportuarias que gestione, sin perjuicio de las atribuciones asignadas en esta materia al Ministerio de Interior.
+          - heading "Formación" [level=2] [ref=e1290]
+          - list [ref=e1291]:
+            - listitem [ref=e1292]: La formación en materias relacionadas con el transporte aéreo, incluida la formación de profesionales aeronáuticos sujetos a la obtención de licencias, títulos, autorizaciones o habilitaciones y la promoción, divulgación o fomento de la actividad aeronáutica o aeroportuaria.
+          - heading "3.6. ENAIRE E.P.E." [level=2] [ref=e1293]
+          - paragraph [ref=e1294]: La entidad pública empresarial ENAIRE, adscrita al Ministerio de Transportes y Movilidad Sostenible, es el gestor del control del tránsito aéreo, de la información aeronáutica y de las redes de comunicación, navegación y vigilancia necesarias para que las compañías aéreas y sus aeronaves vuelen de forma segura, fluida y ordenada por el espacio aéreo español.
+          - heading "3.6.1. Orígenes" [level=2] [ref=e1295]
+          - paragraph [ref=e1296]: Conforme a la Ley 09/2010, ENAIRE es la empresa designada por el Estado para el suministro de los servicios de tránsito aéreo en las fases de ruta y aproximación.
+          - heading "3.6.2. Gestión" [level=2] [ref=e1297]
+          - paragraph [ref=e1298]: "Controla un espacio aéreo que comprende la península Ibérica (excepto Portugal), Canarias, Baleares, parte del Atlántico norte, del oeste del Mediterráneo y el Sáhara Occidental, en total 2,19 millones de kilómetros cuadrados. La gestión de este espacio aéreo lo hace a través de: a) Cinco direcciones regionales de Navegación Aérea: Centro Norte, Este, Canaria, Sur y Baleares, cuyas sedes se ubican respectivamente en los centros de control (ACC) de Madrid, Barcelona, Canarias, Sevilla y Palma de Mallorca. b) Dos centros de control de área terminal (TACC) en Santiago y Valencia. c) Veintiuna torres de control. En 2024 se han gestionado más de 2,5 millones de vuelos, con una eficiencia de vuelo en ruta del 96,7%, lo que le convierte en uno de los cuatro mayores gestores de navegación aérea de Europa."
+          - heading "3.6.3. Funciones" [level=2] [ref=e1299]
+          - paragraph [ref=e1300]: "Las funciones de ENAIRE en navegación aérea son:"
+          - list [ref=e1301]:
+            - listitem [ref=e1302]: La planificación, dirección, coordinación, explotación, conservación y administración del tráfico aéreo, de los servicios de telecomunicaciones e información aeronáutica, de las infraestructuras, instalaciones y redes de comunicaciones del sistema de navegación aérea. El objetivo es que las aeronaves que se desplazan por el espacio aéreo español obtengan la máxima seguridad, fluidez, eficacia y puntualidad
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1303]'
+          - paragraph [ref=e1304]: "Página: 30 de 54"
+          - paragraph [ref=e1305]: Instituciones y Legislación Aeronáutica
+          - list [ref=e1306]:
+            - listitem [ref=e1307]: La elaboración y la aprobación de distintos tipos de proyectos, además de la ejecución y gestión de control de las inversiones.
+            - listitem [ref=e1308]: La evaluación de las necesidades y propuestas para nuevas infraestructuras, al igual que las posibles modificaciones en la ordenación del espacio aéreo.
+            - listitem [ref=e1309]: La participación en la formación aeronáutica específica y sujeta a la concesión de licencias oficiales.
+          - heading "3.7. ASOCIACIONES" [level=2] [ref=e1310]
+          - paragraph [ref=e1311]: "Las asociaciones quedan recogidas en el siguiente cuadro:"
+          - heading "AECA" [level=2] [ref=e1312]
+          - paragraph [ref=e1313]: Siglas Asociación Española de Compañías Aéreas Origen Se fundó en 1988 como una asociación de compañías privadas de aviación. Función Constituirse en nexo entre el sector privado de aviación y las administraciones públicas. Miembros Más de 30 compañías aéreas asociadas, pertenecientes a los sectores de tráfico regular, chárter, carga, aerotaxis, helicópteros, trabajos aéreos y empresas del sector aéreo.
+          - heading "ALA" [level=2] [ref=e1314]
+          - paragraph [ref=e1315]: Siglas Asociación de Líneas Aéreas Origen Registrada hace más de 50 años, y constituida por la inmensa mayoría de las Compañías Aéreas Regulares que operan en España, tanto nacionales como internacionales. Función - Defender los intereses colectivos de sus asociados ante los organismos y entidades que regulan la actividad del transporte aéreo.
+          - list [ref=e1316]:
+            - listitem [ref=e1317]: Informar y asesorar a los asociados sobre los asuntos de la industria del transporte aéreo, manteniendo la cooperación necesaria con los organismos y entidades que intervienen en los procesos, tales como el Ministerio de Transportes y Movilidad Sostenible (DGAC, ENAIRE), OACI, IATA, etc.
+            - listitem [ref=e1318]: Velar por la Seguridad y la Calidad de los Servicios prestados a las Compañías Aéreas, promoviendo al mismo tiempo la eficacia necesaria para asegurar las operaciones aeroportuarias.
+            - listitem [ref=e1319]: Promover la formación continua de los empleados contratados por nuestros asociados. Miembros Pueden pertenecer a ALA cuantas empresas estén dedicadas al transporte aéreo de pasajeros, carga y correo que lo deseen, siempre que estén legalmente registradas en España.
+          - heading "ACETA" [level=2] [ref=e1320]
+          - paragraph [ref=e1321]: "Siglas Asociación de Compañías Españolas de Transporte Aéreo Origen Se funda en el año 2004 como una entidad de derecho privado sin fines de lucro de la que forman parte Air Europa, Air Nostrum, Binter Canarias, Gestair, Iberia, Naysa, Orbest y Vueling, y que cubre todos los segmentos de negocio del transporte aéreo: tráfico regular, carga, aviación ejecutiva, regional y chárter. Función - Defender y fortalecer los intereses de sus compañías asociadas."
+          - list [ref=e1322]:
+            - listitem [ref=e1323]: Contribuir a la elaboración y desarrollo de las normas y decisiones que afectan al transporte aéreo.
+            - listitem [ref=e1324]: Impulsar estándares de calidad que satisfagan las expectativas de sus clientes. Miembros Air Europa, Air Nostrum, Binter Canarias, Gestair, Iberia, Naysa, Orbest y Vueling.
+          - heading "AOC" [level=2] [ref=e1325]
+          - paragraph [ref=e1326]: Siglas Asociaciones de Operadores de Compañías Locales Origen Las compañías aéreas que operan en cada aeropuerto se agruparon en las Asociaciones de Operadores de Compañías (AOC) locales. Asimismo, éstas se agrupan en la AOC de España. Función - Mejorar la coordinación entre las distintas compañías y las autoridades aeroportuarias (Aena S.M.E., S.A.).
+          - list [ref=e1327]:
+            - listitem [ref=e1328]: Recibir y transmitir información de las otras asociaciones nacionales de líneas y operadores aéreos.
+            - listitem [ref=e1329]: Estudiar y resolver conjuntamente problemas relacionados con la seguridad, navegación aérea, infraestructuras, tráfico, etc. Miembros Compañías aéreas que operan en cada aeropuerto.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1330]'
+          - paragraph [ref=e1331]: "Página: 31 de 54"
+          - paragraph [ref=e1332]: Instituciones y Legislación Aeronáutica
+          - heading "3.8. COMISIONES Y SUBCOMITÉ" [level=2] [ref=e1333]
+          - heading "CIDETRA" [level=2] [ref=e1334]
+          - paragraph [ref=e1335]: Siglas Comisión Interministerial entre Defensa y Trasportes, Movilidad y Agenda Urbana Origen - Tras la creación en 1977 del Ministerio de Transportes, Turismo y Comunicaciones, las competencias en aeronáutica civil se traspasaron desde el Ministerio de Defensa, donde residían hasta ese momento.
+          - list [ref=e1336]:
+            - listitem [ref=e1337]: En 1979, se creó un organismo, la Comisión Interministerial Defensa-Transportes (CIDETRA), para permitir y asegurar la coordinación entre la aeronáutica civil y militar.
+            - listitem [ref=e1338]: Se adecuó posteriormente el nombre a Comisión Interministerial entre Defensa y Fomento (CIDEFO). El 1 de abril de 2020 mediante acuerdo de la Comisión se adoptó el cambio de denominación de la Comisión referida en el artículo 6 de la Ley de Seguridad Aérea, como “Comisión Interministerial entre Defensa y Transportes, Movilidad y Agenda Urbana”, así como la designación mediante siglas que pasará a ser CIDETMA En 2024 con el nuevo cambio de nombre del Ministerio, ahora Ministerio de Transportes y Movilidad Sostenible, la comisión interministerial pasa a denominarse CIDETRA Competencias - Aeródromos ◊ Planificación de nuevos aeropuertos y aeródromos públicos civiles, así como las modificaciones que se precisen en los mismos o en sus instalaciones. ◊ Concesión de autorización de aeródromos privados. ◊ Establecimiento y modificación de las servidumbres aeronáuticas de los aeropuertos y aeródromos públicos civiles y privados.
+            - listitem [ref=e1339]: Cartas aeronáuticas ◊ Regulación de las maniobras de aproximación y aterrizaje por instrumentos. ◊ Determinación de cartas especiales que deben editarse y datos referentes a la navegación que deben figurar en la cartografía aeronáutica.
+            - listitem [ref=e1340]: Espacios aéreos ◊ Estructura del espacio aéreo.
+            - listitem [ref=e1341]: Navegación aérea ◊ Planificación de la red de ayudas a la navegación, sistema de control y telecomunicaciones, así como sus modificaciones. ◊ Requerimientos de la navegación aérea en relación con el Instituto Nacional de Meteorología. ◊ Información de cuantos asuntos relacionados con la navegación aérea hayan de tratarse en congresos y reuniones internacionales de aviación civil, así como de los acuerdos adoptados.
+            - listitem [ref=e1342]: Reglamentación ◊ Reglamentación de la circulación aérea. ◊ Organización y reglamentación de la búsqueda y salvamento. ◊ Cualquier otra relacionada con los diferentes aspectos del control del tráfico y de la navegación aérea al objeto de su reglamentación, perfeccionamiento y desarrollo.
+            - listitem [ref=e1343]: Otras ◊ Cualquier otra función de las que corresponden al Ministerio de Transportes y Comunicaciones que, a juicio de uno y otro Departamento, afecte a la aviación militar o a los intereses de la defensa nacional.
+          - heading "CIPAI" [level=2] [ref=e1344]
+          - paragraph [ref=e1345]: Siglas Comisión Interministerial de Política Aeroespacial Internacional Origen - Es un órgano colegiado de la Administración General del Estado, adscrito al Ministerio de Asuntos Exteriores, creado en 1946 con el nombre de Comisión Interministerial de Política Aérea Internacional (CIPAI).
+          - list [ref=e1346]:
+            - listitem [ref=e1347]: Tiene como finalidad el asesoramiento a la Administración General del Estado y la coordinación entre los departamentos de dicha Administración en cuestiones de política aérea y espacial internacional.
+            - listitem [ref=e1348]: En 2003, mediante el Real Decreto 1342/2003, se modifica para ajustarla a la situación actual. Competencias -Emitirá su opinión y hará las propuestas que estime oportunas sobre cuestiones de política aérea y espacial internacionales, respetando las competencias del Ministerio de Asuntos Exteriores en materia de tratados internacionales.
+            - listitem [ref=e1349]: Emitirá informes y propondrá las resoluciones pertinentes en lo relativo a la preparación, negociación, aplicación y vigilancia de la ejecución de tratados internacionales sobre políticas aéreas y espaciales internacionales de interés para España.
+          - heading "SCA" [level=2] [ref=e1350]
+          - paragraph [ref=e1351]: Siglas Subcomité de la Circulación Aérea Origen - Con el objetivo de establecer un adecuado foro de coordinación entre la administración de aviación civil y los usuarios del sistema de navegación aérea, se fundó en 1986 el Comité de Coordinación Operativa.
+          - list [ref=e1352]:
+            - listitem [ref=e1353]: En el momento de su creación se dividió, a su vez, en cinco subcomités, entre los que se encuentra el Subcomité de Circulación Aérea (SCA). Competencias - coordinar todos los requisitos operacionales identificados y justificados por los usuarios.
+            - listitem [ref=e1354]: participan ENAIRE, la DGAC, la AEMET y las compañías aéreas españolas.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1355]'
+          - paragraph [ref=e1356]: "Página: 32 de 54"
+          - paragraph [ref=e1357]: Instituciones y Legislación Aeronáutica
+          - heading "4. LEGISLACIÓN" [level=2] [ref=e1358]
+          - heading "4.1 DERECHO AERONÁUTICO" [level=2] [ref=e1359]
+          - paragraph [ref=e1360]: "La expresión “Derecho Aeronáutico” remite al conjunto de normas jurídicas que regulan la navegación aérea y el establecimiento y uso de sus infraestructuras, sea con fines civiles (comerciales o no) o militares. La navegación aérea puede suscitar relaciones jurídicas de diversa naturaleza o especialidad y, por ello, las normas que las regulan, aunque puedan ser agrupadas e identificadas por su objeto aeronáutico, pertenecen a diversas ramas del Derecho:"
+          - heading "D. Administrativo" [level=2] [ref=e1361]
+          - paragraph [ref=e1362]: Normas que regulan o autorizan la apertura de aeródromos, las licencias de vuelo o la imposición de sanciones. D. Internacional Público Las normas y organizaciones aeronáuticas derivadas de acuerdos internacionales. D. Mercantil Del que forman parte las normas que regulan el contrato de transporte aéreo. D. Laboral Del que forman parte las normas sobre condiciones de trabajo de las tripulaciones. D. Penal Del que proceden las normas que determinan y reprueban los delitos aeronáuticos.
+          - heading "4.2 FUENTES DEL DERECHO AERONÁUTICO" [level=2] [ref=e1363]
+          - paragraph [ref=e1364]: "El derecho aeronáutico se encuentra regulado por tres fuentes:"
+          - list [ref=e1365]:
+            - listitem [ref=e1366]: Derecho internacional
+          - heading "2. Derecho Comunitario" [level=2] [ref=e1367]
+          - list [ref=e1368]:
+            - listitem [ref=e1369]: Derecho nacional 4.2.1 Derecho internacional Incluye los acuerdos y tratados multilaterales y convenios bilaterales por los que se regulan las relaciones de transporte público entre los distintos Estados y los aspectos relacionados con el transporte aéreo internacional.
+          - heading "ACUERDOS" [level=2] [ref=e1370]
+          - heading "MULTILATE-" [level=2] [ref=e1371]
+          - heading "RALES" [level=2] [ref=e1372]
+          - paragraph [ref=e1373]: Partes Son acuerdos entre varias partes.
+          - heading "Ordenamiento" [level=2] [ref=e1374]
+          - paragraph [ref=e1375]: En España solamente formarán parte de nuestro ordenamiento jurídico como normas de obligado cumplimiento, los convenios internacionales que hayan sido ratificados y publicados en el BOE.
+          - heading "Tipos" [level=2] [ref=e1376]
+          - list [ref=e1377]:
+            - listitem [ref=e1378]: Convenio de Chicago sobre Aviación Civil Internacional, de 7 diciembre 1944, ratificado el 21 febrero 1947. Este acuerdo internacional sienta las bases del derecho aeronáutico y crea la OACI, como institución asociada a la ONU.
+            - listitem [ref=e1379]: Convenio de Montreal para la unificación de ciertas reglas sobre el transporte aéreo internacional, de 28 mayo 1999 -BOE n° 122, de 20 mayo 2004-. Este convenio deroga y sustituye al Convenio de Varsovia, de 12 octubre 1929, modificado por el Protocolo de La Haya (1955), el de Guadalajara (1961) y el de Montreal (1975).
+            - listitem [ref=e1380]: Convenio de Tokio sobre infracciones y ciertos actos cometidos a bordo de aeronaves de 1963 -BOE n° 308, de 25 octubre
+          - heading "1969." [level=2] [ref=e1381]
+          - list [ref=e1382]:
+            - listitem [ref=e1383]: Convenio de La Haya sobre el delito de interferencia y represión del apoderamiento ilícito de aeronaves, de 16 diciembre 1971 -BOE n° 13, de 15 enero 1973.
+            - listitem [ref=e1384]: Convenio de Montreal para la represión de actos ilícitos contra la seguridad de la aviación civil, de 23 septiembre 1971 -BOE n° 9, de 10 de enero de 1974.
+            - listitem [ref=e1385]: Convenio de Roma de 1933 sobre regulación de daños a terceros, modificado por sus protocolos adicionales de Bruselas (1938), Roma (7 octubre 1952) y Montreal (1978).
+            - listitem [ref=e1386]: Tratado sobre cielos abiertos, de 24 marzo 1992 -BOE nº 230, de 24 septiembre 1992.
+            - listitem [ref=e1387]: Convenio de Bruselas, sobre cooperación, relativo a la seguridad de la navegación aérea “EUROCONTROL”, de 13 diciembre 1960 -BOE nº 152, de 26 junio 1997, posteriormente modificado por distintos protocolos y acuerdos multilaterales.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1388]'
+          - paragraph [ref=e1389]: "Página: 33 de 54"
+          - paragraph [ref=e1390]: Instituciones y Legislación Aeronáutica
+          - heading "CONVENIOS" [level=2] [ref=e1391]
+          - heading "BILATERALES" [level=2] [ref=e1392]
+          - paragraph [ref=e1393]: Partes Convenios entre un estado miembro y otro país para regular las condiciones en que va a ser desarrollado el transporte aéreo.
+          - heading "Ordenamiento" [level=2] [ref=e1394]
+          - paragraph [ref=e1395]: − Quedan limitados a la regulación de servicios extracomunitarios. − La negociación de estos convenios está afectada por el Reglamento comunitario 847/2004, que otorga a la UE la facultad de negociar acuerdos bilaterales con 3º Estados en materias sobre las que tenga competencias transferidas (p. e. tarifas).
+          - heading "Tipos" [level=2] [ref=e1396]
+          - paragraph [ref=e1397]: "Los aspectos que regulan son: rutas de los servicios aéreos, establecimientos y reparto de la capacidad en cada ruta, nº de compañías aéreas designadas para prestar los servicios de transporte aéreo y los requisitos que deben cumplir, tarifas, etc."
+          - heading "LIBERTADES" [level=2] [ref=e1398]
+          - heading "DEL AIRE" [level=2] [ref=e1399]
+          - paragraph [ref=e1400]: En el Derecho aeronáutico, son una serie de derechos relativos a la aviación comercial que garantizan a las aerolíneas de un Estado entrar en el espacio aéreo de otro Estado y aterrizar en éste (recogidas en el Convenio de Chicago).
+          - heading "Técnicas" [level=2] [ref=e1401]
+          - paragraph [ref=e1402]: "Primera libertad: Llamada Libertad de Sobrevuelo, determina el derecho de una aeronave del Estado “A” a volar sobre el territorio de otro Estado “B” sin aterrizar."
+          - paragraph [ref=e1403]: "Segunda Libertad: Llamada Libertad de Escala Técnica, otorga a una aeronave del Estado “A” el derecho de aterrizar en el territorio del Estado “B” otro estado por razones técnicas (no comerciales) tales como repostar combustible, mantenimiento, emergencias, etc."
+          - heading "Comerciales" [level=2] [ref=e1404]
+          - paragraph [ref=e1405]: "Tercera libertad: Llamada Libertad de Transporte al Exterior. Otorga a una aeronave del Estado “A” el derecho de desembarcar en el Estado “B” pasajeros, correo y carga tomad os en el territorio del Estado “A”."
+          - paragraph [ref=e1406]: "Cuarta Libertad: Llamada Libertad de Transporte al Interior. Define el derecho de una aeronave del Estado “A” para embarcar pasajeros, correo y carga en el Estado “B”, y que tengan como destino el Estado “A”."
+          - paragraph [ref=e1407]: "Quinta Libertad: Llamada Libertad de Transporte Externo Consecutivo. Otorga el derecho a una aeronave del Estado “A” a embarcar pasajeros, correo y carga en el Estado “B” y transportarlos hasta otro Estado “C”, con tal y la última parte del vuelo sea una continuación del vuelo inicial “A”-”B”."
+          - heading "Otras" [level=2] [ref=e1408]
+          - paragraph [ref=e1409]: "libertades Sexta Libertad: Llamada Libertad de Transporte Externo-Interno. Otorga el derecho a una aeronave del Estado “A” para que transporte tráfico comercial entre otros dos Estados “B” y “C”, siempre y cuando haga escala en su propio territorio."
+          - paragraph [ref=e1410]: "Séptima Libertad: Llamada Libertad de Transporte Externo. Da el derecho a una aeronave del Estado “A” para que efectúe transporte comercial, enteramente fuera de su territorio, entre dos Estados “B” y “C”."
+          - paragraph [ref=e1411]: "Octava Libertad: Llamada Libertad de Cabotaje Consecutivo. Es el derecho que se acuerda a un Estado para que sus líneas aéreas puedan realizar transporte de cabotaje (interno) en otro Estado, partiendo (o culminando el servicio) en el país al que pertenece la línea aérea."
+          - paragraph [ref=e1412]: "Cabotaje: consiste en el transporte aéreo de personas, mercancías o equipajes entre diversos lugares del territorio de un estado sin abandonarlo."
+          - paragraph [ref=e1413]: "Novena libertad: Llamada Libertad de Cabotaje autónomo. Es el derecho que se acuerda a un Estado para que sus líneas aéreas puedan realizar transporte de cabotaje (interno) en otro"
+          - heading "Estado." [level=2] [ref=e1414]
+          - paragraph [ref=e1415]: 4.2.2 Derecho comunitario La mayoría de las disposiciones que regulan el sector aeronáutico y aeroportuario emanan de las instituciones de la Unión Europea. Así, el Tratado de la Comunidad Económica Europea de 1957 tiene entre sus objetivos el establecimiento de una política común en el transporte. En todo caso, la liberalización comunitaria del transporte aéreo, por la que se aplicarían las normas sobre defensa de la competencia en el sector, comenzó a concretarse al finalizar la década de 1980.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1416]'
+          - paragraph [ref=e1417]: "Página: 34 de 54"
+          - paragraph [ref=e1418]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1419]: "Entre estas normas cabe destacar:"
+          - heading "REGLAMENTOS" [level=2] [ref=e1420]
+          - heading "COMUNITARIOS" [level=2] [ref=e1421]
+          - paragraph [ref=e1422]: "AFECTA Vincula a todos los estados miembros. RANGO Se trata de una norma de Derecho comunitario que goza de primacía: es superior a cualquier otra norma del Derecho de los Estados miembros. EFECTO Eficacia directa: directamente aplicable en todo el territorio de la Unión desde su publicación en el Diario Oficial de la Unión Europea. TIPOS REGLAMENTO (CE) Nº 550/2004 del Parlamento Europeo y del Consejo, de 10 marzo 2004, relativo a la prestación de servicios de navegación aérea en el cielo único europeo. REGLAMENTO DE EJECUCIÓN (UE) Nº 1035/2011 de la Comisión, de 17 octubre 2011, por el que se establecen requisitos comunes para la prestación de servicios de navegación aérea. REGLAMENTO (CE) Nº 216/2008 del Parlamento Europeo y del Consejo, de 20 de febrero de 2008, sobre normas comunes en el ámbito de la aviación civil y por el que se crea una Agencia Europea de"
+          - heading "Seguridad Aérea." [level=2] [ref=e1423]
+          - paragraph [ref=e1424]: REGLAMENTO DE EJECUCIÓN (UE) Nº 390/2013 de la Comisión, de 3 mayo 2013, por el que se establece un sistema de evaluación del rendimiento de los servicios de navegación aérea y de las funciones de red. REGLAMENTO (UE) 2015/340 de la Comisión, de 20 febrero 2015, por el que se establecen requisitos técnicos y procedimientos administrativos relativos a las licencias y los certificados de los controladores de tránsito aéreo en virtud del Reglamento (CE) no 216/2008 del Parlamento Europeo y del Consejo. REGLAMENTO DE EJECUCIÓN (UE) 2017/373 de la Comisión, de 1 marzo 2017, por el que se establecen requisitos comunes para los proveedores de servicios de gestión del tránsito aéreo/navegación aérea y otras funciones de la red de gestión del tránsito aéreo y su supervisión, por el que se derogan el Reglamento (CE) n.° 482/2008 y los Reglamentos de Ejecución (UE) n.° 1034/2011, (UE) n.° 1035/2011 y (UE) 2016/1377, y por el que se modifica el Reglamento (UE) n.° 677/2011 (Texto pertinente a efectos del EEE.).
+          - heading "DIRECTIVAS" [level=2] [ref=e1425]
+          - heading "COMUNITARIAS" [level=2] [ref=e1426]
+          - paragraph [ref=e1427]: "AFECTA Vincula a los Estados de la Unión o, en su caso, al Estado destinatario. RANGO Lo determinan los Estados: Se trata de una norma de Derecho comunitario porque intenta la consecución de resultados u objetivos concretos en un plazo determinado, dejando, a las autoridades competentes de cada Estado la elección de la forma y los medios adecuados a tal fin. EFECTO Lo determinan los Estados, es decir, necesita mecanismo de transposición (consiste en incorporar dicha directiva al ordenamiento jurídico de cada estado miembro de la U.E. para adaptar así las legislaciones estatales a las directrices que marca la U.E). TIPOS Directiva 2006/23/CE del Parlamento Europeo y del Consejo, de 5 de abril de 2006 , relativa a la licencia comunitaria de controlador de tránsito aéreo."
+          - heading "DECISIONES" [level=2] [ref=e1428]
+          - heading "COMUNITARIAS" [level=2] [ref=e1429]
+          - paragraph [ref=e1430]: "AFECTA Vincula únicamente a los destinatarios de la misma. RANGO Se trata de una norma de Derecho comunitario que goza de primacía: es superior a cualquier otra norma del Derecho de los Estados miembros. EFECTO Eficacia directa: directamente aplicable en todo el territorio de la Unión desde su publicación en el Diario Oficial de la Unión Europea."
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1431]'
+          - paragraph [ref=e1432]: "Página: 35 de 54"
+          - paragraph [ref=e1433]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1434]: "4.2.3 Derecho nacional Es el conjunto de las normas aprobadas de acuerdo con la Constitución Española. Está compuesto por orden de importancia:"
+          - heading "- Leyes" [level=2] [ref=e1435]
+          - heading "- Reales Decretos" [level=2] [ref=e1436]
+          - heading "- Órdenes Ministeriales" [level=2] [ref=e1437]
+          - heading "- Circulares Aeronáuticas" [level=2] [ref=e1438]
+          - list [ref=e1439]:
+            - listitem [ref=e1440]: Resoluciones de la Dirección General de Aviación Civil.
+          - heading "4.2.3.1 Circulares Aeronáuticas" [level=2] [ref=e1441]
+          - list [ref=e1442]:
+            - listitem [ref=e1443]: Son disposiciones de carácter secundario.
+            - listitem [ref=e1444]: Aprobadas por la Dirección General de Aviación Civil.
+            - listitem [ref=e1445]: Contenido técnico que completan, precisan y aseguran la aplicación eficaz de las normas dirigidas a preservar la seguridad y el orden del tránsito y del transporte aéreos civiles.
+            - listitem [ref=e1446]: Deberán tener en cuenta las prescripciones y recomendaciones adoptadas por la OACI (Organización de Aviación Civil Internacional).
+            - listitem [ref=e1447]: "Serán obligatorias dentro del ámbito de la aviación civil para las personas físicas y jurídicas que ejecuten actividades y presten servicios vinculados a: a) la formación del personal aeronáutico b) diseño, producción, mantenimiento y explotación de las aeronaves y los productos aeronáuticos c) la gestión de los sistemas aeroportuarios y de navegación aérea d) la prestación de los servicios necesarios para la navegación aérea e) la realización de las actividades de transporte aéreo, los trabajos aéreos, la aviación general y deportiva"
+          - heading "4.3 RESUMEN DE LA NORMATIVA DE LA UNIÓN EUROPEA APLICABLE A ENAIRE" [level=2] [ref=e1448]
+          - paragraph [ref=e1449]: 4.3.1 Marco para la creación del Cielo Único Europeo
+          - list [ref=e1450]:
+            - listitem [ref=e1451]: "Reglamento (CE) 549/2004 que fija el marco para la creación de SES (“Reglamento marco”) OBJETIVO: Establecer un marco regulador armonizado para la creación de SES, con el objetivo de reforzar las normas de seguridad del tránsito aéreo, contribuyendo al desarrollo sostenible del sistema"
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1452]'
+          - paragraph [ref=e1453]: "Página: 36 de 54"
+          - paragraph [ref=e1454]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1455]: de transporte aéreo y mejorando el rendimiento global con el fin de responder a las necesidades de los usuarios.
+          - list [ref=e1456]:
+            - listitem [ref=e1457]: "Reglamento (UE) 2019/317 que establece un sistema de evaluación del rendimiento y de tarificación en SES OBJETIVO: Establecer las medidas necesarias para el funcionamiento de los sistemas de evaluación del rendimiento y de tarificación de los servicios ANS y funciones de red. 4.3.2 Prestación de servicios de navegación aérea"
+            - listitem [ref=e1458]: "Reglamento (CE) 550/2004 relativo a la prestación ANS en SES (“Reglamento de prestación de servicios”) OBJETIVO: Establecer requisitos comunes para una prestación segura y eficaz de servicios ANS."
+            - listitem [ref=e1459]: "Reglamento (UE) 176/2011 sobre la información previa que debe facilitarse con miras al establecimiento y modificación de un FAB. OBJETIVO: Establecer los requisitos relativos a la información previa que deberán facilitar los Estados miembros considerados a la Comisión, a AESA, a los demás Estados miembros y a las otras partes interesadas con miras al establecimiento y la modificación de un FAB (se considerará modificado cuando, de resultas de una modificación propuesta, se produzcan cambios en sus dimensiones definidas); así como establecer los requisitos referentes a los procedimientos relativos al suministro de información a las partes y a la presentación de observaciones por estas últimas, previos a la notificación de un FAB a la Comisión."
+            - listitem [ref=e1460]: "Reglamento (UE) 409/2013 relativo a la definición de proyectos comunes, el establecimiento de un mecanismo de gobernanza y la identificación de los incentivos de apoyo a la ejecución del Plan Maestro ATM. OBJETIVO: Definir los proyectos comunes a que se refiere el artículo 15 bis del Reglamento (CE) 550/2004, detallando sus mecanismos de gobernanza y estableciendo incentivos para su despliegue."
+            - listitem [ref=e1461]: "Reglamento (UE) 2021/116 relativo a la creación del Proyecto Común Uno de apoyo a la ejecución del Plan Maestro ATM europeo. OBJETIVO: Definir el Proyecto Común Uno (PC1) para apoyar la ejecución del Plan Maestro ATM europeo, incluyendo las siguientes funcionalidades ATM: a) Gestión ampliada de llegadas e integración AMAN/DMAN en las TMAs de alta densidad (AF 1) b) Integración y productividad de los aeropuertos (AF 2) c) Gestión flexible del espacio aéreo y encaminamiento libre (AF 3) d) Gestión colaborativa de la red (AF 4) e) Gestión de la información del sistema en su conjunto (AF 5)"
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1462]'
+          - paragraph [ref=e1463]: "Página: 37 de 54"
+          - paragraph [ref=e1464]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1465]: f) Fase inicial del intercambio de información sobre trayectorias (AF 6) 4.3.3 Organización y utilización del espacio aéreo
+          - list [ref=e1466]:
+            - listitem [ref=e1467]: "Reglamento (UE)2024/2803 relativo a la realización del Cielo Único Europeo OBJETIVO: Reforzar las normas de seguridad del tránsito aéreo, contribuir al desarrollo sostenible del sistema de transporte aéreo y mejorar el rendimiento global de la gestión del tránsito aéreo y de los servicios de navegación aérea para el tránsito aéreo general en Europa, con el fin de responder a las necesidades de todos los usuarios del espacio aéreo."
+            - listitem [ref=e1468]: "Reglamento (CE) 2150/2005 que establece normas comunes para FUA. OBJETIVO: Reforzar y armonizar la aplicación, dentro de SES, del concepto FUA definido en el Reglamento (CE) 551/2004, con el objetivo de facilitar la gestión ATM dentro de la política común de transportes."
+            - listitem [ref=e1469]: "Reglamento (UE) 255/2010 sobre Gestión de Afluencia de Tránsito Aéreo (ATFM). OBJETIVO: Optimizar la capacidad disponible de la Red Europea ATM y mejorar los procesos ATFM."
+            - listitem [ref=e1470]: "Reglamento (UE) 923/2012 que establece el reglamento del aire y disposiciones operativas comunes para los servicios y procedimientos ANS (SERA). OBJETIVO: Establecer el Reglamento del Aire y las disposiciones operativas comunes para los servicios y procedimientos ANS aplicables a GAT dentro del ámbito de aplicación del Reglamento (CE) 551/2004. El Reglamento debe aplicarse a los usuarios del espacio aéreo y a las aeronaves dedicadas a GAT: a) Que operen con destino a la Unión, dentro de la Unión o con origen en ella; b) Que posean la nacionalidad y las marcas de matrícula de un Estado miembro, y que operen en cualquier espacio aéreo siempre que no infrinjan las normas publicadas por el país que tenga jurisdicción sobre el territorio sobrevolado. c) También aplicable a las autoridades competentes de los Estados miembros, a los ANSPs, al Gestor de red, a los operadores de aeródromos y al personal de tierra dedicado a la operación de aeronaves. El Anexo contiene el “Reglamento del Aire” que se divide en las siguientes secciones: Sección 1 - Vuelos sobre alta mar. Sección 2 - Aplicabilidad y cumplimiento. Sección 3 - Normas generales y anticolisión: ▪ Capítulo 1: Protección de personas y propiedad. ▪ Capítulo 2: Prevención de colisiones."
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1471]'
+          - paragraph [ref=e1472]: "Página: 38 de 54"
+          - paragraph [ref=e1473]: Instituciones y Legislación Aeronáutica
+          - 'heading "▪ Capítulo 3: Señales." [level=2] [ref=e1474]'
+          - 'heading "▪ Capítulo 4: Hora." [level=2] [ref=e1475]'
+          - paragraph [ref=e1476]: "Sección 4 - Planes de vuelo. Sección 5 - VMC, reglas VFR y VFR especial e IRF. Sección 6 - Clasificación del espacio aéreo. Sección 7 - ATS. Sección 8 - ATC. Sección 9 - FIS. Sección 10 - Servicio de alerta. Sección 11 - Interferencia, casos de emergencia e intercepción Sección 12 - Servicios MET — Observaciones e informes de aeronave mediante comunicación por voz. Sección 13. Transpondedor SSR y transmisores ADS-B. Sección 14. Procedimientos de coordinación oral. Sección 15. Procedimientos de las comunicaciones por enlace de datos controlador-piloto (CPDLC). Por otra parte, el Anexo consta de los siguientes apéndices:"
+          - heading "Apéndice 1. Señales" [level=2] [ref=e1477]
+          - paragraph [ref=e1478]: Apéndice 2. Globos libres no tripulados Apéndice 3. Tablas de niveles de crucero Apéndice 4. Clasificación de los espacios aéreos ATS — Servicios suministrados y requisitos de vuelo Apéndice 5. Requisitos referentes a ANS (Especificaciones técnicas relativas a las observaciones e informes de aeronave mediante comunicación por voz). Apéndice 6. Modo de completar el Plan de vuelo.
+          - list [ref=e1479]:
+            - listitem [ref=e1480]: Reglamento (UE) 2019/123 que establece disposiciones de aplicación de las funciones de la red
+          - heading "ATM." [level=2] [ref=e1481]
+          - paragraph [ref=e1482]: "OBJETIVO: Establecer las reglas relativas a las funciones de la red ATM, así como las normas para la gestión de las crisis de la red, entendiendo que la misma incluye a aeropuertos, estructuras de espacio aéreo e interfaces que las conectan, infraestructura y capacidades operativas de EATMN."
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1483]'
+          - paragraph [ref=e1484]: "Página: 39 de 54"
+          - paragraph [ref=e1485]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1486]: 4.3.4 Normas comunes en aviación civil y constitución de EASA
+          - list [ref=e1487]:
+            - listitem [ref=e1488]: "Reglamento (UE) 2018/1139 sobre normas comunes en el ámbito de la aviación civil y por el que se crea una Agencia de la Unión Europea para la Seguridad Aérea OBJETIVO: Establecer y mantener un nivel elevado y uniforme de seguridad y protección en la aviación civil en la UE, mejorar su rendimiento, facilitar la libre circulación, establecer una cooperación adecuada con terceros países, fomentar la aceptación mutua de certificados, contribuir para alcanzar un nivel de protección medioambiental elevado, articular las reglas de atribución de los procesos de reglamentación, certificación y supervisión, asistir a los Estados para garantizar una interpretación común y aplicación uniforme del Convenio de OACI y promover I+D+i y la interoperabilidad técnica y operativa."
+            - listitem [ref=e1489]: "Reglamento (UE) 628/2013 sobre los métodos de trabajo que debe aplicar EASA en las inspecciones de normalización y la supervisión de la aplicación del Reglamento (CE) 216/2008 OBJETIVO: Establecer los métodos de trabajo para que EASA supervise la aplicación por parte de las autoridades competentes de los Estados miembros del Reglamento (UE) 2018/1139, sus disposiciones de aplicación, así como los requisitos de seguridad aérea establecidos por otros textos legislativos de la UE o en acuerdos formalizados por la UE o EASA. Para ello, puede llevar a cabo inspecciones de normalización, comprobando que las autoridades competentes de los Estados miembros expiden y supervisan los certificados, y pudiendo comportar investigaciones sobre las empresas asociadas."
+            - listitem [ref=e1490]: "Reglamento (UE) 139/2014 que establece los requisitos y procedimientos administrativos relativos a los aeródromos. OBJETIVO: Establecer disposiciones detalladas sobre la certificación y supervisión de aeródromos y operadores de aeródromos por parte de una autoridad nacional competente (AESA para España). El presente Reglamento constituye una concreción de los requisitos del Reglamento (UE) 2018/1139 que deben cumplir los aeródromos. Además, establece una regulación detallada del proceso de certificación que deben seguir los operadores de aeródromos, sus responsabilidades y limitaciones a las operaciones permitidas. Por último, se regula el procedimiento para la validez de las declaraciones de proveedores SDP, sus funciones y organización, así como las operaciones de dirección en la plataforma."
+            - listitem [ref=e1491]: "Reglamento (UE) 2015/340 que establece requisitos técnicos y procedimientos administrativos relativos a licencias y certificados de ATCOs. OBJETIVO: Establecer los requisitos técnicos y los procedimientos administrativos relativos a las licencias y certificados de ATCOs y alumnos ATCOs. Para ello, sienta las definiciones básicas (habilitación, anotación, etc.) y articula los requisitos detallados y uniformes que deben cumplirse materia de: o Competencia lingüística. o Formación, cualificación y aptitud. o Evaluación médica a cargo de médicos examinadores y de centros médicos aeronáuticos"
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1492]'
+          - paragraph [ref=e1493]: "Página: 40 de 54"
+          - paragraph [ref=e1494]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1495]: Además, se establecen los requisitos para un sistema de administración y gestión operado por las autoridades competentes, de conformidad con el Programa de Seguridad Estatal de OACI. Por otro lado, se articulan los requisitos relativos a la certificación de las organizaciones de formación.
+          - list [ref=e1496]:
+            - listitem [ref=e1497]: "Reglamento (UE) 2017/373 que establece requisitos comunes para los proveedores ATM/ANS y otras funciones de la red ATM y su supervisión. OBJETIVO: Establecer los requisitos comunes para la certificación y supervisión de ANSPs y funciones de la red ATM. Además, también dispone los requisitos para la certificación y supervisión de organizaciones proveedoras de servicios DAT y también de NM. El Reglamento (UE) 2020/469 introduce cambios en la regulación de la provisión ATS, en consonancia con la adopción de la 7ª edición del Anexo 10 (Volumen II) y la 15ª edición del Anexo 11 del Convenio de OACI y la 16ª edición del Doc. 4444 (PANS-ATM). También sustituye los requisitos establecidos para la provisión AIS, de acuerdo con las SARPs de la 16ª edición del Anexo 15 y de la enmienda 77-B del Anexo 3 del Convenio de OACI, de forma que reflejen el estado actual de la técnica en materia de seguridad aérea e incluyan además disposiciones detalladas sobre la calidad de los datos e información aeronáuticos. Por último, el Reglamento (UE) 2020/469 da contenido al Anexo XI estableciendo normas técnicas comunes para el diseño de estructuras del espacio aéreo, así como requisitos comunes para los proveedores FDP."
+            - listitem [ref=e1498]: "Reglamento (UE) 2018/1048 que establece los requisitos de utilización del espacio aéreo y los procedimientos operativos en relación con PBN OBJETIVO: Establecer los requisitos de utilización del espacio aéreo y procedimientos operativos en relación con la navegación PBN."
+            - listitem [ref=e1499]: "Reglamento (UE) 2019/947 relativo a las normas y procedimientos aplicables a la utilización de aeronaves no tripuladas. OBJETIVO: Establecer disposiciones detalladas para la utilización de UAS, su personal y organizaciones que participen en dichas operaciones. No aplica a las organizaciones investidas de autoridad pública que realicen actividades militares, de aduanas, policía, SAR, anti-incendios, control fronterizo, vigilancia costera, etc"
+            - listitem [ref=e1500]: "Reglamento (UE) 2021/664 sobre un marco regulador para el U-Space. OBJETIVO: Establecer normas y procedimientos para la seguridad de las operaciones de UAS en el espacio aéreo U-Space, para la integración segura de UAS en el sistema de aviación y para la prestación de servicios U-Space, destinado a operadores UAS, proveedores USSP y CISP, dentro de las zonas geográficas de UAS definidas como espacio aéreo U-Space por los Estados miembros."
+            - listitem [ref=e1501]: "Reglamento (UE) 2023/203 que establece requisitos relativos a la gestión de riesgos de seguridad de la información que puedan repercutir sobre la seguridad aérea. OBJETIVO: Establecer los requisitos para detectar y gestionar los riesgos relacionados con la seguridad de la información que puedan repercutir sobre la seguridad aérea y afectar a los sistemas de tecnologías de la información y de las comunicaciones, así como a los datos utilizados con fines de aviación civil;"
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1502]'
+          - paragraph [ref=e1503]: "Página: 41 de 54"
+          - paragraph [ref=e1504]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1505]: detectar eventos de seguridad de la información y determinar cuáles se consideran incidentes de seguridad de la información con posibles repercusiones sobre la seguridad aérea; responder a dichos incidentes de seguridad de la información y recuperarse de ellos.
+          - list [ref=e1506]:
+            - listitem [ref=e1507]: "Reglamento (UE) 2023/1768 que establece normas detalladas para la certificación/declaración de sistemas y componentes ATM/ANS OBJETIVO: Establecer requisitos técnicos y procedimientos administrativos comunes para la certificación y declaración de conformidad del diseño de sistemas/componentes ATM/ANS."
+            - listitem [ref=e1508]: Reglamento (UE) 2023/1769 que establece requisitos técnicos y procedimientos administrativos para la aprobación de organizaciones de diseño/producción de sistemas y componentes
+          - heading "ATM/ANS" [level=2] [ref=e1509]
+          - paragraph [ref=e1510]: "OBJETIVO: Establecer los requisitos técnicos y los procedimientos administrativos para la aprobación de organizaciones que participan en el diseño/producción de sistemas y componentes ATM/ANS sujetos a certificación. 4.3.5 Investigación de accidentes e incidentes"
+          - list [ref=e1511]:
+            - listitem [ref=e1512]: "Reglamento (UE) 996/2010 sobre investigación y prevención de accidentes e incidentes en la aviación civil. OBJETIVO: Establecer normas comunes en el ámbito de las investigaciones de seguridad en la aviación civil europea para prevenir accidentes e incidentes, sin determinar responsabilidades, mediante la creación de una red europea de autoridades de investigación. Asimismo, establece normas relativas a la disponibilidad de información de todas las personas y de los productos peligrosos que se encuentren a bordo de una aeronave involucrada en un accidente. Por último, tiene por objeto mejorar la asistencia a las víctimas de accidentes aéreos y a sus familiares. 4.3.6 Notificación de sucesos"
+            - listitem [ref=e1513]: "Reglamento (UE) 376/2014 relativo a la notificación de sucesos en la aviación civil OBJETIVO: Establecer normas que garanticen la notificación, recogida, almacenamiento, protección, intercambio, difusión y análisis de la información pertinente sobre seguridad de la aviación civil."
+            - listitem [ref=e1514]: "Reglamento (UE) 2015/1018 que establece una lista de clasificación de los sucesos en la aviación civil de notificación obligatoria. OBJETIVO: Adoptar una lista de clasificación de sucesos a la que hay que remitirse para su notificación con arreglo a los sistemas de notificación obligatoria establecidos. 4.3.7 Establecimiento de Empresa Común SESAR 3"
+            - listitem [ref=e1515]: Reglamento (UE) 2021/2085 que establece las empresas comunes en el marco de Horizonte
+          - heading "Europa." [level=2] [ref=e1516]
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1517]'
+          - paragraph [ref=e1518]: "Página: 42 de 54"
+          - paragraph [ref=e1519]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1520]: "OBJETIVO: Establecer empresas comunes para la correcta ejecución de programas de investigación, de desarrollo tecnológico y de demostración de la UE, determinando sus objetivos, composición, organización y normas de funcionamiento. La presente norma crea la Empresa Común SESAR 3 por un período que finaliza el 31 de diciembre de 2031, financiada con cargo al Marco Financiero Plurianual 2021-2027 y con sede en Bruselas. En todo caso, dicha empresa debe ser financiada conjuntamente por la UE, los miembros distintos de la UE y los socios contribuyentes a través de contribuciones financieras y contribuciones en especie a actividades operativas."
+          - heading "4.4 RESUMEN DE LA NORMATIVA DE NACIONAL CON MAYORES IMPLICACIONES" [level=2] [ref=e1521]
+          - heading "PARA ENAIRE" [level=2] [ref=e1522]
+          - paragraph [ref=e1523]: "El conjunto de normas que se ha procedido a resumir está formado por leyes, reales decretos, órdenes ministeriales y resoluciones que se han estructurado de la siguiente manera:"
+          - list [ref=e1524]:
+            - listitem [ref=e1525]: "Normativa de primer nivel: Leyes esenciales en el ámbito de la navegación aérea que establecen el marco general de actuación, y que influyen en el resto de normas aplicables a la navegación aérea."
+            - listitem [ref=e1526]: "Marco institucional: Analiza las normas que regulan el funcionamiento de las principales instituciones (entendidas como Administración General del Estado, así como Organismos Públicos) que realizan funciones de provisión, certificación, designación y supervisión."
+            - listitem [ref=e1527]: "Supervisión, designación y certificación: Normas que detallan cuáles son los requisitos específicos de las diferentes actividades de supervisión (inspección), certificación y designación de los diferentes proveedores y tipos de servicios de navegación aérea que se prestan."
+            - listitem [ref=e1528]: "Recursos humanos: Normativa específica destinada a los controladores de tránsito aéreo."
+            - listitem [ref=e1529]: "Operaciones y sistemas: Normativa estrictamente técnica que describe todas y cada una de las funciones de prestación de los servicios de navegación aérea."
+            - listitem [ref=e1530]: "Seguridad operacional: Normas que regulan todo aquello relativo a mitigación de riesgos y accidentes e incidentes en la aviación civil."
+            - listitem [ref=e1531]: "Aeropuertos: Normativa de ámbito aeroportuario que tiene influencia en la prestación de servicios de navegación aérea."
+            - listitem [ref=e1532]: "Regulación económica: Conjunto de normas que regulan las fuentes de financiación de los servicios de navegación aérea prestados por ENAIRE, que son fundamentalmente la tarifa de ruta y la tasa de aproximación."
+            - listitem [ref=e1533]: "Regulación ambiental: Norma aplicable a ENAIRE con relación a la obligatoriedad de una evaluación ambiental de los planes, programas y proyectos que puedan tener efectos significativos sobre el medio ambiente. Además, se ofrece un resumen de otras normas que condicionan la actividad aeronáutica."
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1534]'
+          - paragraph [ref=e1535]: "Página: 43 de 54"
+          - paragraph [ref=e1536]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1537]: Dentro de cada grupo de normas, estas se clasifican atendiendo, en primer lugar, a su valor normativo (En primer lugar, las Leyes, en segundo lugar, los Reales Decretos y, por último, Órdenes ministeriales y Resoluciones de Organismos autónomos) y, en segundo lugar, al orden cronológico de su entrada en vigor. 4.4.1 Normativa de primer nivel
+          - list [ref=e1538]:
+            - listitem [ref=e1539]: Ley 48/1960 de Navegación Aérea. Disposiciones generales sobre soberanía del espacio aéreo, leyes aeronáuticas y su aplicación. Espacio aéreo situado sobre territorio español y su mar territorial está sujeto a la soberanía del Estado español. Derecho de resarcimiento de dueños y ocupantes de bienes subyacentes respecto de los daños y perjuicios que se les ocasionen como consecuencia de su deber de soportar la navegación aérea. Debe haber un justo equilibrio entre los intereses de la economía nacional y los derechos de las personas afectadas.
+            - listitem [ref=e1540]: "Ley 21/2003 de Seguridad Aérea OBJETIVO: Determinar las competencias de la Administración General del Estado en materia de aviación civil, regular la investigación técnica de accidentes e incidentes aéreos civiles y establecer el régimen jurídico de la inspección aeronáutica, obligaciones y régimen de infracciones y sanciones."
+            - listitem [ref=e1541]: "Ley 9/2010 que regula la prestación ATS, establece las obligaciones de los proveedores civiles ATS y se fijan determinadas condiciones laborales para CTAs. Designación de los proveedores civiles ATS. Se realiza por el Ministerio TMA a propuesta del gestor aeroportuario. Garantía de la prestación ATS de forma segura, eficaz, continuada y sostenible económica y financieramente. Facultades indisponibles del proveedor: a) Determinar la configuración operativa, instalaciones, servicios técnicos, personal necesario y su organización directiva. b) Efectuar la selección y formación de unidad y continuada de CTAs. c) Organizar los turnos, horarios y descansos del personal. d) Vigilar y controlar el trabajo realizado por su personal e imponer sanciones adecuadas."
+            - listitem [ref=e1542]: "Ley 8/2011 que establece medidas para la protección de infraestructuras críticas. OBJETIVO: Establecer las estrategias y estructuras que permitan dirigir y coordinar las actuaciones de las Administraciones Públicas en materia de protección de infraestructuras críticas, regulando, asimismo, las obligaciones de los operadores críticos, esto es, las entidades responsables de las inversiones o del funcionamiento diario de una instalación, red, sistema, o equipo físico o de tecnología de la información designada como infraestructura crítica."
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1543]'
+          - paragraph [ref=e1544]: "Página: 44 de 54"
+          - paragraph [ref=e1545]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1546]: La aplicación de la presente Ley complementa lo previsto en el Programa Nacional de Seguridad de la Aviación Civil de la Ley 21/2003 de Seguridad Aérea.
+          - list [ref=e1547]:
+            - listitem [ref=e1548]: "Real Decreto-ley 12/2018 de seguridad de las redes y sistemas de información OBJETIVO: Regular la seguridad de las redes y sistemas de información utilizados para la provisión de servicios esenciales y servicios digitales, estableciendo asimismo un sistema de notificación de incidentes. La presente norma se aplica, entre otros, a la prestación de servicios esenciales dependientes de las redes y sistemas de información comprendidos en los sectores estratégicos definidos en el anexo de la"
+          - heading "Ley 8/2011." [level=2] [ref=e1549]
+          - paragraph [ref=e1550]: 4.4.2 Marco institucional
+          - list [ref=e1551]:
+            - listitem [ref=e1552]: "Ley 4/1990 de Presupuestos Generales del Estado para 1990. OBJETIVO: Entre otras materias, se crea el Ente “Aeropuertos Españoles y Navegación Aérea” (art. 82). Ente de Derecho Público con personalidad jurídica propia y plena capacidad pública y privada. Se regirá por el ordenamiento jurídico privado en todo lo relativo a sus relaciones patrimoniales y contratación, ajustándose en el desarrollo de sus funciones públicas a lo dispuesto en la Ley de Procedimiento"
+          - heading "Administrativo." [level=2] [ref=e1553]
+          - list [ref=e1554]:
+            - listitem [ref=e1555]: Real Decreto-ley 13/2010 de actuaciones en el ámbito fiscal, laboral y liberalizadoras para fomentar la inversión y la creación de empleo. «Aena Aeropuertos, S. A.» asume el conjunto de funciones y obligaciones que actualmente ejerce la entidad pública empresarial ENAIRE en materia de gestión y explotación de los servicios aeroportuarios, así como cualesquiera otras que la normativa nacional o internacional atribuya a los gestores aeroportuarios, en relación con la red de aeropuertos integrada por los aeropuertos y helipuertos gestionados por ENAIRE. La entidad pública empresarial «Aeropuertos Españoles y Navegación Aérea» continúa existiendo con la misma naturaleza y régimen jurídico, ejerciendo las competencias que actualmente ostenta en materia de navegación aérea (actual ENAIRE).
+            - listitem [ref=e1556]: "Ley 18/2014 de aprobación de medidas urgentes para el crecimiento, la competitividad y la eficiencia. OBJETIVO: Norma de contenido heterogéneo, entre cuyos distintos preceptos, existen varias disposiciones que afectan al Sistema de Navegación Aérea:"
+            - listitem [ref=e1557]: Cambio de denominación de AENA a ENAIRE y definición de su calificación dentro de la
+          - heading "Administración Pública." [level=2] [ref=e1558]
+          - list [ref=e1559]:
+            - listitem [ref=e1560]: Régimen de la red de aeropuertos de interés general.
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1561]'
+          - paragraph [ref=e1562]: "Página: 45 de 54"
+          - paragraph [ref=e1563]: Instituciones y Legislación Aeronáutica
+          - list [ref=e1564]:
+            - listitem [ref=e1565]: Reorganización de la atribución de competencias y ejercicio de funciones en materia de espacio aéreo y bases aéreas abiertas al tráfico civil y aeródromos de utilización conjunta (entre Ministerio de Defensa y Ministerio TMA) y actualización de las funciones atribuidas a CIDETMA.
+            - listitem [ref=e1566]: Actualización del régimen de infracciones de la Ley 21/2003 de Seguridad Aérea, con objeto de tipificar las acciones u omisiones de los sujetos aeronáuticos que infringen normas comunes sobre la gestión de afluencia del tránsito aéreo.
+            - listitem [ref=e1567]: Establecimiento de Plan Director de navegación aérea.
+            - listitem [ref=e1568]: Real Decreto 184/2008 que aprueba el Estatuto de AESA. Disposiciones generales. Organismo público, con régimen jurídico de Derecho público, que actúa con autonomía, control y responsabilidad por resultados, asistido legalmente por la Abogacía del Estado y adscrito al Ministerio de Transportes. Objeto. Establecer las funciones de ordenación, supervisión e inspección de la seguridad en el transporte aéreo y de los sistemas de navegación aérea y de seguridad aeroportuaria, en sus vertientes de inspección y control de productos aeronáuticos, de actividades aéreas y del personal aeronáutico, así como las funciones de detección, análisis y evaluación de la seguridad aérea.
+            - listitem [ref=e1569]: Real Decreto 186/2008 que aprueba el Estatuto de AEMET. Disposiciones generales. Organismo público adscrito al Ministerio para la Transición Ecológica, régimen jurídico de Derecho público, con el objeto de desarrollar, implantar y prestar servicios meteorológicos de competencia del Estado y apoyar el ejercicio de otras políticas públicas y actividades privadas, contribuyendo a la seguridad de personas y bienes y al bienestar y desarrollo sostenible de la sociedad española
+            - listitem [ref=e1570]: Real Decreto 253/2024 que desarrolla la estructura orgánica básica del Ministerio de Transportes y Movilidad Sostenible. OBJETIVO. Instituir a la DGAC, que es el órgano del Ministerio de Transportes y Movilidad Sostenible encargado de formular propuestas de estrategia para la promoción del desarrollo sectorial, dirige la política aeronáutica establecida por el Gobierno, coordina las actuaciones de los organismos, entes y entidades adscritos y ejerce de regulador en el sector aéreo. Además, ubica a ENAIRE como entidad pública empresarial adscrita a la Secretaría de Estado de Transportes y Movilidad Sostenible. AESA está adscrita al mismo Ministerio, a través de la Secretaría General de Transportes Aéreo y Marítimo, dedicada a la supervisión del sector aéreo.
+            - listitem [ref=e1571]: Real Decreto 160/2023 que aprueba el Estatuto de la entidad pública empresarial Enaire. OBJETIVO. Definir el régimen jurídico y económico-patrimonial, objeto y funciones, organización y funcionamiento de Enaire E.P.E. Régimen jurídico. Enaire E.P.E. es un organismo público, adscrito al Ministerio TMA, que realiza la dirección estratégica, evaluación de resultados y control de eficacia. El presente Real Decreto especifica las normas que aplican a cada uno de sus ámbitos de actuación. Puede promocionar o participar en
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1572]'
+          - paragraph [ref=e1573]: "Página: 46 de 54"
+          - paragraph [ref=e1574]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1575]: sociedades mercantiles, previa conformidad del Ministerio TMA. Le corresponden los derechos derivados de su participación accionarial en Aena, S.M.E., S.A.
+          - heading "Funciones:" [level=2] [ref=e1576]
+          - paragraph [ref=e1577]: "a) Prestación de forma segura, eficaz, continuada y sostenible de servicios ANS y espacio aéreo encomendados por el Estado. b) Coordinación operativa de la red nacional ATM y otras relacionadas con usos para gestión eficiente del espacio aéreo. c) En los ámbitos de navegación aérea y estructuración del espacio aéreo, coordinación operativa de la red nacional ATM y usos para la gestión eficiente del espacio aéreo, Enaire E.P.E. debe ejercer las siguientes funciones: i. Elaboración de propuestas para establecimiento de Planes nacionales estratégicos de navegación aérea. ii. Coordinación general operativa de la red ATM. iii. Ejercicio de funciones en materia ATFM y ASM. iv. Coordinación operativa para establecimiento de reservas/restricciones del espacio aéreo para uso civil/militar, así como elaboración y tramitación de propuestas de modificación/creación de estructuras de espacio aéreo y su clasificación, distintos de FABs. v. Participación en definición de política, directrices y planificación estratégica del espacio aéreo y de sistemas ANS. vi. Participación en organizaciones relacionadas con funciones como ANSP o coordinador operativo de la red ATM. vii. Diseño, construcción y explotación de infraestructuras y sistemas ANS. viii. Elaboración de propuestas para establecimiento/modificación de servidumbres radioeléctricas y operativas. ix. Dirección, coordinación, explotación y gestión de servicios de seguridad en sus dependencias. x. Provisión de formación específica. xi. Participación en elaboración, seguimiento y ejecución de Planes de Rendimiento de la UE. xii. Asesoramiento a autoridades nacionales, civiles o militares, en aspectos relacionados con navegación aérea. xiii. Propuesta del Plan Director de Navegación aérea y elaboración de informes sobre instrumentos de ordenación afectos."
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1578]'
+          - paragraph [ref=e1579]: "Página: 47 de 54"
+          - paragraph [ref=e1580]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1581]: xiv. Cualquier otra función, en el ámbito de navegación aérea, para el ejercicio de competencias atribuidas al Ministerio TMA.
+          - heading "Servicios." [level=2] [ref=e1582]
+          - paragraph [ref=e1583]: a) Prestación ATS de control de área y de aproximación y servicios de información de vuelo, de alerta y asesoramiento en volúmenes de espacio aéreo correspondientes. b) Prestación AIS y AIP en nombre del Estado. c) Prestación CNS. d) Prestación ATS de aeródromo y SDP que le correspondan. e) Definición, desarrollo e implantación de sistemas ANS que le correspondan. f) Elaboración y tramitación de propuestas de modificación/creación de estructuras de espacio aéreo y su clasificación, asociados a FABs. g) Elaboración de propuestas de diseño/modificación de procedimientos de vuelo, asociados a FABs.
+          - list [ref=e1584]:
+            - listitem [ref=e1585]: Orden de 8 de noviembre de 1979 que crea la Comisión Interministerial Defensa - Transportes
+          - heading "(CIDETRA)." [level=2] [ref=e1586]
+          - paragraph [ref=e1587]: "OBJETIVO. Crear y regular el funcionamiento de la actualmente denominada CIDETRA (Comisión Interministerial de Defensa y Transportes). Competencia. Estudio e informe de las siguientes materias: a) Planificación de nuevos aeropuertos y aeródromos públicos civiles, así como las modificaciones que se precisen en los mismos o en sus instalaciones, y la concesión de autorización de aeródromos privados. b) Planificación de la red de ayudas a la navegación, sistema de control y telecomunicaciones, así como sus modificaciones. c) Establecimiento y modificación de las servidumbres aeronáuticas de los aeropuertos y aeródromos públicos civiles y privados. d) Estructura del espacio aéreo. e) Cualquiera otra función de las que correspondan al Ministerio de Transportes y Comunicaciones que, a juicio de uno y otro Departamento, afecte a la aviación militar o a los intereses de la defensa nacional. f) Reglamentación de la circulación aérea. g) Regulación de las maniobras de aproximación y aterrizaje por instrumentos. h) Determinación de cartas especiales que deben editarse y datos referentes a la navegación que deben figurar en la cartografía aeronáutica."
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1588]'
+          - paragraph [ref=e1589]: "Página: 48 de 54"
+          - paragraph [ref=e1590]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1591]: i) Requerimientos de la navegación aérea en relación con el Instituto Nacional de Meteorología. j) Organización y reglamentación de la búsqueda y salvamento. k) Información de cuantos asuntos relacionados con la navegación aérea hayan de tratarse en congresos y reuniones internacionales de aviación civil, así como de los acuerdos adoptados. l) En general, cualquier otra relacionada con los diferentes aspectos del control del tráfico y de la navegación aérea al objeto de su reglamentación, perfeccionamiento y desarrollo.
+          - list [ref=e1592]:
+            - listitem [ref=e1593]: Orden FOM/1525/2011 que acuerda el inicio del ejercicio efectivo de funciones y obligaciones en materia de gestión aeroportuaria por «Aena Aeropuertos, SA». OBJETIVO. El Real Decreto-ley 13/2010 prevé un nuevo modelo de gestión de los aeropuertos de interés general de titularidad estatal que pasa por la creación de la sociedad mercantil estatal «Aena Aeropuertos, S.A.», a la que atribuye el conjunto de funciones y obligaciones que actualmente ejerce la entidad pública empresarial ENAIRE en materia de gestión y explotación de los servicios aeroportuarios, así como cualesquiera otras que la normativa nacional o internacional atribuya al gestor aeroportuario, en relación a la red de aeropuertos y helipuertos gestionados por ENAIRE. 4.4.3 Supervisión y certificación
+            - listitem [ref=e1594]: "Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas. OBJETIVO: Regular los requisitos de validez y eficacia de los actos administrativos, el procedimiento administrativo común a todas las AA.PP., incluyendo el sancionador y el de reclamación de responsabilidad, así como los principios para el ejercicio de la iniciativa legislativa y la potestad reglamentaria."
+            - listitem [ref=e1595]: "Real Decreto 310/2022 que completa el régimen jurídico para la aprobación de los cambios de espacio aéreo y los procedimientos civiles de vuelo. OBJETIVO: Desarrollar el Reglamento (UE) 2017/373 con el fin de regular el proceso aplicable para el diseño y el establecimiento/modificación de estructuras del espacio aéreo, así como para la aprobación de procedimientos civiles de vuelo."
+            - listitem [ref=e1596]: "Real Decreto 515/2020 que regula el procedimiento de certificación de ANSPs y funciones ATM/ANS y su control normativo. OBJETIVO: Desarrollar el Reglamento (UE) 2017/373 y disposiciones concordantes, estableciendo el procedimiento de expedición, modificación, suspensión, limitación o revocación del certificado de proveedor civil de servicios y funciones ATM/ANS, así como regular el control normativo continuado de los proveedores incluidos en su ámbito de aplicación."
+            - listitem [ref=e1597]: "Real Decreto 98/2009 que aprueba el Reglamento de inspección aeronáutica. OBJETIVO: Aprobar el reglamento aplicable a las actuaciones de inspección aeronáutica llevadas a cabo por la Agencia Estatal de Seguridad Aérea, directamente o por medio de organismos públicos o sociedades mercantiles estatales que tengan la condición de medio propio instrumental y servicio técnico"
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1598]'
+          - paragraph [ref=e1599]: "Página: 49 de 54"
+          - paragraph [ref=e1600]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1601]: de la Administración General del Estado y de sus organismos y entidades de derecho público, a los que se les encargue la ejecución de actuaciones materiales propias de la inspección aeronáutica de carácter técnico o especializado.
+          - list [ref=e1602]:
+            - listitem [ref=e1603]: "Real Decreto 1133/2010 que regula la provisión AFIS OBJETIVO: Establecer los criterios para determinar la necesidad y suficiencia de la prestación del servicio AFIS, la regulación de los estudios aeronáuticos de seguridad pertinentes, así como el desarrollo del régimen jurídico del servicio AFIS."
+            - listitem [ref=e1604]: Orden FOM/3352/2010 que determina los aeropuertos gestionados por AENA para la selección de nuevos proveedores civiles ATC de aeródromo. La Ley 9/2010 regula la prestación ATS y acomete su reforma estructural, estableciendo un nuevo modelo de prestación de estos servicios para que, en el marco normativo SES, se garantice una prestación segura, eficaz, continuada y sostenible económica y financieramente. Esta ley reserva a ENAIRE la prestación ATS de control de área y de aproximación, abriendo la posibilidad de que los servicios ATS de aeródromo se presten por otros proveedores certificados por una autoridad nacional de supervisión de la UE. Para aquellos aeródromos que se determinen por Orden del Ministerio de Transportes, ENAIRE debe iniciar los procedimientos para la selección de nuevos proveedores civiles ATS de aeródromo.
+            - listitem [ref=e1605]: "Mediante la presente norma se determina el grupo inicial de aeropuertos gestionados por ENAIRE para los que esta debe seleccionar a otros proveedores ATS de aeródromo. Para dicha selección, ENAIRE ha valorado criterios como el tipo y volumen de tráfico; complejidad de la dependencia y del proceso de transición en relación con los objetivos perseguidos; características del servicio prestado en cada dependencia ATS; necesidades de ENAIRE, de la red de navegación aérea y las derivadas de la gestión de los aeropuertos seleccionados, teniendo en cuenta la garantía de seguridad, continuidad, eficacia, calidad y sostenibilidad del servicio. Orden FOM/922/2013 que establece las directrices para determinar el contenido de los planes de actuaciones inspectoras de AESA. OBJETIVO: Establecer las directrices para determinar el contenido de los planes de actuaciones inspectoras de AESA en materia aeronáutica y fijar su periodicidad y la forma de aprobación y ejecución, dentro de los ámbitos de la función inspectora previstos por la Ley 21/2003 de Seguridad Aérea. 4.4.4 Recursos humanos"
+            - listitem [ref=e1606]: "Real Decreto 1516/2009 que establece disposiciones complementarias sobre licencias y certificados de CTAs. OBJETIVO: Establecer disposiciones complementarias al Reg. (UE) 2015/340 para la obtención de la licencia y ejercicio de la actividad de CTA, y en materia de certificación de proveedores civiles de formación."
+            - listitem [ref=e1607]: Real Decreto 1001/2010 que establece normas de seguridad aeronáutica en relación con los tiempos de actividad y los requisitos de descanso de CTAs
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1608]'
+          - paragraph [ref=e1609]: "Página: 50 de 54"
+          - paragraph [ref=e1610]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1611]: "OBJETIVO: Normativa específica dictada por razones de seguridad operacional para la jornada especial de CTAs, regulándose los tiempos de actividad y descanso."
+          - list [ref=e1612]:
+            - listitem [ref=e1613]: "Orden FOM/1146/2019 que completa el régimen aplicable al personal aeronáutico en materia de competencia lingüística OBJETIVO: Completar el régimen previsto en materia de competencia lingüística del personal aeronáutico. El Reglamento (UE) 2015/340 establece, entre otras cuestiones, el régimen aplicable en materia de competencia lingüística respecto a CTAs y alumnos CTAs. Por otro lado, los Reales Decretos 1133/2010 y 1238/2011 exigen un nivel mínimo de competencia lingüística operacional (nivel 4) para el personal AFIS y SDP. La presente norma completa o aclara dicho régimen, en particular, el método de evaluación de la competencia lingüística y el procedimiento para la aprobación de dicho método; los requisitos que deben reunir los centros evaluadores, el personal evaluador e interlocutor; el tenor del certificado que deben expedir dichos centros a quienes hayan superado la correspondiente evaluación; el procedimiento para la anotación en la licencia o certificación de la competencia lingüística de pilotos, CTAs y alumnos CTAs, personal AFIS y SPD y para la anotación de radiotelefonía, en el caso de pilotos; los plazos de validez de la certificación, en el caso de personal AFIS y SDP."
+            - listitem [ref=e1614]: Resolución de 11 de octubre de 2011 de la Dirección de AESA, que regula el procedimiento de canje de licencias, habilitaciones y anotaciones de CTAs, en relación con Real Decreto 1516/2009 Antes del 15 de enero de 2012 AESA debe proceder, de oficio, al canje de las licencias, habilitaciones y anotaciones de acuerdo con lo que resulte de lo establecido en sus anteriores resoluciones, solicitando a ENAIRE la información oportuna respecto a los CTAs a su servicio. Una vez efectuado el canje, AESA debe entregar las nuevas licencias, con sus habilitaciones y anotaciones canjeadas, a ENAIRE para que ésta, a su vez, se las entregue a los CTAs afectados que se encuentren a su servicio. Efectuado el canje y entregadas las nuevas licencias, los CTAs pueden solicitar la práctica de cuantas anotaciones o la realización de cuantas modificaciones estimen oportunas. Conforme a lo establecido en la disposición transitoria primera del Real Decreto 1516/2009, se mantienen en vigor las atribuciones correspondientes a las licencias, habilitaciones y anotaciones de las que fueran titulares los CTAs. 4.4.5 Sistemas y operaciones
+            - listitem [ref=e1615]: "Real Decreto 57/2002 que aprueba el Reglamento de Circulación Aérea. OBJETIVO: Regular los procedimientos para el diseño, planificación y gestión del tráfico aéreo, que garanticen su desarrollo eficaz y seguro, y la operativa sobre los servicios y procedimientos de navegación aérea que se aplicarán al tránsito aéreo general dentro de su ámbito (“Aeronaves españolas sujetas a las normas de la circulación aérea general, cualquiera que sea el espacio aéreo o el territorio en el que se encuentren, siempre que no se oponga a las normas dictadas por el Estado que tenga jurisdicción sobre él. Así mismo, se aplicará a las aeronaves extranjeras en circulación general, que se encuentren en espacio aéreo o territorio de soberanía española o en espacio aéreo asignado a España”)."
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1616]'
+          - paragraph [ref=e1617]: "Página: 51 de 54"
+          - paragraph [ref=e1618]: Instituciones y Legislación Aeronáutica
+          - list [ref=e1619]:
+            - listitem [ref=e1620]: "Real Decreto 1238/2011 que regula el servicio SDP OBJETIVO: Regular el servicio SDP y las condiciones para su implantación con el fin de garantizar la operación segura de las aeronaves en las plataformas del aeropuerto. Asimismo, completa el contenido del Manual del aeropuerto o del aeródromo de uso público en lo que atañe al SDP."
+            - listitem [ref=e1621]: "Real Decreto 1180/2018 que desarrolla el Reglamento del aire y disposiciones operativas comunes para ANS. OBJETIVO: Establecer las normas de aplicación y desarrollo del Reglamento (UE) 923/2012 y el régimen de restricciones de espacio aéreo y exenciones a la asignación de franjas de salida ATFM, así como a las operaciones especiales, en el espacio aéreo español."
+            - listitem [ref=e1622]: "Real Decreto 426/2021, de 15 de junio, por el que se modifican el Reglamento de Circulación Aérea para actualizar la aproximación en pistas paralelas y las separaciones mínimas en las salidas y llegadas de los vuelos en los aeropuertos. OBJETIVO: Regula la utilización de pistas paralelas e introduce conceptos de la enmienda 9 del Doc 4444 de OACI."
+            - listitem [ref=e1623]: "Real Decreto 517/2024 que desarrolla el régimen jurídico para la utilización civil de UAS y se modifican diversas normas, entre ellas, el Reglamento del aire y disposiciones operativas comunes para servicios y procedimientos ANS y notificación de sucesos OBJETIVO: Desarrollar y/o completar el régimen jurídico ya establecido en la normativa comunitaria; establecer el régimen jurídico aplicable a UAS cuando se lleven a cabo <> (Aduanas, policía, búsqueda y salvamento, lucha contra incendios, control fronterizo o vigilancia costera). 4.4.6 Seguridad operacional"
+            - listitem [ref=e1624]: "Real Decreto 369/2023 que regula las servidumbres aeronáuticas de protección de la navegación aérea. OBJETIVO: Regular las características, alcance y efectos de las servidumbres aeronáuticas de protección de la navegación aérea y fijar los procedimientos administrativos para su aprobación."
+            - listitem [ref=e1625]: "Real Decreto 389/1998 que regula la investigación de los accidentes e incidentes de aviación Civil. OBJETIVO: Mejora de la seguridad aérea, a través de las investigaciones técnicas, cuya última finalidad es la prevención de futuros accidentes e incidentes (no hay búsqueda de culpa o responsabilidad alguna)."
+            - listitem [ref=e1626]: "Real Decreto 995/2013 que desarrolla la regulación de PESO para la Aviación Civil. OBJETIVO: Desarrollar la regulación de Programa Estatal de Seguridad Operacional previsto en la Ley 21/2003 de Seguridad Aérea Programa Estatal de Seguridad operacional."
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1627]'
+          - paragraph [ref=e1628]: "Página: 52 de 54"
+          - paragraph [ref=e1629]: Instituciones y Legislación Aeronáutica
+          - list [ref=e1630]:
+            - listitem [ref=e1631]: "Real Decreto 1088/2020 que completa el régimen aplicable a la notificación de sucesos de aviación civil. OBJETIVO: Desarrollar el Reglamento (UE) 376/2014, de forma que se mantenga el sistema de notificación de sucesos de la aviación civil establecido en AESA."
+            - listitem [ref=e1632]: "Real Decreto 311/2022 que regula el Esquema Nacional de Seguridad. OBJETIVO: Determinar la política de seguridad que deben aplicar las Administraciones y entidades públicas dependientes para una protección adecuada de la información utilizada en medios electrónicos que gestionen en el ejercicio de sus competencias. El Esquema Nacional de Seguridad es un conjunto de principios y requisitos mínimos necesarios para una protección adecuada de la información, de forma que la organización administrativa pueda cumplir sus objetivos utilizando sistemas de información. Para dar cumplimiento a los requisitos, la organización involucrada debe aplicar las Medidas de Seguridad indicadas en el Anexo II de la norma (Organizativas, operacionales y medidas de protección) y formalizarlas en una “Declaración de Aplicabilidad”, firmada por el responsable de seguridad. Por otra parte, la norma establece una metodología para determinar la categoría de seguridad de los sistemas de información involucrados, teniendo en cuenta las dimensiones de seguridad y el nivel requerido en cada una."
+          - heading "4.4.7 Aeropuertos" [level=2] [ref=e1633]
+          - list [ref=e1634]:
+            - listitem [ref=e1635]: "Real Decreto 862/2009 que aprueba las normas técnicas de diseño y operación de aeródromos de uso público y el Reglamento de certificación y verificación de aeropuertos y otros aeródromos de uso público. Respecto de la certificación de los aeropuertos: Se regulan las siguientes materias:"
+            - listitem [ref=e1636]: Disposiciones generales.
+            - listitem [ref=e1637]: "Obligaciones del gestor certificado: Destaca la cooperación y coordinación con el proveedor de servicios de navegación aérea en todo lo relacionado con la seguridad operacional en el ámbito de las competencias respectivas."
+            - listitem [ref=e1638]: Certificación del Aeropuerto (certificado y manual).
+            - listitem [ref=e1639]: Normas de procedimiento.
+            - listitem [ref=e1640]: De la inspección aeronáutica y del régimen sancionador
+            - listitem [ref=e1641]: "Real Decreto 1189/2011 que regula el procedimiento de emisión de los informes previos al planeamiento de infraestructuras aeronáuticas, establecimiento, modificación y apertura al tráfico de aeródromos autonómicos. OBJETIVO: Establecer el procedimiento de emisión de los informes y certificados de compatibilidad previstos en Ley 21/2003 de. Seguridad Aérea, previos al establecimiento, modificación y apertura al"
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1642]'
+          - paragraph [ref=e1643]: "Página: 53 de 54"
+          - paragraph [ref=e1644]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1645]: tráfico de los aeródromos de competencia autonómica y a la aprobación de los instrumentos de planificación de las instalaciones aeroportuarias autonómicas. 4.4.8 Regulación económica
+          - list [ref=e1646]:
+            - listitem [ref=e1647]: "Decreto 1675/1972 que aprueba las tarifas a aplicar por el uso de la Red de Ayudas a la Navegación Aérea (Eurocontrol). OBJETIVO: Describir el procedimiento de gestión y cobro de las tarifas por uso de la red de ayudas de navegación aérea, cuyos Anexos contienen la tarifa y fórmulas precisas para el cálculo de los precios que percibe el Estado por cada vuelo efectuado por una aeronave al sobrevolar el espacio aéreo español. Esta norma sufre constantes modificaciones, mediante Órdenes ministeriales, para la actualización de la tarifa y fórmulas aplicables, de acuerdo con las decisiones de la Comisión Ampliada de Eurocontrol."
+            - listitem [ref=e1648]: Acuerdo Multilateral relativo a las tarifas por ayudas a la navegación aérea de 12 de febrero de
+          - heading "1981." [level=2] [ref=e1649]
+          - paragraph [ref=e1650]: "OBJETIVO: Adoptar una política común internacional en lo relativo a las tarifas a percibir por las instalaciones y servicios de la navegación aérea en ruta (y, en caso de acuerdo, aproximación) en el espacio de los FIR bajo su competencia."
+          - list [ref=e1651]:
+            - listitem [ref=e1652]: "Ley 25/1998 de modificación del Régimen Legal de las Tasas Estatales y Locales y de Reordenación de las Prestaciones Patrimoniales de Carácter Público. OBJETIVO: Catalogar las tasas por utilización del dominio público y prestación de servicios gestionadas por el Estado. Con relación a la navegación aérea, son prestaciones patrimoniales de carácter público con naturaleza de tasas: a) Uso de la red de ayudas a la navegación aérea. Estas tarifas se rigen por el Acuerdo Multilateral de 12 de febrero de 1981. b) Prestación de servicios y utilización del dominio público aeroportuario. En concreto, se trata de 26 tarifas, cuyos elementos esenciales (Número, identidad y criterios de cuantificación) solo pueden establecerse por Ley."
+            - listitem [ref=e1653]: "Ley 24/2001 de Medidas Fiscales, Administrativas y del Orden Social (para la tasa de aproximación). OBJETIVO: Establecer medidas en materia fiscal, administrativa y social. En particular, esta norma regula la tarifa de aproximación, catalogada como una tasa y definida como la retribución de los servicios de navegación aérea prestados para seguridad de la circulación aérea y fluidez de sus movimientos en dicha fase de vuelo."
+          - 'heading "Elaborado: Noviembre 2025" [level=2] [ref=e1654]'
+          - paragraph [ref=e1655]: "Página: 54 de 54"
+          - paragraph [ref=e1656]: Instituciones y Legislación Aeronáutica
+          - paragraph [ref=e1657]: 4.4.9 Regulación ambiental
+          - list [ref=e1658]:
+            - listitem [ref=e1659]: "Ley 37/2003 del Ruido. OBJETIVO: Evitar y mitigar los daños que produce la contaminación acústica. En la presente exposición se señalan las materias más significativas para la prestación ANS, en particular, el diseño de procedimientos de vuelo."
+            - listitem [ref=e1660]: "Ley 42/2007 del Patrimonio Natural y de la Biodiversidad. OBJETIVO: Norma omnicomprensiva del régimen jurídico básico para la conservación, uso sostenible, mejora y restauración del patrimonio natural y de la biodiversidad. En el presente resumen se significan los aspectos más relevantes para la prestación ANS, en particular, el uso de un vocabulario necesario para la presentación de una evaluación de impacto ambiental."
+            - listitem [ref=e1661]: "Ley 21/2013 de evaluación ambiental. OBJETIVO: Establecer las bases que deben regir la evaluación ambiental de los planes, programas o proyectos que puedan tener efectos significativos sobre el medio ambiente. En este resumen solo se apuntan los contenidos relevantes para ENAIRE. La evaluación ambiental es el proceso a través del cual se analizan los efectos significativos que tienen o pueden tener los planes, programas y proyectos, antes de su adopción, aprobación o autorización sobre el medio ambiente."
+            - listitem [ref=e1662]: "Ley 7/2021 de cambio climático y transición energética. OBJETIVO: Asegurar el cumplimiento de los objetivos del Acuerdo de París, publicado en BOE en febrero de 2017, facilitar la descarbonización de la economía española, su transición a un modelo circular y promover la adaptación a los impactos del cambio climático y la implantación de un modelo de desarrollo sostenible que genere empleo decente y contribuya a la reducción de las desigualdades. La presente Ley establece objetivos de reducción de emisiones de gases de efecto invernadero, de energías renovables y de eficiencia energética."
+  - contentinfo [ref=e1663]:
+    - paragraph [ref=e1664]: © 2025 ENAIRE Study - Preparación Examen ATCO
+```
