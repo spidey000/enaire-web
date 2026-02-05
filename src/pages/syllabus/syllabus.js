@@ -107,7 +107,7 @@ async function loadModulesIndex() {
 
 async function loadModuleContent(filename) {
   try {
-    const response = await fetch(`/src/data/modules/${filename}`);
+    const response = await fetch(`/modules/${filename}`);
     return await response.text();
   } catch (error) {
     console.error('Error loading module content:', error);
@@ -117,7 +117,7 @@ async function loadModuleContent(filename) {
 
 async function loadAnnotatedModuleContent(filename) {
   try {
-    const response = await fetch(`/src/data/modules-annotated/${filename}`);
+    const response = await fetch(`/modules-annotated/${filename}`);
     if (!response.ok) {
       return null;
     }
