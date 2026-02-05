@@ -11,7 +11,7 @@
   --spritz-background: #f5f5f5;
   --spritz-white: #ffffff;
   --spritz-black: #000000;
-  --spritz-red: #ff0000;
+  --spritz-red: #ff4d4d;
   --spritz-gray-light: #e8e8e8;
   --spritz-gray-medium: #cccccc;
   --spritz-gray-dark: #666666;
@@ -126,29 +126,26 @@
 }
 
 /* ============================================
-   WORD STYLING
+   WORD STYLING (Atomic)
    ============================================ */
 .spritz-word {
   font-family: 'Courier New', Courier, monospace;
-  /* Use clamp to ensure it fits 15 chars at 35% ORP on mobile while having a good size on desktop. */
-  font-size: clamp(20px, 8vw, 48px);
+  font-size: clamp(24px, 8vw, 52px);
   font-weight: bold;
   color: var(--spritz-black);
   line-height: 1;
-  opacity: 1;
   display: flex;
   width: 100%;
   height: 100%;
-  align-items: center; /* Vertical center within display area */
-  justify-content: center; /* Center by default for 'Ready' state */
+  align-items: center;
+  justify-content: center;
   user-select: none;
-  white-space: nowrap;
+  white-space: pre;
 }
 
-/* When the word is structured into spans for fixed ORP positioning */
 .spritz-word:has(.spritz-word-orp) {
   justify-content: flex-start;
-  align-items: baseline; /* Better for text alignment precision */
+  align-items: baseline;
 }
 
 .spritz-word-left,
@@ -156,11 +153,10 @@
 .spritz-word-right {
   flex-shrink: 0;
   display: inline-block;
+  white-space: pre;
 }
 
 .spritz-word-left {
-  /* To center the ORP character (1ch wide) at exactly 35%:
-     The left part must take up exactly 35% minus half the ORP width. */
   flex: 0 0 calc(35% - 0.5ch);
   text-align: right;
 }
@@ -170,13 +166,12 @@
   flex: 0 0 1ch;
   text-align: center;
   position: relative;
-  z-index: 2; /* Ensure it stays above any potential rendering artifacts */
+  z-index: 5;
 }
 
 .spritz-word-right {
   flex: 1;
   text-align: left;
-  padding-left: 0;
 }
 
 /* Pausing State */
@@ -185,187 +180,91 @@
 }
 
 .spritz-banner.fullscreen .spritz-word {
-  /* In fullscreen we have more width, but let's keep it readable. */
   font-size: 120px;
 }
-.spritz-word.fade-in {
-  animation: spritzFadeIn var(--spritz-transition-fast) ease-in-out;
-}
-
-@keyframes spritzFadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
 
 /* ============================================
-   OPTIMAL RECOGNITION POINT (ORP)
+   CONTROLS PANEL (Minimalist Toolbar)
    ============================================ */
-.spritz-orp {
-  color: var(--spritz-red);
-  font-size: 110%;
-  position: relative;
-  display: inline-block;
+.spritz-toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 12px;
+  background: #222;
+  padding: 8px 15px;
+  border-radius: 50px;
+  width: fit-content;
+  margin: 20px auto;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 
-/* ============================================
-   PAUSE STYLING
-   ============================================ */
-.rsvp-pause {
-  display: inline-block;
+.spritz-nav-group,
+.spritz-action-group {
+  display: flex;
+  align-items: center;
+  gap: 5px;
 }
 
-.rsvp-pause-indicator {
-  color: var(--spritz-gray-medium);
-  font-size: 40px;
-  font-weight: bold;
-}
-
-.spritz-banner.fullscreen .rsvp-pause-indicator {
-  font-size: 80px;
-}
-
-/* ============================================
-   START BUTTON
-   ============================================ */
-.spritz-start-button {
-  width: 200px;
-  height: 80px;
-  margin: var(--spritz-spacing-lg) auto;
-  display: block;
-  background-color: var(--spritz-black);
-  color: var(--spritz-white);
+.spritz-btn-compact {
+  background: none;
   border: none;
-  border-radius: var(--spritz-radius-md);
-  font-family: var(--spritz-font-family);
-  font-size: 24px;
-  font-weight: bold;
+  font-size: 1.2rem;
   cursor: pointer;
-  transition: background-color var(--spritz-transition-normal) ease,
-              transform var(--spritz-transition-fast) ease,
-              box-shadow var(--spritz-transition-normal) ease;
-  box-shadow: 0 2px 4px var(--spritz-shadow);
+  padding: 5px;
+  width: 38px;
+  height: 38px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: transform 0.1s, opacity 0.2s;
+  color: #fff;
+  border-radius: 50%;
 }
 
-.spritz-start-button:hover {
-  background-color: var(--spritz-gray-dark);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 8px var(--spritz-shadow-dark);
+.spritz-btn-compact:hover {
+  background-color: rgba(255, 255, 255, 0.1);
 }
 
-.spritz-start-button:active {
-  transform: translateY(0);
-  box-shadow: 0 2px 4px var(--spritz-shadow);
+.spritz-btn-compact:active {
+  transform: scale(0.9);
 }
 
-.spritz-start-button:focus {
-  outline: 2px solid var(--spritz-gray-medium);
-  outline-offset: 2px;
+.spritz-divider {
+  width: 1px;
+  height: 24px;
+  background-color: #444;
+  margin: 0 5px;
 }
 
-/* ============================================
-   CONTROLS PANEL
-   ============================================ */
-.spritz-controls {
-  display: none;
-  background-color: var(--spritz-white);
-  border-radius: var(--spritz-radius-md);
-  padding: var(--spritz-spacing-md);
-  box-shadow: 0 2px 8px var(--spritz-shadow);
-  margin-top: var(--spritz-spacing-md);
-}
-
-.spritz-controls.active {
-  display: block;
-  animation: spritzSlideDown var(--spritz-transition-normal) ease;
-}
-
-@keyframes spritzSlideDown {
-  from {
-    opacity: 0;
-    transform: translateY(-10px);
-  }
-  to {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-/* ============================================
-   WPM SLIDER
-   ============================================ */
-.spritz-wpm-container {
-  margin-bottom: var(--spritz-spacing-md);
-}
-
-.spritz-wpm-label {
-  font-family: var(--spritz-font-family);
-  font-size: 14px;
-  font-weight: bold;
-  color: var(--spritz-gray-dark);
-  margin-bottom: var(--spritz-spacing-sm);
-  display: block;
-}
-
-.spritz-wpm-value {
-  float: right;
-  color: var(--spritz-red);
-}
-
-.spritz-wpm-slider {
-  width: 100%;
-  height: 6px;
-  border-radius: 3px;
-  background: var(--spritz-gray-light);
+.spritz-wpm-select {
+  background: #333;
+  color: #fff;
+  border: 1px solid #444;
+  border-radius: 5px;
+  padding: 4px 8px;
+  font-size: 0.9rem;
   outline: none;
-  -webkit-appearance: none;
-  appearance: none;
   cursor: pointer;
+  font-family: inherit;
 }
 
-.spritz-wpm-slider::-webkit-slider-thumb {
-  -webkit-appearance: none;
-  appearance: none;
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  background: var(--spritz-black);
-  cursor: pointer;
-  transition: background var(--spritz-transition-fast) ease,
-              transform var(--spritz-transition-fast) ease;
-}
-
-.spritz-wpm-slider::-webkit-slider-thumb:hover {
-  background: var(--spritz-gray-dark);
-  transform: scale(1.1);
-}
-
-.spritz-wpm-slider::-moz-range-thumb {
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  background: var(--spritz-black);
-  cursor: pointer;
-  border: none;
-  transition: background var(--spritz-transition-fast) ease,
-              transform var(--spritz-transition-fast) ease;
-}
-
-.spritz-wpm-slider::-moz-range-thumb:hover {
-  background: var(--spritz-gray-dark);
-  transform: scale(1.1);
+.spritz-wpm-select:hover {
+  background-color: #444;
 }
 
 /* ============================================
    NAVIGATION SLIDER
    ============================================ */
+.spritz-nav-container {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
 .spritz-nav-slider {
   width: 100%;
-  height: 8px;
-  border-radius: 4px;
+  height: 6px;
+  border-radius: 3px;
   background: var(--spritz-gray-light);
   outline: none;
   -webkit-appearance: none;
@@ -377,30 +276,24 @@
 .spritz-nav-slider::-webkit-slider-thumb {
   -webkit-appearance: none;
   appearance: none;
-  width: 16px;
-  height: 16px;
+  width: 18px;
+  height: 18px;
   border-radius: 50%;
   background: var(--spritz-black);
   cursor: pointer;
   transition: background var(--spritz-transition-fast) ease;
-}
-
-.spritz-nav-slider::-webkit-slider-thumb:hover {
-  background: var(--spritz-gray-dark);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
 
 .spritz-nav-slider::-moz-range-thumb {
-  width: 16px;
-  height: 16px;
+  width: 18px;
+  height: 18px;
   border-radius: 50%;
   background: var(--spritz-black);
   cursor: pointer;
   border: none;
   transition: background var(--spritz-transition-fast) ease;
-}
-
-.spritz-nav-slider::-moz-range-thumb:hover {
-  background: var(--spritz-gray-dark);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
 }
 
 /* ============================================
@@ -426,386 +319,138 @@
 }
 
 /* ============================================
-   BOOKMARK BUTTON
+   START SCREEN
    ============================================ */
-.spritz-bookmark-button {
-  background-color: var(--spritz-white);
-  border: 1px solid var(--spritz-gray-medium);
-  border-radius: var(--spritz-radius-sm);
-  padding: var(--spritz-spacing-sm) var(--spritz-spacing-md);
-  font-family: var(--spritz-font-family);
-  font-size: 14px;
-  color: var(--spritz-black);
-  cursor: pointer;
-  transition: background-color var(--spritz-transition-fast) ease,
-              border-color var(--spritz-transition-fast) ease;
-  display: inline-flex;
-  align-items: center;
-  gap: var(--spritz-spacing-xs);
-}
-
-.spritz-bookmark-button:hover {
-  background-color: var(--spritz-gray-light);
-  border-color: var(--spritz-gray-dark);
-}
-
-.spritz-bookmark-button:focus {
-  outline: 2px solid var(--spritz-gray-medium);
-  outline-offset: 2px;
-}
-
-/* ============================================
-   BOOKMARK DROPDOWN
-   ============================================ */
-.spritz-bookmark-dropdown {
-  position: absolute;
-  top: 100%;
-  left: 0;
-  background-color: var(--spritz-white);
-  border-radius: var(--spritz-radius-md);
-  box-shadow: 0 4px 12px var(--spritz-shadow-dark);
-  min-width: 200px;
-  max-height: 300px;
-  overflow-y: auto;
-  z-index: 1000;
-  display: none;
-  margin-top: var(--spritz-spacing-xs);
-}
-
-.spritz-bookmark-dropdown.active {
-  display: block;
-  animation: spritzFadeIn var(--spritz-transition-normal) ease;
-}
-
-.spritz-bookmark-item {
-  padding: var(--spritz-spacing-sm) var(--spritz-spacing-md);
-  font-family: var(--spritz-font-family);
-  font-size: 14px;
-  color: var(--spritz-black);
-  cursor: pointer;
-  transition: background-color var(--spritz-transition-fast) ease;
-  border-bottom: 1px solid var(--spritz-gray-light);
-}
-
-.spritz-bookmark-item:last-child {
-  border-bottom: none;
-}
-
-.spritz-bookmark-item:hover {
-  background-color: var(--spritz-gray-light);
-}
-
-.spritz-bookmark-item-title {
-  font-weight: bold;
-  margin-bottom: 2px;
-}
-
-.spritz-bookmark-item-position {
-  font-size: 12px;
-  color: var(--spritz-gray-dark);
-}
-
-.spritz-bookmark-empty {
-  padding: var(--spritz-spacing-md);
-  font-family: var(--spritz-font-family);
-  font-size: 14px;
-  color: var(--spritz-gray-dark);
+.spritz-start-screen {
   text-align: center;
+  padding: var(--spritz-spacing-xl) 0;
+}
+
+.spritz-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: var(--spritz-spacing-md);
+}
+
+.spritz-start-btn {
+  background-color: var(--spritz-black);
+  color: white;
+  border: none;
+  padding: 15px 40px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: transform 0.2s, background-color 0.2s;
+}
+
+.spritz-start-btn:hover {
+  background-color: #333;
+  transform: scale(1.05);
+}
+
+.spritz-info {
+  margin-top: var(--spritz-spacing-md);
+  color: var(--spritz-gray-dark);
+  font-size: 14px;
 }
 
 /* ============================================
    HELP MODAL
    ============================================ */
-.spritz-help-modal {
+.spritz-modal {
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
   background-color: rgba(0, 0, 0, 0.5);
-  display: none;
+  display: flex;
   align-items: center;
   justify-content: center;
-  z-index: 9999;
+  z-index: 10000;
+}
+
+.spritz-modal-content {
+  background-color: white;
+  padding: var(--spritz-spacing-lg);
+  border-radius: var(--spritz-radius-lg);
+  max-width: 500px;
+  width: 90%;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+}
+
+.spritz-modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: var(--spritz-spacing-md);
+  border-bottom: 1px solid var(--spritz-gray-light);
+  padding-bottom: var(--spritz-spacing-sm);
+}
+
+.spritz-modal-close {
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.spritz-shortcuts-table {
+  width: 100%;
+}
+
+.spritz-shortcuts-table td {
+  padding: 8px 0;
+}
+
+.spritz-shortcuts-table kbd {
+  background-color: var(--spritz-gray-light);
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-family: monospace;
+}
+
+/* ============================================
+   BOOKMARK DROPDOWN
+   ============================================ */
+.spritz-dropdown {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background-color: white;
+  border-radius: var(--spritz-radius-md);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+  z-index: 1000;
+  min-width: 250px;
+  max-height: 300px;
+  overflow-y: auto;
   padding: var(--spritz-spacing-md);
 }
 
-.spritz-help-modal.active {
+.spritz-bookmark-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.spritz-bookmark-item {
+  padding: 10px;
+  border-bottom: 1px solid var(--spritz-gray-light);
+  cursor: pointer;
   display: flex;
-  animation: spritzFadeIn var(--spritz-transition-normal) ease;
+  justify-content: space-between;
+  align-items: center;
 }
 
-.spritz-help-content {
-  background-color: var(--spritz-white);
-  border-radius: var(--spritz-radius-lg);
-  padding: var(--spritz-spacing-lg);
-  max-width: 500px;
-  width: 100%;
-  box-shadow: 0 8px 24px var(--spritz-shadow-dark);
-  position: relative;
+.spritz-bookmark-item:hover {
+  background-color: var(--spritz-gray-light);
 }
 
-.spritz-help-title {
-  font-family: var(--spritz-font-family);
-  font-size: 24px;
-  font-weight: bold;
-  color: var(--spritz-black);
-  margin: 0 0 var(--spritz-spacing-md) 0;
-}
-
-.spritz-help-text {
-  font-family: var(--spritz-font-family);
-  font-size: 14px;
-  color: var(--spritz-gray-dark);
-  line-height: 1.6;
-  margin-bottom: var(--spritz-spacing-sm);
-}
-
-.spritz-help-close {
-  position: absolute;
-  top: var(--spritz-spacing-md);
-  right: var(--spritz-spacing-md);
+.spritz-bookmark-delete {
   background: none;
   border: none;
-  font-size: 28px;
-  color: var(--spritz-gray-dark);
+  color: var(--spritz-red);
   cursor: pointer;
-  width: 32px;
-  height: 32px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 50%;
-  transition: background-color var(--spritz-transition-fast) ease,
-              color var(--spritz-transition-fast) ease;
-}
-
-.spritz-help-close:hover {
-  background-color: var(--spritz-gray-light);
-  color: var(--spritz-black);
-}
-
-/* ============================================
-   CONTROL BUTTONS GROUP
-   ============================================ */
-.spritz-control-buttons {
-  display: flex;
-  justify-content: center;
-  gap: var(--spritz-spacing-md);
-  margin-top: var(--spritz-spacing-md);
-}
-
-.spritz-control-button {
-  background-color: var(--spritz-white);
-  border: 1px solid var(--spritz-gray-medium);
-  border-radius: var(--spritz-radius-sm);
-  padding: 12px var(--spritz-spacing-md); /* Increased for touch target */
-  font-family: var(--spritz-font-family);
-  font-size: 16px;
-  color: var(--spritz-black);
-  cursor: pointer;
-  transition: background-color var(--spritz-transition-fast) ease,
-              border-color var(--spritz-transition-fast) ease;
-  min-width: 60px;
-  min-height: 44px; /* Apple/Google touch target guideline */
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.spritz-control-button:hover {
-  background-color: var(--spritz-gray-light);
-  border-color: var(--spritz-gray-dark);
-}
-
-.spritz-control-button:focus {
-  outline: 2px solid var(--spritz-gray-medium);
-  outline-offset: 2px;
-}
-
-.spritz-control-button.primary {
-  background-color: var(--spritz-black);
-  color: var(--spritz-white);
-  border-color: var(--spritz-black);
-  padding: 12px 30px;
-}
-
-.spritz-control-button.primary:hover {
-  background-color: var(--spritz-gray-dark);
-  border-color: var(--spritz-gray-dark);
-}
-
-#spritzFullscreenBtn {
-  font-size: 20px;
-  min-width: 50px;
-}
-
-.spritz-banner.fullscreen #spritzFullscreenBtn {
-  background-color: var(--spritz-black);
-  color: var(--spritz-white);
-}
-
-/* Thick Sliders for Mobile */
-.spritz-wpm-slider,
-.spritz-nav-slider {
-  height: 12px; /* Thicker track */
-}
-
-.spritz-wpm-slider::-webkit-slider-thumb,
-.spritz-nav-slider::-webkit-slider-thumb {
-  width: 28px; /* Larger thumb */
-  height: 28px;
-}
-
-.spritz-wpm-slider::-moz-range-thumb,
-.spritz-nav-slider::-moz-range-thumb {
-  width: 28px;
-  height: 28px;
-}
-
-/* ============================================
-   BOOKMARK CONTAINER (for positioning)
-   ============================================ */
-.spritz-bookmark-container {
-  position: relative;
-  display: inline-block;
-}
-
-/* ============================================
-   RESPONSIVE BREAKPOINTS
-   ============================================ */
-
-/* Tablet (768px - 1024px) */
-@media (max-width: 1024px) and (min-width: 768px) {
-  .spritz-banner {
-    max-width: 500px;
-    padding: var(--spritz-spacing-md);
-  }
-
-  .spritz-word {
-    font-size: 50px;
-  }
-
-  .spritz-display {
-    padding: var(--spritz-spacing-lg) var(--spritz-spacing-md);
-    min-height: 130px;
-  }
-
-  .spritz-start-button {
-    width: 180px;
-    height: 70px;
-    font-size: 22px;
-  }
-}
-
-/* Mobile (< 768px) */
-@media (max-width: 767px) {
-  .spritz-banner {
-    max-width: 100%;
-    padding: var(--spritz-spacing-md);
-  }
-
-  .spritz-display {
-    padding: var(--spritz-spacing-md);
-    min-height: 100px;
-  }
-
-  .spritz-start-button {
-    width: 160px;
-    height: 60px;
-    font-size: 20px;
-  }
-
-  .spritz-controls {
-    padding: var(--spritz-spacing-sm);
-  }
-
-  .spritz-wpm-label {
-    font-size: 13px;
-  }
-
-  .spritz-control-button {
-    padding: var(--spritz-spacing-xs) var(--spritz-spacing-sm);
-    font-size: 13px;
-    min-width: 60px;
-  }
-
-  .spritz-bookmark-button {
-    padding: var(--spritz-spacing-xs) var(--spritz-spacing-sm);
-    font-size: 13px;
-  }
-
-  .spritz-help-content {
-    padding: var(--spritz-spacing-md);
-  }
-
-  .spritz-help-title {
-    font-size: 20px;
-  }
-
-  .spritz-help-text {
-    font-size: 13px;
-  }
-}
-
-/* Extra Small Mobile (< 480px) */
-@media (max-width: 479px) {
-  .spritz-banner {
-    padding: var(--spritz-spacing-sm);
-  }
-
-  .spritz-word {
-    font-size: 32px;
-  }
-
-  .spritz-display {
-    min-height: 80px;
-  }
-
-  .spritz-start-button {
-    width: 140px;
-    height: 50px;
-    font-size: 18px;
-  }
-
-  .spritz-control-buttons {
-    flex-wrap: wrap;
-  }
-
-  .spritz-control-button {
-    flex: 1 1 calc(50% - var(--spritz-spacing-xs));
-    min-width: auto;
-  }
-}
-
-/* ============================================
-   UTILITY CLASSES
-   ============================================ */
-.spritz-hidden {
-  display: none !important;
-}
-
-.spritz-visible {
-  display: block !important;
-}
-
-/* Accessibility */
-.spritz-banner *:focus-visible {
-  outline: 2px solid var(--spritz-black);
-  outline-offset: 2px;
-}
-
-/* Reduced motion preference */
-@media (prefers-reduced-motion: reduce) {
-  .spritz-word,
-  .spritz-start-button,
-  .spritz-controls,
-  .spritz-wpm-slider,
-  .spritz-nav-slider,
-  .spritz-bookmark-button,
-  .spritz-help-modal,
-  .spritz-control-button {
-    transition: none;
-    animation: none;
-  }
+  font-weight: bold;
 }

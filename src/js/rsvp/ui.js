@@ -112,66 +112,52 @@ export class RSVPUI {
               </div>
             </div>
 
-            <!-- Controls Panel -->
-            <div class="spritz-controls active">
-              <!-- Playback Controls -->
-              <div class="spritz-playback-controls spritz-control-buttons">
-                <button class="spritz-control-button" id="spritzBackBtn" title="Previous section (←)">
-                  ◀◀
-                </button>
-                <button class="spritz-control-button primary" id="spritzPlayBtn" title="Play/Pause (Space)">
-                  ▶
-                </button>
-                <button class="spritz-control-button" id="spritzForwardBtn" title="Next section (→)">
-                  ▶▶
-                </button>
+            <!-- Compact Toolbar -->
+            <div class="spritz-toolbar">
+              <div class="spritz-nav-group">
+                <button class="spritz-btn-compact" id="spritzBackBtn" title="Atrás (←)">⏪</button>
+                <button class="spritz-btn-compact" id="spritzPlayBtn" title="Play/Pausa (Space)">▶️</button>
+                <button class="spritz-btn-compact" id="spritzForwardBtn" title="Delante (→)">⏩</button>
               </div>
 
-              <!-- WPM Slider -->
-              <div class="spritz-wpm-container">
-                <label class="spritz-wpm-label">
-                  Speed: <span id="spritzWPMValue" class="spritz-wpm-value">300</span> WPM
-                </label>
-                <input
-                  type="range"
-                  class="spritz-wpm-slider"
-                  id="spritzWPMSlider"
-                  min="100"
-                  max="1000"
-                  step="25"
-                  value="300"
-                >
-              </div>
+              <div class="spritz-divider"></div>
 
-              <!-- Navigation Slider -->
-              <div class="spritz-nav-container">
-                <input
-                  type="range"
-                  class="spritz-nav-slider"
-                  id="spritzNavSlider"
-                  min="0"
-                  max="100"
-                  step="1"
-                  value="0"
-                >
-                <div class="spritz-nav-labels" id="spritzNavLabels"></div>
-              </div>
+              <select class="spritz-wpm-select" id="spritzWPMSelect">
+                <option value="100">100 WPM</option>
+                <option value="200">200 WPM</option>
+                <option value="250">250 WPM</option>
+                <option value="300" selected>300 WPM</option>
+                <option value="350">350 WPM</option>
+                <option value="400">400 WPM</option>
+                <option value="500">500 WPM</option>
+                <option value="600">600 WPM</option>
+                <option value="700">700 WPM</option>
+                <option value="800">800 WPM</option>
+                <option value="900">900 WPM</option>
+                <option value="1000">1000 WPM</option>
+              </select>
 
-              <!-- Action Buttons -->
-              <div class="spritz-action-controls spritz-control-buttons">
-                <button class="spritz-control-button" id="spritzFullscreenBtn" title="Fullscreen (F)">
-                  ⛶
-                </button>
-                <button class="spritz-control-button" id="spritzBookmarkBtn" title="Bookmark (Ctrl+B)">
-                  🔖
-                </button>
-                <button class="spritz-control-button" id="spritzHelpBtn" title="Help (?)">
-                  ?
-                </button>
-                <button class="spritz-control-button" id="spritzCloseBtn" title="Close (Esc)">
-                  ✕
-                </button>
+              <div class="spritz-divider"></div>
+
+              <div class="spritz-action-group">
+                <button class="spritz-btn-compact" id="spritzFullscreenBtn" title="Pantalla completa (F)">⛶</button>
+                <button class="spritz-btn-compact" id="spritzBookmarkBtn" title="Marcador (Ctrl+B)">🔖</button>
+                <button class="spritz-btn-compact" id="spritzHelpBtn" title="Ayuda (?)">❓</button>
+                <button class="spritz-btn-compact" id="spritzCloseBtn" title="Cerrar (Esc)">✕</button>
               </div>
+            </div>
+
+            <!-- Navigation Slider (Full Width) -->
+            <div class="spritz-nav-container">
+              <input
+                type="range"
+                class="spritz-nav-slider"
+                id="spritzNavSlider"
+                min="0"
+                max="100"
+                step="1"
+                value="0"
+              >
             </div>
           </div>
         </div>
@@ -226,9 +212,9 @@ export class RSVPUI {
     document.getElementById('spritzBackBtn').addEventListener('click', () => this.reader.previousWord());
     document.getElementById('spritzForwardBtn').addEventListener('click', () => this.reader.nextWord());
 
-    // WPM slider
-    const wpmSlider = document.getElementById('spritzWPMSlider');
-    wpmSlider.addEventListener('input', this._handleWPMChange);
+    // WPM dropdown
+    const wpmSelect = document.getElementById('spritzWPMSelect');
+    wpmSelect.addEventListener('change', this._handleWPMChange);
 
     // Navigation slider
     const navSlider = document.getElementById('spritzNavSlider');
@@ -286,11 +272,11 @@ export class RSVPUI {
     if (this.isPlaying) {
       this.reader.pause();
       this.isPlaying = false;
-      document.getElementById('spritzPlayBtn').textContent = '▶';
+      document.getElementById('spritzPlayBtn').textContent = '▶️';
     } else {
       this.reader.start();
       this.isPlaying = true;
-      document.getElementById('spritzPlayBtn').textContent = '⏸';
+      document.getElementById('spritzPlayBtn').textContent = '⏸️';
     }
   }
 
@@ -357,17 +343,18 @@ export class RSVPUI {
     this._showBookmarkDropdown();
   }
 
-  /**
-   * Update the display with current word and progress
-   * @private
-   */
   _updateDisplay() {
-    const word = this.reader.getCurrentWord();
     const position = this.reader.getCurrentPosition();
     const total = this.reader.words.length;
 
-    document.getElementById('spritzWord').textContent = word || 'Ready';
-    document.getElementById('spritzPosition').textContent = position;
+    // Word content is handled by RSVPReader._displayCurrentWord
+    // but we can handle the initial state here
+    if (total === 0) {
+      const wordEl = document.getElementById('spritzWord');
+      if (wordEl) wordEl.textContent = 'Ready';
+    }
+    
+    document.getElementById('spritzPosition').textContent = total > 0 ? position + 1 : 0;
     document.getElementById('spritzTotal').textContent = total;
 
     this._updateSlider();
@@ -383,7 +370,7 @@ export class RSVPUI {
 
     const slider = document.getElementById('spritzNavSlider');
     if (slider) {
-      slider.max = total;
+      slider.max = total - 1;
       slider.value = position;
     }
   }
@@ -398,7 +385,7 @@ export class RSVPUI {
     if (!this.isStarted) return;
 
     // Ignore if typing in input fields
-    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA') return;
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA' || e.target.tagName === 'SELECT') return;
 
     switch (e.code) {
       case 'Space':
@@ -415,11 +402,11 @@ export class RSVPUI {
         break;
       case 'ArrowUp':
         e.preventDefault();
-        this.setWPM(Math.min(1000, this.currentWPM + 25));
+        this.setWPM(this._getNextWPM(25));
         break;
       case 'ArrowDown':
         e.preventDefault();
-        this.setWPM(Math.max(100, this.currentWPM - 25));
+        this.setWPM(this._getNextWPM(-25));
         break;
       case 'KeyB':
         if (e.ctrlKey) {
@@ -442,6 +429,16 @@ export class RSVPUI {
         }
         break;
     }
+  }
+
+  /**
+   * Helper to find next valid WPM from list or range
+   * @private
+   */
+  _getNextWPM(delta) {
+    const current = this.currentWPM;
+    const target = Math.max(100, Math.min(1000, current + delta));
+    return target;
   }
 
   /**
@@ -474,7 +471,7 @@ export class RSVPUI {
         const timeStr = date.toLocaleTimeString();
 
         li.innerHTML = `
-          <span class="spritz-bookmark-position">Pos: ${bookmark.position}</span>
+          <span class="spritz-bookmark-position">Pos: ${bookmark.position + 1}</span>
           <span class="spritz-bookmark-word">"${bookmark.word}"</span>
           <span class="spritz-bookmark-time">${timeStr}</span>
           <button class="spritz-bookmark-delete" data-index="${index}">×</button>
@@ -523,6 +520,7 @@ export class RSVPUI {
     // Reset UI state
     this.isPlaying = false;
     this.isStarted = false;
+    document.getElementById('spritzPlayBtn').textContent = '▶️';
 
     // Update total word count
     const total = this.reader.words.length;
@@ -532,7 +530,7 @@ export class RSVPUI {
     // Update slider max value to match total words
     const navSlider = document.getElementById('spritzNavSlider');
     if (navSlider) {
-      navSlider.max = total;
+      navSlider.max = total - 1;
     }
 
     // Show start screen
@@ -551,9 +549,16 @@ export class RSVPUI {
     this.currentWPM = Math.max(100, Math.min(1000, wpm));
     this.reader.setWPM(this.currentWPM);
 
-    // Update slider and display
-    document.getElementById('spritzWPMSlider').value = this.currentWPM;
-    document.getElementById('spritzWPMValue').textContent = this.currentWPM;
+    // Update dropdown and display
+    const select = document.getElementById('spritzWPMSelect');
+    if (select) {
+      // Find nearest value if exact doesn't exist
+      const options = Array.from(select.options);
+      const nearest = options.reduce((prev, curr) => {
+        return (Math.abs(curr.value - this.currentWPM) < Math.abs(prev.value - this.currentWPM) ? curr : prev);
+      });
+      select.value = nearest.value;
+    }
   }
 
   /**
