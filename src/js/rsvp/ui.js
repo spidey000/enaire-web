@@ -248,7 +248,7 @@ export class RSVPUI {
       this.isPlaying = false;
       document.getElementById('spritzPlayBtn').textContent = '▶';
     } else {
-      this.reader.play();
+      this.reader.start();
       this.isPlaying = true;
       document.getElementById('spritzPlayBtn').textContent = '⏸';
     }
