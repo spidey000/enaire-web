@@ -63,7 +63,8 @@ export class RSVPReader {
   /**
    * Load and process text content for RSVP playback
    * Splits text into words and detects pause markers
-   * Pause marker format: {{PAUSE:TYPE}} where TYPE can be: SHORT, MEDIUM, LONG
+   * Pause marker format: {{PAUSE:TYPE}} where TYPE can be: ACRONYM, LIST, etc.
+   * Adds +500ms delay to words containing pause markers (except END)
    * @param {string} text - Text content to load
    */
   loadContent(text) {
@@ -76,15 +77,28 @@ export class RSVPReader {
     tokens.forEach((token) => {
       // Check for pause marker
       const pauseMarker = this._detectPauseMarker(token);
-
+      
       if (pauseMarker) {
-        // Pause marker - add special word entry
-        this._words.push({
-          text: token,
-          hasPauseMarker: true,
-          pauseType: pauseMarker.type,
-          delay: this._getPauseDelay(pauseMarker.type)
-        });
+        const cleanText = token.replace(pauseMarker.fullMarker, '').trim();
+        const isEndMarker = pauseMarker.type.toUpperCase() === 'END';
+        
+        if (cleanText.length > 0) {
+          // Word with a pause marker
+          this._words.push({
+            text: cleanText,
+            hasPauseMarker: true,
+            pauseType: pauseMarker.type,
+            delay: this._calculateWordDelay(cleanText) + (isEndMarker ? 0 : 500)
+          });
+        } else if (!isEndMarker) {
+          // Pure pause marker - use as a delay entry with empty text
+          this._words.push({
+            text: '',
+            hasPauseMarker: true,
+            pauseType: pauseMarker.type,
+            delay: 500
+          });
+        }
       } else if (token.trim().length > 0) {
         // Regular word
         this._words.push({
@@ -233,7 +247,7 @@ export class RSVPReader {
    * @returns {Object|null} Pause marker object with type, or null if not found
    */
   _detectPauseMarker(word) {
-    const pauseRegex = /\{\{PAUSE:(SHORT|MEDIUM|LONG)\}\}/;
+    const pauseRegex = /\{\{PAUSE:(\w+)\}\}/;
     const match = word.match(pauseRegex);
 
     if (match) {

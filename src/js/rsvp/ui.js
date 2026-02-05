@@ -81,8 +81,10 @@ export class RSVPUI {
           <!-- Main Reader UI (hidden initially) -->
           <div class="spritz-reader-ui" id="spritzReaderUI" style="display: none;">
             <!-- Spritz Display Area -->
-            <div class="spritz-display">
-              <div class="spritz-word" id="spritzWord">Ready</div>
+            <div class="spritz-display-area">
+              <div class="spritz-display">
+                <div class="spritz-word" id="spritzWord">Ready</div>
+              </div>
               <div class="spritz-progress">
                 <span id="spritzPosition">0</span> / <span id="spritzTotal">0</span>
               </div>
@@ -135,6 +137,9 @@ export class RSVPUI {
 
               <!-- Action Buttons -->
               <div class="spritz-action-controls spritz-control-buttons">
+                <button class="spritz-control-button" id="spritzFullscreenBtn" title="Fullscreen (F)">
+                  ⛶
+                </button>
                 <button class="spritz-control-button" id="spritzBookmarkBtn" title="Bookmark (Ctrl+B)">
                   🔖
                 </button>
@@ -207,6 +212,9 @@ export class RSVPUI {
     const navSlider = document.getElementById('spritzNavSlider');
     navSlider.addEventListener('input', this._handleNavChange);
 
+    // Fullscreen button
+    document.getElementById('spritzFullscreenBtn').addEventListener('click', () => this._toggleFullscreen());
+
     // Bookmark button
     document.getElementById('spritzBookmarkBtn').addEventListener('click', this._toggleBookmark);
 
@@ -251,6 +259,23 @@ export class RSVPUI {
       this.reader.start();
       this.isPlaying = true;
       document.getElementById('spritzPlayBtn').textContent = '⏸';
+    }
+  }
+
+  /**
+   * Toggle fullscreen mode for the reader
+   * @private
+   */
+  _toggleFullscreen() {
+    const banner = document.getElementById('spritzBanner');
+    if (!document.fullscreenElement) {
+      banner.requestFullscreen().catch(err => {
+        console.error(`Error attempting to enable fullscreen: ${err.message}`);
+      });
+      banner.classList.add('fullscreen');
+    } else {
+      document.exitFullscreen();
+      banner.classList.remove('fullscreen');
     }
   }
 
@@ -371,6 +396,10 @@ export class RSVPUI {
           e.preventDefault();
           this._toggleBookmark();
         }
+        break;
+      case 'KeyF':
+        e.preventDefault();
+        this._toggleFullscreen();
         break;
       case 'Escape':
         e.preventDefault();
