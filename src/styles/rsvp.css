@@ -130,7 +130,10 @@
    ============================================ */
 .spritz-word {
   font-family: 'Courier New', Courier, monospace;
-  font-size: 60px;
+  /* Use clamp to ensure it fits 15 chars at 35% ORP on mobile while having a good size on desktop.
+     Calculated as: 1ch <= 5% of container width. 
+     fontSize * 0.6 <= 5vw => fontSize <= 8.3vw. */
+  font-size: clamp(20px, 8vw, 48px);
   font-weight: bold;
   color: var(--spritz-black);
   line-height: 1;
@@ -174,7 +177,9 @@
 }
 
 .spritz-banner.fullscreen .spritz-word {
-  font-size: 140px;
+  /* In fullscreen we have more width, but let's keep it readable. 
+     Using 10vh to scale with height, or just a larger fixed size. */
+  font-size: 120px;
 }
 
 .spritz-word.fade-in {
@@ -669,10 +674,6 @@
   .spritz-banner {
     max-width: 100%;
     padding: var(--spritz-spacing-md);
-  }
-
-  .spritz-word {
-    font-size: 40px;
   }
 
   .spritz-display {

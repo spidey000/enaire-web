@@ -96,11 +96,12 @@ export class RSVPReader {
       const pauseRegex = /\{\{PAUSE:(\w+)\}\}/g;
       const matches = [...token.matchAll(pauseRegex)];
       
-      if (matches.length > 0) {
-        const cleanText = token.replace(/\{\{PAUSE:\w+\}\}/g, '').trim();
-        let totalPauseDelay = 0;
-        let lastPauseType = null;
+      let cleanToken = token;
+      let totalPauseDelay = 0;
+      let lastPauseType = null;
 
+      if (matches.length > 0) {
+        cleanToken = token.replace(/\{\{PAUSE:\w+\}\}/g, '').trim();
         matches.forEach(match => {
           const type = match[1];
           if (type.toUpperCase() !== 'END') {
@@ -108,18 +109,26 @@ export class RSVPReader {
           }
           lastPauseType = type;
         });
+      }
 
-        if (cleanText.length > 0) {
-          // Word with pause marker(s)
+      // Logic to split long words (> 15 chars)
+      const processToken = (text, isInternalPause = false) => {
+        if (text.length > 15) {
+          const mid = Math.floor(text.length / 2);
+          const part1 = text.substring(0, mid) + '-';
+          const part2 = text.substring(mid);
+          processToken(part1, true);
+          processToken(part2, true);
+        } else if (text.length > 0) {
           this._words.push({
-            text: cleanText,
-            hasPauseMarker: true,
-            pauseType: lastPauseType, // Store last one for styling if needed
-            pauseDelay: totalPauseDelay,
-            delay: this._calculateWordDelay(cleanText) + totalPauseDelay
+            text: text,
+            hasPauseMarker: !isInternalPause && matches.length > 0,
+            pauseType: !isInternalPause ? lastPauseType : null,
+            pauseDelay: !isInternalPause ? totalPauseDelay : 0,
+            delay: this._calculateWordDelay(text) + (!isInternalPause ? totalPauseDelay : 0)
           });
-        } else if (totalPauseDelay > 0) {
-          // Pure pause markers - use as a delay entry with empty text
+        } else if (!isInternalPause && totalPauseDelay > 0) {
+          // Pure pause markers
           this._words.push({
             text: '',
             hasPauseMarker: true,
@@ -128,14 +137,10 @@ export class RSVPReader {
             delay: totalPauseDelay
           });
         }
-      } else if (token.trim().length > 0) {
-        // Regular word
-        this._words.push({
-          text: token,
-          hasPauseMarker: false,
-          pauseType: null,
-          delay: this._calculateWordDelay(token)
-        });
+      };
+
+      if (cleanToken.length > 0 || totalPauseDelay > 0) {
+        processToken(cleanToken);
       }
     });
   }
