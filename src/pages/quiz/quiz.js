@@ -388,7 +388,7 @@ async function loadQuestions(moduleIds) {
     if (!module || !module.mcqFile) continue;
 
     try {
-      const response = await fetch(`/src/data/mcq/${module.mcqFile}`);
+      const response = await fetch(`/mcq/${module.mcqFile}`);
       const data = await response.json();
 
       const questions = data.mcq_set.map(q => ({
