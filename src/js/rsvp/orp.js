@@ -13,14 +13,10 @@
  * - Words shorter than 8 characters: ORP is at 35% from the left
  * - Words 8 or more characters: ORP is at the center
  *
- * @param {string} word - The word to calculate ORP for
- * @returns {number} The zero-based index of the ORP character
- * @throws {Error} If word is not a valid string
+ * Punctuation is ignored for the length calculation to keep focus on content.
  *
- * @example
- * calculateORP('hello')     // returns 2 (letter 'l')
- * calculateORP('Spritz')    // returns 2 (letter 'r')
- * calculateORP('beautiful') // returns 4 (letter 't')
+ * @param {string} word - The word to calculate ORP for (clean word)
+ * @returns {number} The zero-based index of the ORP character
  */
 export function calculateORP(word) {
   // Validation
@@ -56,31 +52,31 @@ export function calculateORP(word) {
  * 2. spritz-word-orp: The ORP character itself (red)
  * 3. spritz-word-right: The part after the ORP (left-aligned)
  *
- * This structure allows CSS to align the ORP character to a fixed position.
+ * Signos de puntuación are ignored for ORP calculation but preserved in display.
  *
  * @param {string} word - The word to render
  * @returns {string} HTML string with structured word parts
- * @throws {Error} If word is not a valid string
  */
 export function renderWord(word) {
-  // Validation
-  if (typeof word !== 'string') {
-    throw new Error('Word must be a string');
-  }
+  if (typeof word !== 'string') throw new Error('Word must be a string');
+  if (word.trim().length === 0) return '';
 
-  const trimmedWord = word.trim();
+  // Extract core word (ignoring leading/trailing punctuation for ORP calculation)
+  const punctuationRegex = /^[^\w\dáéíóúÁÉÍÓÚñÑ]*(.*?)[^\w\dáéíóúÁÉÍÓÚñÑ]*$/;
+  const match = word.match(punctuationRegex);
+  const coreWord = match ? match[1] : word;
+  
+  // Find where coreWord starts in the original word
+  const coreStartIndex = word.indexOf(coreWord);
+  
+  // Calculate ORP based on core word
+  const coreOrpIndex = calculateORP(coreWord);
+  const actualOrpIndex = coreStartIndex + coreOrpIndex;
 
-  if (trimmedWord.length === 0) {
-    return '';
-  }
-
-  // Calculate ORP position
-  const orpIndex = calculateORP(trimmedWord);
-
-  // Split word into parts
-  const beforeORP = trimmedWord.substring(0, orpIndex);
-  const orpChar = trimmedWord[orpIndex];
-  const afterORP = trimmedWord.substring(orpIndex + 1);
+  // Split original word into parts based on actual ORP index
+  const beforeORP = word.substring(0, actualOrpIndex);
+  const orpChar = word[actualOrpIndex];
+  const afterORP = word.substring(actualOrpIndex + 1);
 
   // Build structured HTML
   let html = `<span class="spritz-word-left">${beforeORP}</span>`;

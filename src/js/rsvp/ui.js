@@ -40,7 +40,26 @@ export class RSVPUI {
       onWordChange: this._onWordChange.bind(this)
     });
 
+    this.savePosition = this.savePosition.bind(this);
+    this._debouncedSave = this._debounce(this.savePosition, 1000);
+
     this.restorePosition();
+  }
+
+  /**
+   * Simple debounce helper
+   * @private
+   */
+  _debounce(func, wait) {
+    let timeout;
+    return function executedFunction(...args) {
+      const later = () => {
+        clearTimeout(timeout);
+        func(...args);
+      };
+      clearTimeout(timeout);
+      timeout = setTimeout(later, wait);
+    };
   }
 
   /**
@@ -51,12 +70,15 @@ export class RSVPUI {
     // Update position display
     const positionEl = document.getElementById('spritzPosition');
     const totalEl = document.getElementById('spritzTotal');
-    if (positionEl) positionEl.textContent = index;
+    if (positionEl) positionEl.textContent = index + 1; // 1-based display
     if (totalEl) totalEl.textContent = this.reader.words.length;
 
     // Update slider
     const slider = document.getElementById('spritzNavSlider');
     if (slider) slider.value = index;
+
+    // Debounced save position
+    this._debouncedSave();
   }
 
   /**

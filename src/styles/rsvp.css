@@ -585,7 +585,7 @@
 .spritz-control-buttons {
   display: flex;
   justify-content: center;
-  gap: var(--spritz-spacing-sm);
+  gap: var(--spritz-spacing-md);
   margin-top: var(--spritz-spacing-md);
 }
 
@@ -593,14 +593,18 @@
   background-color: var(--spritz-white);
   border: 1px solid var(--spritz-gray-medium);
   border-radius: var(--spritz-radius-sm);
-  padding: var(--spritz-spacing-sm) var(--spritz-spacing-md);
+  padding: 12px var(--spritz-spacing-md); /* Increased for touch target */
   font-family: var(--spritz-font-family);
-  font-size: 14px;
+  font-size: 16px;
   color: var(--spritz-black);
   cursor: pointer;
   transition: background-color var(--spritz-transition-fast) ease,
               border-color var(--spritz-transition-fast) ease;
-  min-width: 80px;
+  min-width: 60px;
+  min-height: 44px; /* Apple/Google touch target guideline */
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .spritz-control-button:hover {
@@ -617,6 +621,7 @@
   background-color: var(--spritz-black);
   color: var(--spritz-white);
   border-color: var(--spritz-black);
+  padding: 12px 30px;
 }
 
 .spritz-control-button.primary:hover {
@@ -625,13 +630,31 @@
 }
 
 #spritzFullscreenBtn {
-  font-size: 18px;
+  font-size: 20px;
   min-width: 50px;
 }
 
 .spritz-banner.fullscreen #spritzFullscreenBtn {
   background-color: var(--spritz-black);
   color: var(--spritz-white);
+}
+
+/* Thick Sliders for Mobile */
+.spritz-wpm-slider,
+.spritz-nav-slider {
+  height: 12px; /* Thicker track */
+}
+
+.spritz-wpm-slider::-webkit-slider-thumb,
+.spritz-nav-slider::-webkit-slider-thumb {
+  width: 28px; /* Larger thumb */
+  height: 28px;
+}
+
+.spritz-wpm-slider::-moz-range-thumb,
+.spritz-nav-slider::-moz-range-thumb {
+  width: 28px;
+  height: 28px;
 }
 
 /* ============================================

@@ -158,13 +158,39 @@ export class RSVPReader {
     }
 
     this._isPlaying = true;
+    this._lastWordTime = performance.now();
 
     // Display first word if at beginning
     if (this._currentWordIndex === 0) {
       this._displayCurrentWord();
     }
 
-    this._scheduleNextWord();
+    this._tick();
+  }
+
+  /**
+   * Main timing loop using requestAnimationFrame for stability
+   * @private
+   */
+  _tick() {
+    if (!this._isPlaying) return;
+
+    const now = performance.now();
+    const currentWord = this._words[this._currentWordIndex];
+    const elapsed = now - this._lastWordTime;
+
+    if (elapsed >= currentWord.delay) {
+      if (this._currentWordIndex < this._words.length - 1) {
+        this._currentWordIndex++;
+        this._displayCurrentWord();
+        this._lastWordTime = now;
+      } else {
+        this.pause();
+        return;
+      }
+    }
+
+    this._timeoutId = requestAnimationFrame(() => this._tick());
   }
 
   /**
@@ -173,7 +199,7 @@ export class RSVPReader {
   pause() {
     this._isPlaying = false;
     if (this._timeoutId) {
-      clearTimeout(this._timeoutId);
+      cancelAnimationFrame(this._timeoutId);
       this._timeoutId = null;
     }
   }
@@ -196,18 +222,19 @@ export class RSVPReader {
       throw new Error(`Index ${index} out of bounds (0-${this._words.length - 1})`);
     }
 
-    // Clear any scheduled word
+    // Clear any scheduled frame
     if (this._timeoutId) {
-      clearTimeout(this._timeoutId);
+      cancelAnimationFrame(this._timeoutId);
       this._timeoutId = null;
     }
 
     this._currentWordIndex = index;
     this._displayCurrentWord();
+    this._lastWordTime = performance.now();
 
     // Continue playing if was playing
     if (this._isPlaying) {
-      this._scheduleNextWord();
+      this._tick();
     }
   }
 
@@ -241,16 +268,17 @@ export class RSVPReader {
     if (this._currentWordIndex < this._words.length - 1) {
       // Clear any scheduled word
       if (this._timeoutId) {
-        clearTimeout(this._timeoutId);
+        cancelAnimationFrame(this._timeoutId);
         this._timeoutId = null;
       }
 
       this._currentWordIndex++;
       this._displayCurrentWord();
+      this._lastWordTime = performance.now();
 
       // Continue playing if was playing
       if (this._isPlaying) {
-        this._scheduleNextWord();
+        this._tick();
       }
     }
   }
@@ -262,16 +290,17 @@ export class RSVPReader {
     if (this._currentWordIndex > 0) {
       // Clear any scheduled word
       if (this._timeoutId) {
-        clearTimeout(this._timeoutId);
+        cancelAnimationFrame(this._timeoutId);
         this._timeoutId = null;
       }
 
       this._currentWordIndex--;
       this._displayCurrentWord();
+      this._lastWordTime = performance.now();
 
       // Continue playing if was playing
       if (this._isPlaying) {
-        this._scheduleNextWord();
+        this._tick();
       }
     }
   }
