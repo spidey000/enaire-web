@@ -89,9 +89,9 @@ export class RSVPUI {
             </div>
 
             <!-- Controls Panel -->
-            <div class="spritz-controls">
+            <div class="spritz-controls active">
               <!-- Playback Controls -->
-              <div class="spritz-playback-controls">
+              <div class="spritz-playback-controls spritz-control-buttons">
                 <button class="spritz-control-button" id="spritzBackBtn" title="Previous section (←)">
                   ◀◀
                 </button>
@@ -104,9 +104,9 @@ export class RSVPUI {
               </div>
 
               <!-- WPM Slider -->
-              <div class="spritz-wpm-control">
+              <div class="spritz-wpm-container">
                 <label class="spritz-wpm-label">
-                  Speed: <span id="spritzWPMValue">300</span> WPM
+                  Speed: <span id="spritzWPMValue" class="spritz-wpm-value">300</span> WPM
                 </label>
                 <input
                   type="range"
@@ -120,7 +120,7 @@ export class RSVPUI {
               </div>
 
               <!-- Navigation Slider -->
-              <div class="spritz-nav-control">
+              <div class="spritz-nav-container">
                 <input
                   type="range"
                   class="spritz-nav-slider"
@@ -134,7 +134,7 @@ export class RSVPUI {
               </div>
 
               <!-- Action Buttons -->
-              <div class="spritz-action-controls">
+              <div class="spritz-action-controls spritz-control-buttons">
                 <button class="spritz-control-button" id="spritzBookmarkBtn" title="Bookmark (Ctrl+B)">
                   🔖
                 </button>
@@ -325,11 +325,12 @@ export class RSVPUI {
   _updateSlider() {
     const position = this.reader.getCurrentPosition();
     const total = this.reader.words.length;
-    const percentage = total > 0 ? (position / total) * 100 : 0;
 
     const slider = document.getElementById('spritzNavSlider');
-    slider.value = percentage;
-    slider.max = 100;
+    if (slider) {
+      slider.max = total;
+      slider.value = position;
+    }
   }
 
   /**
