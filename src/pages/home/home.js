@@ -75,7 +75,7 @@ export async function render() {
 
 async function loadModules() {
   try {
-    const response = await fetch('/src/data/modules-index.json');
+    const response = await fetch('/modules-index.json');
     const data = await response.json();
     return data.modules;
   } catch (error) {

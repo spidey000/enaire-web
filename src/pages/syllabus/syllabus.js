@@ -97,7 +97,7 @@ export async function render(params) {
 
 async function loadModulesIndex() {
   try {
-    const response = await fetch('/src/data/modules-index.json');
+    const response = await fetch('/modules-index.json');
     return await response.json();
   } catch (error) {
     console.error('Error loading modules index:', error);

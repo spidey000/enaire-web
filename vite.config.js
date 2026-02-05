@@ -10,5 +10,7 @@ export default defineConfig({
   build: {
     outDir: 'dist',
     assetsDir: 'assets'
-  }
+  },
+  // Copy data files to dist
+  publicDir: 'src/data'
 })
