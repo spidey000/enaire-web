@@ -11,7 +11,7 @@ const cleanFile = (filePath) => {
     // 1. Remove everything before the first "## 1. INTRODUCCIÓN" or similar
     // We look for "## 1. " and ensure it's NOT an index entry (no trailing underscores/numbers)
     const lines = content.split('\n');
-    let startIndex = 0;
+    let startIndex = -1;
     for (let i = 0; i < lines.length; i++) {
         const line = lines[i].trim();
         // Match "## 1. INTRODUCCIÓN" or "## 1. Introducción" but NOT with underscores
@@ -20,36 +20,37 @@ const cleanFile = (filePath) => {
             break;
         }
     }
-    if (startIndex > 0) {
+    
+    // If we didn't find "1. INTRODUCCIÓN", look for any "## 1." that isn't an index
+    if (startIndex === -1) {
+        for (let i = 0; i < lines.length; i++) {
+            const line = lines[i].trim();
+            if (/^## 1\.\s+(?!_)[^\n]+/.test(line) && !/_{3,}/.test(line)) {
+                startIndex = i;
+                break;
+            }
+        }
+    }
+
+    if (startIndex !== -1) {
         content = lines.slice(startIndex).join('\n');
     }
 
     // 2. Remove artificial lines like ____________________
-    content = content.replace(/_{5,}/g, '');
+    content = content.replace(/_{3,}/g, '');
+    
+    // Also dots used as leaders in some indices that might have survived
+    content = content.replace(/\.{10,}/g, '');
 
-    // 3. Remove page headers/footers
-    // Pattern: 
-    // ## Elaborado: ...
-    // Página: ...
-    // Title
+    // 3. Remove page headers/footers and metadata
     content = content.replace(/## Elaborado: [^\n]+/gi, '');
     content = content.replace(/Página: \d+ de \d+/gi, '');
-    
-    // This is a bit tricky, it might remove legitimate text if not careful.
-    // But in these files, titles appear on their own lines.
-    const titles = [
-        'Instituciones y Legislación Aeronáutica',
-        'Aerodinámica',
-        'Navegación',
-        'Plan de Vuelo y ATFCM',
-        'Códigos y Abreviaturas',
-        'Cartografía y Radionavegación'
-    ];
-    
-    titles.forEach(title => {
-        const regex = new RegExp(`^\s*${title}\s*$`, 'gm');
-        content = content.replace(regex, '');
-    });
+    content = content.replace(/Instituciones y Legislación Aeronáutica/gi, '');
+    content = content.replace(/Aerodinámica/gi, '');
+    content = content.replace(/Navegación/gi, '');
+    content = content.replace(/Plan de Vuelo y ATFCM/gi, '');
+    content = content.replace(/Códigos y Abreviaturas/gi, '');
+    content = content.replace(/Cartografía y Radionavegación/gi, '');
 
     // 4. Clean up multiple newlines
     content = content.replace(/\n{3,}/g, '\n\n');

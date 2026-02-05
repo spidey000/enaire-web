@@ -70,7 +70,7 @@ export async function render(params) {
             <ul class="toc-list">
               ${toc.map(item => `
                 <li class="toc-item toc-level-${item.level}">
-                  <a href="#${item.id}" class="toc-link">${item.title}</a>
+                  <a href="#/syllabus?id=${moduleId}#${item.id}" class="toc-link">${item.title}</a>
                 </li>
               `).join('')}
             </ul>

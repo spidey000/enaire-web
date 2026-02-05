@@ -7,6 +7,20 @@ const md = new markdownIt({
   typographer: true
 });
 
+// Custom plugin to add IDs to headings
+md.renderer.rules.heading_open = (tokens, idx, options, env, self) => {
+  const token = tokens[idx];
+  const level = token.tag.slice(1);
+  const nextToken = tokens[idx + 1];
+  const title = nextToken.content;
+  const id = title.toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-');
+  
+  return `<h${level} id="${id}">`;
+};
+
 export function renderMarkdown(text) {
   if (!text) return '';
   return md.render(text);
