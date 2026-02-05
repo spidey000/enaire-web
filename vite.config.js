@@ -1,6 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
+  base: '/', // Base path for deployment (root of domain)
   assetsInclude: ['**/*.md', '**/*.json'],
   server: {
     port: 3000,
