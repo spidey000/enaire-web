@@ -93,11 +93,14 @@ export async function render(params) {
 
   // Save reading progress
   saveReadingProgress(moduleId);
+
+  // Handle anchor scrolling
+  handleAnchorScroll();
 }
 
 async function loadModulesIndex() {
   try {
-    const response = await fetch('/modules-index.json');
+    const response = await fetch('./modules-index.json');
     return await response.json();
   } catch (error) {
     console.error('Error loading modules index:', error);
@@ -107,7 +110,7 @@ async function loadModulesIndex() {
 
 async function loadModuleContent(filename) {
   try {
-    const response = await fetch(`/modules/${filename}`);
+    const response = await fetch(`./modules/${filename}`);
     return await response.text();
   } catch (error) {
     console.error('Error loading module content:', error);
@@ -117,7 +120,7 @@ async function loadModuleContent(filename) {
 
 async function loadAnnotatedModuleContent(filename) {
   try {
-    const response = await fetch(`/modules-annotated/${filename}`);
+    const response = await fetch(`./modules-annotated/${filename}`);
     if (!response.ok) {
       return null;
     }
@@ -125,6 +128,22 @@ async function loadAnnotatedModuleContent(filename) {
   } catch (error) {
     console.log('No annotated content found, using original:', error.message);
     return null;
+  }
+}
+
+function handleAnchorScroll() {
+  const hash = window.location.hash;
+  if (hash.includes('#')) {
+    const parts = hash.split('#');
+    if (parts.length > 2) {
+      const anchorId = parts[parts.length - 1];
+      setTimeout(() => {
+        const element = document.getElementById(anchorId);
+        if (element) {
+          element.scrollIntoView({ behavior: 'smooth' });
+        }
+      }, 500); // Wait for content rendering
+    }
   }
 }
 

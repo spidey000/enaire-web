@@ -11,8 +11,17 @@ const md = new markdownIt({
 md.renderer.rules.heading_open = (tokens, idx, options, env, self) => {
   const token = tokens[idx];
   const level = token.tag.slice(1);
-  const nextToken = tokens[idx + 1];
-  const title = nextToken.content;
+  
+  // Extract all text content from the inline tokens until heading_close
+  let i = idx + 1;
+  let title = '';
+  while (tokens[i] && tokens[i].type !== 'heading_close') {
+    if (tokens[i].type === 'inline') {
+      title += tokens[i].content;
+    }
+    i++;
+  }
+
   const id = title.toLowerCase()
     .replace(/[^\w\s-]/g, '')
     .replace(/\s+/g, '-')

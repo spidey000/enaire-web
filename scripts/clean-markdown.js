@@ -45,12 +45,20 @@ const cleanFile = (filePath) => {
     // 3. Remove page headers/footers and metadata
     content = content.replace(/## Elaborado: [^\n]+/gi, '');
     content = content.replace(/Página: \d+ de \d+/gi, '');
-    content = content.replace(/Instituciones y Legislación Aeronáutica/gi, '');
-    content = content.replace(/Aerodinámica/gi, '');
-    content = content.replace(/Navegación/gi, '');
-    content = content.replace(/Plan de Vuelo y ATFCM/gi, '');
-    content = content.replace(/Códigos y Abreviaturas/gi, '');
-    content = content.replace(/Cartografía y Radionavegación/gi, '');
+    
+    const titles = [
+        'Instituciones y Legislación Aeronáutica',
+        'Aerodinámica',
+        'Navegación',
+        'Plan de Vuelo y ATFCM',
+        'Códigos y Abreviaturas',
+        'Cartografía y Radionavegación'
+    ];
+    
+    titles.forEach(title => {
+        const regex = new RegExp(`^\\s*${title}\\s*$`, 'gm');
+        content = content.replace(regex, '');
+    });
 
     // 4. Clean up multiple newlines
     content = content.replace(/\n{3,}/g, '\n\n');

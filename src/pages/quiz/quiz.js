@@ -388,7 +388,7 @@ async function loadQuestions(moduleIds) {
     if (!module || !module.mcqFile) continue;
 
     try {
-      const response = await fetch(`/mcq/${module.mcqFile}`);
+      const response = await fetch(`./mcq/${module.mcqFile}`);
       const data = await response.json();
 
       const questions = data.mcq_set.map(q => ({
@@ -414,7 +414,7 @@ async function loadQuestions(moduleIds) {
 
 async function loadModulesIndex() {
   try {
-    const response = await fetch('/modules-index.json');
+    const response = await fetch('./modules-index.json');
     return await response.json();
   } catch (error) {
     console.error('Error loading modules index:', error);

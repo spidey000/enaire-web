@@ -99,7 +99,7 @@ export async function render(params) {
 
 async function loadPlanData() {
   try {
-    const response = await fetch('/study-plan.json');
+    const response = await fetch('./study-plan.json');
     return await response.json();
   } catch (error) {
     console.error('Error loading plan:', error);
