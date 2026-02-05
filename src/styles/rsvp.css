@@ -130,9 +130,7 @@
    ============================================ */
 .spritz-word {
   font-family: 'Courier New', Courier, monospace;
-  /* Use clamp to ensure it fits 15 chars at 35% ORP on mobile while having a good size on desktop.
-     Calculated as: 1ch <= 5% of container width. 
-     fontSize * 0.6 <= 5vw => fontSize <= 8.3vw. */
+  /* Use clamp to ensure it fits 15 chars at 35% ORP on mobile while having a good size on desktop. */
   font-size: clamp(20px, 8vw, 48px);
   font-weight: bold;
   color: var(--spritz-black);
@@ -141,34 +139,44 @@
   display: flex;
   width: 100%;
   height: 100%;
-  align-items: center;
+  align-items: center; /* Vertical center within display area */
   justify-content: center; /* Center by default for 'Ready' state */
   user-select: none;
+  white-space: nowrap;
 }
 
 /* When the word is structured into spans for fixed ORP positioning */
 .spritz-word:has(.spritz-word-orp) {
   justify-content: flex-start;
+  align-items: baseline; /* Better for text alignment precision */
+}
+
+.spritz-word-left,
+.spritz-word-orp,
+.spritz-word-right {
+  flex-shrink: 0;
+  display: inline-block;
 }
 
 .spritz-word-left {
-  flex: 0 0 35%;
+  /* To center the ORP character (1ch wide) at exactly 35%:
+     The left part must take up exactly 35% minus half the ORP width. */
+  flex: 0 0 calc(35% - 0.5ch);
   text-align: right;
 }
 
 .spritz-word-orp {
   color: var(--spritz-red);
-  flex: 0 0 auto;
-  /* Center the ORP letter on the guide mark */
-  transform: translateX(-50%);
+  flex: 0 0 1ch;
+  text-align: center;
   position: relative;
+  z-index: 2; /* Ensure it stays above any potential rendering artifacts */
 }
 
 .spritz-word-right {
   flex: 1;
   text-align: left;
-  /* Shift the right part to start exactly after the centered ORP */
-  margin-left: -0.5ch;
+  padding-left: 0;
 }
 
 /* Pausing State */
@@ -177,11 +185,9 @@
 }
 
 .spritz-banner.fullscreen .spritz-word {
-  /* In fullscreen we have more width, but let's keep it readable. 
-     Using 10vh to scale with height, or just a larger fixed size. */
+  /* In fullscreen we have more width, but let's keep it readable. */
   font-size: 120px;
 }
-
 .spritz-word.fade-in {
   animation: spritzFadeIn var(--spritz-transition-fast) ease-in-out;
 }
