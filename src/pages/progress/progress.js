@@ -1,12 +1,23 @@
 import { storage } from '../../js/storage.js';
+import { modulesManager } from '../../js/modules-manager.js';
 
 export async function render() {
   const content = document.getElementById('page-content');
 
+  // Trigger recalculation to ensure consistency
+  const { stateManager } = await import('../../js/state-manager.js');
+  stateManager.recalculateProgress();
+
   // Load data
   const progress = storage.getProgress();
-  const modulesData = await loadModulesIndex();
+  const modules = await modulesManager.getModules();
   const quizHistory = storage.getQuizHistory();
+  
+  // Calculate Global Accuracy (Total Correct / Total Attempts)
+  const allAnswers = storage.get('enaire_all_answers');
+  const globalAccuracy = allAnswers.stats.totalAnswers > 0 
+    ? Math.round((allAnswers.stats.correctAnswers / allAnswers.stats.totalAnswers) * 100) 
+    : 0;
 
   content.innerHTML = `
     <div class="progress-page">
@@ -20,14 +31,14 @@ export async function render() {
         <div class="grid grid-4">
           <div class="card stat-card">
             <div class="stat-value">${progress.stats.totalQuestionsSeen}</div>
-            <div class="stat-label">Preguntas Vistas</div>
+            <div class="stat-label">Preguntas Vistas (Únicas)</div>
           </div>
           <div class="card stat-card">
-            <div class="stat-value">${progress.stats.totalQuestionsCorrect}</div>
-            <div class="stat-label">Correctas</div>
+            <div class="stat-value">${allAnswers.stats.correctAnswers}</div>
+            <div class="stat-label">Respuestas Correctas (Total)</div>
           </div>
           <div class="card stat-card">
-            <div class="stat-value">${progress.stats.totalQuestionsSeen > 0 ? Math.round((progress.stats.totalQuestionsCorrect / progress.stats.totalQuestionsSeen) * 100) : 0}%</div>
+            <div class="stat-value">${globalAccuracy}%</div>
             <div class="stat-label">Precisión Global</div>
           </div>
           <div class="card stat-card">
@@ -41,27 +52,34 @@ export async function render() {
       <section class="progress-chart">
         <h2 class="chart-title">Progreso por Módulo</h2>
         <div class="progress-bars">
-          ${modulesData.modules.map(module => {
-            const moduleProgress = progress.modules[module.id] || { questionsSeen: 0, questionsCorrect: 0 };
-            const percentage = module.questionCount > 0
+          ${modules.map(module => {
+            const moduleProgress = progress.modules[module.id] || { questionsSeen: 0, questionsCorrect: 0, averageScore: 0 };
+            
+            // Completion Percentage (Seen / Total)
+            const completionPercentage = module.questionCount > 0
               ? Math.round((moduleProgress.questionsSeen / module.questionCount) * 100)
               : 0;
-            const accuracy = moduleProgress.questionsSeen > 0
-              ? Math.round((moduleProgress.questionsCorrect / moduleProgress.questionsSeen) * 100)
-              : 0;
+            
+            // Accuracy (Average Score)
+            const accuracy = moduleProgress.averageScore || 0;
+
+            // Mastery (Unique Correct / Unique Seen) - Optional metric
+            // const mastery = moduleProgress.questionsSeen > 0 
+            //  ? Math.round((moduleProgress.questionsCorrect / moduleProgress.questionsSeen) * 100) 
+            //  : 0;
 
             return `
               <div class="progress-bar-item">
                 <div class="progress-bar-label">
                   ${module.icon} ${module.shortName}
-                  <span class="text-muted text-sm">(${moduleProgress.questionsCorrect}/${moduleProgress.questionsSeen})</span>
+                  <span class="text-muted text-sm">(${moduleProgress.questionsSeen}/${module.questionCount} vistos)</span>
                 </div>
                 <div class="progress-bar-track">
-                  <div class="progress-bar-fill ${accuracy >= 80 ? 'success' : accuracy >= 60 ? 'warning' : 'error'}" style="width: ${percentage}%;">
-                    ${percentage}%
+                  <div class="progress-bar-fill ${accuracy >= 80 ? 'success' : accuracy >= 60 ? 'warning' : 'error'}" style="width: ${completionPercentage}%;">
+                    ${completionPercentage}%
                   </div>
                 </div>
-                <div class="progress-bar-value">${accuracy}% precisión</div>
+                <div class="progress-bar-value">${accuracy}% acierto</div>
               </div>
             `;
           }).join('')}
@@ -96,14 +114,4 @@ export async function render() {
       </section>
     </div>
   `;
-}
-
-async function loadModulesIndex() {
-  try {
-    const response = await fetch('./modules-index.json');
-    return await response.json();
-  } catch (error) {
-    console.error('Error loading modules index:', error);
-    return { modules: [] };
-  }
 }

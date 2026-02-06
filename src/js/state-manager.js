@@ -130,49 +130,92 @@ export class StateManager {
     return this._get(STORAGE_KEYS.PROGRESS);
   }
 
-  updateModuleProgress(moduleId, data) {
+  /**
+   * Recalculates progress statistics from the raw answer history.
+   * This ensures consistency and fixes any drift in counters.
+   */
+  recalculateProgress() {
+    const answersData = this._get(STORAGE_KEYS.ANSWERS);
+    const allAnswers = answersData.answers || [];
     const progress = this.getProgress();
-    if (!progress.modules[moduleId]) {
-      progress.modules[moduleId] = {
-        questionsSeen: 0,
-        questionsCorrect: 0,
-        questionsIncorrect: [],
-        averageScore: 0,
-        flashcardsReviewed: 0,
-        lastStudied: null,
-        readingTime: 0
-      };
-    }
+    
+    // Reset stats
+    progress.stats = {
+      totalQuestionsSeen: 0,
+      totalQuestionsCorrect: 0,
+      totalFlashcardsReviewed: this._get(STORAGE_KEYS.FLASHCARDS) ? Object.keys(this._get(STORAGE_KEYS.FLASHCARDS)).length : 0,
+      studyMinutes: progress.stats.studyMinutes || 0 // Preserve study time if tracked elsewhere
+    };
 
-    Object.assign(progress.modules[moduleId], data, {
-      lastStudied: new Date().toISOString()
+    // Group answers by module
+    const answersByModule = {};
+    const uniqueQuestionsGlobal = new Set();
+    const uniqueCorrectGlobal = new Set(); // Unique questions answered correctly at least once
+
+    allAnswers.forEach(ans => {
+      if (!answersByModule[ans.moduleId]) {
+        answersByModule[ans.moduleId] = [];
+      }
+      answersByModule[ans.moduleId].push(ans);
+      
+      uniqueQuestionsGlobal.add(ans.questionId);
+      if (ans.isCorrect) {
+        uniqueCorrectGlobal.add(ans.questionId);
+      }
     });
 
-    progress.lastStudyDate = new Date().toISOString().split('T')[0];
+    progress.stats.totalQuestionsSeen = uniqueQuestionsGlobal.size;
+    progress.stats.totalQuestionsCorrect = uniqueCorrectGlobal.size; // Or total correct answers? UI usually implies unique for "progress"
+    // Wait, "Correctas" in the main dashboard usually implies total correct answers given in quizzes vs total answers?
+    // Let's stick to unique questions "mastered" for the progress bar, but maybe "Total Correct Answers" for the counter?
+    // The previous implementation was accumulating.
+    // If I answer the same question correctly 10 times, should it count as 10?
+    // Usually "Seen" = Unique. "Correct" in context of "Seen" = Unique Correct.
+    // Let's stick to UNIQUE for consistency with "Vistas".
+    
+    // Update per-module stats
+    Object.keys(answersByModule).forEach(moduleId => {
+      const moduleAnswers = answersByModule[moduleId];
+      const uniqueSeen = new Set(moduleAnswers.map(a => a.questionId));
+      const uniqueCorrect = new Set(moduleAnswers.filter(a => a.isCorrect).map(a => a.questionId));
+      const incorrectIds = [...new Set(moduleAnswers.filter(a => !a.isCorrect).map(a => a.questionId))];
+      
+      // Calculate average score (Accuracy) based on ALL attempts
+      const totalAttempts = moduleAnswers.length;
+      const totalCorrectAttempts = moduleAnswers.filter(a => a.isCorrect).length;
+      const averageScore = totalAttempts > 0 
+        ? Math.round((totalCorrectAttempts / totalAttempts) * 100) 
+        : 0;
+
+      if (!progress.modules[moduleId]) {
+        progress.modules[moduleId] = {};
+      }
+
+      Object.assign(progress.modules[moduleId], {
+        questionsSeen: uniqueSeen.size,
+        questionsCorrect: uniqueCorrect.size,
+        questionsIncorrect: incorrectIds,
+        averageScore: averageScore,
+        // Preserve other fields
+        lastStudied: progress.modules[moduleId].lastStudied || new Date().toISOString()
+      });
+    });
+
     this._set(STORAGE_KEYS.PROGRESS, progress);
+    return progress;
+  }
 
-    // Guardar también en sesión actual
-    this._updateCurrentSession({ lastModuleStudied: moduleId });
-
-    return progress.modules[moduleId];
+  updateModuleProgress(moduleId, data) {
+    // Instead of partial updates, we trigger a recalculation
+    // but we can optimize if needed. For now, let's just use the recalculate
+    // to guarantee correctness, as it's fast enough for client-side lists.
+    return this.recalculateProgress().modules[moduleId];
   }
 
   recordIncorrectAnswer(moduleId, questionId) {
-    const progress = this.getProgress();
-    if (!progress.modules[moduleId]) {
-      progress.modules[moduleId] = { questionsIncorrect: [] };
-    }
-    if (!progress.modules[moduleId].questionsIncorrect) {
-      progress.modules[moduleId].questionsIncorrect = [];
-    }
-
-    // Añadir a errores si no está ya
-    if (!progress.modules[moduleId].questionsIncorrect.includes(questionId)) {
-      progress.modules[moduleId].questionsIncorrect.push(questionId);
-    }
-
-    this._set(STORAGE_KEYS.PROGRESS, progress);
+   // This is handled in recalculateProgress now
   }
+
 
   // ==================== RESPUESTAS ====================
 
@@ -278,23 +321,8 @@ export class StateManager {
 
     // Actualizar progreso de módulos
     if (quizResult.modules) {
-      quizResult.modules.forEach(moduleId => {
-        const moduleQuestions = quizResult.questionsAnswered?.filter(q => q.moduleId === moduleId) || [];
-        const moduleCorrect = moduleQuestions.filter(q => q.isCorrect).length;
-
-        this.updateModuleProgress(moduleId, {
-          questionsSeen: (this.getProgress().modules[moduleId]?.questionsSeen || 0) + moduleQuestions.length,
-          questionsCorrect: (this.getProgress().modules[moduleId]?.questionsCorrect || 0) + moduleCorrect,
-          averageScore: moduleQuestions.length > 0
-            ? Math.round((moduleCorrect / moduleQuestions.length) * 100)
-            : 0
-        });
-
-        // Guardar respuestas incorrectas
-        moduleQuestions.filter(q => !q.isCorrect).forEach(q => {
-          this.recordIncorrectAnswer(moduleId, q.questionId);
-        });
-      });
+      // Trigger full recalculation to ensure stats are correct
+      this.recalculateProgress();
     }
 
     return record;

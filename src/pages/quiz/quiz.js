@@ -1,5 +1,6 @@
 import { filterQuestions, QuizSession, formatTime } from '../../js/utils/quiz.js';
 import { storage } from '../../js/storage.js';
+import { modulesManager } from '../../js/modules-manager.js';
 
 let quizSession = null;
 let quizTimer = null;
@@ -19,8 +20,8 @@ export async function render(params) {
 
 async function renderQuizSetup(content, params) {
   // Load available modules
-  const modulesData = await loadModulesIndex();
-  const modulesWithMCQ = modulesData.modules.filter(m => m.mcqFile);
+  const modules = await modulesManager.getModules();
+  const modulesWithMCQ = modules.filter(m => m.mcqFile);
 
   content.innerHTML = `
     <div class="quiz-setup">
@@ -380,15 +381,15 @@ async function renderResults(content, params) {
 }
 
 async function loadQuestions(moduleIds) {
-  const modulesData = await loadModulesIndex();
+  const modules = await modulesManager.getModules();
   const allQuestions = [];
 
   for (const moduleId of moduleIds) {
-    const module = modulesData.modules.find(m => m.id === moduleId);
+    const module = modules.find(m => m.id === moduleId);
     if (!module || !module.mcqFile) continue;
 
     try {
-      const response = await fetch(`./mcq/${module.mcqFile}`);
+      const response = await fetch(`/mcq/${module.mcqFile}`);
       const data = await response.json();
 
       const questions = data.mcq_set.map(q => {
@@ -433,16 +434,6 @@ async function loadQuestions(moduleIds) {
   }
 
   return allQuestions;
-}
-
-async function loadModulesIndex() {
-  try {
-    const response = await fetch('./modules-index.json');
-    return await response.json();
-  } catch (error) {
-    console.error('Error loading modules index:', error);
-    return { modules: [] };
-  }
 }
 
 function startTimer() {

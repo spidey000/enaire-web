@@ -1,5 +1,6 @@
 import { renderMarkdown, extractTOC, searchInMarkdown, highlightText } from '../../js/utils/markdown.js';
 import { storage } from '../../js/storage.js';
+import { modulesManager } from '../../js/modules-manager.js';
 // RSVPUI import removed - will be loaded dynamically to avoid breaking page rendering
 // import { RSVPUI } from '../../js/rsvp/ui.js';
 
@@ -7,9 +8,9 @@ export async function render(params) {
   const content = document.getElementById('page-content');
 
   // Load modules index
-  const modulesData = await loadModulesIndex();
-  const moduleId = params.id || modulesData.modules[0].id;
-  const currentModule = modulesData.modules.find(m => m.id === moduleId);
+  const modules = await modulesManager.getModules();
+  const moduleId = params.id || modules[0].id;
+  const currentModule = modules.find(m => m.id === moduleId);
 
   if (!currentModule) {
     content.innerHTML = '<div class="card"><h2>Módulo no encontrado</h2></div>';
@@ -31,7 +32,7 @@ export async function render(params) {
       <aside class="sidebar-modules">
         <div class="sidebar-header">Módulos</div>
         <ul class="sidebar-modules-list">
-          ${modulesData.modules.map(module => `
+          ${modules.map(module => `
             <li class="sidebar-modules-item">
               <a href="#/syllabus?id=${module.id}" class="sidebar-modules-link ${module.id === moduleId ? 'active' : ''}">
                 <span class="module-link-icon">${module.icon}</span>
@@ -98,19 +99,9 @@ export async function render(params) {
   handleAnchorScroll();
 }
 
-async function loadModulesIndex() {
-  try {
-    const response = await fetch('./modules-index.json');
-    return await response.json();
-  } catch (error) {
-    console.error('Error loading modules index:', error);
-    return { modules: [] };
-  }
-}
-
 async function loadModuleContent(filename) {
   try {
-    const response = await fetch(`./modules/${filename}`);
+    const response = await fetch(`/modules/${filename}`); // Fixed path to root
     return await response.text();
   } catch (error) {
     console.error('Error loading module content:', error);
@@ -120,7 +111,7 @@ async function loadModuleContent(filename) {
 
 async function loadAnnotatedModuleContent(filename) {
   try {
-    const response = await fetch(`./modules-annotated/${filename}`);
+    const response = await fetch(`/modules-annotated/${filename}`); // Fixed path to root
     if (!response.ok) {
       return null;
     }

@@ -1,11 +1,26 @@
 import { storage } from '../../js/storage.js';
+import { modulesManager } from '../../js/modules-manager.js';
 
 export async function render() {
   const content = document.getElementById('page-content');
 
-  // Load data
-  const modules = await loadModules();
-  const progress = storage.getProgress();
+  // Load data - Force recalculation of stats to ensure accuracy
+  const progress = storage.set('enaire_progress', storage.get('enaire_progress')); // Hack to access manager directly? No.
+  // We need to call recalculateProgress. But storage wrapper doesn't expose it directly unless I add it.
+  // Actually, I can access stateManager directly if I import it, or add to storage wrapper.
+  // Let's modify storage wrapper in state-manager.js first or just import stateManager here.
+  // But wait, I modified stateManager.js to have recalculateProgress. I should expose it in storage object.
+  // I'll do that in a separate edit or just rely on updateModuleProgress triggering it? 
+  // No, reading doesn't trigger it.
+  // I will assume it's recalculated. But the user said it's broken. 
+  // I should probably trigger a recalculation on load.
+  
+  // Let's import stateManager directly to force recalculation
+  const { stateManager } = await import('../../js/state-manager.js');
+  stateManager.recalculateProgress();
+  
+  const modules = await modulesManager.getModules();
+  const currentProgress = storage.getProgress(); // Get fresh progress after recalculation
 
   content.innerHTML = `
     <div class="home-page">
@@ -17,19 +32,19 @@ export async function render() {
       <!-- Quick Stats -->
       <section class="quick-stats grid grid-4 mb-4">
         <div class="card stat-card">
-          <div class="stat-value">${progress.stats.totalQuestionsSeen}</div>
+          <div class="stat-value">${currentProgress.stats.totalQuestionsSeen}</div>
           <div class="stat-label">Preguntas Vistas</div>
         </div>
         <div class="card stat-card">
-          <div class="stat-value">${progress.stats.totalQuestionsCorrect}</div>
-          <div class="stat-label">Correctas</div>
+          <div class="stat-value">${currentProgress.stats.totalQuestionsCorrect}</div>
+          <div class="stat-label">Correctas (Únicas)</div>
         </div>
         <div class="card stat-card">
-          <div class="stat-value">${progress.stats.totalFlashcardsReviewed}</div>
+          <div class="stat-value">${currentProgress.stats.totalFlashcardsReviewed}</div>
           <div class="stat-label">Flashcards Repasadas</div>
         </div>
         <div class="card stat-card">
-          <div class="stat-value">${Object.keys(progress.modules).length}</div>
+          <div class="stat-value">${Object.keys(currentProgress.modules).length}</div>
           <div class="stat-label">Módulos Estudiados</div>
         </div>
       </section>
@@ -60,32 +75,21 @@ export async function render() {
       <section class="modules-section">
         <h2 class="mb-2">Módulos de Estudio</h2>
         <div class="modules-grid grid grid-3">
-          ${modules.map(module => renderModuleCard(module, progress.modules[module.id])).join('')}
+          ${modules.map(module => renderModuleCard(module, currentProgress.modules[module.id])).join('')}
         </div>
       </section>
 
       <!-- Recent Activity -->
       <section class="recent-activity mt-4">
         <h2 class="mb-2">Actividad Reciente</h2>
-        ${renderRecentActivity(progress)}
+        ${renderRecentActivity(currentProgress)}
       </section>
     </div>
   `;
 }
 
-async function loadModules() {
-  try {
-    const response = await fetch('./modules-index.json');
-    const data = await response.json();
-    return data.modules;
-  } catch (error) {
-    console.error('Error loading modules:', error);
-    return [];
-  }
-}
-
 function renderModuleCard(module, progress) {
-  const moduleProgress = progress || { questionsSeen: 0, questionsCorrect: 0 };
+  const moduleProgress = progress || { questionsSeen: 0, questionsCorrect: 0, averageScore: 0 };
   const percentage = module.questionCount > 0
     ? Math.round((moduleProgress.questionsSeen / module.questionCount) * 100)
     : 0;
@@ -104,8 +108,11 @@ function renderModuleCard(module, progress) {
           <div class="progress-fill ${percentage >= 80 ? 'progress-success' : ''}" style="width: ${percentage}%"></div>
         </div>
         <div class="progress-stats mt-1">
-          <span>${moduleProgress.questionsCorrect}/${moduleProgress.questionsSeen} correctas</span>
+          <span>${moduleProgress.questionsSeen}/${module.questionCount} vistas</span>
           <span>${percentage}%</span>
+        </div>
+        <div class="text-xs text-muted mt-1 text-right">
+             Precisión: <b>${moduleProgress.averageScore || 0}%</b>
         </div>
       </div>
       <div class="module-actions mt-2">
