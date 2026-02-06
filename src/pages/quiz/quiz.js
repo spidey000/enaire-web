@@ -179,10 +179,9 @@ function renderQuizInterface(content) {
 
         <div class="question-options">
           ${question.options.map((option, index) => {
-            const letters = ['A', 'B', 'C', 'D'];
             return `
               <div class="question-option" data-option="${option.optionId}" data-index="${index}">
-                <span class="option-letter">${letters[index]}</span>
+                <span class="option-letter">${option.optionId}</span>
                 <span class="option-text">${option.text}</span>
               </div>
             `;
@@ -395,7 +394,10 @@ async function loadQuestions(moduleIds) {
         questionId: q.question_id,
         moduleId: module.id,
         questionText: q.question_text,
-        options: q.options,
+        options: q.options.map(opt => ({
+          optionId: opt.option_id,
+          text: opt.text
+        })),
         correctAnswer: q.correct_answer,
         hint: q.hint,
         explanation: q.explanation,
