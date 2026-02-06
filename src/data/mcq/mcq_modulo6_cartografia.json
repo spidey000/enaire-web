@@ -1,677 +1,1635 @@
 {
   "module_id": "MOD_006",
-  "module_name": "Cartografía",
+  "module_name": "Cartografía Aeronáutica",
   "mcq_set": [
     {
       "question_id": "MOD6_001",
-      "question_text": "¿Qué es la latitud de un punto?",
-      "difficulty": 2,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "La distancia angular medida sobre el Ecuador entre el meridiano del lugar y Greenwich"},
-        {"option_id": "B", "text": "La distancia angular medida sobre un meridiano entre el punto y el Ecuador"},
-        {"option_id": "C", "text": "La distancia lineal desde el Ecuador hasta el punto"},
-        {"option_id": "D", "text": "El ángulo formado con el meridiano de Greenwich"}
-      ],
-      "correct_answer": "B",
-      "hint": "Latitud se mide sobre un meridiano desde el Ecuador (0°) hasta los polos (90°)",
-      "explanation": "La latitud es la distancia angular, medida en grados sobre un meridiano, entre un punto y el Ecuador. Varía de 0° en el Ecuador a 90° en los polos.",
-      "tags": ["geodesia", "coordenadas", "latitud"]
-    },
-    {
-      "question_id": "MOD6_002",
-      "question_text": "¿Qué es la longitud de un punto?",
-      "difficulty": 2,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "La distancia angular medida sobre un meridiano entre el punto y el Ecuador"},
-        {"option_id": "B", "text": "La distancia angular medida sobre el Ecuador entre el meridiano del lugar y Greenwich"},
-        {"option_id": "C", "text": "La distancia lineal desde Greenwich hasta el punto"},
-        {"option_id": "D", "text": "El ángulo formado con el Ecuador"}
-      ],
-      "correct_answer": "B",
-      "hint": "Longitud se mide sobre el Ecuador desde Greenwich (0°) hasta 180° E/W",
-      "explanation": "La longitud es la distancia angular medida en grados sobre el Ecuador entre el meridiano del lugar y el meridiano de Greenwich. Varía de 0° a 180° Este u Oeste.",
-      "tags": ["geodesia", "coordenadas", "longitud"]
-    },
-    {
-      "question_id": "MOD6_003",
-      "question_text": "¿Cuál es la latitud del Ecuador?",
+      "question_text": "¿Qué ciencia estudia la forma y dimensiones de la Tierra y su campo de gravedad?",
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "90° Norte"},
-        {"option_id": "B", "text": "0°"},
-        {"option_id": "C", "text": "23°27' Norte"},
-        {"option_id": "D", "text": "45° Norte"}
+        {"option_id": "A", "text": "Topografía"},
+        {"option_id": "B", "text": "Geodesia"},
+        {"option_id": "C", "text": "Cartografía"},
+        {"option_id": "D", "text": "Fotogrametría"}
       ],
       "correct_answer": "B",
-      "hint": "El Ecuador es el origen de latitudes (0°)",
-      "explanation": "El Ecuador tiene latitud 0°. Es el círculo máximo cuyo plano es perpendicular al eje de la Tierra y se toma como origen de latitudes.",
-      "tags": ["geodesia", "ecuador", "latitud"]
+      "hint": "Es la base matemática para los mapas.",
+      "explanation": "La Geodesia es la ciencia que estudia la forma y dimensiones de la Tierra y su representación en un plano.",
+      "tags": ["geodesia", "definiciones"]
+    },
+    {
+      "question_id": "MOD6_002",
+      "question_text": "¿Cuál es la forma real de la Tierra, definida como la superficie equipotencial del campo de gravedad?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Esfera perfecta"},
+        {"option_id": "B", "text": "Geoide"},
+        {"option_id": "C", "text": "Elipsoide de revolución"},
+        {"option_id": "D", "text": "Disco plano"}
+      ],
+      "correct_answer": "B",
+      "hint": "Presenta irregularidades y coincide con el nivel del mar.",
+      "explanation": "El geoide es la forma física real de la Tierra, irregular debido a la distribución de masas.",
+      "tags": ["geodesia", "forma_tierra"]
+    },
+    {
+      "question_id": "MOD6_003",
+      "question_text": "¿Qué superficie geométrica se utiliza para representar la Tierra con aproximación matemática?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Geoide"},
+        {"option_id": "B", "text": "Elipsoide de revolución"},
+        {"option_id": "C", "text": "Cubo"},
+        {"option_id": "D", "text": "Plano"}
+      ],
+      "correct_answer": "B",
+      "hint": "Se obtiene al girar una elipse sobre su eje menor.",
+      "explanation": "Dada la complejidad del geoide, se utiliza el elipsoide como modelo matemático de referencia.",
+      "tags": ["geodesia", "modelos"]
     },
     {
       "question_id": "MOD6_004",
-      "question_text": "¿Qué es un meridiano?",
+      "question_text": "¿Cuál es el radio medio aproximado de la Tierra?",
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Un círculo menor paralelo al Ecuador"},
-        {"option_id": "B", "text": "Un semicírculo máximo que une los polos"},
-        {"option_id": "C", "text": "Una línea de latitud constante"},
-        {"option_id": "D", "text": "Un círculo perpendicular al eje terrestre"}
+        {"option_id": "A", "text": "12.742 km"},
+        {"option_id": "B", "text": "6.371 km"},
+        {"option_id": "C", "text": "40.076 km"},
+        {"option_id": "D", "text": "1.000 km"}
       ],
       "correct_answer": "B",
-      "hint": "Los meridianos van del Polo Norte al Polo Sur",
-      "explanation": "Un meridiano es un semicírculo máximo que une los polos. Los meridianos cortan perpendicularmente al Ecuador y a todos los paralelos.",
-      "tags": ["geodesia", "meridianos", "circulos_maximos"]
+      "hint": "La mitad del diámetro.",
+      "explanation": "El radio medio de la Tierra se estima en 6.371 km.",
+      "tags": ["geodesia", "cifras"]
     },
     {
       "question_id": "MOD6_005",
-      "question_text": "¿Qué es un paralelo?",
-      "difficulty": 2,
+      "question_text": "¿Cómo se denominan los círculos ideales definidos por planos que pasan por el centro de la Tierra?",
+      "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Un círculo máximo que pasa por los polos"},
-        {"option_id": "B", "text": "Un círculo menor paralelo al Ecuador"},
-        {"option_id": "C", "text": "Un semicírculo que une los polos"},
-        {"option_id": "D", "text": "Una línea que corta el Ecuador perpendicularmente"}
+        {"option_id": "A", "text": "Círculos menores"},
+        {"option_id": "B", "text": "Círculos máximos"},
+        {"option_id": "C", "text": "Paralelos"},
+        {"option_id": "D", "text": "Isógonas"}
       ],
       "correct_answer": "B",
-      "hint": "Los paralelos son perpendiculares a los meridianos",
-      "explanation": "Los paralelos son círculos menores paralelos al Ecuador. Son perpendiculares a los meridianos y todos los puntos de un mismo paralelo tienen la misma latitud.",
-      "tags": ["geodesia", "paralelos", "circulos_menores"]
+      "hint": "Dividen a la Tierra en dos hemisferios iguales.",
+      "explanation": "Los círculos máximos son los de mayor diámetro posible en la esfera terrestre.",
+      "tags": ["geodesia", "lineas"]
     },
     {
       "question_id": "MOD6_006",
+      "question_text": "¿Qué meridiano se toma como referencia de origen para el sistema horario y de coordenadas?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Meridiano de París"},
+        {"option_id": "B", "text": "Meridiano de Greenwich"},
+        {"option_id": "C", "text": "El Ecuador"},
+        {"option_id": "D", "text": "Meridiano 180"}
+      ],
+      "correct_answer": "B",
+      "hint": "Pasa por Londres.",
+      "explanation": "El meridiano de Greenwich fue adoptado internacionalmente en 1884 como origen (0º).",
+      "tags": ["geodesia", "coordenadas"]
+    },
+    {
+      "question_id": "MOD6_007",
+      "question_text": "¿Cómo se llama el círculo máximo perpendicular al eje de rotación de la Tierra?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Meridiano origen"},
+        {"option_id": "B", "text": "Ecuador terrestre"},
+        {"option_id": "C", "text": "Trópico de Cáncer"},
+        {"option_id": "D", "text": "Círculo Polar"}
+      ],
+      "correct_answer": "B",
+      "hint": "Divide a la tierra en Hemisferio Norte y Sur.",
+      "explanation": "El Ecuador es el único paralelo que es, a su vez, un círculo máximo.",
+      "tags": ["geodesia", "lineas"]
+    },
+    {
+      "question_id": "MOD6_008",
+      "question_text": "¿Cuál es el principal efecto del movimiento de rotación de la Tierra?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Las estaciones del año"},
+        {"option_id": "B", "text": "El día y la noche"},
+        {"option_id": "C", "text": "La precesión de los equinoccios"},
+        {"option_id": "D", "text": "El cambio de la Estrella Polar"}
+      ],
+      "correct_answer": "B",
+      "hint": "Giro sobre su propio eje.",
+      "explanation": "La rotación causa la alternancia de luz y oscuridad cada 24 horas.",
+      "tags": ["movimientos_tierra"]
+    },
+    {
+      "question_id": "MOD6_009",
+      "question_text": "¿Cómo se llama el punto de la órbita terrestre más alejado del Sol?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Perihelio"},
+        {"option_id": "B", "text": "Afelio"},
+        {"option_id": "C", "text": "Equinoccio"},
+        {"option_id": "D", "text": "Solsticio"}
+      ],
+      "correct_answer": "B",
+      "hint": "Ocurre en julio.",
+      "explanation": "El afelio es el punto máximo de distancia al Sol en la órbita elíptica.",
+      "tags": ["movimientos_tierra"]
+    },
+    {
+      "question_id": "MOD6_010",
+      "question_text": "¿Qué movimiento de la Tierra tarda unos 25.700 años en completar un ciclo y desplaza el eje de rotación?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Traslación"},
+        {"option_id": "B", "text": "Precesión"},
+        {"option_id": "C", "text": "Nutación"},
+        {"option_id": "D", "text": "Rotación"}
+      ],
+      "correct_answer": "B",
+      "hint": "Genera un cono con el eje terrestre.",
+      "explanation": "La precesión es un balanceo lento del eje debido a fuerzas gravitatorias.",
+      "tags": ["movimientos_tierra"]
+    },
+    {
+      "question_id": "MOD6_011",
+      "question_text": "¿Qué es la declinación magnética?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El ángulo entre el rumbo y la ruta"},
+        {"option_id": "B", "text": "El ángulo entre el norte magnético local y el geográfico"},
+        {"option_id": "C", "text": "La diferencia entre la altitud real y la de presión"},
+        {"option_id": "D", "text": "El giro del avión sobre su eje vertical"}
+      ],
+      "correct_answer": "B",
+      "hint": "Varía según la posición en la Tierra.",
+      "explanation": "Es la desviación de la brújula respecto al norte verdadero.",
+      "tags": ["navegacion", "magnetismo"]
+    },
+    {
+      "question_id": "MOD6_012",
+      "question_text": "¿Cómo se define el rumbo aeronáutico?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Trayectoria dibujada en el mapa"},
+        {"option_id": "B", "text": "Distancia angular entre el norte de referencia y el eje longitudinal de la aeronave"},
+        {"option_id": "C", "text": "Ángulo de deriva"},
+        {"option_id": "D", "text": "Distancia al destino"}
+      ],
+      "correct_answer": "B",
+      "hint": "Hacia dónde apunta el morro del avión.",
+      "explanation": "El rumbo (Heading) es la orientación de la aeronave respecto al norte (geográfico o magnético).",
+      "tags": ["navegacion"]
+    },
+    {
+      "question_id": "MOD6_013",
+      "question_text": "¿Cuál es la ruta más corta entre dos puntos de la superficie terrestre?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Ruta Loxodrómica"},
+        {"option_id": "B", "text": "Ruta Ortodrómica"},
+        {"option_id": "C", "text": "Ruta de Rumbo Constante"},
+        {"option_id": "D", "text": "Ruta de Greenwich"}
+      ],
+      "correct_answer": "B",
+      "hint": "Arco de círculo máximo.",
+      "explanation": "La ortodrómica es la distancia mínima, fundamental para vuelos de larga distancia.",
+      "tags": ["navegacion", "geometria"]
+    },
+    {
+      "question_id": "MOD6_014",
+      "question_text": "¿Qué es la deriva?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El giro de la Tierra"},
+        {"option_id": "B", "text": "El ángulo entre la ruta deseada y el movimiento real causado por el viento"},
+        {"option_id": "C", "text": "La pérdida de señal radar"},
+        {"option_id": "D", "text": "El descenso del avión para aterrizar"}
+      ],
+      "correct_answer": "B",
+      "hint": "Desplazamiento lateral por masa de aire.",
+      "explanation": "La deriva es el efecto del viento que 'empuja' al avión fuera de su rumbo.",
+      "tags": ["navegacion"]
+    },
+    {
+      "question_id": "MOD6_015",
+      "question_text": "¿A cuántos metros equivale una milla náutica (NM)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "1.000 m"},
+        {"option_id": "B", "text": "1.852 m"},
+        {"option_id": "C", "text": "1.609 m"},
+        {"option_id": "D", "text": "2.000 m"}
+      ],
+      "correct_answer": "B",
+      "hint": "Longitud de un minuto sobre un arco de círculo máximo.",
+      "explanation": "La milla náutica estándar internacional es de 1.852 metros.",
+      "tags": ["unidades"]
+    },
+    {
+      "question_id": "MOD6_016",
+      "question_text": "¿Qué es la latitud?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Distancia angular al meridiano origen"},
+        {"option_id": "B", "text": "Distancia angular medida sobre un meridiano entre un punto y el Ecuador"},
+        {"option_id": "C", "text": "Altura sobre el mar"},
+        {"option_id": "D", "text": "Anchura de la aeronave"}
+      ],
+      "correct_answer": "B",
+      "hint": "Varía de 0º a 90º Norte o Sur.",
+      "explanation": "La latitud sitúa los puntos al Norte o Sur del Ecuador.",
+      "tags": ["coordenadas"]
+    },
+    {
+      "question_id": "MOD6_017",
+      "question_text": "¿Qué es la longitud?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Distancia angular al Ecuador"},
+        {"option_id": "B", "text": "Distancia angular sobre el Ecuador entre el meridiano del lugar y el de Greenwich"},
+        {"option_id": "C", "text": "Largo de la pista"},
+        {"option_id": "D", "text": "Duración del vuelo"}
+      ],
+      "correct_answer": "B",
+      "hint": "Varía de 0º a 180º Este u Oeste.",
+      "explanation": "La longitud sitúa los puntos al Este u Oeste de la referencia de Londres.",
+      "tags": ["coordenadas"]
+    },
+    {
+      "question_id": "MOD6_018",
+      "question_text": "¿Qué sistema geodésico de referencia universal se utiliza para las coordenadas aeronáuticas (AIP)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "ED50"},
+        {"option_id": "B", "text": "WGS84"},
+        {"option_id": "C", "text": "ETRS89"},
+        {"option_id": "D", "text": "NAD27"}
+      ],
+      "correct_answer": "B",
+      "hint": "World Geodetic System 1984.",
+      "explanation": "El WGS84 es el estándar OACI (Anexo 15) para navegación global y GPS.",
+      "tags": ["geodesia", "coordenadas"]
+    },
+    {
+      "question_id": "MOD6_019",
+      "question_text": "¿Qué sistema de referencia se utiliza oficialmente en la España peninsular para cartografía?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "WGS84"},
+        {"option_id": "B", "text": "ETRS89"},
+        {"option_id": "C", "text": "REGCAN95"},
+        {"option_id": "D", "text": "ED50"}
+      ],
+      "correct_answer": "B",
+      "hint": "Adaptación europea.",
+      "explanation": "ETRS89 es el sistema oficial para la península y Baleares, aunque para aviación se usa WGS84 por compatibilidad internacional.",
+      "tags": ["españa", "geodesia"]
+    },
+    {
+      "question_id": "MOD6_020",
+      "question_text": "¿Cómo se define la escala de un mapa?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El tamaño del papel"},
+        {"option_id": "B", "text": "La relación entre la dimensión real de un objeto y su representación gráfica"},
+        {"option_id": "C", "text": "El número de colores usados"},
+        {"option_id": "D", "text": "La altitud de vuelo"}
+      ],
+      "correct_answer": "B",
+      "hint": "Factor de reducción o ampliación.",
+      "explanation": "La escala permite representar áreas inmensas en formatos manejables.",
+      "tags": ["cartografia", "escala"]
+    },
+    {
+      "question_id": "MOD6_021",
+      "question_text": "En una escala numérica 1:10.000, ¿qué representa el denominador?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "La distancia en el mapa"},
+        {"option_id": "B", "text": "La magnitud real en el terreno"},
+        {"option_id": "C", "text": "El error del mapa"},
+        {"option_id": "D", "text": "La altura de las montañas"}
+      ],
+      "correct_answer": "B",
+      "hint": "Indica cuántas veces se ha reducido la realidad.",
+      "explanation": "1 cm en el mapa equivale a 10.000 cm reales.",
+      "tags": ["cartografia", "escala"]
+    },
+    {
+      "question_id": "MOD6_022",
+      "question_text": "¿Qué es una 'escala grande'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "La que representa continentes (ej. 1:10.000.000)"},
+        {"option_id": "B", "text": "La que tiene un denominador pequeño y representa mucho detalle (ej. 1:5.000)"},
+        {"option_id": "C", "text": "Una regla muy larga"},
+        {"option_id": "D", "text": "Solo se usa para nubes"}
+      ],
+      "correct_answer": "B",
+      "hint": "Denominador pequeño = Escala grande.",
+      "explanation": "Las escalas grandes abarcan poco terreno pero con gran detalle (ej. planos de ciudades).",
+      "tags": ["cartografia", "escala"]
+    },
+    {
+      "question_id": "MOD6_023",
+      "question_text": "¿Qué tipo de proyección cartográfica conserva los ángulos originales?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Equivalente"},
+        {"option_id": "B", "text": "Conforme"},
+        {"option_id": "C", "text": "Equidistante"},
+        {"option_id": "D", "text": "Afiláctica"}
+      ],
+      "correct_answer": "B",
+      "hint": "Fundamental para medir rumbos.",
+      "explanation": "Las proyecciones conformes mantienen la forma y los ángulos locales.",
+      "tags": ["cartografia", "proyecciones"]
+    },
+    {
+      "question_id": "MOD6_024",
+      "question_text": "¿Se puede construir una proyección que sea equivalente y conforme a la vez?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Sí, es el mapa perfecto"},
+        {"option_id": "B", "text": "No, es matemáticamente imposible"},
+        {"option_id": "C", "text": "Solo en el Ecuador"},
+        {"option_id": "D", "text": "Solo en mapas electrónicos"}
+      ],
+      "correct_answer": "B",
+      "hint": "Mantener áreas deforma ángulos y viceversa.",
+      "explanation": "No existe la posibilidad de transformar una esfera en un plano sin deformar al menos dos de las tres magnitudes (ángulos, áreas, distancias).",
+      "tags": ["cartografia", "proyecciones"]
+    },
+    {
+      "question_id": "MOD6_025",
+      "question_text": "¿Qué proyección pura sitúa el foco en el centro de la Tierra?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Ortográfica"},
+        {"option_id": "B", "text": "Gnomónica"},
+        {"option_id": "C", "text": "Estereográfica"},
+        {"option_id": "D", "text": "Escenográfica"}
+      ],
+      "correct_answer": "B",
+      "hint": "El punto de vista es el núcleo terrestre.",
+      "explanation": "La proyección gnomónica proyecta desde el centro de la esfera.",
+      "tags": ["cartografia", "proyecciones"]
+    },
+    {
+      "question_id": "MOD6_026",
+      "question_text": "¿Cuál es la proyección cartográfica más utilizada para la navegación aérea en ruta?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Cilíndrica de Mercator"},
+        {"option_id": "B", "text": "Cónica conforme de Lambert"},
+        {"option_id": "C", "text": "Plana polar"},
+        {"option_id": "D", "text": "Proyección de Bonne"}
+      ],
+      "correct_answer": "B",
+      "hint": "Representa la ortodrómica casi como una recta.",
+      "explanation": "Lambert es ideal para navegación por su conformididad y facilidad para trazar rutas cortas.",
+      "tags": ["cartografia", "navegacion"]
+    },
+    {
+      "question_id": "MOD6_027",
+      "question_text": "En la proyección de Lambert, ¿cómo se representan los meridianos?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Líneas horizontales paralelas"},
+        {"option_id": "B", "text": "Rectas concurrentes en el Polo"},
+        {"option_id": "C", "text": "Curvas sinuosas"},
+        {"option_id": "D", "text": "Círculos concéntricos"}
+      ],
+      "correct_answer": "B",
+      "hint": "Convergen hacia el punto de fuga polar.",
+      "explanation": "Los meridianos son radios que salen del vértice del cono.",
+      "tags": ["cartografia", "proyecciones"]
+    },
+    {
+      "question_id": "MOD6_028",
+      "question_text": "¿Qué son las curvas de nivel o isohipsas?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Líneas de igual presión"},
+        {"option_id": "B", "text": "Líneas que unen puntos de la misma altitud"},
+        {"option_id": "C", "text": "Rutas de aviones"},
+        {"option_id": "D", "text": "Líneas de igual temperatura"}
+      ],
+      "correct_answer": "B",
+      "hint": "Representación del relieve.",
+      "explanation": "Las curvas de nivel permiten visualizar la orografía en un plano.",
+      "tags": ["topografia"]
+    },
+    {
+      "question_id": "MOD6_029",
+      "difficulty": 3,
+      "question_text": "¿Qué anexo de OACI regula la producción de cartas aeronáuticas?",
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Anexo 2"},
+        {"option_id": "B", "text": "Anexo 4"},
+        {"option_id": "C", "text": "Anexo 11"},
+        {"option_id": "D", "text": "Anexo 15"}
+      ],
+      "correct_answer": "B",
+      "hint": "Específico para cartografía.",
+      "explanation": "El Anexo 4 de OACI define los estándares de las cartas aeronáuticas.",
+      "tags": ["oaci", "normativa"]
+    },
+    {
+      "question_id": "MOD6_030",
+      "question_text": "¿Cuál es la responsabilidad del Servicio de Información Aeronáutica (AIS) respecto a las cartas?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Pilotar los aviones"},
+        {"option_id": "B", "text": "La producción de la cartografía necesaria para la aviación civil"},
+        {"option_id": "C", "text": "Vender los mapas a los turistas"},
+        {"option_id": "D", "text": "Solo revisar las cartas de otros países"}
+      ],
+      "correct_answer": "B",
+      "hint": "Gestionado por ENAIRE en España.",
+      "explanation": "AIS es responsable de que la información cartográfica sea precisa y esté actualizada.",
+      "tags": ["ais", "instituciones"]
+    },
+    {
+      "question_id": "MOD6_031",
+      "question_text": "¿Qué tipo de carta es el Plano de Obstáculos de Aeródromo Tipo A?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Opcional"},
+        {"option_id": "B", "text": "Obligatoria"},
+        {"option_id": "C", "text": "Condicionalmente necesaria"},
+        {"option_id": "D", "text": "Solo para helicópteros"}
+      ],
+      "correct_answer": "B",
+      "hint": "Fundamental para la seguridad en despegue.",
+      "explanation": "Es una de las cartas que OACI exige producir obligatoriamente.",
+      "tags": ["cartografia", "obligatoriedad"]
+    },
+    {
+      "question_id": "MOD6_032",
+      "question_text": "¿Cuándo es obligatoria la Carta Aeronáutica Mundial 1:1.000.000?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Solo para vuelos transoceánicos"},
+        {"option_id": "B", "text": "Es una carta de carácter obligatorio según OACI"},
+        {"option_id": "C", "text": "Solo si el país no tiene radares"},
+        {"option_id": "D", "text": "Solo para vuelos VFR de noche"}
+      ],
+      "correct_answer": "B",
+      "hint": "Escala pequeña obligatoria.",
+      "explanation": "OACI establece su obligatoriedad para todos los Estados miembros.",
+      "tags": ["cartografia", "obligatoriedad"]
+    },
+    {
+      "question_id": "MOD6_033",
+      "question_text": "¿Qué significa que una carta sea 'condicionalmente necesaria'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Que solo se imprime si el piloto la paga"},
+        {"option_id": "B", "text": "Que solo es necesaria si se cumplen determinadas circunstancias (ej. rutas complejas)"},
+        {"option_id": "C", "text": "Que caduca cada mes"},
+        {"option_id": "D", "text": "Que solo sirve para vuelos privados"}
+      ],
+      "correct_answer": "B",
+      "hint": "Ejemplo: Carta de Área.",
+      "explanation": "Se producen si la información no cabe o no es clara en otras cartas (ej. SID, STAR).",
+      "tags": ["cartografia", "definiciones"]
+    },
+    {
+      "question_id": "MOD6_034",
+      "question_text": "¿Qué carta se utiliza en la Fase 1 del vuelo (rodaje desde el puesto)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Carta de en Ruta"},
+        {"option_id": "B", "text": "Plano de Estacionamiento y Atraque"},
+        {"option_id": "C", "text": "Carta de Área"},
+        {"option_id": "D", "text": "Carta de Aproximación Visual"}
+      ],
+      "correct_answer": "B",
+      "hint": "Información detallada de la plataforma.",
+      "explanation": "Facilita los movimientos iniciales en tierra.",
+      "tags": ["cartografia", "fases_vuelo"]
+    },
+    {
+      "question_id": "MOD6_035",
+      "question_text": "¿Qué siglas corresponden a la Carta de Salida Normalizada por Instrumentos?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "STAR"},
+        {"option_id": "B", "text": "SID"},
+        {"option_id": "C", "text": "IAC"},
+        {"option_id": "D", "text": "VAC"}
+      ],
+      "correct_answer": "B",
+      "hint": "Standard Instrument Departure.",
+      "explanation": "La SID guía al piloto desde el despegue hasta la estructura de rutas.",
+      "tags": ["cartografia", "siglas"]
+    },
+    {
+      "question_id": "MOD6_036",
+      "question_text": "¿Qué carta facilita la transición entre la fase de ruta y la aproximación al aeródromo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Plano de Aeródromo"},
+        {"option_id": "B", "text": "Carta de Área"},
+        {"option_id": "C", "text": "Carta de Luces"},
+        {"option_id": "D", "text": "Plano de Obstáculos"}
+      ],
+      "correct_answer": "B",
+      "hint": "Muestra la estructura compleja del espacio aéreo terminal.",
+      "explanation": "La Carta de Área permite ver la conexión entre aerovías y procedimientos locales.",
+      "tags": ["cartografia", "fases_vuelo"]
+    },
+    {
+      "question_id": "MOD6_037",
+      "question_text": "¿Qué indica el Plano de Obstáculos Tipo A?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Los edificios de la ciudad"},
+        {"option_id": "B", "text": "Limitaciones de utilización por obstáculos en la trayectoria de despegue"},
+        {"option_id": "C", "text": "La posición de los radares"},
+        {"option_id": "D", "text": "Las nubes peligrosas"}
+      ],
+      "correct_answer": "B",
+      "hint": "Crítico para calcular pesos de despegue.",
+      "explanation": "Permite al explotador asegurar que puede salvar obstáculos incluso con fallo de motor.",
+      "tags": ["cartografia", "seguridad"]
+    },
+    {
+      "question_id": "MOD6_038",
+      "question_text": "¿Cuál es la función de la Carta de Aproximación por Instrumentos (IAC)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Rodar por la pista"},
+        {"option_id": "B", "text": "Facilitar el aterrizaje mediante procedimientos instrumentales (ILS, VOR, etc.)"},
+        {"option_id": "C", "text": "Planificar el vuelo el día antes"},
+        {"option_id": "D", "text": "Volar sin radio"}
+      ],
+      "correct_answer": "B",
+      "hint": "Incluye aproximación frustrada y esperas.",
+      "explanation": "La IAC es vital para el descenso final hacia la pista.",
+      "tags": ["cartografia", "fases_vuelo"]
+    },
+    {
+      "question_id": "MOD6_039",
+      "question_text": "¿Qué aplicación digital utiliza ENAIRE para presentar cartas electrónicas?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Google Maps"},
+        {"option_id": "B", "text": "Insignia"},
+        {"option_id": "C", "text": "Skyview"},
+        {"option_id": "D", "text": "AIP-Reader"}
+      ],
+      "correct_answer": "B",
+      "hint": "insignia.enaire.es.",
+      "explanation": "Insignia es la plataforma de ENAIRE para cartografía aeronáutica interactiva.",
+      "tags": ["cartografia", "tecnologia"]
+    },
+    {
+      "question_id": "MOD6_040",
+      "question_text": "¿Qué sistema se utiliza para distribuir cambios de importancia operacional en las cartas?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Correo ordinario"},
+        {"option_id": "B", "text": "AIRAC"},
+        {"option_id": "C", "text": "Radio FM"},
+        {"option_id": "D", "text": "Mensaje de texto"}
+      ],
+      "correct_answer": "B",
+      "hint": "Ciclos de 28 días.",
+      "explanation": "El sistema AIRAC garantiza que la información llegue a los usuarios antes de su entrada en vigor.",
+      "tags": ["ais", "mantenimiento"]
+    },
+    {
+      "question_id": "MOD6_041",
+      "question_text": "¿Qué es el 'Datum' en cartografía?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "La fecha de publicación"},
+        {"option_id": "B", "text": "Conjunto de parámetros que fijan el origen y orientación del sistema de coordenadas"},
+        {"option_id": "C", "text": "El nombre del autor"},
+        {"option_id": "D", "text": "La altitud de una montaña"}
+      ],
+      "correct_answer": "B",
+      "hint": "Modelo asociado a la forma de la Tierra.",
+      "explanation": "El Datum define el marco de referencia sobre el elipsoide escogido.",
+      "tags": ["geodesia", "definiciones"]
+    },
+    {
+      "question_id": "MOD6_042",
+      "question_text": "¿Qué magnitud geométrica NO se deforma en una línea automecoica?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Los ángulos"},
+        {"option_id": "B", "text": "Las distancias (lineal)"},
+        {"option_id": "C", "text": "Las superficies"},
+        {"option_id": "D", "text": "Los colores"}
+      ],
+      "correct_answer": "B",
+      "hint": "Propiedad de la escala constante.",
+      "explanation": "En las líneas automecoicas la escala del mapa coincide exactamente con la nominal.",
+      "tags": ["cartografia", "definiciones"]
+    },
+    {
+      "question_id": "MOD6_043",
+      "question_text": "¿A qué se refiere la 'equidistancia' en un sistema de curvas de nivel?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "A la distancia horizontal entre curvas"},
+        {"option_id": "B", "text": "A la distancia vertical constante entre los planos de corte"},
+        {"option_id": "C", "text": "Al tamaño del mapa"},
+        {"option_id": "D", "text": "A la escala gráfica"}
+      ],
+      "correct_answer": "B",
+      "hint": "Diferencia de altura entre dos líneas sucesivas.",
+      "explanation": "La equidistancia define la resolución vertical de la representación topográfica.",
+      "tags": ["topografia"]
+    },
+    {
+      "question_id": "MOD6_044",
+      "question_text": "¿Qué indica una mayor cercanía entre curvas de nivel en un plano topográfico?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Terreno llano"},
+        {"option_id": "B", "text": "Mayor pendiente del terreno"},
+        {"option_id": "C", "text": "Presencia de agua"},
+        {"option_id": "D", "text": "Menor altitud"}
+      ],
+      "correct_answer": "B",
+      "hint": "Las alturas cambian en menos distancia horizontal.",
+      "explanation": "Cuanto más juntas estén las curvas, más abrupto es el relieve.",
+      "tags": ["topografia"]
+    },
+    {
+      "question_id": "MOD6_045",
+      "question_text": "¿Qué significan las siglas STAR?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Sistemas de Tráfico Aéreo Regional"},
+        {"option_id": "B", "text": "Standard Instrument Arrival (Llegada normalizada por instrumentos)"},
+        {"option_id": "C", "text": "Standard Take-off and Run"},
+        {"option_id": "D", "text": "Satellite Tracking and Radar"}
+      ],
+      "correct_answer": "B",
+      "hint": "Procedimiento de llegada.",
+      "explanation": "Conecta la fase de ruta con la fase de aproximación.",
+      "tags": ["cartografia", "siglas"]
+    },
+    {
+      "question_id": "MOD6_046",
+      "question_text": "¿Qué es una Carta CDA (Continuous Descent Arrival)?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Una carta para aterrizajes de emergencia"},
+        {"option_id": "B", "text": "Procedimiento de llegada con descenso continuo (ahorro de combustible)"},
+        {"option_id": "C", "text": "Una carta de comunicaciones digitales"},
+        {"option_id": "D", "text": "Un plano de la bodega de carga"}
+      ],
+      "correct_answer": "B",
+      "hint": "Optimiza el perfil de vuelo.",
+      "explanation": "Elimina restricciones de nivel intermedias para un descenso más eficiente y silencioso.",
+      "tags": ["cartografia", "performance"]
+    },
+    {
+      "question_id": "MOD6_047",
+      "question_text": "¿Qué aeropuerto español utiliza actualmente cartas de Transición a la Aproximación Final (TRAN)?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Madrid-Barajas"},
+        {"option_id": "B", "text": "Barcelona-El Prat"},
+        {"option_id": "C", "text": "Palma de Mallorca"},
+        {"option_id": "D", "text": "Málaga"}
+      ],
+      "correct_answer": "B",
+      "hint": "Usa tramos en forma de 'trombón'.",
+      "explanation": "Barcelona es el pionero en España en el uso de estas transiciones RNAV1.",
+      "tags": ["españa", "cartografia"]
+    },
+    {
+      "question_id": "MOD6_048",
+      "question_text": "¿Qué nota debe figurar de manera destacada en la Carta de Altitud Mínima de Vigilancia ATC?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Prohibido el vuelo visual"},
+        {"option_id": "B", "text": "Utilícese únicamente si la aeronave está identificada"},
+        {"option_id": "C", "text": "Solo válida para helicópteros"},
+        {"option_id": "D", "text": "Cuidado con los pájaros"}
+      ],
+      "correct_answer": "B",
+      "hint": "Restricción de uso.",
+      "explanation": "Garantiza que el piloto solo use la carta para verificar altitudes cuando el radar lo tiene localizado.",
+      "tags": ["cartografia", "atc"]
+    },
+    {
+      "question_id": "MOD6_049",
+      "question_text": "¿Para qué sirve la Carta de Concentración de Aves?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Para que los pilotos puedan ver aves"},
+        {"option_id": "B", "text": "Identificar zonas de riesgo por presencia masiva de aves (invernada, migración)"},
+        {"option_id": "C", "text": "Para cazadores"},
+        {"option_id": "D", "text": "Para medir la contaminación"}
+      ],
+      "correct_answer": "B",
+      "hint": "Información facilitada por Agricultura y Medio Ambiente.",
+      "explanation": "Previene incidentes por impacto con aves (bird strike).",
+      "tags": ["cartografia", "seguridad"]
+    },
+    {
+      "question_id": "MOD6_050",
+      "question_text": "¿Qué sucede con la precisión de un plano topográfico si disminuimos la equidistancia entre curvas?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Disminuye"},
+        {"option_id": "B", "text": "Aumenta (se ven más detalles del relieve)"},
+        {"option_id": "C", "text": "No cambia"},
+        {"option_id": "D", "text": "El mapa se vuelve ilegible siempre"}
+      ],
+      "correct_answer": "B",
+      "hint": "Más líneas para el mismo desnivel.",
+      "explanation": "Al reducir la distancia vertical entre planos, captamos irregularidades más pequeñas.",
+      "tags": ["topografia"]
+    },
+    {
+      "question_id": "MOD6_051",
+      "question_text": "¿Qué forma tiene la Tierra debido a las fuerzas centrífugas de su rotación?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Alargada en los polos"},
+        {"option_id": "B", "text": "Achatada en los polos y ensanchada en el Ecuador"},
+        {"option_id": "C", "text": "Cilíndrica"},
+        {"option_id": "D", "text": "Piramidal"}
+      ],
+      "correct_answer": "B",
+      "hint": "Efecto de la velocidad de giro.",
+      "explanation": "La Tierra no es una esfera perfecta por este abultamiento ecuatorial.",
+      "tags": ["geodesia", "forma_tierra"]
+    },
+    {
+      "question_id": "MOD6_052",
+      "question_text": "¿Cuál es la medida de la circunferencia de cualquier círculo máximo terrestre?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "20.000 km"},
+        {"option_id": "B", "text": "40.076 km"},
+        {"option_id": "C", "text": "6.371 km"},
+        {"option_id": "D", "text": "100.000 km"}
+      ],
+      "correct_answer": "B",
+      "hint": "Perímetro terrestre.",
+      "explanation": "Cualquier plano que pase por el centro genera una circunferencia de unos 40.076 km.",
+      "tags": ["geodesia", "cifras"]
+    },
+    {
+      "question_id": "MOD6_053",
+      "question_text": "¿Cómo se llaman los semicírculos máximos que pasan por los polos?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Paralelos"},
+        {"option_id": "B", "text": "Meridianos"},
+        {"option_id": "C", "text": "Ecuador"},
+        {"option_id": "D", "text": "Rumbos"}
+      ],
+      "correct_answer": "B",
+      "hint": "Cortan perpendicularmente al Ecuador.",
+      "explanation": "Los meridianos son las líneas de longitud.",
+      "tags": ["geodesia", "lineas"]
+    },
+    {
+      "question_id": "MOD6_054",
+      "question_text": "¿En qué hemisferios divide el Meridiano de Greenwich a la Tierra?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Norte y Sur"},
+        {"option_id": "B", "text": "Oriental (Este) y Occidental (Oeste)"},
+        {"option_id": "C", "text": "Derecho e Izquierdo"},
+        {"option_id": "D", "text": "Continental y Oceánico"}
+      ],
+      "correct_answer": "B",
+      "hint": "Referencia de longitud.",
+      "explanation": "Greenwich separa el Este del Oeste.",
+      "tags": ["geodesia", "coordenadas"]
+    },
+    {
+      "question_id": "MOD6_055",
+      "question_text": "¿Qué son los círculos menores paralelos al Ecuador?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Meridianos"},
+        {"option_id": "B", "text": "Paralelos"},
+        {"option_id": "C", "text": "Vaguadas"},
+        {"option_id": "D", "text": "Ortodrómicas"}
+      ],
+      "correct_answer": "B",
+      "hint": "Son perpendiculares a los meridianos.",
+      "explanation": "Los paralelos miden la latitud.",
+      "tags": ["geodesia", "lineas"]
+    },
+    {
+      "question_id": "MOD6_056",
+      "question_text": "¿Cuál es la duración exacta de un giro de rotación terrestre sobre sí misma?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "24 horas exactas"},
+        {"option_id": "B", "text": "23 horas, 56 minutos y 4 segundos"},
+        {"option_id": "C", "text": "12 horas"},
+        {"option_id": "D", "text": "365 días"}
+      ],
+      "correct_answer": "B",
+      "hint": "Día sidéreo.",
+      "explanation": "Es el tiempo que tarda la Tierra en dar una vuelta completa respecto a las estrellas fijas.",
+      "tags": ["movimientos_tierra"]
+    },
+    {
+      "question_id": "MOD6_057",
+      "question_text": "¿Cómo se llama la trayectoria que describe la Tierra alrededor del Sol?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Ecuador"},
+        {"option_id": "B", "text": "Eclíptica"},
+        {"option_id": "C", "text": "Elipsoide"},
+        {"option_id": "D", "text": "Cenit"}
+      ],
+      "correct_answer": "B",
+      "hint": "Es una órbita elíptica.",
+      "explanation": "La Tierra recorre la Eclíptica durante su movimiento de traslación.",
+      "tags": ["movimientos_tierra"]
+    },
+    {
+      "question_id": "MOD6_058",
+      "question_text": "¿Qué ocurre durante los equinoccios?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El día es mucho más largo que la noche"},
+        {"option_id": "B", "text": "Equivalencia en el número de horas nocturnas y diurnas"},
+        {"option_id": "C", "text": "Hace mucho frío en el Ecuador"},
+        {"option_id": "D", "text": "La Tierra deja de girar"}
+      ],
+      "correct_answer": "B",
+      "hint": "Los rayos inciden perpendicularmente sobre el Ecuador.",
+      "explanation": "Hay dos equinoccios al año (primavera y otoño).",
+      "tags": ["movimientos_tierra"]
+    },
+    {
+      "question_id": "MOD6_059",
+      "question_text": "¿A qué se debe el movimiento de nutación?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Al impacto de meteoritos"},
+        {"option_id": "B", "text": "A una ligera oscilación del eje terrestre sobre la trayectoria de precesión"},
+        {"option_id": "C", "text": "Al magnetismo del núcleo"},
+        {"option_id": "D", "text": "A las corrientes marinas"}
+      ],
+      "correct_answer": "B",
+      "hint": "Ciclo de algo más de 18 años.",
+      "explanation": "Es un movimiento superpuesto al de precesión.",
+      "tags": ["movimientos_tierra"]
+    },
+    {
+      "question_id": "MOD6_060",
+      "question_text": "¿Están alineados los polos magnéticos con los polos geográficos?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Sí, siempre"},
+        {"option_id": "B", "text": "No, presentan un desfase (declinación)"},
+        {"option_id": "C", "text": "Solo en el Polo Norte"},
+        {"option_id": "D", "text": "Solo durante el día"}
+      ],
+      "correct_answer": "B",
+      "hint": "La brújula no apunta al Norte verdadero.",
+      "explanation": "El magnetismo terrestre es dinámico y sus polos no coinciden con el eje de rotación.",
+      "tags": ["magnetismo"]
+    },
+    {
+      "question_id": "MOD6_061",
+      "question_text": "¿Qué fórmula se utiliza para calcular el rumbo magnético?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Rm = Rg + declinación"},
+        {"option_id": "B", "text": "Rm = Rg – declinación"},
+        {"option_id": "C", "text": "Rm = Rg * deriva"},
+        {"option_id": "D", "text": "Rm = Rg / 2"}
+      ],
+      "correct_answer": "B",
+      "hint": "La declinación E es positiva y W es negativa.",
+      "explanation": "Permite corregir el rumbo geográfico para usar la brújula magnética.",
+      "tags": ["navegacion"]
+    },
+    {
+      "question_id": "MOD6_062",
+      "question_text": "¿Qué es la ruta loxodrómica?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "La más corta entre dos puntos"},
+        {"option_id": "B", "text": "Aquella que mantiene un rumbo constante cruzando meridianos con el mismo ángulo"},
+        {"option_id": "C", "text": "Una ruta que pasa por los polos"},
+        {"option_id": "D", "text": "La trayectoria de un proyectil"}
+      ],
+      "correct_answer": "B",
+      "hint": "Fácil de seguir pero más larga que la ortodrómica.",
+      "explanation": "Es una línea que corta a todos los meridianos con el mismo ángulo.",
+      "tags": ["navegacion"]
+    },
+    {
+      "question_id": "MOD6_063",
+      "question_text": "¿Cuándo es mínima o nula la deriva?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Viento de costado (90º)"},
+        {"option_id": "B", "text": "Viento en calma o cuando coincide con la dirección de la aeronave (cara/cola)"},
+        {"option_id": "C", "text": "A gran altitud siempre"},
+        {"option_id": "D", "text": "En el despegue"}
+      ],
+      "correct_answer": "B",
+      "hint": "No hay empuje lateral.",
+      "explanation": "Si el viento es paralelo a la trayectoria, no desvía al avión lateralmente.",
+      "tags": ["navegacion"]
+    },
+    {
+      "question_id": "MOD6_064",
+      "question_text": "¿Qué es la derrota?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Un fallo del motor"},
+        {"option_id": "B", "text": "Proyección sobre el suelo de la trayectoria real seguida (Track)"},
+        {"option_id": "C", "text": "El punto de llegada"},
+        {"option_id": "D", "text": "La altitud de seguridad"}
+      ],
+      "correct_answer": "B",
+      "hint": "Resultado de corregir el rumbo ante el viento.",
+      "explanation": "La derrota es el 'camino' real que el avión ha dibujado sobre el terreno.",
+      "tags": ["navegacion"]
+    },
+    {
+      "question_id": "MOD6_065",
+      "question_text": "¿Cuál es el valor de la latitud en el Ecuador?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "90º"},
+        {"option_id": "B", "text": "0º"},
+        {"option_id": "C", "text": "180º"},
+        {"option_id": "D", "text": "45º"}
+      ],
+      "correct_answer": "B",
+      "hint": "Línea de origen.",
+      "explanation": "El Ecuador es la latitud 0.",
+      "tags": ["coordenadas"]
+    },
+    {
+      "question_id": "MOD6_066",
       "question_text": "¿Cuál es la longitud del meridiano de Greenwich?",
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "0°"},
-        {"option_id": "B", "text": "90° Este"},
-        {"option_id": "C", "text": "180°"},
-        {"option_id": "D", "text": "45° Oeste"}
+        {"option_id": "A", "text": "180º"},
+        {"option_id": "B", "text": "0º"},
+        {"option_id": "C", "text": "90º"},
+        {"option_id": "D", "text": "360º"}
       ],
-      "correct_answer": "A",
-      "hint": "Greenwich es el meridiano de origen (0°)",
-      "explanation": "El meridiano de Greenwich tiene longitud 0°. Es el meridiano de origen adoptado como referencia internacional desde 1884.",
-      "tags": ["geodesia", "greenwich", "longitud"]
+      "correct_answer": "B",
+      "hint": "Meridiano origen.",
+      "explanation": "Se toma como referencia 0º para medir hacia el Este u Oeste.",
+      "tags": ["coordenadas"]
     },
     {
-      "question_id": "MOD6_007",
-      "question_text": "¿Qué es un círculo máximo?",
+      "question_id": "MOD6_067",
+      "question_text": "¿Qué elipsoide está asociado a los sistemas ETRS89 y REGCAN95 en España?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "WGS84"},
+        {"option_id": "B", "text": "GRS80"},
+        {"option_id": "C", "text": "Everest 1830"},
+        {"option_id": "D", "text": "Hayford"}
+      ],
+      "correct_answer": "B",
+      "hint": "Geodetic Reference System 1980.",
+      "explanation": "Aunque similares, el GRS80 es el elipsoide de base para las redes europeas.",
+      "tags": ["geodesia", "españa"]
+    },
+    {
+      "question_id": "MOD6_068",
+      "question_text": "¿Por qué no se consideran válidos ETRS89/REGCAN95 para publicar coordenadas en el AIP-España?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Porque son ilegales"},
+        {"option_id": "B", "text": "Debido a la deriva entre sistemas que supera la exactitud requerida"},
+        {"option_id": "C", "text": "Porque nadie tiene GPS"},
+        {"option_id": "D", "text": "Solo se pueden usar en barcos"}
+      ],
+      "correct_answer": "B",
+      "hint": "Se prefiere mantener WGS84 por normativa OACI.",
+      "explanation": "Para garantizar la precisión aeronáutica, se mantiene el estándar WGS84 unificado.",
+      "tags": ["geodesia", "normativa"]
+    },
+    {
+      "question_id": "MOD6_069",
+      "question_text": "Si una escala gráfica de 1 cm representa 50 km reales, ¿cuál es su escala numérica?",
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Un círculo definido por un plano que no pasa por el centro de la Tierra"},
-        {"option_id": "B", "text": "Un círculo definido por un plano que pasa por el centro de la Tierra"},
-        {"option_id": "C", "text": "Un paralelo cualquiera"},
-        {"option_id": "D", "text": "Un círculo tangente a la superficie terrestre"}
+        {"option_id": "A", "text": "1:50.000"},
+        {"option_id": "B", "text": "1:5.000.000"},
+        {"option_id": "C", "text": "1:500.000"},
+        {"option_id": "D", "text": "1:5.000"}
       ],
       "correct_answer": "B",
-      "hint": "Ejemplo: Ecuador y meridianos son círculos máximos",
-      "explanation": "Un círculo máximo es un círculo ideal definido por un plano que pasa por el centro de la Tierra, dividiéndola en dos hemisferios iguales.",
-      "tags": ["geodesia", "circulos_maximos", "geometria"]
+      "hint": "50 km = 5.000.000 cm.",
+      "explanation": "Se deben usar las mismas unidades en ambos lados de la fracción.",
+      "tags": ["escala"]
     },
     {
-      "question_id": "MOD6_008",
-      "question_text": "¿Qué es WGS84?",
+      "question_id": "MOD6_070",
+      "question_text": "¿Qué proyección mantiene la proporcionalidad entre las áreas?",
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Un tipo de proyección cartográfica"},
-        {"option_id": "B", "text": "Un sistema de referencia geodésico universal"},
-        {"option_id": "C", "text": "Una escala de carta aeronáutica"},
-        {"option_id": "D", "text": "Un tipo de carta de navegación"}
+        {"option_id": "A", "text": "Conforme"},
+        {"option_id": "B", "text": "Equivalente"},
+        {"option_id": "C", "text": "Equidistante"},
+        {"option_id": "D", "text": "Afiláctica"}
       ],
       "correct_answer": "B",
-      "hint": "WGS84 = World Geodetic System 1984",
-      "explanation": "WGS84 (World Geodetic System 1984) es un sistema de referencia geodésico universal con cobertura global, adoptado por OACI para navegación aérea.",
-      "tags": ["geodesia", "datum", "wgs84"]
+      "hint": "Deforma mucho los ángulos.",
+      "explanation": "Las proyecciones equivalentes conservan las superficies relativas.",
+      "tags": ["proyecciones"]
     },
     {
-      "question_id": "MOD6_009",
-      "question_text": "¿Qué es la escala de una carta?",
+      "question_id": "MOD6_071",
+      "question_text": "¿Qué proyección pura sitúa el foco fuera de la Tierra a una distancia infinita?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Gnomónica"},
+        {"option_id": "B", "text": "Ortográfica"},
+        {"option_id": "C", "text": "Estereográfica"},
+        {"option_id": "D", "text": "Escenográfica"}
+      ],
+      "correct_answer": "B",
+      "hint": "Rayos proyectantes paralelos.",
+      "explanation": "La proyección ortográfica ve a la Tierra desde el infinito.",
+      "tags": ["proyecciones"]
+    },
+    {
+      "question_id": "MOD6_072",
+      "question_text": "¿Qué caracteriza a una proyección cilíndrica transversal?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Eje del cilindro paralelo al eje de la Tierra"},
+        {"option_id": "B", "text": "Eje del cilindro perpendicular al eje de rotación terrestre"},
+        {"option_id": "C", "text": "El cilindro no toca la Tierra"},
+        {"option_id": "D", "text": "Solo sirve para los polos"}
+      ],
+      "correct_answer": "B",
+      "hint": "Base de la proyección UTM.",
+      "explanation": "El cilindro envuelve a la tierra 'de lado'.",
+      "tags": ["proyecciones"]
+    },
+    {
+      "question_id": "MOD6_073",
+      "question_text": "¿Qué es un paralelo estándar en una proyección cónica?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El Ecuador siempre"},
+        {"option_id": "B", "text": "La línea de tangencia del cono con la esfera donde no hay deformación"},
+        {"option_id": "C", "text": "El paralelo 45º únicamente"},
+        {"option_id": "D", "text": "Una ruta aérea"}
+      ],
+      "correct_answer": "B",
+      "hint": "Es la línea automecoica.",
+      "explanation": "En el paralelo estándar la escala del mapa es exacta.",
+      "tags": ["proyecciones", "geometria"]
+    },
+    {
+      "question_id": "MOD6_074",
+      "question_text": "¿Cuántos paralelos estándares automecoicos tiene la proyección cónica secante de Lambert?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Uno"},
+        {"option_id": "B", "text": "Dos"},
+        {"option_id": "C", "text": "Ninguno"},
+        {"option_id": "D", "text": "Infinitos"}
+      ],
+      "correct_answer": "B",
+      "hint": "Al ser secante, corta en dos líneas.",
+      "explanation": "Lambert utiliza un cono secante para reducir deformaciones a la mitad.",
+      "tags": ["proyecciones", "lambert"]
+    },
+    {
+      "question_id": "MOD6_075",
+      "question_text": "¿Cómo se representa la ruta loxodrómica en la proyección de Lambert?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Una recta"},
+        {"option_id": "B", "text": "Una curva con concavidad hacia el vértice de la proyección"},
+        {"option_id": "C", "text": "Un círculo perfecto"},
+        {"option_id": "D", "text": "No se puede representar"}
+      ],
+      "correct_answer": "B",
+      "hint": "La ortodrómica es la que aparece casi como recta.",
+      "explanation": "La loxodrómica se curva hacia el polo en este tipo de proyección.",
+      "tags": ["proyecciones", "navegacion"]
+    },
+    {
+      "question_id": "MOD6_076",
+      "question_text": "¿Qué ciencia se ocupa de representar pequeñas extensiones de tierra obviando la esfericidad?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Geodesia"},
+        {"option_id": "B", "text": "Topografía"},
+        {"option_id": "C", "text": "Astronomía"},
+        {"option_id": "D", "text": "Meteorología"}
+      ],
+      "correct_answer": "B",
+      "hint": "Se centra en el detalle local.",
+      "explanation": "La topografía asume la tierra plana para áreas reducidas.",
+      "tags": ["topografia"]
+    },
+    {
+      "question_id": "MOD6_077",
+      "question_text": "¿Qué es la 'cota' de un punto?",
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "El tamaño físico de la carta"},
-        {"option_id": "B", "text": "La relación entre la distancia en la carta y la distancia real en el terreno"},
-        {"option_id": "C", "text": "La proyección cartográfica utilizada"},
-        {"option_id": "D", "text": "El datum de referencia"}
+        {"option_id": "A", "text": "Su color en el mapa"},
+        {"option_id": "B", "text": "Su distancia vertical al plano de referencia (altitud)"},
+        {"option_id": "C", "text": "Su nombre geográfico"},
+        {"option_id": "D", "text": "Su velocidad de erosión"}
       ],
       "correct_answer": "B",
-      "hint": "Escala = Distancia en carta / Distancia en terreno",
-      "explanation": "La escala es la relación entre la distancia medida en la carta y la distancia correspondiente en el terreno. Se expresa como 1:N o gráficamente.",
-      "tags": ["cartografia", "escala", "definiciones"]
+      "hint": "Usada en planos acotados.",
+      "explanation": "La cota define la altura del punto respecto al nivel del mar.",
+      "tags": ["topografia"]
     },
     {
-      "question_id": "MOD6_010",
-      "question_text": "¿Qué significa una escala 1:500.000?",
+      "question_id": "MOD6_078",
+      "question_text": "¿Dónde se normaliza la simbología utilizada en la cartografía aeronáutica?",
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1 cm en la carta = 500 cm en el terreno (5 metros)"},
-        {"option_id": "B", "text": "1 cm en la carta = 500.000 cm en el terreno (5 km)"},
-        {"option_id": "C", "text": "1 cm en la carta = 500 m en el terreno"},
-        {"option_id": "D", "text": "1 cm en la carta = 50 km en el terreno"}
+        {"option_id": "A", "text": "En Google Maps"},
+        {"option_id": "B", "text": "En el Anexo 4 de OACI"},
+        {"option_id": "C", "text": "En el diccionario de la RAE"},
+        {"option_id": "D", "text": "En las normas de tráfico"}
       ],
       "correct_answer": "B",
-      "hint": "1:500.000 significa que 1 unidad en carta = 500.000 unidades en terreno",
-      "explanation": "Una escala 1:500.000 significa que 1 cm en la carta equivale a 500.000 cm (5 km) en el terreno.",
-      "tags": ["cartografia", "escala", "numerica"]
+      "hint": "Garantiza uniformidad mundial.",
+      "explanation": "El Anexo 4 contiene el catálogo de símbolos estándar.",
+      "tags": ["oaci", "simbologia"]
     },
     {
-      "question_id": "MOD6_011",
-      "question_text": "¿Cuál es una escala mayor: 1:100.000 o 1:500.000?",
+      "question_id": "MOD6_079",
+      "question_text": "¿Qué indica un asterisco (*) junto a un símbolo en el AIP-España?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Símbolo prohibido"},
+        {"option_id": "B", "text": "Símbolo no incluido en el Anexo 4 de OACI (específico de España)"},
+        {"option_id": "C", "text": "Símbolo muy importante"},
+        {"option_id": "D", "text": "Símbolo que cambia mañana"}
+      ],
+      "correct_answer": "B",
+      "hint": "Referencia al GEN 2.3.",
+      "explanation": "España usa algunos símbolos propios por necesidades específicas.",
+      "tags": ["españa", "simbologia"]
+    },
+    {
+      "question_id": "MOD6_080",
+      "question_text": "¿Qué anexo de OACI define al AIS como responsable de la cartografía?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Anexo 4"},
+        {"option_id": "B", "text": "Anexo 15"},
+        {"option_id": "C", "text": "Anexo 17"},
+        {"option_id": "D", "text": "Anexo 19"}
+      ],
+      "correct_answer": "B",
+      "hint": "Servicios de Información Aeronáutica.",
+      "explanation": "El Anexo 15 regula la gestión de toda la información aeronáutica, incluyendo cartas.",
+      "tags": ["oaci", "normativa"]
+    },
+    {
+      "question_id": "MOD6_081",
+      "question_text": "¿Qué idioma es obligatorio en las cartas aeronáuticas según OACI?",
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1:500.000 es mayor"},
-        {"option_id": "B", "text": "1:100.000 es mayor"},
-        {"option_id": "C", "text": "Son iguales"},
-        {"option_id": "D", "text": "No se puede comparar"}
+        {"option_id": "A", "text": "Solo el idioma nacional"},
+        {"option_id": "B", "text": "Idioma nacional e inglés"},
+        {"option_id": "C", "text": "Solo inglés"},
+        {"option_id": "D", "text": "Francés y Español"}
       ],
       "correct_answer": "B",
-      "hint": "Escala mayor = denominador más pequeño = más detalle",
-      "explanation": "1:100.000 es una escala mayor (denominador más pequeño) que 1:500.000, lo que significa que muestra más detalle pero cubre menos área.",
-      "tags": ["cartografia", "escala", "comparacion"]
+      "hint": "En España son bilingües.",
+      "explanation": "Para uso internacional, el inglés es el idioma común obligatorio junto al local.",
+      "tags": ["normativa"]
     },
     {
-      "question_id": "MOD6_012",
-      "question_text": "¿Qué es una proyección cartográfica?",
+      "question_id": "MOD6_082",
+      "question_text": "¿Cuál de estas es una carta OACI de carácter OPCIONAL?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Carta de Navegación en Ruta"},
+        {"option_id": "B", "text": "Plano de Estacionamiento y Atraque"},
+        {"option_id": "C", "text": "Plano de Aeródromo"},
+        {"option_id": "D", "text": "Plano de Obstáculos Tipo A"}
+      ],
+      "correct_answer": "B",
+      "hint": "Solo se produce si la autoridad estatal lo ve útil.",
+      "explanation": "El Plano de Estacionamiento y Atraque es opcional según el Doc 8697.",
+      "tags": ["cartografia", "tipos"]
+    },
+    {
+      "question_id": "MOD6_083",
+      "question_text": "¿En qué fase del vuelo se utiliza la Carta Topográfica para Aproximaciones de Precisión?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Crucero"},
+        {"option_id": "B", "text": "Aproximación para aterrizar (CAT II/III)"},
+        {"option_id": "C", "text": "Rodaje"},
+        {"option_id": "D", "text": "Planificación en tierra"}
+      ],
+      "correct_answer": "B",
+      "hint": "Muestra el perfil del terreno bajo la senda final.",
+      "explanation": "Permite evaluar el efecto del terreno en el radioaltímetro durante tomas de precisión.",
+      "tags": ["fases_vuelo", "seguridad"]
+    },
+    {
+      "question_id": "MOD6_084",
+      "question_text": "¿Qué significa el acrónimo IAC?",
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "El método para imprimir cartas en papel"},
-        {"option_id": "B", "text": "Un sistema matemático para representar la superficie curva de la Tierra en un plano"},
-        {"option_id": "C", "text": "La escala de una carta"},
-        {"option_id": "D", "text": "El datum de referencia de una carta"}
+        {"option_id": "A", "text": "Internal Air Communication"},
+        {"option_id": "B", "text": "Instrument Approach Chart (Carta de Aproximación por Instrumentos)"},
+        {"option_id": "C", "text": "International Aeronautical Center"},
+        {"option_id": "D", "text": "Information and Control"}
       ],
       "correct_answer": "B",
-      "hint": "Es imposible aplanar la esfera sin deformación, hence proyecciones",
-      "explanation": "Una proyección cartográfica es un sistema matemático que permite representar la superficie curva de la Tierra sobre un plano, con ciertas deformaciones inevitables.",
-      "tags": ["cartografia", "proyecciones", "definiciones"]
+      "hint": "Indispensable para el aterrizaje IFR.",
+      "explanation": "Detalla el procedimiento desde el IAF hasta el umbral.",
+      "tags": ["siglas", "cartografia"]
     },
     {
-      "question_id": "MOD6_013",
-      "question_text": "¿Qué es una proyección conforme?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Una proyección que mantiene las áreas"},
-        {"option_id": "B", "text": "Una proyección que no deforma los ángulos"},
-        {"option_id": "C", "text": "Una proyección que mantiene las distancias"},
-        {"option_id": "D", "text": "Una proyección que no tiene ninguna deformación"}
-      ],
-      "correct_answer": "B",
-      "hint": "Conforme = ángulos correctos, útil para navegación",
-      "explanation": "Una proyección conforme (o equidistante) es aquella que no deforma los ángulos, por lo que los rumbos se miden correctamente. Ejemplo: Lambert, Mercator.",
-      "tags": ["cartografia", "proyecciones", "conforme"]
-    },
-    {
-      "question_id": "MOD6_014",
-      "question_text": "¿Qué es una proyección equivalente?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Una proyección que mantiene las áreas sin deformación"},
-        {"option_id": "B", "text": "Una proyección que mantiene los ángulos"},
-        {"option_id": "C", "text": "Una proyección que mantiene las distancias"},
-        {"option_id": "D", "text": "Una proyección que mantiene todo sin deformación"}
-      ],
-      "correct_answer": "A",
-      "hint": "Equivalente = áreas proporcionales a las reales",
-      "explanation": "Una proyección equivalente es aquella que mantiene las áreas sin deformación, aunque necesariamente deforma ángulos o distancias.",
-      "tags": ["cartografia", "proyecciones", "equivalente"]
-    },
-    {
-      "question_id": "MOD6_015",
-      "question_text": "¿Qué es una proyección cilíndrica?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Proyección sobre un plano tangente a la Tierra"},
-        {"option_id": "B", "text": "Proyección sobre un cilindro envolviendo la Tierra"},
-        {"option_id": "C", "text": "Proyección sobre un cono tangente a la Tierra"},
-        {"option_id": "D", "text": "Proyección directa sobre un plano sin superficie envolvente"}
-      ],
-      "correct_answer": "B",
-      "hint": "Mercator es un ejemplo de proyección cilíndrica",
-      "explanation": "Una proyección cilíndrica se obtiene proyectando la Tierra sobre un cilindro que la envuelve, que luego se desarrolla en plano.",
-      "tags": ["cartografia", "proyecciones", "cilindrica"]
-    },
-    {
-      "question_id": "MOD6_016",
-      "question_text": "¿Qué es una proyección cónica?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Proyección sobre un cilindro envolviendo la Tierra"},
-        {"option_id": "B", "text": "Proyección sobre un cono tangente o secante a la Tierra"},
-        {"option_id": "C", "text": "Proyección directa sobre un plano tangente"},
-        {"option_id": "D", "text": "Proyección sobre un plano secante al eje terrestre"}
-      ],
-      "correct_answer": "B",
-      "hint": "Lambert es un ejemplo de proyección cónica",
-      "explanation": "Una proyección cónica se obtiene proyectando la Tierra sobre un cono tangente o secante a la superficie terrestre. Es muy usada en cartografía aeronáutica.",
-      "tags": ["cartografia", "proyecciones", "conica"]
-    },
-    {
-      "question_id": "MOD6_017",
-      "question_text": "¿Qué es una proyección azimutal o plana?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Proyección sobre un cilindro envolviendo la Tierra"},
-        {"option_id": "B", "text": "Proyección sobre un cono tangente a la Tierra"},
-        {"option_id": "C", "text": "Proyección directa sobre un plano tangente a la Tierra"},
-        {"option_id": "D", "text": "Proyección sobre una esfera"}
-      ],
-      "correct_answer": "C",
-      "hint": "Gnomónica es un ejemplo de proyección plana/azimutal",
-      "explanation": "Una proyección azimutal o plana se obtiene proyectando la Tierra directamente sobre un plano tangente a la superficie terrestre.",
-      "tags": ["cartografia", "proyecciones", "azimutal"]
-    },
-    {
-      "question_id": "MOD6_018",
-      "question_text": "¿Qué es el rumbo en navegación?",
-      "difficulty": 2,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "La distancia entre dos puntos"},
-        {"option_id": "B", "text": "El ángulo entre el norte de referencia y el eje longitudinal de la aeronave"},
-        {"option_id": "C", "text": "La velocidad de la aeronave"},
-        {"option_id": "D", "text": "La altitud de vuelo"}
-      ],
-      "correct_answer": "B",
-      "hint": "Rumbo = dirección hacia donde apunta el morro del avión",
-      "explanation": "El rumbo es la distancia angular entre el norte de referencia y el eje longitudinal de la aeronave, midiendo la dirección del movimiento.",
-      "tags": ["navegacion", "rumbo", "conceptos"]
-    },
-    {
-      "question_id": "MOD6_019",
-      "question_text": "¿Qué es la derrota en navegación?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "La ruta trazada en la carta sin considerar viento"},
-        {"option_id": "B", "text": "La ruta realmente seguida por la aeronave considerando el efecto del viento"},
-        {"option_id": "C", "text": "La distancia más corta entre dos puntos"},
-        {"option_id": "D", "text": "La ruta magnética sin corrección"}
-      ],
-      "correct_answer": "B",
-      "hint": "Derrota = track sobre el terreno, incluye efecto del viento",
-      "explanation": "La derrota es la ruta realmente seguida por la aeronave sobre el terreno, considerando el efecto del viento (deriva). Difiere de la ruta trazada en carta si hay viento.",
-      "tags": ["navegacion", "derrota", "viento"]
-    },
-    {
-      "question_id": "MOD6_020",
-      "question_text": "¿Qué es una curva de nivel en cartografía?",
-      "difficulty": 2,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Una línea que une puntos de igual latitud"},
-        {"option_id": "B", "text": "Una línea que une puntos de igual altitud"},
-        {"option_id": "C", "text": "Una línea que une puntos de igual presión"},
-        {"option_id": "D", "text": "Una línea que une puntos de igual temperatura"}
-      ],
-      "correct_answer": "B",
-      "hint": "Curvas de nivel representan el relieve (altitud)",
-      "explanation": "Una curva de nivel es una línea imaginaria que une puntos de igual altitud sobre el terreno, usada para representar el relieve en las cartas topográficas.",
-      "tags": ["cartografia", "curvas_nivel", "topografia"]
-    },
-    {
-      "question_id": "MOD6_021",
-      "question_text": "¿Qué es la equidistancia en curvas de nivel?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "La distancia horizontal entre dos curvas de nivel consecutivas"},
-        {"option_id": "B", "text": "La diferencia de altitud entre dos curvas de nivel consecutivas"},
-        {"option_id": "C", "text": "La distancia vertical entre el punto más alto y más bajo"},
-        {"option_id": "D", "text": "La escala de la carta"}
-      ],
-      "correct_answer": "B",
-      "hint": "Equidistancia = diferencia de altitud (ej: 20 metros, 50 pies)",
-      "explanation": "La equidistancia es la diferencia constante de altitud entre dos curvas de nivel consecutivas, fundamental para representar el relieve.",
-      "tags": ["cartografia", "curvas_nivel", "equidistancia"]
-    },
-    {
-      "question_id": "MOD6_022",
-      "question_text": "¿Qué indica el Anexo 4 de OACI sobre cartas aeronáuticas?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Especificaciones sobre proyecciones cartográficas"},
-        {"option_id": "B", "text": "Normas para la preparación y presentación de cartas aeronáuticas"},
-        {"option_id": "C", "text": "Requisitos para las escalas de cartas"},
-        {"option_id": "D", "text": "Especificaciones sobre datum WGS84"}
-      ],
-      "correct_answer": "B",
-      "hint": "Anexo 4 OACI = Cartas Aeronáuticas (normas internacionales)",
-      "explanation": "El Anexo 4 de OACI establece normas para la preparación, presentación y especificaciones de cartas aeronáuticas, asegurando uniformidad internacional.",
-      "tags": ["oaci", "anexo_4", "cartas_aeronauticas"]
-    },
-    {
-      "question_id": "MOD6_023",
-      "question_text": "¿Cuál es la escala mínima requerida para cartas de aeródromo según OACI?",
+      "question_id": "MOD6_085",
+      "question_text": "¿Qué escala tiene la Carta Aeronáutica OACI para VFR?",
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
         {"option_id": "A", "text": "1:1.000.000"},
         {"option_id": "B", "text": "1:500.000"},
-        {"option_id": "C", "text": "1:250.000"},
-        {"option_id": "D", "text": "1:100.000"}
+        {"option_id": "C", "text": "1:10.000"},
+        {"option_id": "D": "1:2.000.000"}
       ],
       "correct_answer": "B",
-      "hint": "Escala 1:500.000 o superior (mayor detalle)",
-      "explanation": "OACI requiere que las cartas de aeródromo y alrededores se publiquen a escala 1:500.000 o superior (mayor escala, más detalle).",
-      "tags": ["oaci", "cartas", "escala", "aerodromo"]
+      "hint": "Escala media-grande para ver detalles visuales.",
+      "explanation": "Es la carta básica para vuelo visual a baja cota.",
+      "tags": ["escala", "vfr"]
     },
     {
-      "question_id": "MOD6_024",
-      "question_text": "¿Qué es un SID (Standard Instrument Departure)?",
-      "difficulty": 2,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Una carta de aproximación por instrumentos"},
-        {"option_id": "B", "text": "Una ruta de salida normalizada por instrumentos desde un aeródromo"},
-        {"option_id": "C", "text": "Una carta de navegación en ruta"},
-        {"option_id": "D", "text": "Una carta de área"}
-      ],
-      "correct_answer": "B",
-      "hint": "SID = Salida normalizada (Standard Instrument Departure)",
-      "explanation": "Un SID es una carta de salida normalizada por instrumentos que establece la ruta para salir de un aeródromo de forma estandarizada en IFR.",
-      "tags": ["cartas", "sid", "salida", "ifr"]
-    },
-    {
-      "question_id": "MOD6_025",
-      "question_text": "¿Qué es una STAR (Standard Terminal Arrival Route)?",
-      "difficulty": 2,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Una carta de salida normalizada"},
-        {"option_id": "B", "text": "Una ruta de llegada normalizada por instrumentos a un aeródromo"},
-        {"option_id": "C", "text": "Una carta de aproximación final"},
-        {"option_id": "D", "text": "Una carta de área"}
-      ],
-      "correct_answer": "B",
-      "hint": "STAR = Llegada normalizada (Standard Terminal Arrival)",
-      "explanation": "Una STAR es una carta de llegada normalizada que establece la ruta para llegar a un aeródromo de forma estandarizada antes de la aproximación.",
-      "tags": ["cartas", "star", "llegada", "ifr"]
-    },
-    {
-      "question_id": "MOD6_026",
-      "question_text": "¿Qué es una carta IAC (Instrument Approach Chart)?",
-      "difficulty": 2,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Una carta de navegación en ruta"},
-        {"option_id": "B", "text": "Una carta de aproximación por instrumentos"},
-        {"option_id": "C", "text": "Una carta de salida normalizada"},
-        {"option_id": "D", "text": "Una carta de aeródromo"}
-      ],
-      "correct_answer": "B",
-      "hint": "IAC = Instrument Approach Chart (aproximación instrumental)",
-      "explanation": "Una carta IAC es una carta de aproximación por instrumentos que proporciona información para ejecutar procedimientos de aproximación IFR.",
-      "tags": ["cartas", "iac", "aproximacion", "ifr"]
-    },
-    {
-      "question_id": "MOD6_027",
-      "question_text": "¿Qué es una carta de área (ENRC)?",
+      "question_id": "MOD6_086",
+      "question_text": "¿Qué carta se publica para evitar conflictos en áreas de alta densidad como Madrid o Barcelona para vuelos visuales?",
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Una carta detallada de un aeródromo"},
-        {"option_id": "B", "text": "Una carta que proporciona información para navegación en un área de control"},
-        {"option_id": "C", "text": "Una carta de aproximación visual"},
-        {"option_id": "D", "text": "Una carta de obstáculos"}
+        {"option_id": "A", "text": "SID"},
+        {"option_id": "B", "text": "Carta de Circulación VFR para TMA"},
+        {"option_id": "C", "text": "Carta de Luces"},
+        {"option_id": "D", "text": "STAR"}
       ],
       "correct_answer": "B",
-      "hint": "ENRC = En Route Chart (carta de navegación en ruta)",
-      "explanation": "Una carta de área proporciona información para la navegación en un área de control o región de información de vuelo, incluyendo aerovías, radios, y altitudes mínimas.",
-      "tags": ["cartas", "enrc", "area", "navegacion"]
+      "hint": "Establece pasillos y sectores visuales.",
+      "explanation": "Separa el tráfico comercial del de aviación general visual.",
+      "tags": ["españa", "vfr"]
     },
     {
-      "question_id": "MOD6_028",
-      "question_text": "¿Qué es el plano de obstáculos de Tipo A?",
+      "question_id": "MOD6_087",
+      "question_text": "¿Qué característica principal diferencia a las cartas electrónicas de las impresas?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Tienen más colores"},
+        {"option_id": "B", "text": "Interactividad y capacidad de determinar la posición dinámicamente"},
+        {"option_id": "C", "text": "Son más baratas siempre"},
+        {"option_id": "D", "text": "No tienen escala"}
+      ],
+      "correct_answer": "B",
+      "hint": "Aprovechan la tecnología digital.",
+      "explanation": "Permiten capas de información seleccionables y actualización automática de la zona.",
+      "tags": ["tecnologia"]
+    },
+    {
+      "question_id": "MOD6_088",
+      "question_text": "¿Cómo se notifican las erratas urgentes en una carta ya publicada?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Esperando a la edición del año que viene"},
+        {"option_id": "B", "text": "Mediante NOTAM"},
+        {"option_id": "C", "text": "Por correo electrónico al piloto"},
+        {"option_id": "D", "text": "No se notifican"}
+      ],
+      "correct_answer": "B",
+      "hint": "Aviso rápido a los navegantes.",
+      "explanation": "El NOTAM avisa de cambios significativos e inmediatos en la cartografía.",
+      "tags": ["mantenimiento", "notam"]
+    },
+    {
+      "question_id": "MOD6_089",
+      "question_text": "¿Qué es la 'proyección transversal'?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "La que corta los polos"},
+        {"option_id": "B", "text": "Aquella cuyo eje es perpendicular al eje de rotación terrestre"},
+        {"option_id": "C", "text": "Una proyección mal hecha"},
+        {"option_id": "D", "text": "Solo sirve para ver el mar"}
+      ],
+      "correct_answer": "B",
+      "hint": "Opuesta a la directa.",
+      "explanation": "Es un tipo de proyección por desarrollo (cilíndrica o cónica).",
+      "tags": ["proyecciones"]
+    },
+    {
+      "question_id": "MOD6_090",
+      "question_text": "¿Cuál es la principal ventaja de la proyección de Lambert para un piloto?",
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Un plano con información de pistas y calles de rodaje"},
-        {"option_id": "B", "text": "Un plano que muestra las limitaciones de utilización por obstáculos"},
-        {"option_id": "C", "text": "Un plano de aproximación visual"},
-        {"option_id": "D", "text": "Una carta de área"}
+        {"option_id": "A", "text": "Los colores son muy bonitos"},
+        {"option_id": "B", "text": "La ruta ortodrómica es casi una línea recta"},
+        {"option_id": "C", "text": "No tiene escala gráfica"},
+        {"option_id": "D", "text": "Muestra las nubes en 3D"}
       ],
       "correct_answer": "B",
-      "hint": "Tipo A = limitaciones de utilización por obstáculos",
-      "explanation": "El plano de obstáculos de Tipo A muestra las limitaciones de utilización de pistas debido a obstáculos en las inmediaciones del aeródromo.",
-      "tags": ["cartas", "obstaculos", "aerodromo", "seguridad"]
+      "hint": "Facilita el trazado de la trayectoria mínima.",
+      "explanation": "Une puntos con una recta que coincide casi con el círculo máximo.",
+      "tags": ["proyecciones", "navegacion"]
     },
     {
-      "question_id": "MOD6_029",
-      "question_text": "¿Qué significa AIP?",
+      "question_id": "MOD6_091",
+      "question_text": "¿Qué carta muestra las luces aeronáuticas de superficie significativas para la navegación en ruta?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "IAC"},
+        {"option_id": "B", "text": "Carta de Luces aeronáuticas de superficie"},
+        {"option_id": "C", "text": "Plano de Aeródromo"},
+        {"option_id": "D", "text": "SID"}
+      ],
+      "correct_answer": "B",
+      "hint": "Información sobre faros y balizamiento visual.",
+      "explanation": "Es una carta específica del AIP-España parte ENR.",
+      "tags": ["cartografia", "españa"]
+    },
+    {
+      "question_id": "MOD6_092",
+      "question_text": "¿Qué significa que un mapa es 'equidistante'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Que todas las montañas miden lo mismo"},
+        {"option_id": "B", "text": "Que guarda la proporcionalidad entre las distancias"},
+        {"option_id": "C", "text": "Que tiene muchos colores"},
+        {"option_id": "D", "text": "Que no tiene meridianos"}
+      ],
+      "correct_answer": "B",
+      "hint": "Solo se cumple en ciertas líneas.",
+      "explanation": "Conserva la escala de distancias en determinadas direcciones.",
+      "tags": ["proyecciones"]
+    },
+    {
+      "question_id": "MOD6_093",
+      "question_text": "¿Qué es un 'Triedro a derechas' en la definición del WGS84?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Un tipo de avión"},
+        {"option_id": "B", "text": "Sistema de tres ejes perpendiculares (X, Y, Z) con una orientación específica"},
+        {"option_id": "C", "text": "Un error de la brújula"},
+        {"option_id": "D", "text": "Una carta de tres páginas"}
+      ],
+      "correct_answer": "B",
+      "hint": "Define el sistema de coordenadas cartesianas terrestre.",
+      "explanation": "Es la base geométrica tridimensional del sistema WGS84.",
+      "tags": ["geodesia"]
+    },
+    {
+      "question_id": "MOD6_094",
+      "question_text": "¿Cuál es la unidad de medida estándar en cartografía aeronáutica para distancias?",
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Aeronautical Information Publication"},
-        {"option_id": "B", "text": "Aeronautical Information Procedures"},
-        {"option_id": "C", "text": "Airport Information Publication"},
-        {"option_id": "D", "text": "Aeronautical Instruction Panel"}
+        {"option_id": "A", "text": "Kilómetros"},
+        {"option_id": "B", "text": "Millas Náuticas (NM)"},
+        {"option_id": "C", "text": "Millas terrestres"},
+        {"option_id": "D", "text": "Pies"}
+      ],
+      "correct_answer": "B",
+      "hint": "1 NM = 1.852 m.",
+      "explanation": "La milla náutica es el estándar internacional para navegación.",
+      "tags": ["unidades"]
+    },
+    {
+      "question_id": "MOD6_095",
+      "question_text": "¿Qué carta proporciona información sobre áreas prioritarias a evitar en vuelos particulares por razones medioambientales?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Carta de en Ruta"},
+        {"option_id": "B", "text": "Carta de áreas prioritarias a evitar"},
+        {"option_id": "C", "text": "IAC"},
+        {"option_id": "D", "text": "Plano de Obstáculos"}
+      ],
+      "correct_answer": "B",
+      "hint": "Basada en datos de Agricultura y Pesca.",
+      "explanation": "Protege espacios naturales sensibles del ruido y sobrevuelo de baja cota.",
+      "tags": ["españa", "medio_ambiente"]
+    },
+    {
+      "question_id": "MOD6_096",
+      "question_text": "¿Qué significa el eje de rotación de la Tierra?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Línea ideal que atraviesa la Tierra pasando por su centro sobre la cual gira"},
+        {"option_id": "B", "text": "El Ecuador"},
+        {"option_id": "C", "text": "La órbita alrededor del sol"},
+        {"option_id": "D", "text": "Un meridiano cualquiera"}
       ],
       "correct_answer": "A",
-      "hint": "AIP = Publicación de Información Aeronáutica",
-      "explanation": "AIP significa Aeronautical Information Publication (Publicación de Información Aeronáutica). Contiene cartas, procedimientos e información permanente de navegación.",
-      "tags": ["aip", "siglas", "informacion_aeronautica"]
+      "hint": "Une los polos geográficos.",
+      "explanation": "Es el eje sobre el cual se produce el día y la noche.",
+      "tags": ["geodesia"]
     },
     {
-      "question_id": "MOD6_030",
-      "question_text": "¿Qué es AIRAC?",
+      "question_id": "MOD6_097",
+      "question_text": "¿Cuál es la circunferencia de la Tierra en el Ecuador?",
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Aeronautical Information Regulation And Control"},
-        {"option_id": "B", "text": "Aeronautical Information Review and Advisory Circular"},
-        {"option_id": "C", "text": "Air Information Regulation and Control"},
-        {"option_id": "D", "text": "Aeronautical Information Regulation And Committee"}
-      ],
-      "correct_answer": "A",
-      "hint": "Sistema de actualización cada 28 días de información aeronáutica",
-      "explanation": "AIRAC (Aeronautical Information Regulation And Control) es el sistema que establece un ciclo de 28 días para la actualización simultánea de información aeronáutica.",
-      "tags": ["airac", "actualizacion", "informacion"]
-    },
-    {
-      "question_id": "MOD6_031",
-      "question_text": "¿Qué es una carta obligatoria según OACI?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Una carta que los Estados deben proporcionar obligatoriamente para aviación civil internacional"},
-        {"option_id": "B", "text": "Una carta que es opcional pero recomendada"},
-        {"option_id": "C", "text": "Una carta solo para vuelos militares"},
-        {"option_id": "D", "text": "Una carta que se publica solo digitalmente"}
-      ],
-      "correct_answer": "A",
-      "hint": "Cartas obligatorias = requeridas por OACI para operación internacional",
-      "explanation": "Las cartas obligatorias son aquellas que los Estados deben proporcionar para la aviación civil internacional según el Anexo 4 de OACI.",
-      "tags": ["oaci", "cartas", "obligatorias"]
-    },
-    {
-      "question_id": "MOD6_032",
-      "question_text": "¿Qué es una carta opcional según OACI?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Una carta que todos los Estados deben publicar"},
-        {"option_id": "B", "text": "Una carta no requerida por OACI pero que un Estado puede decidir publicar"},
-        {"option_id": "C", "text": "Una carta solo para uso militar"},
-        {"option_id": "D", "text": "Una carta obsoleta"}
+        {"option_id": "A", "text": "6.371 km"},
+        {"option_id": "B", "text": "40.076 km"},
+        {"option_id": "C", "text": "12.742 km"},
+        {"option_id": "D", "text": "510 millones km"}
       ],
       "correct_answer": "B",
-      "hint": "Opcional = no requerida pero puede publicarse si se desea",
-      "explanation": "Las cartas opcionales no están requeridas por OACI pero los Estados pueden decidir publicarlas si lo consideran necesario para sus operaciones.",
-      "tags": ["oaci", "cartas", "opcionales"]
+      "hint": "Círculo máximo terrestre.",
+      "explanation": "Es el perímetro de la Tierra medido en su parte más ancha.",
+      "tags": ["geodesia", "cifras"]
     },
     {
-      "question_id": "MOD6_033",
-      "question_text": "¿Qué es una carta VAC (Visual Approach Chart)?",
-      "difficulty": 2,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Una carta de aproximación por instrumentos"},
-        {"option_id": "B", "text": "Una carta de aproximación visual"},
-        {"option_id": "C", "text": "Una carta de navegación en ruta"},
-        {"option_id": "D", "text": "Una carta de área"}
-      ],
-      "correct_answer": "B",
-      "hint": "VAC = Visual Approach Chart",
-      "explanation": "Una carta VAC es una carta de aproximación visual que se utiliza cuando se han establecido procedimientos de aproximación visual con referencia visual al terreno.",
-      "tags": ["cartas", "vac", "aproximacion_visual"]
-    },
-    {
-      "question_id": "MOD6_034",
-      "question_text": "¿Para qué sirve una carta topográfica para aproximaciones de precisión?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Para mostrar la ruta de navegación en crucero"},
-        {"option_id": "B", "text": "Para facilitar información detallada del perfil del terreno y obstáculos en aproximaciones ILS"},
-        {"option_id": "C", "text": "Para mostrar calles de rodaje del aeródromo"},
-        {"option_id": "D", "text": "Para mostrar espacios aéreos de clases B, C, D"}
-      ],
-      "correct_answer": "B",
-      "hint": "Información de relieve y obstáculos para aproximaciones de precisión",
-      "explanation": "La carta topográfica para aproximaciones de precisión proporciona información detallada del perfil del terreno y obstáculos para aproximaciones ILS (categorías I, II, III).",
-      "tags": ["cartas", "topografica", "aproximacion_precision", "ils"]
-    },
-    {
-      "question_id": "MOD6_035",
-      "question_text": "¿Qué es una carta Aeronáutica 1:500.000?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Una carta solo de aproximaciones"},
-        {"option_id": "B", "text": "Una carta básica para navegación visual que sirve de referencia cartográfica"},
-        {"option_id": "C", "text": "Una carta solo de aeródromos"},
-        {"option_id": "D", "text": "Una carta solo de espacio aéreo superior"}
-      ],
-      "correct_answer": "B",
-      "hint": "Carta básica OACI 1:500.000 para navegación VFR",
-      "explanation": "La carta Aeronáutica OACI 1:500.000 es una carta básica para navegación visual que sirve como carta de referencia cartográfica y para suplementar cartas especializadas.",
-      "tags": ["cartas", "oaci_500k", "navegacion_vfr", "basica"]
-    },
-    {
-      "question_id": "MOD6_036",
-      "question_text": "¿Qué es el plano de estacionamiento y atraque de aeronaves?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Un plano que muestra pistas y calles de rodaje"},
-        {"option_id": "B", "text": "Un plano que muestra posiciones de estacionamiento y sistemas de atraque"},
-        {"option_id": "C", "text": "Un plano de aproximación instrumental"},
-        {"option_id": "D", "text": "Una carta de navegación en ruta"}
-      ],
-      "correct_answer": "B",
-      "hint": "Muestra puestos de estacionamiento (stands) y sistemas de atraque",
-      "explanation": "El plano de estacionamiento y atraque muestra las posiciones de estacionamiento de aeronaves, sistemas de atraque y servicios en plataforma.",
-      "tags": ["cartas", "estacionamiento", "atraque", "plataforma"]
-    },
-    {
-      "question_id": "MOD6_037",
-      "question_text": "¿Qué es un CDA (Continuous Descent Approach)?",
+      "question_id": "MOD6_098",
+      "question_text": "¿Qué es la 'proyección directa' en cartografía?",
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Un procedimiento de salida normalizado"},
-        {"option_id": "B", "text": "Una carta de descenso continuo en aproximación por instrumentos"},
-        {"option_id": "C", "text": "Una carta de navegación en área"},
-        {"option_id": "D", "text": "Un tipo de proyección cartográfica"}
+        {"option_id": "A", "text": "La que no tiene errores"},
+        {"option_id": "B", "text": "Aquella cuyo eje de superficie es paralelo al eje de rotación terrestre"},
+        {"option_id": "C", "text": "Dibujar a mano"},
+        {"option_id": "D", "text": "Ver desde el espacio"}
       ],
       "correct_answer": "B",
-      "hint": "CDA = Continuous Descent Approach (descenso continuo sin escalones)",
-      "explanation": "Una carta CDA muestra un procedimiento de aproximación por instrumentos con descenso continuo, más eficiente en combustible y ruido que aproximaciones escalonadas.",
-      "tags": ["cartas", "cda", "descenso_continuo", "aproximacion"]
+      "hint": "Orientación estándar del cilindro o cono.",
+      "explanation": "Es la posición de referencia para las proyecciones cilíndricas y cónicas.",
+      "tags": ["proyecciones"]
     },
     {
-      "question_id": "MOD6_038",
-      "question_text": "¿Qué es una carta de altitud mínima de vigilancia ATC?",
-      "difficulty": 4,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Una carta que muestra las altitudes mínimas para realizar aproximaciones"},
-        {"option_id": "B", "text": "Una carta que proporciona altitudes mínimas para que el ATC pueda proporcionar servicio de vigilancia"},
-        {"option_id": "C", "text": "Una carta que muestra obstáculos en el aeródromo"},
-        {"option_id": "D", "text": "Una carta de navegación en ruta"}
-      ],
-      "correct_answer": "B",
-      "hint": "Altitudes mínimas para radar/ADS-B coverage",
-      "explanation": "La carta de altitud mínima de vigilancia ATC proporciona las altitudes mínimas necesarias para que el control de tránsito aéreo pueda proporcionar servicio de vigilancia radar/ADS-B.",
-      "tags": ["cartas", "altitud_minima", "atc", "vigilancia"]
-    },
-    {
-      "question_id": "MOD6_039",
-      "question_text": "¿Qué son las cartas electrónicas según OACI?",
+      "question_id": "MOD6_099",
+      "question_text": "¿Qué tipo de carta muestra la 'concentración de buitres y cigüeñas' en España?",
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Cartas solo en formato PDF"},
-        {"option_id": "B", "text": "Cartas presentadas digitalmente con capacidades de zoom, pan e información suplementaria"},
-        {"option_id": "C", "text": "Cartas impresas escaneadas"},
-        {"option_id": "D", "text": "Cartas obsoletas que ya no se publican"}
+        {"option_id": "A", "text": "AIC"},
+        {"option_id": "B", "text": "Carta específica del AIP-España"},
+        {"option_id": "C", "text": "Carta de Área"},
+        {"option_id": "D", "text": "NOTAM mensual"}
       ],
       "correct_answer": "B",
-      "hint": "Presentación electrónica interactiva con zoom y capacidades adicionales",
-      "explanation": "Las cartas electrónicas se presentan digitalmente con capacidades como zoom, pan, capas de información, y pueden incluir información suplementaria no disponible en cartas tradicionales.",
-      "tags": ["cartas", "electronicas", "digital", "oaci"]
+      "hint": "Representada por separado de otras aves por su relevancia.",
+      "explanation": "Debido al tamaño de estas aves, suponen un riesgo especial para la navegación.",
+      "tags": ["españa", "seguridad"]
     },
     {
-      "question_id": "MOD6_040",
-      "question_text": "¿Qué carta se usa para verificar las altitudes asignadas en un procedimiento instrumental?",
-      "difficulty": 4,
+      "question_id": "MOD6_100",
+      "question_text": "¿Cuál es la función del Plano de Aeródromo para Movimientos en Tierra?",
+      "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Carta de navegación en ruta"},
-        {"option_id": "B", "text": "Carta de aproximación por instrumentos (IAC) - solo para verificar altitudes"},
-        {"option_id": "C", "text": "Plano de aeródromo"},
-        {"option_id": "D", "text": "Carta topográfica general"}
+        {"option_id": "A", "text": "Volar en formación"},
+        {"option_id": "B", "text": "Facilitar el movimiento de aeronaves en tierra (calles de rodaje) en aeropuertos complejos"},
+        {"option_id": "C", "text": "Medir la pista"},
+        {"option_id": "D", "text": "Controlar las luces de aproximación"}
       ],
       "correct_answer": "B",
-      "hint": "La nota indica que solo sirve para verificar altitudes, no para volar el procedimiento",
-      "explanation": "Según OACI, la carta de aproximación por instrumentos puede usarse únicamente para verificar las altitudes asignadas en un procedimiento, no para la ejecución del mismo.",
-      "tags": ["cartas", "iac", "altitudes", "verificacion"]
+      "hint": "Complementa al plano general de aeródromo.",
+      "explanation": "Se usa cuando la red de calles de rodaje es tan densa que requiere una carta detallada.",
+      "tags": ["cartografia", "aerodromos"]
     }
   ],
   "metadata": {
-    "total_questions": 40,
+    "total_questions": 100,
     "difficulty_distribution": {
-      "muy_facil": 4,
-      "facil": 12,
-      "media": 14,
-      "dificil": 8,
-      "muy_dificil": 2
+      "muy_facil": 10,
+      "facil": 30,
+      "media": 45,
+      "dificil": 10,
+      "muy_dificil": 5
     },
     "topics_covered": [
-      "Geodesia (latitud, longitud, meridianos, paralelos)",
-      "Círculos máximo y menores",
-      "Datum WGS84",
-      "Escalas (numérica y gráfica)",
-      "Proyecciones cartográficas (cilíndrica, cónica, azimutal)",
-      "Proyecciones conforme y equivalente",
-      "Navegación (rumbo, derrota, deriva)",
-      "Curvas de nivel y topografía",
-      "Cartas aeronáuticas OACI",
-      "Tipos de cartas (SID, STAR, IAC, VAC, ENRC)",
-      "Escalas de cartas",
-      "AIP, AIRAC",
-      "Cartas obligatorias y opcionales",
-      "Cartas electrónicas"
+      "Conceptos de Geodesia (Geoide, Elipsoide, Dimensiones)",
+      "Líneas y Puntos terrestres (Meridianos, Paralelos, Polos)",
+      "Movimientos de la Tierra (Rotación, Traslación, Precesión, Nutación)",
+      "Magnetismo y Altimetría (Rumbo, Ruta, Declinación, Ortodrómica)",
+      "Coordenadas Geográficas y Datum WGS84",
+      "Escalas (Numérica y Gráfica)",
+      "Proyecciones (Conformes, Lambert, Mercator, Gnomónica)",
+      "Topografía y Curvas de Nivel",
+      "Anexo 4 OACI y AIS",
+      "Tipos de Cartas Aeronáuticas (Obligatorias, Opcionales, Condicionales)",
+      "Fases del Vuelo y uso de Cartas (SID, STAR, IAC, IAC, TRAN)",
+      "Cartografía específica en España (AIP-España)"
     ],
-    "created_at": "2025-01-23",
+    "created_at": "2025-02-06",
     "language": "es",
     "exam_format": "mcq_multiple_choice",
     "answer_format": "single_correct",
-    "scope": "modulo_6_completo"
+    "scope": "modulo_6_completo_ampliado"
   }
 }

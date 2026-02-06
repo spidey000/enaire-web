@@ -4,843 +4,1633 @@
   "mcq_set": [
     {
       "question_id": "MOD4_001",
-      "question_text": "¿Qué es un plan de vuelo (FPL)?",
+      "question_text": "¿Qué es un Plan de Vuelo según la definición de SERA?",
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Un documento meteorológico"},
-        {"option_id": "B", "text": "Una declaración de intenciones del vuelo que requiere servicios ATS"},
-        {"option_id": "C", "text": "Un certificado de aeronavegabilidad"},
-        {"option_id": "D", "text": "Un permiso de sobrevuelo"}
+        {"option_id": "A", "text": "Un contrato de transporte de pasajeros"},
+        {"option_id": "B", "text": "Información especificada que se somete a las dependencias ATS respecto a un vuelo proyectado"},
+        {"option_id": "C", "text": "Una factura de tasas aeroportuarias"},
+        {"option_id": "D", "text": "El manual de instrucciones del avión"}
       ],
       "correct_answer": "B",
-      "hint": "FPL = Filed Flight Plan, declaración de intenciones para requerir servicios ATS",
-      "explanation": "El plan de vuelo es una declaración de intenciones del vuelo proyectado que se presenta a las dependencias ATS para garantizar la seguridad y recibir servicios de tránsito aéreo.",
-      "tags": ["plan_vuelo", "fpl", "definicion", "ats"]
+      "hint": "Es una declaración de intenciones.",
+      "explanation": "El plan de vuelo es la información que se entrega a los servicios de tránsito aéreo sobre un vuelo o parte del mismo.",
+      "tags": ["definiciones", "sera"]
     },
     {
       "question_id": "MOD4_002",
-      "question_text": "¿Cuál de los siguientes vuelos NO requiere presentación de FPL?",
+      "question_text": "¿Cuál es el fin principal de presentar un plan de vuelo?",
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Vuelo IFR"},
-        {"option_id": "B", "text": "Vuelo VFR local que permanece en las proximidades del aeródromo"},
-        {"option_id": "C", "text": "Vuelo VFR a través de fronteras internacionales"},
-        {"option_id": "D", "text": "Vuelo VFR nocturno que abandona las proximidades del aeródromo"}
+        {"option_id": "A", "text": "Pagar el combustible"},
+        {"option_id": "B", "text": "Que las dependencias de control, alerta e información dispongan de los datos para prestar servicio"},
+        {"option_id": "C", "text": "Reservar un hotel en destino"},
+        {"option_id": "D", "text": "Informar a la policía de fronteras"}
       ],
       "correct_answer": "B",
-      "hint": "VFR local sin salir de proximidades del aeródromo no requiere FPL",
-      "explanation": "Los vuelos VFR que permanecen en las proximidades del aeródromo de despegue no requieren FPL. Los vuelos IFR, VFR internacionales, VFR nocturnos y en espacios controlados sí lo requieren.",
-      "tags": ["plan_vuelo", "fpl", "exenciones", "vfr"]
+      "hint": "Permite que el ATC sepa quién es y qué quiere hacer la aeronave.",
+      "explanation": "Permite que los servicios ATS tengan la información necesaria para garantizar la seguridad y fluidez.",
+      "tags": ["objetivos"]
     },
     {
       "question_id": "MOD4_003",
-      "question_text": "¿Con cuánta antelación máxima se puede presentar un plan de vuelo?",
-      "difficulty": 2,
+      "question_text": "¿Qué vuelos IFR requieren obligatoriamente la presentación de un plan de vuelo?",
+      "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "24 horas antes del fuera calzos"},
-        {"option_id": "B", "text": "72 horas antes del fuera calzos"},
-        {"option_id": "C", "text": "120 horas antes del fuera calzos"},
-        {"option_id": "D", "text": "7 días antes del fuera calzos"}
+        {"option_id": "A", "text": "Solo los vuelos internacionales"},
+        {"option_id": "B", "text": "Cualquier vuelo IFR"},
+        {"option_id": "C", "text": "Solo si hay nubes"},
+        {"option_id": "D", "text": "Solo los vuelos comerciales"}
       ],
-      "correct_answer": "C",
-      "hint": "Máximo 120 horas (5 días) antes EOBT",
-      "explanation": "El plan de vuelo puede presentarse no más de 120 horas antes de la hora prevista de fuera calzos (EOBT - Estimated Off Block Time).",
-      "tags": ["plan_vuelo", "fpl", "tiempo_presentacion"]
+      "correct_answer": "B",
+      "hint": "Regla general para vuelo instrumental.",
+      "explanation": "Todo vuelo bajo reglas de vuelo por instrumentos (IFR) debe presentar plan de vuelo.",
+      "tags": ["obligatoriedad", "ifr"]
     },
     {
       "question_id": "MOD4_004",
-      "question_text": "¿Cuánto tiempo antes de la salida debe presentarse un FPL para vuelos sujetos a ATFM?",
-      "difficulty": 3,
+      "question_text": "¿Se requiere plan de vuelo para un vuelo VFR que atraviese fronteras internacionales?",
+      "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "30 minutos antes"},
-        {"option_id": "B", "text": "60 minutos antes"},
-        {"option_id": "C", "text": "3 horas antes"},
-        {"option_id": "D", "text": "24 horas antes"}
+        {"option_id": "A", "text": "No, si es dentro del espacio Schengen"},
+        {"option_id": "B", "text": "Sí, siempre"},
+        {"option_id": "C", "text": "Solo si el avión pesa más de 5.700 kg"},
+        {"option_id": "D", "text": "Solo si es un vuelo nocturno"}
       ],
-      "correct_answer": "C",
-      "hint": "ATFM requiere más antelación (3 horas)",
-      "explanation": "Para vuelos que puedan estar sujetos a medidas de gestión de afluencia del tránsito aéreo (ATFM), el FPL debe presentarse al menos 3 horas antes de la hora prevista de fuera calzos.",
-      "tags": ["plan_vuelo", "fpl", "atfm", "tiempo_presentacion"]
+      "correct_answer": "B",
+      "hint": "El Convenio Schengen no exime de esta obligación.",
+      "explanation": "Cualquier vuelo VFR a través de fronteras internacionales requiere la presentación de un FPL.",
+      "tags": ["obligatoriedad", "vfr"]
     },
     {
       "question_id": "MOD4_005",
-      "question_text": "¿Qué es EOBT?",
-      "difficulty": 2,
+      "question_text": "¿En qué clases de espacio aéreo controlado requiere un vuelo VFR presentar plan de vuelo?",
+      "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Estimated Off Block Time - Hora estimada de fuera calzos"},
-        {"option_id": "B", "text": "Estimated On Block Time - Hora estimada de calzos al bloqueo"},
-        {"option_id": "C", "text": "Expected Off Block Time - Tiempo estimado de vuelo"},
-        {"option_id": "D", "text": "Estimated Origin Boarding Time - Hora de embarque"}
+        {"option_id": "A", "text": "Solo en clase A"},
+        {"option_id": "B", "text": "Clases B, C, D y E"},
+        {"option_id": "C", "text": "Clase G únicamente"},
+        {"option_id": "D", "text": "En ninguna clase VFR"}
       ],
-      "correct_answer": "A",
-      "hint": "EOBT = hora en que la aeronave comienza a moverse fuera del stand",
-      "explanation": "EOBT (Estimated Off Block Time) es la hora estimada de fuera calzos, es decir, el momento en que la aeronave comenzará a moverse fuera del puesto de estacionamiento.",
-      "tags": ["plan_vuelo", "eobt", "siglas", "tiempos"]
+      "correct_answer": "B",
+      "hint": "Espacios controlados donde se presta servicio.",
+      "explanation": "VFR en espacios controlados B a E requiere plan de vuelo presentado.",
+      "tags": ["obligatoriedad", "vfr"]
     },
     {
       "question_id": "MOD4_006",
-      "question_text": "¿Qué significa AFTN?",
-      "difficulty": 1,
+      "question_text": "¿Qué vuelos militares están exentos de presentar plan de vuelo?",
+      "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Aeronautical Fixed Telecommunication Network"},
-        {"option_id": "B", "text": "Aeronautical Fixed Telephone Network"},
-        {"option_id": "C", "text": "Air Flight Telecommunication Network"},
-        {"option_id": "D", "text": "Aeronautical Fixed Telex Network"}
+        {"option_id": "A", "text": "Todos los vuelos militares"},
+        {"option_id": "B", "text": "Solo en misiones tácticas o de defensa aérea"},
+        {"option_id": "C", "text": "Vuelos de transporte de carga"},
+        {"option_id": "D", "text": "Vuelos de instrucción en circuito de aeródromo"}
       ],
-      "correct_answer": "A",
-      "hint": "AFTN = Red de telecomunicaciones fijas aeronáuticas",
-      "explanation": "AFTN significa Aeronautical Fixed Telecommunication Network (Red de Telecomunicaciones Fijas Aeronáuticas), usada para intercambio de mensajes entre estaciones fijas aeronáuticas.",
-      "tags": ["aftn", "siglas", "comunicaciones"]
+      "correct_answer": "B",
+      "hint": "Misiones críticas de defensa.",
+      "explanation": "Las misiones tácticas o de defensa están exentas de la obligación general del FPL.",
+      "tags": ["exenciones", "militar"]
     },
     {
       "question_id": "MOD4_007",
-      "question_text": "¿Cuál es el mensaje AFTN de más alta prioridad?",
-      "difficulty": 3,
+      "question_text": "¿Cuál es la antelación MÁXIMA con la que se puede presentar un plan de vuelo?",
+      "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "GG - Mensaje de emergencia"},
-        {"option_id": "B", "text": "SS - Mensaje de seguridad urgente"},
-        {"option_id": "C", "text": "DD - Mensaje de distres (socorro)"},
-        {"option_id": "D", "text": "FF - Mensaje de vuelo rápido"}
+        {"option_id": "A", "text": "24 horas"},
+        {"option_id": "B", "text": "120 horas"},
+        {"option_id": "C", "text": "48 horas"},
+        {"option_id": "D", "text": "No hay límite"}
       ],
-      "correct_answer": "C",
-      "hint": "Distress/socorro tiene prioridad máxima (DD)",
-      "explanation": "En el sistema AFTN, los mensajes de distres/socorro (DD) tienen la más alta prioridad, seguidos de urgencia (SS) y seguridad (GG).",
-      "tags": ["aftn", "mensajes", "prioridades", "emergencia"]
+      "correct_answer": "B",
+      "hint": "Equivale a 5 días.",
+      "explanation": "Un plan de vuelo puede presentarse hasta 120 horas antes de la EOBT.",
+      "tags": ["presentacion", "tiempos"]
     },
     {
       "question_id": "MOD4_008",
-      "question_text": "¿Qué tipo de mensaje es CHG?",
-      "difficulty": 2,
+      "question_text": "¿Con qué antelación mínima debe presentarse un plan de vuelo sujeto a medidas ATFCM?",
+      "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Mensaje de cancelación de plan de vuelo"},
-        {"option_id": "B", "text": "Mensaje de modificación de plan de vuelo"},
-        {"option_id": "C", "text": "Mensaje de demora (delay)"},
-        {"option_id": "D", "text": "Mensaje de salida"}
+        {"option_id": "A", "text": "60 minutos"},
+        {"option_id": "B", "text": "3 horas"},
+        {"option_id": "C", "text": "10 minutos"},
+        {"option_id": "D", "text": "24 horas"}
       ],
       "correct_answer": "B",
-      "hint": "CHG = Change (modificación)",
-      "explanation": "CHG (Change Message) es el mensaje de modificación de plan de vuelo, usado para cambiar datos de un FPL ya presentado.",
-      "tags": ["aftn", "mensajes", "chg", "modificacion"]
+      "hint": "Para permitir al NM procesar la demanda.",
+      "explanation": "Los vuelos sujetos a gestión de afluencia deben presentar el FPL al menos 3 horas antes de fuera calzos.",
+      "tags": ["atfcm", "tiempos"]
     },
     {
       "question_id": "MOD4_009",
-      "question_text": "¿Qué tipo de mensaje es DLA?",
+      "question_text": "¿Cuál es el tiempo mínimo de presentación de un plan de vuelo para el resto de vuelos (no sujetos a ATFCM ni internacionales)?",
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Mensaje de demora (delay)"},
-        {"option_id": "B", "text": "Mensaje de cancelación"},
-        {"option_id": "C", "text": "Mensaje de modificación"},
-        {"option_id": "D", "text": "Mensaje de salida"}
+        {"option_id": "A", "text": "10 minutos"},
+        {"option_id": "B", "text": "60 minutos"},
+        {"option_id": "C", "text": "30 minutos"},
+        {"option_id": "D", "text": "3 horas"}
       ],
-      "correct_answer": "A",
-      "hint": "DLA = Delay (demora/retraso)",
-      "explanation": "DLA (Delay Message) es el mensaje de demora, usado para notificar retrasos en la hora prevista de salida de un vuelo.",
-      "tags": ["aftn", "mensajes", "dla", "delay"]
+      "correct_answer": "B",
+      "hint": "Regla general por defecto.",
+      "explanation": "Por regla general, el plan de vuelo se presentará al menos 60 minutos antes de la salida.",
+      "tags": ["presentacion", "tiempos"]
     },
     {
       "question_id": "MOD4_010",
-      "question_text": "¿Qué tipo de mensaje es CNL?",
-      "difficulty": 2,
+      "question_text": "Si se presenta un plan de vuelo durante el vuelo (AFIL), ¿con cuánta antelación debe hacerse antes de entrar en un área de control?",
+      "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Mensaje de modificación"},
-        {"option_id": "B", "text": "Mensaje de cancelación de plan de vuelo"},
-        {"option_id": "C", "text": "Mensaje de demora"},
-        {"option_id": "D", "text": "Mensaje de salida"}
+        {"option_id": "A", "text": "5 minutos"},
+        {"option_id": "B", "text": "10 minutos"},
+        {"option_id": "C", "text": "30 minutos"},
+        {"option_id": "D", "text": "60 minutos"}
       ],
       "correct_answer": "B",
-      "hint": "CNL = Cancellation (cancelación)",
-      "explanation": "CNL (Cancellation Message) es el mensaje de cancelación de plan de vuelo, usado para anular un FPL previamente presentado.",
-      "tags": ["aftn", "mensajes", "cnl", "cancelacion"]
+      "hint": "Para asegurar la recepción por la dependencia adecuada.",
+      "explanation": "Se debe presentar al menos 10 minutos antes de la llegada al punto de entrada o cruce previsto.",
+      "tags": ["afil", "tiempos"]
     },
     {
       "question_id": "MOD4_011",
-      "question_text": "¿Qué tipo de mensaje es DEP?",
-      "difficulty": 2,
+      "question_text": "¿Qué campo del FPL NO puede ser modificado mediante un mensaje CHG?",
+      "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Mensaje de llegada"},
-        {"option_id": "B", "text": "Mensaje de salida (departure)"},
-        {"option_id": "C", "text": "Mensaje de demora"},
-        {"option_id": "D", "text": "Mensaje de modificación"}
+        {"option_id": "A", "text": "Nivel de crucero"},
+        {"option_id": "B", "text": "Identificación de aeronave (ID)"},
+        {"option_id": "C", "text": "Equipo de radio"},
+        {"option_id": "D", "text": "Velocidad de crucero"}
       ],
       "correct_answer": "B",
-      "hint": "DEP = Departure (salida del vuelo)",
-      "explanation": "DEP (Departure Message) es el mensaje de salida, notifica que la aeronave ha despegado o está realizando el vuelo.",
-      "tags": ["aftn", "mensajes", "dep", "salida"]
+      "hint": "Requiere cancelar y presentar uno nuevo.",
+      "explanation": "No se pueden cambiar por CHG: ID, aeródromo de salida y aeródromo de destino.",
+      "tags": ["mensajes", "modificacion"]
     },
     {
       "question_id": "MOD4_012",
-      "question_text": "¿Qué tipo de mensaje es ARR?",
-      "difficulty": 2,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Mensaje de llegada (arrival)"},
-        {"option_id": "B", "text": "Mensaje de salida"},
-        {"option_id": "C", "text": "Mensaje de cancelación"},
-        {"option_id": "D", "text": "Mensaje de demora"}
-      ],
-      "correct_answer": "A",
-      "hint": "ARR = Arrival (llegada del vuelo)",
-      "explanation": "ARR (Arrival Message) es el mensaje de llegada, notifica que la aeronave ha aterrizado en su destino.",
-      "tags": ["aftn", "mensajes", "arr", "llegada"]
-    },
-    {
-      "question_id": "MOD4_013",
-      "question_text": "¿Qué significa ATFM?",
+      "question_text": "¿Qué prioridad tiene un mensaje de socorro (SS) en la red AFTN?",
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Air Traffic Flow Management"},
-        {"option_id": "B", "text": "Air Traffic Force Management"},
-        {"option_id": "C", "text": "Aeronautical Traffic Flow Management"},
-        {"option_id": "D", "text": "Air Transportation Flow Management"}
+        {"option_id": "A", "text": "Baja"},
+        {"option_id": "B", "text": "Máxima (1)"},
+        {"option_id": "C", "text": "Media"},
+        {"option_id": "D", "text": "Igual que el plan de vuelo"}
       ],
-      "correct_answer": "A",
-      "hint": "ATFM = Gestión de Afluencia del Tráfico Aéreo",
-      "explanation": "ATFM significa Air Traffic Flow Management (Gestión de Afluencia del Tráfico Aéreo), cuyo objetivo es equilibrar demanda y capacidad para evitar sobrecargas.",
-      "tags": ["atfm", "siglas", "gestion"]
+      "correct_answer": "B",
+      "hint": "SS = Socorro.",
+      "explanation": "Los mensajes de socorro tienen la prioridad máxima (SS) en la transmisión AFTN.",
+      "tags": ["aftn", "prioridades"]
+    },
+    {
+      "question_id": "MOD4_013",
+      "question_text": "¿Qué indicador de prioridad se asigna a los mensajes de plan de vuelo estándar?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "SS"},
+        {"option_id": "B", "text": "FF"},
+        {"option_id": "C", "text": "GG"},
+        {"option_id": "D", "text": "KK"}
+      ],
+      "correct_answer": "B",
+      "hint": "Siguiente nivel tras socorro y urgencia.",
+      "explanation": "FF es la prioridad para planes de vuelo, movimiento y control.",
+      "tags": ["aftn", "prioridades"]
     },
     {
       "question_id": "MOD4_014",
-      "question_text": "¿Qué es NM (Network Manager) en el contexto de ATFM europeo?",
+      "question_text": "¿Qué prioridad tienen los mensajes de urgencia (ej. alertas)?",
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Navigational Manager - Gestor de Navegación"},
-        {"option_id": "B", "text": "Network Manager - Gestor de la Red de Eurocontrol"},
-        {"option_id": "C", "text": "Navigation Module - Módulo de Navegación"},
-        {"option_id": "D", "text": "Night Manager - Gestor nocturno"}
+        {"option_id": "A", "text": "SS"},
+        {"option_id": "B", "text": "DD"},
+        {"option_id": "C", "text": "FF"},
+        {"option_id": "D", "text": "JJ"}
       ],
       "correct_answer": "B",
-      "hint": "NM = Network Manager (antes CFMU)",
-      "explanation": "NM (Network Manager) es el organismo de Eurocontrol responsable de la gestión de la red y de las funciones centrales de procesamiento de planes de vuelo y ATFM en Europa.",
-      "tags": ["atfm", "nm", "eurocontrol", "red"]
+      "hint": "Nivel 2, compartido con FF en orden pero superior en urgencia.",
+      "explanation": "DD identifica los mensajes de urgencia.",
+      "tags": ["aftn", "prioridades"]
     },
     {
       "question_id": "MOD4_015",
-      "question_text": "¿Qué es el NMOC?",
+      "question_text": "¿En qué fase de emergencia se declara si no hay comunicación en 30 minutos tras la hora prevista?",
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Network Manager Operations Center - Centro de Operaciones del Gestor de Red"},
-        {"option_id": "B", "text": "Navigation Module Operations Center"},
-        {"option_id": "C", "text": "Night Movement Operations Center"},
-        {"option_id": "D", "text": "Network Monitoring Operations Center"}
+        {"option_id": "A", "text": "Fase de Alerta (ALERFA)"},
+        {"option_id": "B", "text": "Fase de Incertidumbre (INCERFA)"},
+        {"option_id": "C", "text": "Fase de Peligro (DETRESFA)"},
+        {"option_id": "D", "text": "Fase de Búsqueda"}
       ],
-      "correct_answer": "A",
-      "hint": "NMOC = Centro de operaciones del NM en Bruselas",
-      "explanation": "NMOC (Network Manager Operations Center) es el Centro de Operaciones del Gestor de Red situado en Bruselas, donde se realizan las funciones centrales de ATFM.",
-      "tags": ["atfm", "nmoc", "eurocontrol", "centro_operaciones"]
+      "correct_answer": "B",
+      "hint": "INCERFA.",
+      "explanation": "La incertidumbre surge cuando no hay noticias en 30 min desde la comunicación esperada o el intento de contacto.",
+      "tags": ["emergencias", "fases"]
     },
     {
       "question_id": "MOD4_016",
-      "question_text": "¿Cuál es el objetivo principal de ATFM?",
-      "difficulty": 2,
+      "question_text": "¿Cuándo se declara la Fase de Alerta (ALERFA)?",
+      "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Maximizar el número de vuelos"},
-        {"option_id": "B", "text": "Equilibrar la demanda de tráfico con la capacidad disponible para evitar sobrecargas"},
-        {"option_id": "C", "text": "Priorizar vuelos comerciales"},
-        {"option_id": "D", "text": "Reducar costos de aerolíneas"}
+        {"option_id": "A", "text": "Inmediatamente al despegar"},
+        {"option_id": "B", "text": "Tras la incertidumbre, si no hay noticias, o si un avión autorizado a aterrizar no lo hace en 5 min"},
+        {"option_id": "C", "text": "Cuando el combustible se ha agotado"},
+        {"option_id": "D", "text": "Cuando se estrella el avión"}
       ],
       "correct_answer": "B",
-      "hint": "ATFM busca equilibrio entre demanda y capacidad",
-      "explanation": "El objetivo principal de ATFM es equilibrar la demanda de tráfico con la capacidad disponible, optimizando el uso de la capacidad y previniendo sobrecargas en sectores de espacio aéreo.",
-      "tags": ["atfm", "objetivo", "capacidad", "demanda"]
+      "hint": "Siguiente escalón de preocupación.",
+      "explanation": "ALERFA se activa por falta de noticias tras INCERFA o por anomalías claras en el aterrizaje/operación.",
+      "tags": ["emergencias", "fases"]
     },
     {
       "question_id": "MOD4_017",
-      "question_text": "¿Qué es una regulación ATFM?",
+      "question_text": "¿Qué fase de emergencia implica probabilidad de que el avión esté en peligro o haya realizado un aterrizaje forzoso?",
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Una restricción temporal del flujo de tráfico cuando la demanda supera la capacidad"},
-        {"option_id": "B", "text": "Una modificación del plan de vuelo"},
-        {"option_id": "C", "text": "Un cambio de ruta del vuelo"},
-        {"option_id": "D", "text": "Una cancelación de vuelo"}
+        {"option_id": "A", "text": "Fase de Incertidumbre"},
+        {"option_id": "B", "text": "Fase de Peligro (DETRESFA)"},
+        {"option_id": "C", "text": "Fase de Alerta"},
+        {"option_id": "D", "text": "Fase de Notificación"}
       ],
-      "correct_answer": "A",
-      "hint": "Regulación = limitación de tasas (flow rates)",
-      "explanation": "Una regulación ATFM es una restricción temporal del flujo de tráfico aplicada cuando se prevee que la demanda será superior a la capacidad de un sector o aeródromo.",
-      "tags": ["atfm", "regulacion", "capacity", "demand"]
+      "correct_answer": "B",
+      "hint": "DETRESFA.",
+      "explanation": "Peligro es la fase máxima, cuando hay certeza o probabilidad alta de siniestro.",
+      "tags": ["emergencias", "fases"]
     },
     {
       "question_id": "MOD4_018",
-      "question_text": "¿Qué es CTOT?",
-      "difficulty": 2,
+      "question_text": "¿Qué significa el mensaje DLA?",
+      "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Calculated Time Over Target - Tiempo calculado sobre destino"},
-        {"option_id": "B", "text": "Calculated Takeoff Time - Hora de despegue calculada"},
-        {"option_id": "C", "text": "Coordinated Time of Takeoff - Hora de salida coordinada"},
-        {"option_id": "D", "text": "Controlled Time of Traffic - Tiempo de tráfico controlado"}
+        {"option_id": "A", "text": "Delete Message"},
+        {"option_id": "B", "text": "Delay Message (Mensaje de demora)"},
+        {"option_id": "C", "text": "Departure Log Area"},
+        {"option_id": "D", "text": "Data Link Answer"}
       ],
-      "correct_answer": "C",
-      "hint": "CTOT = Calculated/Coordinated Take-Off Time",
-      "explanation": "CTOT (Calculated Take-Off Time) es la hora de despegue calculada y asignada por ATFM cuando un vuelo está sujeto a regulación, que debe respetarse con una tolerancia de -5/+10 minutos.",
-      "tags": ["atfm", "ctot", "slot", "despegue"]
+      "correct_answer": "B",
+      "hint": "Se envía ante retrasos sobre la EOBT.",
+      "explanation": "DLA notifica una demora en la salida prevista.",
+      "tags": ["mensajes", "atfcm"]
     },
     {
       "question_id": "MOD4_019",
-      "question_text": "¿Cuál es la tolerancia permitida alrededor del CTOT?",
-      "difficulty": 3,
+      "question_text": "¿Qué mensaje se usa para cancelar un plan de vuelo distribuido anteriormente?",
+      "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "-10/+5 minutos"},
-        {"option_id": "B", "text": "-5/+10 minutos"},
-        {"option_id": "C", "text": "-15/+15 minutos"},
-        {"option_id": "D", "text": "-0/+5 minutos"}
+        {"option_id": "A", "text": "DLA"},
+        {"option_id": "B", "text": "CNL (Cancellation)"},
+        {"option_id": "C", "text": "CHG"},
+        {"option_id": "D", "text": "REJ"}
       ],
       "correct_answer": "B",
-      "hint": "Ventana CTOT: puede salir 5 min antes o hasta 10 min después",
-      "explanation": "La tolerancia del CTOT es de -5/+10 minutos. El vuelo puede despegar hasta 5 minutos antes o hasta 10 minutos después del CTOT asignado.",
-      "tags": ["atfm", "ctot", "tolerancia", "slot"]
+      "hint": "Cancel.",
+      "explanation": "CNL es el mensaje estándar para la cancelación de un FPL.",
+      "tags": ["mensajes"]
     },
     {
       "question_id": "MOD4_020",
+      "question_text": "¿Qué mensaje se transmite inmediatamente después del despegue de una aeronave?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "FPL"},
+        {"option_id": "B", "text": "DEP (Departure)"},
+        {"option_id": "C", "text": "ARR"},
+        {"option_id": "D", "text": "MOV"}
+      ],
+      "correct_answer": "B",
+      "hint": "Notificación de salida.",
+      "explanation": "DEP informa a los destinatarios que el vuelo ya está en el aire.",
+      "tags": ["mensajes"]
+    },
+    {
+      "question_id": "MOD4_021",
+      "question_text": "¿Qué significa el acrónimo ATFCM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Air Traffic Flow and Capacity Management"},
+        {"option_id": "B", "text": "Aeronautical Traffic Force Center Manager"},
+        {"option_id": "C", "text": "Automatic Traffic Frequency Control Monitor"},
+        {"option_id": "D", "text": "Air Transport Flight Certification Manual"}
+      ],
+      "correct_answer": "A",
+      "hint": "Gestión de afluencia y capacidad.",
+      "explanation": "ATFCM busca equilibrar demanda y capacidad optimizando el uso del espacio aéreo.",
+      "tags": ["atfcm", "siglas"]
+    },
+    {
+      "question_id": "MOD4_022",
+      "question_text": "¿Qué organismo de Eurocontrol desempeña las funciones centrales de ATFCM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "EASA"},
+        {"option_id": "B", "text": "Network Manager (Gestor de Red)"},
+        {"option_id": "C", "text": "OACI"},
+        {"option_id": "D", "text": "Indra"}
+      ],
+      "correct_answer": "B",
+      "hint": "Antiguamente CFMU.",
+      "explanation": "El Network Manager (NM) coordina la gestión de afluencia en Europa.",
+      "tags": ["atfcm", "eurocontrol"]
+    },
+    {
+      "question_id": "MOD4_023",
+      "question_text": "¿Cuál es la fase del ATFCM que transcurre hasta 7 días antes de la operación?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Fase Táctica"},
+        {"option_id": "B", "text": "Fase Estratégica"},
+        {"option_id": "C", "text": "Fase Pretáctica"},
+        {"option_id": "D", "text": "Análisis Post-operacional"}
+      ],
+      "correct_answer": "B",
+      "hint": "Largo plazo.",
+      "explanation": "En la fase estratégica se analiza la demanda a largo plazo y se planifica la capacidad.",
+      "tags": ["atfcm", "fases"]
+    },
+    {
+      "question_id": "MOD4_024",
+      "question_text": "¿En qué fase del ATFCM se aplica el Plan Diario (ADP) durante los 6 días previos?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Fase Estratégica"},
+        {"option_id": "B", "text": "Fase Pretáctica"},
+        {"option_id": "C", "text": "Fase Táctica"},
+        {"option_id": "D", "text": "Fase de Ejecución"}
+      ],
+      "correct_answer": "B",
+      "hint": "Ajuste de la previsión.",
+      "explanation": "La fase pretáctica (EOBT -6 días a EOBT -1 día) refina el plan estratégico.",
+      "tags": ["atfcm", "fases"]
+    },
+    {
+      "question_id": "MOD4_025",
+      "question_text": "¿Qué fase del ATFCM se aplica el día de la operación en tiempo real?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Estratégica"},
+        {"option_id": "B", "text": "Táctica"},
+        {"option_id": "C", "text": "Post-op"},
+        {"option_id": "D", "text": "Histórica"}
+      ],
+      "correct_answer": "B",
+      "hint": "Ejecución inmediata.",
+      "explanation": "La fase táctica gestiona el tráfico real y las incidencias del día.",
+      "tags": ["atfcm", "fases"]
+    },
+    {
+      "question_id": "MOD4_026",
+      "question_text": "¿Qué significa el mensaje ACK del IFPS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Plan de vuelo rechazado"},
+        {"option_id": "B", "text": "Plan de vuelo aceptado (Acknowledge)"},
+        {"option_id": "C", "text": "Plan de vuelo suspendido"},
+        {"option_id": "D", "text": "Plan de vuelo con error grave"}
+      ],
+      "correct_answer": "B",
+      "hint": "Acuse de recibo positivo.",
+      "explanation": "ACK confirma que el FPL es correcto y ha sido procesado por el sistema.",
+      "tags": ["ifps", "mensajes"]
+    },
+    {
+      "question_id": "MOD4_027",
+      "question_text": "¿Qué significa el mensaje REJ del IFPS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Revisado"},
+        {"option_id": "B", "text": "Rechazado (Reject)"},
+        {"option_id": "C", "text": "Reincorporado"},
+        {"option_id": "D", "text": "Retrasado"}
+      ],
+      "correct_answer": "B",
+      "hint": "Información contraria a la base de datos.",
+      "explanation": "REJ indica que el FPL contiene errores que impiden su aceptación.",
+      "tags": ["ifps", "mensajes"]
+    },
+    {
+      "question_id": "MOD4_028",
+      "question_text": "¿Qué es la 'Capacidad Sostenible'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "La máxima afluencia en un momento puntual"},
+        {"option_id": "B", "text": "La máxima afluencia que cabe mantener a lo largo de un tiempo"},
+        {"option_id": "C", "text": "Solo para vuelos ecológicos"},
+        {"option_id": "D", "text": "La capacidad cuando fallan los radares"}
+      ],
+      "correct_answer": "B",
+      "hint": "Factor principal para planificación.",
+      "explanation": "Es el volumen de tráfico que el sistema puede gestionar de forma continuada con seguridad.",
+      "tags": ["capacidad", "atfcm"]
+    },
+    {
+      "question_id": "MOD4_029",
+      "question_text": "¿Cuánto tiempo como máximo se puede mantener la 'Capacidad Máxima'?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "15 minutos"},
+        {"option_id": "B", "text": "60 minutos"},
+        {"option_id": "C", "text": "4 horas"},
+        {"option_id": "D", "text": "Todo el turno"}
+      ],
+      "correct_answer": "B",
+      "hint": "Solo para periodos cortos de sobredemanda.",
+      "explanation": "La capacidad máxima puede ser superior a la sostenible pero solo por un máximo de 60 minutos.",
+      "tags": ["capacidad", "atfcm"]
+    },
+    {
+      "question_id": "MOD4_030",
+      "question_text": "¿Qué medida ATFCM restringe los niveles de vuelo utilizables para aliviar un sector?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Rerouting"},
+        {"option_id": "B", "text": "Level Capping"},
+        {"option_id": "C", "text": "MDI"},
+        {"option_id": "D", "text": "Miles in Trail"}
+      ],
+      "correct_answer": "B",
+      "hint": "Poner un 'tapón' de nivel.",
+      "explanation": "Level Capping restringe vuelos por encima o debajo de un nivel para reducir la carga de un sector.",
+      "tags": ["medidas_atfcm"]
+    },
+    {
+      "question_id": "MOD4_031",
+      "question_text": "¿Qué es el MDI (Minimum Departure Interval)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Mínima distancia de aterrizaje"},
+        {"option_id": "B", "text": "Espaciar los despegues en intervalos regulares (ej. 3 min)"},
+        {"option_id": "C", "text": "Intervalo entre revisiones del motor"},
+        {"option_id": "D", "text": "Máxima demora permitida"}
+      ],
+      "correct_answer": "B",
+      "hint": "Evita acumulaciones de salidas.",
+      "explanation": "Consiste en aplicar un tiempo mínimo entre despegues sucesivos de un aeródromo.",
+      "tags": ["medidas_atfcm"]
+    },
+    {
+      "question_id": "MOD4_032",
+      "question_text": "¿Qué significa CTOT?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Control Traffic Operational Time"},
+        {"option_id": "B", "text": "Calculated Take-Off Time (Hora calculada de despegue)"},
+        {"option_id": "C", "text": "Current Terminal Operational Tower"},
+        {"option_id": "D", "text": "Central Traffic Output Target"}
+      ],
+      "correct_answer": "B",
+      "hint": "Es el 'slot' de salida.",
+      "explanation": "Es la hora asignada por el sistema ATFCM para el despegue.",
+      "tags": ["atfcm", "siglas", "tiempos"]
+    },
+    {
+      "question_id": "MOD4_033",
+      "question_text": "¿Cuál es la ventana de tolerancia habitual para un CTOT?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "-5 min a +10 min"},
+        {"option_id": "B", "text": "-5 min a +5 min"},
+        {"option_id": "C", "text": "-10 min a +10 min"},
+        {"option_id": "D", "text": "0 min a +15 min"}
+      ],
+      "correct_answer": "A",
+      "hint": "5 antes, 10 después.",
+      "explanation": "El vuelo debe estar listo para despegar en esa ventana temporal respecto a su CTOT.",
+      "tags": ["atfcm", "tiempos"]
+    },
+    {
+      "question_id": "MOD4_034",
       "question_text": "¿Qué significa FUA?",
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Flexible Use of Airspace - Uso Flexible del Espacio Aéreo"},
-        {"option_id": "B", "text": "Fixed Unit of Airspace - Unidad Fija de Espacio Aéreo"},
-        {"option_id": "C", "text": "Flight Utility Area - Área de Utilidad de Vuelo"},
-        {"option_id": "D", "text": "Flexible Airspace Utilization - Utilización Flexible del Espacio Aéreo"}
-      ],
-      "correct_answer": "A",
-      "hint": "FUA = Uso Flexible del Espacio Aéreo (concepto SES)",
-      "explanation": "FUA (Flexible Use of Airspace) es el concepto de uso flexible del espacio aéreo que permite compartir recursos entre usuarios civiles y militares para maximizar la capacidad.",
-      "tags": ["fua", "espacio_aereo", "flexible", "ses"]
-    },
-    {
-      "question_id": "MOD4_021",
-      "question_text": "¿Qué es un TSA (Temporary Segregated Area)?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Área de Seguridad Temporal"},
-        {"option_id": "B", "text": "Área Temporalmente Segregada para uso militar exclusivo"},
-        {"option_id": "C", "text": "Área de Tráfico Aéreo Superior"},
-        {"option_id": "D", "text": "Área de Test Aeronáutico"}
+        {"option_id": "A", "text": "Flight Update Area"},
+        {"option_id": "B", "text": "Flexible Use of Airspace (Uso flexible del espacio aéreo)"},
+        {"option_id": "C", "text": "Frequent Urgent Action"},
+        {"option_id": "D", "text": "Final Unit Authorization"}
       ],
       "correct_answer": "B",
-      "hint": "TSA = área segregada temporalmente",
-      "explanation": "Un TSA (Temporary Segregated Area) es un área temporalmente segregada del espacio aéreo para uso exclusivo militar durante períodos especificados, que queda disponible para tráfico civil cuando no está activa.",
-      "tags": ["fua", "tsa", "area_segregada", "militar"]
-    },
-    {
-      "question_id": "MOD4_022",
-      "question_text": "¿Qué es un TRA (Temporary Reserved Area)?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Área Temporalmente Reservada para uso específico"},
-        {"option_id": "B", "text": "Área de Tráfico Aéreo Restringido"},
-        {"option_id": "C", "text": "Área de Ruta Aérea Temporal"},
-        {"option_id": "D", "text": "Área de Restricción Altitudinal"}
-      ],
-      "correct_answer": "A",
-      "hint": "TRA = área reservada temporalmente (reservada, no segregada)",
-      "explanation": "Un TRA (Temporary Reserved Area) es un área temporalmente reservada para un usuario específico (normalmente militar), donde el tráfico civil puede operar con ciertas condiciones.",
-      "tags": ["fua", "tra", "area_reservada", "militar"]
-    },
-    {
-      "question_id": "MOD4_023",
-      "question_text": "¿Qué es un CDR (Cross Design Area)?",
-      "difficulty": 4,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Área de Diseño Cruzado para rutas aéreas"},
-        {"option_id": "B", "text": "Área de coordinación civil-militar"},
-        {"option_id": "C", "text": "Área de Restricción de Cruce"},
-        {"option_id": "D", "text": "Área de Diseño de Ruta"}
-      ],
-      "correct_answer": "B",
-      "hint": "CDR = área de coordinación para estructuras flexibles",
-      "explanation": "Un CDR (Cross Design Area) es un área de coordinación civil-militar donde se planifican y gestionan las estructuras flexibles del espacio aéreo.",
-      "tags": ["fua", "cdr", "coordinacion", "civil_militar"]
-    },
-    {
-      "question_id": "MOD4_024",
-      "question_text": "¿Qué significa AMC (Airspace Management Cell)?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Airspace Management Cell - Célula de Gestión del Espacio Aéreo"},
-        {"option_id": "B", "text": "Area Military Coordinator - Coordinador Área Militar"},
-        {"option_id": "C", "text": "Aeronautical Management Center - Centro de Gestión Aeronáutica"},
-        {"option_id": "D", "text": "Airspace Monitoring Cell - Célula de Monitoreo del Espacio Aéreo"}
-      ],
-      "correct_answer": "A",
-      "hint": "AMC = unidad local de gestión del espacio aéreo",
-      "explanation": "AMC (Airspace Management Cell) es la célula o unidad local responsable de la gestión del espacio aéreo a nivel táctico (nivel 3) y la coordinación civil/militar.",
-      "tags": ["asm", "amc", "espacio_aereo", "coordinacion"]
-    },
-    {
-      "question_id": "MOD4_025",
-      "question_text": "¿Qué es la capacidad declarada de un sector de espacio aéreo?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "El número máximo de aeronaves que pueden estar en el sector simultáneamente"},
-        {"option_id": "B", "text": "El número de vuelos por hora que puede ser controlado por un sector en condiciones seguras"},
-        {"option_id": "C", "text": "El número de controladores disponibles en el sector"},
-        {"option_id": "D", "text": "El tamaño físico del sector de espacio aéreo"}
-      ],
-      "correct_answer": "B",
-      "hint": "Capacidad = vuelos/hora que puede gestionar un sector",
-      "explanation": "La capacidad declarada de un sector es el número máximo de vuelos por hora (o período específico) que puede ser controlado manteniendo los niveles de seguridad requeridos.",
-      "tags": ["atfm", "capacidad", "sector", "declarada"]
-    },
-    {
-      "question_id": "MOD4_026",
-      "question_id": "MOD4_026",
-      "question_text": "¿Qué es un vuelo exento de medidas ATFM?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Un vuelo que no paga tasas ATFM"},
-        {"option_id": "B", "text": "Un vuelo con prioridad que no está sujeto a regulaciones (ej: emergencias, SAR, jefes de Estado)"},
-        {"option_id": "C", "text": "Un vuelo que vuela sin plan de vuelo"},
-        {"option_id": "D", "text": "Un vuelo VFR cualquiera"}
-      ],
-      "correct_answer": "B",
-      "hint": "Exento = no le aplican regulaciones por estado/emergencia",
-      "explanation": "Los vuelos exentos (emergencias, SAR, vuelos estado con prioridad) no están sujetos a regulaciones ATFM debido a su carácter prioritario o urgente.",
-      "tags": ["atfm", "vuelos_exentos", "exenciones", "prioridad"]
-    },
-    {
-      "question_id": "MOD4_027",
-      "question_text": "¿Qué es un slot (hueco) ATFM?",
-      "difficulty": 2,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Un puesto de estacionamiento en plataforma"},
-        {"option_id": "B", "text": "Una autorización de tiempo de salida para un vuelo sujeto a regulación"},
-        {"option_id": "C", "text": "Una ventana de tiempo para aterrizar"},
-        {"option_id": "D", "text": "Un espacio en el aeródromo"}
-      ],
-      "correct_answer": "B",
-      "hint": "Slot = ventana de salida asignada por ATFM",
-      "explanation": "Un slot ATFM es una autorización de tiempo de salida (CTOT) asignada a un vuelo que está sujeto a una regulación de tráfico, que define cuándo puede despegar.",
-      "tags": ["atfm", "slot", "ctot", "regulacion"]
-    },
-    {
-      "question_id": "MOD4_028",
-      "question_text": "¿Cuántas fases principales tiene la actividad ATFM?",
-      "difficulty": 4,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "2 fases: estratégica y táctica"},
-        {"option_id": "B", "text": "3 fases: estratégica, pre-táctica y táctica"},
-        {"option_id": "C", "text": "4 fases: planificación, ejecución, monitoreo y evaluación"},
-        {"option_id": "D", "text": "5 fases"}
-      ],
-      "correct_answer": "B",
-      "hint": "Estratégica (Largo plazo), Pre-táctica (D-1 a D-7), Táctica (Día de operaciones)",
-      "explanation": "La actividad ATFM tiene 3 fases: estratégica (planeamiento a largo plazo), pre-táctica (D-7 a D-1) y táctica (día de operaciones en tiempo real).",
-      "tags": ["atfm", "fases", "estrategica", "tactica"]
-    },
-    {
-      "question_id": "MOD4_029",
-      "question_text": "¿Qué es la fase estratégica de ATFM?",
-      "difficulty": 4,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Gestión del tráfico el día de operaciones en tiempo real"},
-        {"option_id": "B", "text": "Planificación a largo plazo (meses/años) de capacidad y demanda"},
-        {"option_id": "C", "text": "Ajuste de rutas 24-48 horas antes del vuelo"},
-        {"option_id": "D", "text": "Cancelación de vuelos en tiempo real"}
-      ],
-      "correct_answer": "B",
-      "hint": "Estratégica = planeamiento a meses/años vista",
-      "explanation": "La fase estratégica de ATFM involucra el planeamiento a largo plazo (meses o años) de capacidad y demanda, incluyendo determinación de capacidad sectorial y planificación de recursos.",
-      "tags": ["atfm", "fase_estrategica", "largo_plazo"]
-    },
-    {
-      "question_id": "MOD4_030",
-      "question_text": "¿Qué es la fase pre-táctica de ATFM?",
-      "difficulty": 4,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Gestión el día de operaciones"},
-        {"option_id": "B", "text": "Ajuste de planificación desde 7 días hasta 1 día antes del vuelo"},
-        {"option_id": "C", "text": "Planificación anual de capacidad"},
-        {"option_id": "D", "text": "Análisis post-operacional"}
-      ],
-      "correct_answer": "B",
-      "hint": "Pre-táctica = D-7 a D-1 (antes del día del vuelo)",
-      "explanation": "La fase pre-táctica cubre desde 7 días hasta 1 día antes del vuelo, donde se ajusta la planificación con datos más precisos de demanda prevista.",
-      "tags": ["atfm", "fase_pretactica", "medio_plazo"]
-    },
-    {
-      "question_id": "MOD4_031",
-      "question_text": "¿Qué es la fase táctica de ATFM?",
-      "difficulty": 4,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Planificación a largo plazo de capacidad"},
-        {"option_id": "B", "text": "Gestión del tráfico el día de operaciones en tiempo real (D-0)"},
-        {"option_id": "C", "text": "Análisis de datos históricos"},
-        {"option_id": "D", "text": "Determinación de capacidad anual"}
-      ],
-      "correct_answer": "B",
-      "hint": "Táctica = día del vuelo, tiempo real",
-      "explanation": "La fase táctica es la gestión del tráfico el día de operaciones (D-0) en tiempo real, aplicando regulaciones, gestionando slots y resolviendo congestiones.",
-      "tags": ["atfm", "fase_tactica", "tiempo_real", "d-0"]
-    },
-    {
-      "question_id": "MOD4_032",
-      "question_text": "¿Qué es IFPS?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Integrated Flight Planning System - Sistema Integrado de Planificación de Vuelo"},
-        {"option_id": "B", "text": "Instrument Flight Procedure System - Sistema de Procedimientos de Vuelo por Instrumentos"},
-        {"option_id": "C", "text": "International Flight Processing System - Sistema Internacional de Procesamiento de Vuelos"},
-        {"option_id": "D", "text": "Initial Flight Plan Submission - Presentación Inicial de Plan de Vuelo"}
-      ],
-      "correct_answer": "A",
-      "hint": "IFPS = Sistema centralizado Eurocontrol para procesar FPLs",
-      "explanation": "IFPS (Integrated Flight Planning System) es el sistema centralizado de Eurocontrol que valida y distribuye planes de vuelo para vuelos IFR y GAT en Europa.",
-      "tags": ["fpl", "ifps", "eurocontrol", "sistema"]
-    },
-    {
-      "question_id": "MOD4_033",
-      "question_text": "¿Qué significa GAT (General Air Traffic)?",
-      "difficulty": 2,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "General Air Traffic - Tráfico aéreo general (vuelos civiles normales)"},
-        {"option_id": "B", "text": "General Aviation Traffic - Tráfico de aviación general"},
-        {"option_id": "C", "text": "Global Air Transportation - Transporte aéreo global"},
-        {"option_id": "D", "text": "Guided Air Traffic - Tráfico aéreo guiado"}
-      ],
-      "correct_answer": "A",
-      "hint": "GAT = tráfico civil no estatal/comercial normal",
-      "explanation": "GAT (General Air Traffic) se refiere al tráfico aéreo general, que incluye vuelos civiles regulares, no regulares y aviación general, excluyendo tráfico estatal y operaciones específicas.",
-      "tags": ["trafico", "gat", "clasificacion"]
-    },
-    {
-      "question_id": "MOD4_034",
-      "question_text": "¿Qué significa OAT (Operational Air Traffic)?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Official Air Traffic - Tráfico aéreo oficial"},
-        {"option_id": "B", "text": "Operational Air Traffic - Tráfico aéreo operativo (vuelos militares, estatales, especiales)"},
-        {"option_id": "C", "text": "Ordinary Air Traffic - Tráfico aéreo ordinario"},
-        {"option_id": "D", "text": "Organized Air Traffic - Tráfico aéreo organizado"}
-      ],
-      "correct_answer": "B",
-      "hint": "OAT = tráfico operativo (militar, estatal, gubernamental)",
-      "explanation": "OAT (Operational Air Traffic) incluye vuelos militares, estatales, de entrenamiento, y otras operaciones especiales que no se clasifican como tráfico general (GAT).",
-      "tags": ["trafico", "oat", "militar", "clasificacion"]
+      "hint": "Coordinación civil/militar.",
+      "explanation": "FUA trata el espacio aéreo como un continuo que se segrega solo temporalmente.",
+      "tags": ["fua", "siglas"]
     },
     {
       "question_id": "MOD4_035",
-      "question_text": "¿Qué es AUP (Airspace Use Plan)?",
+      "question_text": "¿Qué es un área TSA?",
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Plan de Uso del Espacio Aéreo - planificación diaria de estructuras flexibles"},
-        {"option_id": "B", "text": "Aeronautical User Plan - Plan de usuarios aeronáuticos"},
-        {"option_id": "C", "text": "Area Utilization Plan - Plan de utilización de áreas"},
-        {"option_id": "D", "text": "Airspace Unit Procedure - Procedimiento de unidades de espacio aéreo"}
+        {"option_id": "A", "text": "Terminal Safety Area"},
+        {"option_id": "B", "text": "Temporary Segregated Area (Área temporalmente segregada)"},
+        {"option_id": "C", "text": "Total Surveillance Airspace"},
+        {"option_id": "D", "text": "Traffic Support Agency"}
       ],
-      "correct_answer": "A",
-      "hint": "AUP = plan diario del uso del espacio aéreo (FUA)",
-      "explanation": "AUP (Airspace Use Plan) es el plan diario que establece la activación y desactivación de estructuras flexibles del espacio aéreo (TSA, TRA, CDR) para optimizar capacidad.",
-      "tags": ["fua", "aup", "planificacion", "diaria"]
+      "correct_answer": "B",
+      "hint": "Uso reservado a un usuario, prohibido el tránsito para otros.",
+      "explanation": "Espacio aéreo segregado para necesidades específicas (ej. militares) por tiempo definido.",
+      "tags": ["fua", "espacio_aereo"]
     },
     {
       "question_id": "MOD4_036",
-      "question_text": "¿Qué información contiene el campo 7 del plan de vuelo (Aeronave)?",
-      "difficulty": 3,
+      "question_text": "¿Qué fase del FUA gestiona el uso del espacio aéreo en tiempo real?",
+      "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Solo el indicativo de llamada de la aeronave"},
-        {"option_id": "B", "text": "Marcas de matrícula, si IFR/VFR, tipo de aeronave y categoría de estela turbulenta"},
-        {"option_id": "C", "text": "Solo el tipo de aeronave"},
-        {"option_id": "D", "text": "Velocidad y equipo"}
+        {"option_id": "A", "text": "Nivel 1 (Estratégico)"},
+        {"option_id": "B", "text": "Nivel 2 (Pretáctico)"},
+        {"option_id": "C", "text": "Nivel 3 (Táctico)"},
+        {"option_id": "D", "text": "Nivel 4 (Operativo)"}
       ],
-      "correct_answer": "B",
-      "hint": "Campo 7 = identificación completa de la aeronave",
-      "explanation": "El campo 7 del FPL contiene: marcas de matrícula, indicativo de llamada, tipo de vuelo (I/V/Z), tipo de aeronave (ej: B738) y categoría de estela turbulenta (H/M/L/J).",
-      "tags": ["fpl", "campo_7", "aeronave", "estela"]
+      "correct_answer": "C",
+      "hint": "Giro táctico.",
+      "explanation": "El nivel 3 es la ejecución y gestión en tiempo real.",
+      "tags": ["fua", "fases"]
     },
     {
       "question_id": "MOD4_037",
-      "question_text": "¿Qué información contiene el campo 15 del plan de vuelo (Ruta)?",
-      "difficulty": 4,
+      "question_text": "¿Qué organismo nacional mixto civil/militar gestiona la asignación temporal de espacio aéreo en España?",
+      "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Velocidad, nivel y aeródromo de destino"},
-        {"option_id": "B", "text": "Nivel de crucero, ruta con puntos, velocidades y altitudes"},
-        {"option_id": "C", "text": "Solo los waypoints de la ruta"},
-        {"option_id": "D", "text": "Alternativas y autonomía"}
+        {"option_id": "A", "text": "AESA"},
+        {"option_id": "B", "text": "AMC (Célula de Gestión de Espacio Aéreo)"},
+        {"option_id": "C", "text": "DGAC"},
+        {"option_id": "D", "text": "CIAIAC"}
       ],
       "correct_answer": "B",
-      "hint": "Campo 15 = toda la ruta con cambios de velocidad/velocidad/nivel",
-      "explanation": "El campo 15 contiene: velocidad de crucero, nivel, ruta completa (puntos, aerovías), cambios de velocidad/nivel, y aeródromo de destino.",
-      "tags": ["fpl", "campo_15", "ruta", "niveles"]
+      "hint": "Airspace Management Cell.",
+      "explanation": "La AMC coordina las peticiones de reserva de espacio aéreo.",
+      "tags": ["fua", "instituciones"]
     },
     {
       "question_id": "MOD4_038",
-      "question_text": "¿Qué es el campo 18 del plan de vuelo (Otros datos)?",
-      "difficulty": 3,
+      "question_text": "¿Qué plan publica diariamente la AMC con las rutas cerradas y áreas activadas?",
+      "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Solo información de equipamiento"},
-        {"option_id": "B", "text": "Información variada: equipo (EET/DEST/ALT), autopista aérea, RML, ropa, etc."},
-        {"option_id": "C", "text": "Solo información de autonomía"},
-        {"option_id": "D", "text": "Solo información de emergencia"}
+        {"option_id": "A", "text": "AIP"},
+        {"option_id": "B", "text": "AUP (Airspace Use Plan)"},
+        {"option_id": "C", "text": "NOTAM"},
+        {"option_id": "D", "text": "SUP"}
       ],
       "correct_answer": "B",
-      "hint": "Campo 18 = información miscelánea en formato codificado",
-      "explanation": "El campo 18 contiene información adicional codificada: EET (tiempos estimados), DEST (destino alternativo), ALT (alternativas), RML (frecuencias), ropa (survival equipment), etc.",
-      "tags": ["fpl", "campo_18", "otros_datos", "codificado"]
+      "hint": "Se distribuye antes de las 14:00 UTC.",
+      "explanation": "El AUP detalla el uso del espacio aéreo para las siguientes 24 horas.",
+      "tags": ["fua", "documentacion"]
     },
     {
       "question_id": "MOD4_039",
-      "question_text": "¿Qué es EET en el campo 18 del FPL?",
+      "question_text": "¿A qué hora UTC debe enviarse el plan AUP como máximo?",
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Estimated Enroute Time - Tiempo estimado en ruta a puntos significativos"},
-        {"option_id": "B", "text": "Estimated Entry Time - Tiempo estimado de entrada"},
-        {"option_id": "C", "text": "Expected Exit Time - Tiempo esperado de salida"},
-        {"option_id": "D", "text": "Estimated Elapsed Time - Tiempo total estimado de vuelo"}
+        {"option_id": "A", "text": "00:00 UTC"},
+        {"option_id": "B", "text": "14:00 UTC"},
+        {"option_id": "C", "text": "18:00 UTC"},
+        {"option_id": "D", "text": "12:00 UTC"}
       ],
-      "correct_answer": "A",
-      "hint": "EET = tiempos estimados a FIRs/puntos fronterizos",
-      "explanation": "EET (Estimated Enroute Time) en el campo 18 indica los tiempos estimados de llegada a puntos significativos o fronteras de regiones de información de vuelo (FIRs) a lo largo de la ruta.",
-      "tags": ["fpl", "campo_18", "eet", "tiempos"]
+      "correct_answer": "B",
+      "hint": "Del día anterior a la operación.",
+      "explanation": "La AMC debe distribuir el AUP antes de las 14:00 UTC del día D-1.",
+      "tags": ["fua", "tiempos"]
     },
     {
       "question_id": "MOD4_040",
-      "question_text": "¿Qué es un mensaje AFIL?",
-      "difficulty": 4,
+      "question_text": "¿Qué significa el mensaje FLS?",
+      "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Airplane Flight Information List - Lista de información de vuelo de aeronave"},
-        {"option_id": "B", "text": "Air Filed In Flight - Plan de vuelo presentado durante el vuelo"},
-        {"option_id": "C", "text": "Automatic Flight Information Link - Enlace automático de información de vuelo"},
-        {"option_id": "D", "text": "Aeronautical Flight Insertion List - Lista de inserción de vuelo"}
+        {"option_id": "A", "text": "Flight Landing System"},
+        {"option_id": "B", "text": "Flight Suspension message (Mensaje de suspensión de vuelo)"},
+        {"option_id": "C", "text": "Final Level Start"},
+        {"option_id": "D", "text": "Frequency Logical Switch"}
       ],
       "correct_answer": "B",
-      "hint": "AFIL = FPL presentado desde el aire (en vuelo)",
-      "explanation": "AFIL (Air Filed In Flight) es un plan de vuelo presentado durante el vuelo (por radio) en lugar de antes de la salida, usado en circunstancias excepcionales.",
-      "tags": ["fpl", "afil", "en_vuelo", "excepcion"]
+      "hint": "El vuelo ha sido suspendido por el sistema ATFCM.",
+      "explanation": "FLS implica que el vuelo no tiene autorización de salida hasta que se resuelva la causa de suspensión.",
+      "tags": ["atfcm", "mensajes"]
     },
     {
       "question_id": "MOD4_041",
-      "question_text": "¿Qué es un RPL (Repetitive Flight Plan)?",
-      "difficulty": 3,
+      "question_text": "¿Qué es un RFP (Replacement Flight Plan)?",
+      "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Un plan de vuelo presentado cada vez que se opera un vuelo"},
-        {"option_id": "B", "text": "Un plan de vuelo repetitivo para vuelos que se operan regularmente con la misma ruta"},
-        {"option_id": "C", "text": "Un plan de vuelo modificado repetidamente"},
-        {"option_id": "D", "text": "Un plan de vuelo de emergencia"}
+        {"option_id": "A", "text": "Un plan de vuelo para aviones rotos"},
+        {"option_id": "B", "text": "Un plan que reemplaza a otro para tomar una ruta alternativa y evitar demoras"},
+        {"option_id": "C", "text": "Un examen de piloto"},
+        {"option_id": "D", "text": "Un mensaje de la policía"}
       ],
       "correct_answer": "B",
-      "hint": "RPL = plan de vuelo para vuelos regulares/repetitivos",
-      "explanation": "Un RPL (Repetitive Flight Plan) es un plan de vuelo que se presenta una vez para vuelos que se operan regularmente con los mismos datos, evitando presentación repetida.",
-      "tags": ["fpl", "rpl", "repetitivo", "regular"]
+      "hint": "Se usa bajo gestión de afluencia.",
+      "explanation": "Permite cambiar la ruta entre los mismos aeródromos para escapar de una regulación.",
+      "tags": ["atfcm", "mensajes"]
     },
     {
       "question_id": "MOD4_042",
-      "question_text": "¿Qué es el ICARO en España?",
+      "question_text": "¿Qué casilla del formulario OACI contiene la 'Ruta'?",
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Sistema de presentación de planes de vuelo de ENAIRE"},
-        {"option_id": "B", "text": "Sistema de navegación por satélite"},
-        {"option_id": "C", "text": "Sistema de vigilancia radar"},
-        {"option_id": "D", "text": "Sistema de información meteorológica"}
+        {"option_id": "A", "text": "Casilla 13"},
+        {"option_id": "B", "text": "Casilla 15"},
+        {"option_id": "C", "text": "Casilla 18"},
+        {"option_id": "D", "text": "Casilla 8"}
       ],
-      "correct_answer": "A",
-      "hint": "ICARO = sistema web/app de ENAIRE para FPL",
-      "explanation": "ICARO es el sistema de ENAIRE para presentación de planes de vuelo vía web o app móvil, alternativa a la oficina ARO centralizada.",
-      "tags": ["fpl", "icaro", "sistema", "enaire"]
+      "correct_answer": "B",
+      "hint": "Incluye velocidad, nivel y trayectoria.",
+      "explanation": "La casilla 15 del FPL describe la ruta y crucero propuestos.",
+      "tags": ["fpl", "casillas"]
     },
     {
       "question_id": "MOD4_043",
-      "question_text": "¿Qué es una ARO (Aeronautical Reporting Office)?",
+      "question_text": "¿Qué casilla del formulario OACI se reserva para 'Otros datos'?",
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Oficina de Regulación Aeronáutica"},
-        {"option_id": "B", "text": "Oficina de Notificación de los Servicios de Tránsito Aéreo"},
-        {"option_id": "C", "text": "Oficina de Recepción Operacional"},
-        {"option_id": "D", "text": "Oficina de Registro Aeronáutico"}
+        {"option_id": "A", "text": "Casilla 10"},
+        {"option_id": "B", "text": "Casilla 18"},
+        {"option_id": "C", "text": "Casilla 19"},
+        {"option_id": "D", "text": "Casilla 7"}
       ],
       "correct_answer": "B",
-      "hint": "ARO = oficina que recibe FPLs (ATS Reporting Office)",
-      "explanation": "ARO (Aeronautical Reporting Office) es la oficina de notificación de los servicios de tránsito aéreo encargada de recibir y procesar planes de vuelo.",
-      "tags": ["fpl", "aro", "oficina", "notificacion"]
+      "hint": "Indicadores como PBN/, NAV/, etc.",
+      "explanation": "La casilla 18 contiene información suplementaria diversa.",
+      "tags": ["fpl", "casillas"]
     },
     {
       "question_id": "MOD4_044",
-      "question_text": "¿Qué significa EST (Estimated Time)?",
-      "difficulty": 2,
+      "question_text": "¿A quién se envía el mensaje DEP?",
+      "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Estimated Speed of Travel - Velocidad estimada del viaje"},
-        {"option_id": "B", "text": "Estimated Time - Tiempo estimado a un punto o lugar"},
-        {"option_id": "C", "text": "Enroute Speed and Time - Velocidad y tiempo en ruta"},
-        {"option_id": "D", "text": "Expected Slot Time - Tiempo de slot esperado"}
+        {"option_id": "A", "text": "Solo al aeropuerto de destino"},
+        {"option_id": "B", "text": "A todos los destinatarios de los datos básicos del plan de vuelo"},
+        {"option_id": "C", "text": "Solo a Eurocontrol"},
+        {"option_id": "D", "text": "A la compañía aérea únicamente"}
       ],
       "correct_answer": "B",
-      "hint": "EST = tiempo estimado de paso sobre un punto",
-      "explanation": "EST (Estimated Time) es el tiempo estimado de paso de la aeronave sobre un punto significativo, aerovía, o FIR, usado para planificación de rutas.",
-      "tags": ["navegacion", "est", "tiempo", "ruta"]
+      "hint": "Notificación general de puesta en marcha.",
+      "explanation": "Todas las dependencias ATS afectadas deben conocer la salida real.",
+      "tags": ["mensajes"]
     },
     {
       "question_id": "MOD4_045",
-      "question_text": "¿Qué es UTC en planificación de vuelo?",
-      "difficulty": 2,
+      "question_text": "¿Qué significa el acrónimo IFPS?",
+      "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Universal Time Coordination - Hora universal coordinada (referencia temporal)"},
-        {"option_id": "B", "text": "Universal Time Clock - Reloj de tiempo universal"},
-        {"option_id": "C", "text": "Universal Traffic Control - Control de tráfico universal"},
-        {"option_id": "D", "text": "Unit Time Code - Código de tiempo unitario"}
+        {"option_id": "A", "text": "Integrated Initial Flight Plan Processing System"},
+        {"option_id": "B", "text": "International Flight Pilot Support"},
+        {"option_id": "C", "text": "Internal Flight Processing Signal"},
+        {"option_id": "D", "text": "Indra Flight Plan Service"}
       ],
       "correct_answer": "A",
-      "hint": "UTC = hora Zulu, tiempo universal coordinado",
-      "explanation": "UTC (Universal Time Coordination) es la hora universal coordinada, usada como referencia temporal única en planificación de vuelo y operaciones aéreas para evitar confusiones horarias.",
-      "tags": ["tiempo", "utc", "referencia", "zulu"]
+      "hint": "Sistema centralizado de procesamiento de planes.",
+      "explanation": "IFPS valida y distribuye los FPL en la región ECAC.",
+      "tags": ["ifps", "siglas"]
     },
     {
       "question_id": "MOD4_046",
-      "question_text": "¿Cuál es la diferencia básica entre regulación ATFM y flujo de tráfico?",
-      "difficulty": 4,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Son lo mismo, términos intercambiables"},
-        {"option_id": "B", "text": "La regulación es una medida específica de restricción; el flujo es el movimiento general de tráfico"},
-        {"option_id": "C", "text": "El flujo restringe vuelos, la regulación los facilita"},
-        {"option_id": "D", "text": "La regulación aplica solo a aeródromos, el flujo a rutas"}
-      ],
-      "correct_answer": "B",
-      "hint": "Regulación = acción de limitar; flujo = tránsito de aeronaves",
-      "explanation": "La regulación ATFM es una acción específica de restricción del flujo cuando la demanda supera la capacidad. El flujo de tráfico es el movimiento general de aeronaves.",
-      "tags": ["atfm", "regulacion", "flujo", "conceptos"]
-    },
-    {
-      "question_id": "MOD4_047",
-      "question_text": "¿Qué significa ASM (Airspace Management)?",
+      "question_text": "¿Cuál es la principal técnica para evitar sobrecargas sin regular que optimiza el número de sectores abiertos?",
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Aeronautical Service Management - Gestión de servicios aeronáuticos"},
-        {"option_id": "B", "text": "Airspace Management - Gestión del Espacio Aéreo"},
-        {"option_id": "C", "text": "Air Surveillance Module - Módulo de vigilancia aérea"},
-        {"option_id": "D", "text": "Air Space Monitoring - Monitoreo del espacio aéreo"}
+        {"option_id": "A", "text": "Cherry Picking"},
+        {"option_id": "B", "text": "Configuración Dinámica"},
+        {"option_id": "C", "text": "Rerouting"},
+        {"option_id": "D", "text": "CTOT"}
       ],
       "correct_answer": "B",
-      "hint": "ASM = gestión del espacio aéreo (civil/militar)",
-      "explanation": "ASM (Airspace Management) es la gestión del espacio aéreo, incluyendo la planificación, configuración y uso flexible del espacio aéreo por usuarios civiles y militares.",
-      "tags": ["asm", "espacio_aereo", "gestion"]
+      "hint": "Abrir o cerrar posiciones según demanda.",
+      "explanation": "La configuración dinámica adapta los recursos humanos y técnicos a la curva de tráfico.",
+      "tags": ["medidas_atfcm"]
     },
     {
-      "question_id": "MOD4_048",
-      "question_text": "¿Qué significa ACCF?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "Area Control Center Facility - Instalación de centro de control"},
-        {"option_id": "B", "text": "ATFM Coordination Center - Centro de coordinación ATFM (antes ALRS)"},
-        {"option_id": "C", "text": "Airspace Coordination Cell - Célula de coordinación del espacio aéreo"},
-        {"option_id": "D", "text": "Aeronautical Communication Center - Centro de comunicaciones aeronáuticas"}
-      ],
-      "correct_answer": "B",
-      "hint": "ACCF = centro coordinador ATFM nacional (en España)",
-      "explanation": "ACCF (ATFM Coordination Center) es el centro de coordinación ATFM nacional, anteriormente llamado ALRS (Aeronautical Fixed Link Rating System).",
-      "tags": ["atfm", "accf", "coordinacion", "nacional"]
-    },
-    {
-      "question_id": "MOD4_049",
-      "question_text": "¿Qué es la capacidad de pista de un aeródromo?",
-      "difficulty": 3,
-      "type": "multiple_choice",
-      "options": [
-        {"option_id": "A", "text": "El número de pistas disponibles"},
-        {"option_id": "B", "text": "El número máximo de movimientos (despegues/aterrizajes) por hora en condiciones seguras"},
-        {"option_id": "C", "text": "La longitud de la pista principal"},
-        {"option_id": "D", "text": "El número de puertas de embarque"}
-      ],
-      "correct_answer": "B",
-      "hint": "Capacidad de pista = movimientos/hora posibles",
-      "explanation": "La capacidad de pista de un aeródromo es el número máximo de movimientos (despegues y aterrizajes) por hora que puede realizarse manteniendo los niveles de seguridad requeridos.",
-      "tags": ["atfm", "capacidad", "pista", "aerodromo"]
-    },
-    {
-      "question_id": "MOD4_050",
-      "question_text": "¿Qué es un análisis post-operacional en ATFM?",
+      "question_id": "MOD4_047",
+      "question_text": "En sectores sin OTMV definidos, se puede incrementar la capacidad declarada para monitorizar hasta un:",
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Análisis realizado antes del vuelo para planificar la ruta"},
-        {"option_id": "B", "text": "Evaluación después del vuelo de la eficiencia de las medidas ATFM aplicadas"},
-        {"option_id": "C", "text": "Análisis de la trayectoria durante el vuelo"},
-        {"option_id": "D", "text": "Revisión del plan de vuelo antes del despegue"}
+        {"option_id": "A", "text": "5%"},
+        {"option_id": "B", "text": "10%"},
+        {"option_id": "C", "text": "20%"},
+        {"option_id": "D", "text": "50%"}
       ],
       "correct_answer": "B",
-      "hint": "Post-operacional = después de realizado el vuelo/día",
-      "explanation": "El análisis post-operacional evalúa la eficacia de las medidas ATFM aplicadas después de las operaciones, identificando áreas de mejora para futura planificación.",
-      "tags": ["atfm", "analisis", "post_operacional", "evaluacion"]
+      "hint": "Margen de tolerancia antes de regular.",
+      "explanation": "Se aplica un incremento del 10% sobre HEC durante los primeros 60 min si luego baja.",
+      "tags": ["atfcm", "capacidad"]
+    },
+    {
+      "question_id": "MOD4_048",
+      "question_text": "¿Quién es el responsable último de decidir si se aplica una medida de regulación propuesta por el TCA?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El controlador de torre"},
+        {"option_id": "B", "text": "El Jefe de Sala del ACC"},
+        {"option_id": "C", "text": "El piloto"},
+        {"option_id": "D", "text": "El Ministro de Transportes"}
+      ],
+      "correct_answer": "B",
+      "hint": "Máxima autoridad operativa en tiempo real.",
+      "explanation": "El Jefe de Sala aprueba las medidas de afluencia justificadas.",
+      "tags": ["atfcm", "responsabilidades"]
+    },
+    {
+      "question_id": "MOD4_049",
+      "question_text": "¿Qué vuelos están EXENTOS de todas las regulaciones ATFCM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Vuelos de bajo coste"},
+        {"option_id": "B", "text": "Vuelos que transporten Jefes de Estado"},
+        {"option_id": "C", "text": "Vuelos comerciales con retraso"},
+        {"option_id": "D", "text": "Vuelos de instrucción"}
+      ],
+      "correct_answer": "B",
+      "hint": "Vuelos de estado y urgencias médicas.",
+      "explanation": "Los Jefes de Estado, SAR, ambulancias médicas y extinción de incendios están exentos.",
+      "tags": ["atfcm", "exenciones"]
+    },
+    {
+      "question_id": "MOD4_050",
+      "question_text": "¿Qué significa el mensaje RQP?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Request Flight Plan message (Solicitud de plan de vuelo)"},
+        {"option_id": "B", "text": "Radar Quit Protocol"},
+        {"option_id": "C", "text": "Route Quick Proposal"},
+        {"option_id": "D", "text": "Rejection Quota Plan"}
+      ],
+      "correct_answer": "A",
+      "hint": "Cuando una dependencia no tiene los datos de un avión que aparece.",
+      "explanation": "RQP se usa para pedir los datos de un plan de vuelo no recibido.",
+      "tags": ["mensajes", "atc"]
+    },
+    {
+      "question_id": "MOD4_051",
+      "question_text": "¿Cuál es la expresión genérica que se aplica a la información sobre un vuelo proyectado?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Billete de avión"},
+        {"option_id": "B", "text": "Plan de vuelo"},
+        {"option_id": "C", "text": "Hoja de carga"},
+        {"option_id": "D", "text": "Bitácora"}
+      ],
+      "correct_answer": "B",
+      "hint": "Contiene la ruta y servicios requeridos.",
+      "explanation": "El plan de vuelo resume toda la intención operativa de la aeronave.",
+      "tags": ["definiciones"]
+    },
+    {
+      "question_id": "MOD4_052",
+      "question_text": "¿Qué área geográfica agrupa los países europeos para coordinar el equilibrio demanda-capacidad?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Mercosur"},
+        {"option_id": "B", "text": "Área ECAC (European Civil Aviation Conference)"},
+        {"option_id": "C", "text": "OTAN"},
+        {"option_id": "D", "text": "Commonwealth"}
+      ],
+      "correct_answer": "B",
+      "hint": "Incluye más estados que la propia Unión Europea.",
+      "explanation": "El área ECAC es el marco geográfico de actuación del IFPS y el NM de Eurocontrol.",
+      "tags": ["atfcm", "europa"]
+    },
+    {
+      "question_id": "MOD4_053",
+      "question_text": "¿Es obligatorio el plan de vuelo para un vuelo VFR nocturno que abandona las proximidades del aeródromo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "No, es opcional"},
+        {"option_id": "B", "text": "Sí, siempre"},
+        {"option_id": "C", "text": "Solo si hay tráfico IFR cerca"},
+        {"option_id": "D", "text": "Solo en verano"}
+      ],
+      "correct_answer": "B",
+      "hint": "Condición especial del VFR nocturno.",
+      "explanation": "Los vuelos VFR nocturnos fuera de proximidades requieren FPL por seguridad y seguimiento.",
+      "tags": ["obligatoriedad", "vfr"]
+    },
+    {
+      "question_id": "MOD4_054",
+      "question_text": "¿Qué dependencia es responsable de la aceptación del plan de vuelo y su retransmisión?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "La compañía aérea"},
+        {"option_id": "B", "text": "La oficina ARO centralizada"},
+        {"option_id": "C", "text": "El servicio de limpieza"},
+        {"option_id": "D", "text": "La policía local"}
+      ],
+      "correct_answer": "B",
+      "hint": "ARO = Air Traffic Services Reporting Office.",
+      "explanation": "La oficina ARO gestiona la recepción, validación inicial y envío del plan de vuelo.",
+      "tags": ["instituciones", "aro"]
+    },
+    {
+      "question_id": "MOD4_055",
+      "question_text": "¿En qué documento del AIP-España se pueden encontrar las zonas geográficas de las oficinas ARO?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "GEN 3.2"},
+        {"option_id": "B", "text": "ENR 1.10"},
+        {"option_id": "C", "text": "AD 2.1"},
+        {"option_id": "D", "text": "ENR 3.1"}
+      ],
+      "correct_answer": "B",
+      "hint": "En la sección de Planificación de Vuelos.",
+      "explanation": "La sección ENR 1.10 del AIP contiene las normas y datos sobre planes de vuelo en España.",
+      "tags": ["documentacion", "aip"]
+    },
+    {
+      "question_id": "MOD4_056",
+      "question_text": "¿Quién es el responsable de enviar todos los mensajes asociados (DLA, CHG, etc.) a la misma dependencia donde envió el FPL?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El controlador de aproximación"},
+        {"option_id": "B", "text": "El piloto o su representante autorizado"},
+        {"option_id": "C", "text": "El técnico de radares"},
+        {"option_id": "D", "text": "El gestor de red automáticamente"}
+      ],
+      "correct_answer": "B",
+      "hint": "Responsabilidad del explotador.",
+      "explanation": "El usuario debe asegurar que los cambios se notifiquen por los canales oficiales.",
+      "tags": ["responsabilidades"]
+    },
+    {
+      "question_id": "MOD4_057",
+      "question_text": "¿Qué información sobre el equipo de emergencia contiene el plan de vuelo?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El menú de la cena"},
+        {"option_id": "B", "text": "Supervivencia, botes, radiobalizas y sistemas de recuperación"},
+        {"option_id": "C", "text": "El color de los chalecos únicamente"},
+        {"option_id": "D", "text": "No contiene información de emergencia"}
+      ],
+      "correct_answer": "B",
+      "hint": "Casilla 19 (Suplementaria).",
+      "explanation": "Incluye detalles críticos para misiones SAR si fueran necesarias.",
+      "tags": ["fpl", "contenido"]
+    },
+    {
+      "question_id": "MOD4_058",
+      "question_text": "¿Qué prioridad tiene el mensaje de cancelación (CNL) cuando se presenta un Plan de Vuelo que Reemplaza (RFP)?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "FF"},
+        {"option_id": "B", "text": "DD (Excepcional)"},
+        {"option_id": "C", "text": "SS"},
+        {"option_id": "D", "text": "KK"}
+      ],
+      "correct_answer": "B",
+      "hint": "Para que sea procesado rápidamente antes del nuevo FPL.",
+      "explanation": "Se usa prioridad DD excepcionalmente para asegurar que el sistema limpie el plan antiguo antes de recibir el nuevo.",
+      "tags": ["atfcm", "prioridades"]
+    },
+    {
+      "question_id": "MOD4_059",
+      "question_text": "¿Cuál es el intervalo mínimo entre el envío de un CNL y el nuevo FPL en un procedimiento de reemplazo?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "1 minuto"},
+        {"option_id": "B", "text": "5 minutos"},
+        {"option_id": "C", "text": "30 minutos"},
+        {"option_id": "D", "text": "No hay intervalo"}
+      ],
+      "correct_answer": "B",
+      "hint": "Para evitar conflictos en el procesado del IFPS.",
+      "explanation": "Se debe esperar al menos 5 minutos entre el mensaje de cancelación y el plan que lo reemplaza.",
+      "tags": ["atfcm", "tiempos"]
+    },
+    {
+      "question_id": "MOD4_060",
+      "question_text": "¿Cuál es el orden de transmisión para mensajes con prioridad SS, DD y FF?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "FF, DD, SS"},
+        {"option_id": "B", "text": "SS, luego DD y FF"},
+        {"option_id": "C", "text": "Todos a la vez"},
+        {"option_id": "D", "text": "Alfabético"}
+      ],
+      "correct_answer": "B",
+      "hint": "Socorro es lo primero.",
+      "explanation": "SS es prioridad 1, DD/FF son prioridad 2 (aunque DD precede a FF funcionalmente).",
+      "tags": ["aftn", "prioridades"]
+    },
+    {
+      "question_id": "MOD4_061",
+      "question_text": "¿Qué fase del ATFCM produce el 'Network Operational Plan' (NOP)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Fase Estratégica"},
+        {"option_id": "B", "text": "Fase Pretáctica"},
+        {"option_id": "C", "text": "Fase Táctica"},
+        {"option_id": "D", "text": "Análisis Post-op"}
+      ],
+      "correct_answer": "A",
+      "hint": "Planificación europea global.",
+      "explanation": "El NOP es el resultado de la fase estratégica para aprovechar la capacidad del sistema.",
+      "tags": ["atfcm", "documentacion"]
+    },
+    {
+      "question_id": "MOD4_062",
+      "question_text": "¿Qué fase del ATFCM tiene por objeto medir, investigar y producir informes sobre las operaciones realizadas?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Pretáctica"},
+        {"option_id": "B", "text": "Análisis Post-Operacional"},
+        {"option_id": "C", "text": "Táctica"},
+        {"option_id": "D", "text": "Simulada"}
+      ],
+      "correct_answer": "B",
+      "hint": "Ocurre desde el día siguiente.",
+      "explanation": "Permite desarrollar mejores prácticas y realimentar el sistema.",
+      "tags": ["atfcm", "fases"]
+    },
+    {
+      "question_id": "MOD4_063",
+      "question_text": "¿Dónde se encuentran los dos centros redundantes del IFPS de Eurocontrol?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Madrid y Barcelona"},
+        {"option_id": "B", "text": "Bruselas y Bretigny (París)"},
+        {"option_id": "C", "text": "Londres y Berlín"},
+        {"option_id": "D", "text": "Roma y Atenas"}
+      ],
+      "correct_answer": "B",
+      "hint": "Sedes centrales de Eurocontrol.",
+      "explanation": "El sistema IFPS cuenta con dos centros para garantizar la continuidad del servicio.",
+      "tags": ["ifps", "instituciones"]
+    },
+    {
+      "question_id": "MOD4_064",
+      "question_text": "¿Qué base de datos del Gestor de Red contiene los detalles del área de operaciones (rutas, sectores, etc.)?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "CASA"},
+        {"option_id": "B", "text": "ENV (Environment)"},
+        {"option_id": "C", "text": "TACT"},
+        {"option_id": "D", "text": "IFPS"}
+      ],
+      "correct_answer": "B",
+      "hint": "Entorno.",
+      "explanation": "La base de datos ENV es el pilar de información geográfica y estructural del NM.",
+      "tags": ["atfcm", "sistemas"]
+    },
+    {
+      "question_id": "MOD4_065",
+      "question_text": "¿A qué se refiere el término 'Demanda' en el sistema ATFCM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Número de pilotos disponibles"},
+        {"option_id": "B", "text": "Número de vuelos que notifican su intención de volar en un espacio aéreo"},
+        {"option_id": "C", "text": "Petición judicial"},
+        {"option_id": "D", "text": "Cantidad de combustible en el aeropuerto"}
+      ],
+      "correct_answer": "B",
+      "hint": "Basada en los planes de vuelo presentados.",
+      "explanation": "La demanda es la carga de tráfico prevista según las intenciones declaradas.",
+      "tags": ["atfcm", "definiciones"]
+    },
+    {
+      "question_id": "MOD4_066",
+      "question_text": "¿Qué vuelos se EXCLUYEN del valor de demanda que maneja el sistema ATFCM?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Vuelos IFR"},
+        {"option_id": "B", "text": "Vuelos VFR y operacionales (CAO)"},
+        {"option_id": "C", "text": "Vuelos comerciales"},
+        {"option_id": "D", "text": "Vuelos nocturnos"}
+      ],
+      "correct_answer": "B",
+      "hint": "El sistema se basa en vuelos IFR/GAT.",
+      "explanation": "Los vuelos VFR y los de circulación aérea operativa (CAO) no se computan en la demanda estándar del sistema.",
+      "tags": ["atfcm", "definiciones"]
+    },
+    {
+      "question_id": "MOD4_067",
+      "question_text": "¿Qué capacidad se notifica a los organismos apropiados basada en la capacidad sostenible?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Capacidad Máxima"},
+        {"option_id": "B", "text": "Capacidad Declarada"},
+        {"option_id": "C", "text": "Capacidad Disponible"},
+        {"option_id": "D", "text": "Capacidad Real"}
+      ],
+      "correct_answer": "B",
+      "hint": "Es el valor 'oficial' publicado.",
+      "explanation": "La capacidad declarada es la referencia contractual y operativa del ANSP.",
+      "tags": ["atfcm", "capacidad"]
+    },
+    {
+      "question_id": "MOD4_068",
+      "question_text": "¿En qué condiciones coinciden la capacidad disponible y la declarada?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Nunca"},
+        {"option_id": "B", "text": "En condiciones óptimas de funcionamiento"},
+        {"option_id": "C", "text": "Solo los fines de semana"},
+        {"option_id": "D", "text": "Cuando llueve"}
+      ],
+      "correct_answer": "B",
+      "hint": "Estado normal del sistema.",
+      "explanation": "La capacidad disponible es la real del momento, que en ausencia de fallos es la declarada.",
+      "tags": ["atfcm", "capacidad"]
+    },
+    {
+      "question_id": "MOD4_069",
+      "question_text": "¿Quién es el responsable de determinar la capacidad disponible en una unidad ATS con Jefe de Sala en fase táctica?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El piloto"},
+        {"option_id": "B", "text": "El Jefe de Sala"},
+        {"option_id": "C", "text": "El controlador de torre"},
+        {"option_id": "D", "text": "Eurocontrol"}
+      ],
+      "correct_answer": "B",
+      "hint": "Máxima autoridad en la sala.",
+      "explanation": "El Jefe de Sala ajusta el valor según las circunstancias reales (meteorología, personal, etc.).",
+      "tags": ["atfcm", "responsabilidades"]
+    },
+    {
+      "question_id": "MOD4_070",
+      "question_text": "¿Qué valor de monitorización se tiene en cuenta únicamente en la fase pre-táctica por su estabilidad?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "OCC Peak"},
+        {"option_id": "B", "text": "HEC (Hourly Entry Count)"},
+        {"option_id": "C", "text": "CTOT"},
+        {"option_id": "D", "text": "ASIM"}
+      ],
+      "correct_answer": "B",
+      "hint": "Número de entradas por hora.",
+      "explanation": "HEC es el parámetro más fiable con horizontes temporales largos.",
+      "tags": ["atfcm", "monitorizacion"]
+    },
+    {
+      "question_id": "MOD4_071",
+      "question_text": "¿Qué medida técnica de afluencia consiste en espaciar los tráficos por una distancia fija en millas?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "MDI"},
+        {"option_id": "B", "text": "Miles in Trail (MINIT)"},
+        {"option_id": "C", "text": "Level Capping"},
+        {"option_id": "D", "text": "Cherry Picking"}
+      ],
+      "correct_answer": "B",
+      "hint": "Millas en cola.",
+      "explanation": "MINIT coordina la transferencia de flujo con una separación longitudinal específica en millas.",
+      "tags": ["medidas_atfcm"]
+    },
+    {
+      "question_id": "MOD4_072",
+      "question_text": "¿En qué consiste la técnica de 'Cherry Picking'?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "En elegir el color del radar"},
+        {"option_id": "B", "text": "En seleccionar vuelos específicos para aplicarles medidas y resolver picos cortos"},
+        {"option_id": "C", "text": "En dar permiso a todos los vuelos a la vez"},
+        {"option_id": "D", "text": "En cerrar aeropuertos secundarios"}
+      ],
+      "correct_answer": "B",
+      "hint": "Selección selectiva.",
+      "explanation": "Permite resolver congestiones puntuales afectando al menor número posible de vuelos.",
+      "tags": ["medidas_atfcm"]
+    },
+    {
+      "question_id": "MOD4_073",
+      "question_text": "¿Cuál es la definición de una 'Regulación' de tráfico?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Un consejo al piloto"},
+        {"option_id": "B", "text": "Medida para adecuar la demanda a la capacidad limitando entradas mediante CTOT"},
+        {"option_id": "C", "text": "La prohibición total de volar en España"},
+        {"option_id": "D", "text": "Un cambio de pista"}
+      ],
+      "correct_answer": "B",
+      "hint": "Implica la asignación de demoras en tierra.",
+      "explanation": "La regulación es el último recurso para evitar la sobrecarga de sectores.",
+      "tags": ["atfcm", "definiciones"]
+    },
+    {
+      "question_id": "MOD4_074",
+      "question_text": "¿Quién es responsable de la vigilancia de los turnos de salida (CTOT) en el aeródromo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El Network Manager"},
+        {"option_id": "B", "text": "El controlador de tránsito aéreo (CTA) de la torre"},
+        {"option_id": "C", "text": "El personal de tierra de la aerolínea"},
+        {"option_id": "D", "text": "El bombero del aeropuerto"}
+      ],
+      "correct_answer": "B",
+      "hint": "Control local de la secuencia.",
+      "explanation": "El CTA de torre debe asegurar que los vuelos cumplen con su ventana de slot.",
+      "tags": ["atfcm", "responsabilidades"]
+    },
+    {
+      "question_id": "MOD4_075",
+      "question_text": "¿Qué debe hacer el CTA de torre si aparece un plan de vuelo con estatus 'suspendido'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Darle autorización de despegue inmediata"},
+        {"option_id": "B", "text": "Comunicar con la FMP y no autorizar la salida inicialmente"},
+        {"option_id": "C", "text": "Ignorar el mensaje"},
+        {"option_id": "D", "text": "Llamar a la policía"}
+      ],
+      "correct_answer": "B",
+      "hint": "FLS recibido.",
+      "explanation": "Un vuelo suspendido no puede despegar hasta que se levante la suspensión.",
+      "tags": ["atfcm", "operaciones"]
+    },
+    {
+      "question_id": "MOD4_076",
+      "question_text": "¿Qué tipo de vuelos son excluidos de ALGUNA regulación o volumen específico por el proveedor de servicios?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Vuelos exentos"},
+        {"option_id": "B", "text": "Vuelos excluidos"},
+        {"option_id": "C", "text": "Vuelos prioritarios"},
+        {"option_id": "D", "text": "Vuelos de carga"}
+      ],
+      "correct_answer": "B",
+      "hint": "Diferencia sutil con 'exentos'.",
+      "explanation": "Los exentos lo son para todas las regulaciones (Estados); los excluidos solo para algunas (Proveedores).",
+      "tags": ["atfcm", "exenciones"]
+    },
+    {
+      "question_id": "MOD4_077",
+      "question_text": "¿Cuál es un ejemplo de vuelo exento de regulaciones por transportar altas dignidades?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Vuelo de un equipo de fútbol"},
+        {"option_id": "B", "text": "Vuelo con Jefes de Estado o equivalentes"},
+        {"option_id": "C", "text": "Vuelo de una ONG"},
+        {"option_id": "D", "text": "Vuelo de un crucero"}
+      ],
+      "correct_answer": "B",
+      "hint": "Vuelos de estado.",
+      "explanation": "Los Jefes de Estado gozan de exención en las medidas de afluencia.",
+      "tags": ["atfcm", "exenciones"]
+    },
+    {
+      "question_id": "MOD4_078",
+      "question_text": "¿Qué puede ocurrir si se cancela una regulación de forma brusca?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Nada, el tráfico fluye mejor"},
+        {"option_id": "B", "text": "Incremento repentino en la carga de tráfico y posible impacto negativo en otros ACC"},
+        {"option_id": "C", "text": "Se apagan los radares"},
+        {"option_id": "D", "text": "Los aviones vuelan más lento"}
+      ],
+      "correct_answer": "B",
+      "hint": "Efecto rebote.",
+      "explanation": "La liberación masiva de tráficos demorados puede saturar el sistema aguas abajo.",
+      "tags": ["atfcm", "operaciones"]
+    },
+    {
+      "question_id": "MOD4_079",
+      "question_text": "¿Cuál es el concepto base del FUA?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Separar el espacio civil del militar para siempre"},
+        {"option_id": "B", "text": "Espacio aéreo único y continuo, con segregación solo temporal"},
+        {"option_id": "C", "text": "Prohibir los vuelos militares"},
+        {"option_id": "D", "text": "Cobrar por usar el espacio aéreo"}
+      ],
+      "correct_answer": "B",
+      "hint": "Flexible Use of Airspace.",
+      "explanation": "FUA optimiza el espacio permitiendo su uso por distintos usuarios según la necesidad del momento.",
+      "tags": ["fua"]
+    },
+    {
+      "question_id": "MOD4_080",
+      "question_text": "¿Qué son las Rutas Condicionales (CDR)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Rutas que solo existen si no llueve"},
+        {"option_id": "B", "text": "Rutas de carácter no permanente utilizables bajo condiciones específicas"},
+        {"option_id": "C", "text": "Rutas para aviones ligeros únicamente"},
+        {"option_id": "D", "text": "Rutas que cruzan el océano"}
+      ],
+      "correct_answer": "B",
+      "hint": "Categoría CDR 1 es la más común hoy día.",
+      "explanation": "Permiten usar espacio aéreo militar cuando no está activo, acortando trayectorias.",
+      "tags": ["fua", "rutas"]
+    },
+    {
+      "question_id": "MOD4_081",
+      "question_text": "¿Qué mensaje actualiza la información del AUP durante el día?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "SUP"},
+        {"option_id": "B", "text": "UUP (Updated Use Plan)"},
+        {"option_id": "C", "text": "CHG"},
+        {"option_id": "D", "text": "NOTAM"}
+      ],
+      "correct_answer": "B",
+      "hint": "Plan de actualización.",
+      "explanation": "El UUP permite reflejar cambios tácticos en la disponibilidad de rutas y áreas segregadas.",
+      "tags": ["fua", "documentacion"]
+    },
+    {
+      "question_id": "MOD4_082",
+      "question_text": "¿Qué sistema de Eurocontrol se encarga de la validación y distribución de los planes de vuelo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "CASA"},
+        {"option_id": "B", "text": "IFPS"},
+        {"option_id": "C", "text": "ENV"},
+        {"option_id": "D", "text": "TACT"}
+      ],
+      "correct_answer": "B",
+      "hint": "Integrated initial Flight Plan processing System.",
+      "explanation": "IFPS es la puerta de entrada de todos los FPL en Europa.",
+      "tags": ["ifps", "sistemas"]
+    },
+    {
+      "question_id": "MOD4_083",
+      "question_text": "¿Qué significa el acrónimo CASA en el contexto del Network Manager?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Centro de Aeronáutica y Seguridad Aérea"},
+        {"option_id": "B", "text": "Computer Assisted Slot Allocation system (Sistema de asignación de slots)"},
+        {"option_id": "C", "text": "Control de Afluencia en Sectores de Aproximación"},
+        {"option_id": "D", "text": "Coordinación de Altitudes en Situaciones de Alarma"}
+      ],
+      "correct_answer": "B",
+      "hint": "El cerebro que calcula las demoras y asigna CTOTs.",
+      "explanation": "CASA es el algoritmo que gestiona las colas de tráfico y asigna los turnos de despegue.",
+      "tags": ["atfcm", "sistemas"]
+    },
+    {
+      "question_id": "MOD4_084",
+      "question_text": "¿Cuál es la función de la Unidad Central ATM (UATM) en España respecto al FUA?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Entrenar a los militares"},
+        {"option_id": "B", "text": "Participar en la gestión de la parte civil de la AMC"},
+        {"option_id": "C", "text": "Vender espacio aéreo"},
+        {"option_id": "D", "text": "Solo vigilar los radares"}
+      ],
+      "correct_answer": "B",
+      "hint": "Interfaz nacional civil/militar.",
+      "explanation": "La UATM centraliza la coordinación de afluencia y estructuras flexibles a nivel nacional.",
+      "tags": ["fua", "instituciones"]
+    },
+    {
+      "question_id": "MOD4_085",
+      "question_text": "¿Qué ocurre si una aeronave en vuelo requiere servicios ATS pero no se han recibido sus datos básicos?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Se le prohíbe volar"},
+        {"option_id": "B", "text": "Se transmite un mensaje RQP (Request Flight Plan)"},
+        {"option_id": "C", "text": "Se apaga el radar"},
+        {"option_id": "D", "text": "Se le pide que aterrice inmediatamente"}
+      ],
+      "correct_answer": "B",
+      "hint": "Solicitud de datos.",
+      "explanation": "El mensaje RQP permite obtener la información del FPL de la dependencia anterior o del sistema central.",
+      "tags": ["mensajes", "atc"]
+    },
+    {
+      "question_id": "MOD4_086",
+      "question_text": "¿Qué mensaje se usa para pedir datos de plan de vuelo SUPLEMENTARIO (casilla 19)?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "RQP"},
+        {"option_id": "B", "text": "RQS (Request Supplementary Information)"},
+        {"option_id": "C", "text": "SPL"},
+        {"option_id": "D", "text": "CHG"}
+      ],
+      "correct_answer": "B",
+      "hint": "Request Supplementary.",
+      "explanation": "RQS se envía para obtener datos de emergencia o supervivencia no incluidos en el FPL estándar.",
+      "tags": ["mensajes"]
+    },
+    {
+      "question_id": "MOD4_087",
+      "question_text": "¿Qué prioridad tiene el mensaje SS (Socorro) en la red AFTN?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "3"},
+        {"option_id": "B", "text": "1 (Máxima)"},
+        {"option_id": "C", "text": "5"},
+        {"option_id": "D", "text": "No tiene prioridad fija"}
+      ],
+      "correct_answer": "B",
+      "hint": "Supera a todos los demás mensajes.",
+      "explanation": "Los mensajes de socorro deben transmitirse antes que cualquier otro tráfico.",
+      "tags": ["aftn", "prioridades"]
+    },
+    {
+      "question_id": "MOD4_088",
+      "question_text": "¿Qué significa EOBT?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "End of Block Time"},
+        {"option_id": "B", "text": "Estimated Off-Block Time (Hora prevista de fuera calzos)"},
+        {"option_id": "C", "text": "Emergency Operational Base Terminal"},
+        {"option_id": "D", "text": "Early Output Break Time"}
+      ],
+      "correct_answer": "B",
+      "hint": "Referencia temporal para la salida.",
+      "explanation": "Es la hora en la que la aeronave prevé iniciar el movimiento para el despegue.",
+      "tags": ["fpl", "tiempos"]
+    },
+    {
+      "question_id": "MOD4_089",
+      "question_text": "¿Cuál es el máximo intervalo de despegue que se puede aplicar en un MDI táctico?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "2 minutos"},
+        {"option_id": "B", "text": "5 minutos"},
+        {"option_id": "C", "text": "15 minutos"},
+        {"option_id": "D", "text": "30 minutos"}
+      ],
+      "correct_answer": "B",
+      "hint": "Según la guía de aplicación de MDI.",
+      "explanation": "El intervalo máximo será de 5 minutos durante no más de 30 minutos.",
+      "tags": ["medidas_atfcm", "tiempos"]
+    },
+    {
+      "question_id": "MOD4_090",
+      "question_text": "¿Qué sistema monitoriza datos de tráfico y permite implementar medidas ATFCM en Eurocontrol?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "IFPS"},
+        {"option_id": "B", "text": "ETFMS (Enhanced Tactical Flow Management System)"},
+        {"option_id": "C", "text": "ENV"},
+        {"option_id": "D", "text": "CASA"}
+      ],
+      "correct_answer": "B",
+      "hint": "Antiguamente llamado TACT.",
+      "explanation": "ETFMS es el sistema que recibe datos de radar para gestionar el flujo táctico.",
+      "tags": ["atfcm", "sistemas"]
+    },
+    {
+      "question_id": "MOD4_091",
+      "question_text": "¿Qué significa el mensaje CHG?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Charge (Tasas)"},
+        {"option_id": "B", "text": "Change (Modificación)"},
+        {"option_id": "C", "text": "Check (Verificación)"},
+        {"option_id": "D", "text": "Charter (Vuelo fletado)"}
+      ],
+      "correct_answer": "B",
+      "hint": "Para actualizar datos del FPL.",
+      "explanation": "CHG se usa para modificar campos permitidos de un plan ya presentado.",
+      "tags": ["mensajes"]
+    },
+    {
+      "question_id": "MOD4_092",
+      "question_text": "¿Es necesario el FPL para un vuelo VFR nocturno dentro de proximidades del aeródromo?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Sí, siempre"},
+        {"option_id": "B", "text": "No, si no abandona las proximidades"},
+        {"option_id": "C", "text": "Solo si es internacional"},
+        {"option_id": "D", "text": "Solo en Madrid"}
+      ],
+      "correct_answer": "B",
+      "hint": "La excepción es el vuelo local nocturno.",
+      "explanation": "El plan de vuelo es obligatorio para VFR nocturno que ABANDONE las proximidades.",
+      "tags": ["obligatoriedad", "vfr"]
+    },
+    {
+      "question_id": "MOD4_093",
+      "question_text": "¿Qué mensaje se transmite cuando una aeronave llega a un aeródromo de alternativa?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "DEP"},
+        {"option_id": "B", "text": "ARR (Arrival)"},
+        {"option_id": "C", "text": "DLA"},
+        {"option_id": "D", "text": "CNL"}
+      ],
+      "correct_answer": "B",
+      "hint": "Independientemente de si es el destino original o no.",
+      "explanation": "El mensaje ARR debe enviarse al centro de control del área de llegada y a otros interesados.",
+      "tags": ["mensajes"]
+    },
+    {
+      "question_id": "MOD4_094",
+      "question_text": "¿Qué significa el acrónimo FMP?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Flight Monitoring Program"},
+        {"option_id": "B", "text": "Flow Management Position (Posición de gestión de afluencia)"},
+        {"option_id": "C", "text": "Final Movement Point"},
+        {"option_id": "D", "text": "Frequency Management Protocol"}
+      ],
+      "correct_answer": "B",
+      "hint": "Situada en los Centros de Control.",
+      "explanation": "La FMP coordina localmente las medidas de regulación con el Gestor de Red.",
+      "tags": ["atfcm", "siglas"]
+    },
+    {
+      "question_id": "MOD4_095",
+      "question_text": "¿En qué fase se analizan los desequilibrios capacidad-demanda con más de 3 horas de antelación?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Táctica"},
+        {"option_id": "B", "text": "Pretáctica"},
+        {"option_id": "C", "text": "Estratégica"},
+        {"option_id": "D", "text": "Histórica"}
+      ],
+      "correct_answer": "B",
+      "hint": "Usa valores de HEC.",
+      "explanation": "La fase pretáctica utiliza el HEC para detectar sobredemandas antes del día de la operación.",
+      "tags": ["atfcm", "fases"]
+    },
+    {
+      "question_id": "MOD4_096",
+      "question_text": "¿Qué significa el mensaje logic 'LAM'?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Local Area Management"},
+        {"option_id": "B", "text": "Logical Acknowledgement message (Mensaje de acuse de recibo lógico)"},
+        {"option_id": "C", "text": "Landing Authorization Monitor"},
+        {"option_id": "D", "text": "Line Availability Mode"}
+      ],
+      "correct_answer": "B",
+      "hint": "Mensaje automático entre sistemas ATC.",
+      "explanation": "Confirma que un mensaje ha sido recibido y procesado correctamente por el sistema colateral.",
+      "tags": ["mensajes", "atc"]
+    },
+    {
+      "question_id": "MOD4_097",
+      "question_text": "¿Cómo se denomina la medida ATC de modificar la ruta en vuelo para evitar un sector sobrecargado?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Rerouting estratégico"},
+        {"option_id": "B", "text": "Rerouting táctico"},
+        {"option_id": "C", "text": "Directo a punto"},
+        {"option_id": "D", "text": "Espera en el aire"}
+      ],
+      "correct_answer": "B",
+      "hint": "Se comunica al piloto y se reincorpora lo antes posible.",
+      "explanation": "Es una medida inmediata para gestionar la ocupación real de un sector.",
+      "tags": ["medidas_atfcm"]
+    },
+    {
+      "question_id": "MOD4_098",
+      "question_text": "¿Qué vuelos requieren plan de vuelo si operan sobre AGUAS INTERNACIONALES bajo jurisdicción española?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Solo los IFR"},
+        {"option_id": "B", "text": "Cualquier vuelo VFR que proceda del territorio nacional"},
+        {"option_id": "C", "text": "Solo los barcos"},
+        {"option_id": "D", "text": "Ninguno, son aguas libres"}
+      ],
+      "correct_answer": "B",
+      "hint": "Regla de soberanía y seguimiento.",
+      "explanation": "VFR sobre aguas internacionales en espacio español requiere FPL.",
+      "tags": ["obligatoriedad", "vfr"]
+    },
+    {
+      "question_id": "MOD4_099",
+      "question_text": "¿Quién es el responsable de solicitar al Network Manager la implantación de medidas ATFCM?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El piloto"},
+        {"option_id": "B", "text": "El TCA (Técnico de Control de Afluencia)"},
+        {"option_id": "C", "text": "El controlador de ruta"},
+        {"option_id": "D", "text": "El jefe de aeropuerto"}
+      ],
+      "correct_answer": "B",
+      "hint": "Actúa desde la FMP.",
+      "explanation": "El TCA monitoriza y pide al NM las regulaciones necesarias.",
+      "tags": ["atfcm", "responsabilidades"]
+    },
+    {
+      "question_id": "MOD4_100",
+      "question_text": "¿Qué significa el mensaje SPL?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Simple Pilot Log"},
+        {"option_id": "B", "text": "Supplementary Flight Plan message (Plan de vuelo suplementario)"},
+        {"option_id": "C", "text": "Standard Path Level"},
+        {"option_id": "D", "text": "Surface Pressure Limit"}
+      ],
+      "correct_answer": "B",
+      "hint": "Información adicional solicitada.",
+      "explanation": "Contiene datos de la casilla 19 solicitados por una dependencia ATS.",
+      "tags": ["mensajes"]
     }
   ],
   "metadata": {
-    "total_questions": 50,
+    "total_questions": 100,
     "difficulty_distribution": {
-      "muy_facil": 6,
-      "facil": 14,
-      "media": 16,
-      "dificil": 11,
-      "muy_dificil": 3
+      "muy_facil": 15,
+      "facil": 25,
+      "media": 40,
+      "dificil": 15,
+      "muy_dificil": 5
     },
     "topics_covered": [
-      "Plan de vuelo (FPL)",
-      "Requisitos de presentación",
-      "Mensajes AFTN (FPL, CHG, DLA, CNL, DEP, ARR)",
-      "Prioridades de mensajes",
-      "ATFM (Gestión de afluencia)",
-      "NM/Network Manager (Eurocontrol)",
-      "CTOT y slots",
-      "Regulaciones ATFM",
-      "FUA (Uso Flexible del Espacio Aéreo)",
-      "TSA, TRA, CDR",
-      "AMC (Airspace Management Cell)",
-      "AUP (Airspace Use Plan)",
-      "Capacidad y demanda",
-      "Fases ATFM (estratégica, pre-táctica, táctica)",
-      "Vuelos exentos",
-      "IFPS",
-      "GAT/OAT",
-      "Campos FPL (7, 15, 18)",
-      "RPL, AFIL",
-      "ICARO, ARO",
-      "EST, UTC",
-      "ASM, ACCF"
+      "Definición y tipos de Plan de Vuelo (FPL, RPL, AFIL)",
+      "Vuelos sujetos a presentación obligatoria",
+      "Formulario FPL OACI (Casillas y Contenido)",
+      "Tiempos de presentación y RFP",
+      "Mensajería AFTN (Prioridades SS, DD, FF, GG, KK)",
+      "Mensajes de movimiento y control (DLA, CHG, CNL, DEP, ARR, RQP)",
+      "Fases de Emergencia (INCERFA, ALERFA, DETRESFA)",
+      "Gestión de Afluencia (ATFCM) y Network Manager (NM)",
+      "Fases ATFCM (Estratégica, Pretáctica, Táctica, Post-op)",
+      "Capacidad (Sostenible, Máxima, Declarada, Disponible)",
+      "Técnicas ATFCM (Level Capping, Rerouting, MDI, Miles in Trail, Cherry Picking)",
+      "Slots y CTOT (Window de tolerancia)",
+      "Uso Flexible del Espacio Aéreo (FUA, AMC, AUP, UUP, CDR)"
     ],
-    "created_at": "2025-01-23",
+    "created_at": "2025-02-06",
     "language": "es",
     "exam_format": "mcq_multiple_choice",
     "answer_format": "single_correct",
-    "scope": "modulo_4_completo"
+    "scope": "modulo_4_completo_ampliado"
   }
 }

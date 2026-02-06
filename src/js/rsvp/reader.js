@@ -190,7 +190,9 @@ export class RSVPReader {
       }
     }
 
-    this._timeoutId = requestAnimationFrame(() => this._tick());
+    if (this._isPlaying) {
+      this._timeoutId = requestAnimationFrame(() => this._tick());
+    }
   }
 
   /**
@@ -383,30 +385,5 @@ export class RSVPReader {
     if (this._onWordChange) {
       this._onWordChange(word, this._currentWordIndex);
     }
-  }
-
-  /**
-   * Schedule the next word for display
-   * @private
-   */
-  _scheduleNextWord() {
-    if (!this._isPlaying) {
-      return;
-    }
-
-    // Check if we've reached the end
-    if (this._currentWordIndex >= this._words.length - 1) {
-      this.pause();
-      return;
-    }
-
-    const currentWord = this._words[this._currentWordIndex];
-    const delay = currentWord.delay;
-
-    this._timeoutId = setTimeout(() => {
-      this._currentWordIndex++;
-      this._displayCurrentWord();
-      this._scheduleNextWord();
-    }, delay);
   }
 }

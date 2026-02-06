@@ -48,7 +48,7 @@ export function renderWord(word) {
   // Extract core word (ignoring leading/trailing punctuation for ORP calculation)
   const punctuationRegex = /^[^\w\dáéíóúÁÉÍÓÚñÑ]*(.*?)[^\w\dáéíóúÁÉÍÓÚñÑ]*$/;
   const match = word.match(punctuationRegex);
-  const coreWord = match ? match[1] : word;
+  const coreWord = (match && match[1]) ? match[1] : word;
   
   // Find where coreWord starts in the original word
   const coreStartIndex = word.indexOf(coreWord);

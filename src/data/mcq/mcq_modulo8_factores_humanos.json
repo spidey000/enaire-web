@@ -1,0 +1,1632 @@
+{
+  "module_id": "MOD_008",
+  "module_name": "Factores Humanos",
+  "mcq_set": [
+    {
+      "question_id": "MOD8_001",
+      "question_text": "¿Cuál es la diferencia entre Factores Humanos y Actuaciones Humanas según el Doc. 10151 de OACI?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Son términos idénticos utilizados en diferentes idiomas."},
+        {"option_id": "B", "text": "Las actuaciones humanas se refieren a cómo las personas realizan sus actividades y su contribución al sistema, mientras que los factores humanos aplican el conocimiento sobre el ser humano al diseño del equipo y entorno."},
+        {"option_id": "C", "text": "Los factores humanos se refieren solo a la ergonomía física."},
+        {"option_id": "D", "text": "Las actuaciones humanas se ocupan exclusivamente de la selección de personal."}
+      ],
+      "correct_answer": "B",
+      "hint": "Actuaciones = Desempeño; Factores = Disciplina de diseño.",
+      "explanation": "OACI define Actuaciones Humanas (Human Performance) como la contribución humana al sistema, y Factores Humanos (Human Factors) como la aplicación de conocimientos científicos sobre el ser humano al diseño.",
+      "tags": ["definiciones", "oaci"]
+    },
+    {
+      "question_id": "MOD8_002",
+      "question_text": "¿A qué disciplina se asocian habitualmente los aspectos psicológicos de los humanos en el ámbito de la aviación?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Ergonomía"},
+        {"option_id": "B", "text": "Factores Humanos"},
+        {"option_id": "C", "text": "Ingeniería de Sistemas"},
+        {"option_id": "D", "text": "Estadística"}
+      ],
+      "correct_answer": "B",
+      "hint": "La ergonomía suele centrarse más en lo físico.",
+      "explanation": "Fuera de la aviación se intercambian, pero en aviación los Factores Humanos suelen enfatizar los aspectos psicológicos y la Ergonomía los físicos/fisiológicos.",
+      "tags": ["definiciones"]
+    },
+    {
+      "question_id": "MOD8_003",
+      "question_text": "¿Qué modelo introdujo James Reason a mediados de 1990 para explicar la causalidad de los accidentes?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Modelo SHELL"},
+        {"option_id": "B", "text": "Modelo del Queso Suizo"},
+        {"option_id": "C", "text": "Modelo de Rasmussen"},
+        {"option_id": "D", "text": "Modelo TEM"}
+      ],
+      "correct_answer": "B",
+      "hint": "Visualiza capas de protección con agujeros.",
+      "explanation": "Reason introdujo el modelo del Queso Suizo, donde cada capa de defensa tiene debilidades (agujeros) y el accidente ocurre cuando estos se alinean.",
+      "tags": ["reason", "modelos"]
+    },
+    {
+      "question_id": "MOD8_004",
+      "question_text": "¿Qué concepto clave de Reason considera el impacto de la cultura y las políticas de la organización?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Error activo"},
+        {"option_id": "B", "text": "Accidente organizacional"},
+        {"option_id": "C", "text": "Skill-based behavior"},
+        {"option_id": "D", "text": "Transgresión consciente"}
+      ],
+      "correct_answer": "B",
+      "hint": "Pone el foco más allá del error individual.",
+      "explanation": "Reason introdujo el concepto de accidente organizacional, que analiza cómo los factores organizativos (cultura, políticas) crean condiciones latentes para fallos.",
+      "tags": ["reason", "seguridad"]
+    },
+    {
+      "question_id": "MOD8_005",
+      "question_text": "¿Qué significa el acrónimo GEMS propuesto por Reason?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Global Environment Management System"},
+        {"option_id": "B", "text": "General Error Modelling System"},
+        {"option_id": "C", "text": "Graphical Electronic Monitoring Station"},
+        {"option_id": "D", "text": "Governmental Emergency Management Standard"}
+      ],
+      "correct_answer": "B",
+      "hint": "Es un modelo para clasificar errores humanos.",
+      "explanation": "GEMS (General Error Modelling System) es el sistema de clasificación de errores basado en procesos cognitivos desarrollado por James Reason.",
+      "tags": ["reason", "error_humano"]
+    },
+    {
+      "question_id": "MOD8_006",
+      "question_text": "En el modelo de Rasmussen, ¿cómo se denomina la conducta donde los procesos son automatizados y no requieren atención consciente?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Conducta basada en reglas"},
+        {"option_id": "B", "text": "Conducta basada en habilidades (skill-based)"},
+        {"option_id": "C", "text": "Conducta basada en conocimiento"},
+        {"option_id": "D", "text": "Conducta adaptativa"}
+      ],
+      "correct_answer": "B",
+      "hint": "Ejemplo: conducir un coche siendo experto.",
+      "explanation": "La conducta basada en habilidades ocurre en tareas muy conocidas y rutinarias donde intervienen procesos automatizados.",
+      "tags": ["rasmussen", "cognicion"]
+    },
+    {
+      "question_id": "MOD8_007",
+      "question_text": "¿En qué modo de rendimiento de Rasmussen operamos cuando nos enfrentamos a una emergencia nueva que requiere un gran esfuerzo de análisis?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Basado en habilidades"},
+        {"option_id": "B", "text": "Basado en reglas"},
+        {"option_id": "C", "text": "Basado en conocimiento (knowledge-based)"},
+        {"option_id": "D", "text": "Basado en la intuición"}
+      ],
+      "correct_answer": "C",
+      "hint": "No hay reglas almacenadas, hay que trazar un plan nuevo.",
+      "explanation": "Se opera en el modo basado en conocimiento cuando no hay reglas ni acciones almacenadas para la situación actual.",
+      "tags": ["rasmussen", "cognicion"]
+    },
+    {
+      "question_id": "MOD8_008",
+      "question_text": "En el modelo SHELL-O, ¿qué representa la letra 'L' central?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Legislación"},
+        {"option_id": "B", "text": "Liveware (Elemento Humano)"},
+        {"option_id": "C", "text": "Liderazgo"},
+        {"option_id": "D", "text": "Logística"}
+      ],
+      "correct_answer": "B",
+      "hint": "Es el componente más flexible del sistema.",
+      "explanation": "Liveware (L) representa al ser humano (controlador, piloto, etc.), el eje central del modelo al que el resto deben ajustarse.",
+      "tags": ["shell", "modelos"]
+    },
+    {
+      "question_id": "MOD8_009",
+      "question_text": "¿Qué relación del modelo SHELL-O analiza la interfaz entre el humano y la máquina (consolas, pantallas, ergonomía)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Relación L-S"},
+        {"option_id": "B", "text": "Relación L-H (Liveware-Hardware)"},
+        {"option_id": "C", "text": "Relación L-E"},
+        {"option_id": "D", "text": "Relación L-L"}
+      ],
+      "correct_answer": "B",
+      "hint": "Hardware = Soporte físico.",
+      "explanation": "La relación L-H representa la interfaz entre el ser humano y el soporte físico o máquinas.",
+      "tags": ["shell", "ergonomia"]
+    },
+    {
+      "question_id": "MOD8_010",
+      "question_text": "La relación L-S del modelo SHELL se refiere a la interacción con:",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El entorno ambiental"},
+        {"option_id": "B", "text": "Sistemas técnicos físicos"},
+        {"option_id": "C", "text": "Soporte lógico: procedimientos, manuales y reglamentos"},
+        {"option_id": "D", "text": "Otros compañeros"}
+      ],
+      "correct_answer": "C",
+      "hint": "Software = Lo no físico.",
+      "explanation": "L-S (Liveware-Software) analiza la relación con los procedimientos operativos, reglamentos y manuales de apoyo.",
+      "tags": ["shell", "procedimientos"]
+    },
+    {
+      "question_id": "MOD8_011",
+      "question_text": "¿Cuál de los principios de EUROCONTROL para 'Systems Thinking' establece que cada persona actúa en función de sus propios objetivos y contexto local?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Cultura justa"},
+        {"option_id": "B", "text": "Racionalidad local (Local Rationality)"},
+        {"option_id": "C", "text": "Emergencia del sistema"},
+        {"option_id": "D", "text": "Equivalencia"}
+      ],
+      "correct_answer": "B",
+      "hint": "Principio 2: Analizar desde la perspectiva del experto.",
+      "explanation": "La Racionalidad Local implica entender que los profesionales actúan de forma lógica según su visión en ese momento, sus limitaciones y sus metas.",
+      "tags": ["eurocontrol", "seguridad"]
+    },
+    {
+      "question_id": "MOD8_012",
+      "question_text": "¿Qué principio sistémico afirma que el éxito y el fracaso se originan en los mismos procesos?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Principio de Contrapartidas"},
+        {"option_id": "B", "text": "Principio de Equivalencia"},
+        {"option_id": "C", "text": "Principio de Demanda y Presión"},
+        {"option_id": "D", "text": "Emergencia"}
+      ],
+      "correct_answer": "B",
+      "hint": "Principio 10 de EUROCONTROL.",
+      "explanation": "El principio de equivalencia sostiene que las raíces de lo que sale bien y lo que sale mal son las mismas (adaptación, variabilidad).",
+      "tags": ["eurocontrol", "seguridad"]
+    },
+    {
+      "question_id": "MOD8_013",
+      "question_text": "En el enfoque Safety-II, ¿cuál es la visión del factor humano?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El ser humano es predominantemente una amenaza."},
+        {"option_id": "B", "text": "El ser humano es un recurso necesario para la resiliencia y flexibilidad del sistema."},
+        {"option_id": "C", "text": "El ser humano debe ser reemplazado por IA para ser seguro."},
+        {"option_id": "D", "text": "El error humano es inevitable y siempre dañino."}
+      ],
+      "correct_answer": "B",
+      "hint": "Safety-II es proactivo y valora la adaptación.",
+      "explanation": "A diferencia de Safety-I (donde el humano es amenaza), Safety-II lo ve como el elemento que crea seguridad mediante su ajuste al entorno.",
+      "tags": ["safety_ii", "resiliencia"]
+    },
+    {
+      "question_id": "MOD8_014",
+      "question_text": "¿Cómo define Hollnagel la brecha entre el diseño teórico y la realidad operativa?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Error vs Incidente"},
+        {"option_id": "B", "text": "Work-as-Imagined vs Work-as-Done"},
+        {"option_id": "C", "text": "Software vs Hardware"},
+        {"option_id": "D", "text": "Safety vs Security"}
+      ],
+      "correct_answer": "B",
+      "hint": "Trabajo como se imagina vs Trabajo como se hace.",
+      "explanation": "Work-as-Imagined es lo que el diseñador prevé; Work-as-Done es lo que el controlador hace realmente para que el sistema funcione.",
+      "tags": ["hollnagel", "operacion"]
+    },
+    {
+      "question_id": "MOD8_015",
+      "question_text": "¿Qué reglamento europeo obliga a realizar evaluaciones de seguridad operacional ante cambios considerando el impacto en el Factor Humano?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Reglamento (UE) 2015/340"},
+        {"option_id": "B", "text": "Reglamento (UE) 2017/373"},
+        {"option_id": "C", "text": "Convenio de Chicago"},
+        {"option_id": "D", "text": "Anexo 13 de OACI"}
+      ],
+      "correct_answer": "B",
+      "hint": "Es el reglamento de requisitos comunes para proveedores.",
+      "explanation": "El Reglamento (UE) 2017/373 estipula la obligatoriedad de analizar el Factor Humano en los cambios del sistema funcional.",
+      "tags": ["ue", "legislacion"]
+    },
+    {
+      "question_id": "MOD8_016",
+      "question_text": "¿Qué programa específico es obligatorio desarrollar para gestionar el impacto de un suceso traumático según el Reglamento 2017/373?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Programa de vigilancia de salud"},
+        {"option_id": "B", "text": "Programa de gestión de estrés por incidente crítico (CISM)"},
+        {"option_id": "C", "text": "Programa de entrenamiento recurrente"},
+        {"option_id": "D", "text": "Programa de fomento de la actividad física"}
+      ],
+      "correct_answer": "B",
+      "hint": "CISM: Critical Incident Stress Management.",
+      "explanation": "El proveedor debe mantener una política de gestión de estrés que incluya un programa para incidentes críticos.",
+      "tags": ["estres", "cism", "ue"]
+    },
+    {
+      "question_id": "MOD8_017",
+      "question_text": "¿Qué elemento del sistema de turnos NO es mencionado explícitamente como requisito a especificar por el Reg. 2017/373?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Número máximo de días hábiles consecutivos"},
+        {"option_id": "B", "text": "Duración máxima del servicio sin descansos"},
+        {"option_id": "C", "text": "Salario base percibido en turnos nocturnos"},
+        {"option_id": "D", "text": "Número mínimo de periodos de descanso en un ciclo"}
+      ],
+      "correct_answer": "C",
+      "hint": "El reglamento se centra en seguridad y fatiga, no en retribución laboral.",
+      "explanation": "El reglamento ATS.OR.320 especifica elementos de fatiga (días, horas, descansos), pero no aspectos económicos o salariales.",
+      "tags": ["ue", "turnos", "fatiga"]
+    },
+    {
+      "question_id": "MOD8_018",
+      "question_text": "¿Cuál es la fase del ciclo de formación de unidad donde se entrena en simulador?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Formación de transición"},
+        {"option_id": "B", "text": "Pre-OJT"},
+        {"option_id": "C", "text": "OJT"},
+        {"option_id": "D", "text": "Formación básica"}
+      ],
+      "correct_answer": "B",
+      "hint": "Antes de ir al puesto real.",
+      "explanation": "La formación de unidad consta de Transición (teoría), Pre-OJT (simulador) y OJT (puesto real).",
+      "tags": ["formacion", "atco"]
+    },
+    {
+      "question_id": "MOD8_019",
+      "question_text": "¿Qué porcentaje del coste final de un proyecto suele venir fijado por el desarrollo en el primer 10% de su ciclo de vida?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Alrededor del 10%"},
+        {"option_id": "B", "text": "Alrededor del 30%"},
+        {"option_id": "C", "text": "Alrededor del 70%"},
+        {"option_id": "D", "text": "Alrededor del 90%"}
+      ],
+      "correct_answer": "C",
+      "hint": "Importancia de integrar los FFHH desde el inicio (fase conceptual).",
+      "explanation": "Según EUROCONTROL-FAA, el 70% del coste se fija al inicio, lo que hace crítica la intervención de FFHH en el diseño temprano.",
+      "tags": ["gestion_proyectos", "costes"]
+    },
+    {
+      "question_id": "MOD8_020",
+      "question_text": "¿Qué diferencia al 'equipo' de un 'grupo' de trabajo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El equipo no tiene jefe."},
+        {"option_id": "B", "text": "El equipo tiene miembros interdependientes con un objetivo común y autonomía."},
+        {"option_id": "C", "text": "El grupo siempre trabaja en el mismo horario."},
+        {"option_id": "D", "text": "No hay diferencia real."}
+      ],
+      "correct_answer": "B",
+      "hint": "Interdependencia y sinergia.",
+      "explanation": "Un equipo interactúa dinámicamente, con miembros interdependientes y un objetivo compartido, frente al grupo que suele estar más controlado externamente.",
+      "tags": ["trm", "equipo"]
+    },
+    {
+      "question_id": "MOD8_021",
+      "question_text": "¿Qué significa TRM?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Total Risk Management"},
+        {"option_id": "B", "text": "Team Resource Management"},
+        {"option_id": "C", "text": "Traffic Regulation Monitor"},
+        {"option_id": "D", "text": "Technical Resource Maintenance"}
+      ],
+      "correct_answer": "B",
+      "hint": "Gestión de Recursos de Equipo.",
+      "explanation": "TRM (Team Resource Management) es la aplicación de FFHH para maximizar la eficiencia del equipo en ATM.",
+      "tags": ["trm", "siglas"]
+    },
+    {
+      "question_id": "MOD8_022",
+      "question_text": "¿Cuál de las siguientes NO es una de las categorías de habilidades TRM?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Conciencia situacional"},
+        {"option_id": "B", "text": "Gestión del estrés"},
+        {"option_id": "C", "text": "Conocimiento profundo de aerodinámica"},
+        {"option_id": "D", "text": "Comunicación interpersonal"}
+      ],
+      "correct_answer": "C",
+      "hint": "TRM se centra en habilidades no técnicas (conductuales).",
+      "explanation": "TRM incluye comunicación, conciencia situacional, toma de decisiones, estrés y trabajo en equipo. La aerodinámica es una competencia técnica.",
+      "tags": ["trm", "competencias"]
+    },
+    {
+      "question_id": "MOD8_023",
+      "question_text": "¿Cuánto dura aproximadamente la memoria a corto plazo del ser humano?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "1 a 2 segundos"},
+        {"option_id": "B", "text": "20 a 30 segundos"},
+        {"option_id": "C", "text": "5 a 10 minutos"},
+        {"option_id": "D", "text": "1 hora"}
+      ],
+      "correct_answer": "B",
+      "hint": "Es limitada en tiempo y capacidad.",
+      "explanation": "La memoria a corto plazo (de trabajo) guarda información limitada por unos 20-30 segundos.",
+      "tags": ["cognicion", "memoria"]
+    },
+    {
+      "question_id": "MOD8_024",
+      "question_text": "¿Cómo define Endsley la Conciencia Situacional (SA)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Saber lo que pasó ayer en el turno."},
+        {"option_id": "B", "text": "La percepción de elementos, comprensión de su significado y proyección futura."},
+        {"option_id": "C", "text": "La capacidad de hablar varios idiomas."},
+        {"option_id": "D", "text": "Cumplir los procedimientos sin errores."}
+      ],
+      "correct_answer": "B",
+      "hint": "Involucra tres niveles.",
+      "explanation": "Endsley define SA como la percepción, comprensión y proyección de la situación en un volumen de tiempo y espacio.",
+      "tags": ["endsley", "conciencia_situacional"]
+    },
+    {
+      "question_id": "MOD8_025",
+      "question_text": "¿Cuál es el tercer nivel de la Conciencia Situacional según Endsley?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Percepción"},
+        {"option_id": "B", "text": "Comprensión"},
+        {"option_id": "C", "text": "Proyección del estado en un futuro próximo"},
+        {"option_id": "D", "text": "Ejecución de la acción"}
+      ],
+      "correct_answer": "C",
+      "hint": "Es el nivel más alto de SA.",
+      "explanation": "Los niveles son: 1. Percepción, 2. Comprensión y 3. Proyección.",
+      "tags": ["endsley", "conciencia_situacional"]
+    },
+    {
+      "question_id": "MOD8_026",
+      "question_text": "¿A qué se asocian las dificultades para mantener la CS expresadas como 'ir por detrás del tráfico'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Exceso de personal en la sala"},
+        {"option_id": "B", "text": "Falta de tiempo, conocimiento y recursos cognitivos"},
+        {"option_id": "C", "text": "Buena visibilidad exterior"},
+        {"option_id": "D", "text": "Uso excesivo de la fraseología"}
+      ],
+      "correct_answer": "B",
+      "hint": "Relacionado con la pérdida de control.",
+      "explanation": "Ir por detrás del tráfico ocurre cuando la demanda supera los recursos cognitivos y el tiempo disponible.",
+      "tags": ["conciencia_situacional", "carga_trabajo"]
+    },
+    {
+      "question_id": "MOD8_027",
+      "question_text": "¿Qué función cumple el equipo como fuente de información para la Conciencia Situacional?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Ninguna, la SA es individual e intransferible."},
+        {"option_id": "B", "text": "Ayuda a que el proceso de SA sea suficientemente robusto (Cross-checking)."},
+        {"option_id": "C", "text": "Sustituye completamente la atención del controlador ejecutivo."},
+        {"option_id": "D", "text": "Solo sirve para distraer."}
+      ],
+      "correct_answer": "B",
+      "hint": "Monitorización mutua.",
+      "explanation": "El equipo aporta redundancia y validación de la información, evitando asunciones erróneas individuales.",
+      "tags": ["conciencia_situacional", "trm"]
+    },
+    {
+      "question_id": "MOD8_028",
+      "question_text": "¿Cuáles son las tres dimensiones fundamentales que afectan la carga mental de trabajo?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Edad, sexo y estatura"},
+        {"option_id": "B", "text": "Presión temporal, recursos cognitivos demandados y aspectos emocionales"},
+        {"option_id": "C", "text": "Sueldo, vacaciones y turno"},
+        {"option_id": "D", "text": "Ruido, luz y temperatura"}
+      ],
+      "correct_answer": "B",
+      "hint": "Tiempo, procesamiento y emoción.",
+      "explanation": "La carga mental depende del tiempo disponible, la complejidad de la tarea y el estado emocional del individuo.",
+      "tags": ["carga_trabajo", "dimensiones"]
+    },
+    {
+      "question_id": "MOD8_029",
+      "question_text": "¿Qué norma internacional distingue entre presión (stress) mental y tensión (strain) mental?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "ISO 9001"},
+        {"option_id": "B", "text": "UNE-EN ISO 10075-2"},
+        {"option_id": "C", "text": "Reglamento (UE) 2018/1139"},
+        {"option_id": "D", "text": "Anexo 11 de OACI"}
+      ],
+      "correct_answer": "B",
+      "hint": "Norma específica sobre carga de trabajo mental.",
+      "explanation": "La norma ISO 10075-2 define presión mental como el conjunto de influencias externas y tensión como su efecto inmediato en la persona.",
+      "tags": ["iso", "carga_trabajo"]
+    },
+    {
+      "question_id": "MOD8_030",
+      "question_text": "La Ley de Yerkes-Dodson representa la relación entre estrés y rendimiento en forma de:",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Línea recta ascendente"},
+        {"option_id": "B", "text": "Línea recta descendente"},
+        {"option_id": "C", "text": "U invertida"},
+        {"option_id": "D", "text": "Círculo concéntrico"}
+      ],
+      "correct_answer": "C",
+      "hint": "Hay un punto óptimo de activación.",
+      "explanation": "La ley describe que el rendimiento mejora con la activación hasta un punto óptimo, tras el cual decae (U invertida).",
+      "tags": ["yerkes_dodson", "rendimiento"]
+    },
+    {
+      "question_id": "MOD8_031",
+      "question_text": "¿Por qué los periodos de baja densidad de tráfico pueden ser un problema para el factor humano?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "No son un problema, el controlador descansa."},
+        {"option_id": "B", "text": "La atención vigilante sostenida en entornos de pocos estímulos puede causar fatiga y pérdida de rendimiento."},
+        {"option_id": "C", "text": "Porque el controlador se olvida de cómo hablar inglés."},
+        {"option_id": "D", "text": "Porque hay demasiadas llamadas telefónicas."}
+      ],
+      "correct_answer": "B",
+      "hint": "Relacionado con la hipovigilancia.",
+      "explanation": "Mantener la vigilancia sin estímulos (baja carga) puede ser tan fatigante como la alta carga, provocando errores tras periodos tranquilos.",
+      "tags": ["carga_trabajo", "fatiga", "vigilancia"]
+    },
+    {
+      "question_id": "MOD8_032",
+      "question_text": "¿Cuál de los siguientes es un factor de complejidad del tráfico aéreo que impulsa la carga mental?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El color de las consolas"},
+        {"option_id": "B", "text": "El número de tráficos en evolución (ascendiendo/descendiendo)"},
+        {"option_id": "C", "text": "La marca de los auriculares"},
+        {"option_id": "D", "text": "El precio de los billetes de avión"}
+      ],
+      "correct_answer": "B",
+      "hint": "Tráficos dinámicos vs nivelados.",
+      "explanation": "Los tráficos en evolución aumentan la complejidad y la necesidad de monitorización frente a los tráficos en crucero nivelado.",
+      "tags": ["complejidad", "atc"]
+    },
+    {
+      "question_id": "MOD8_033",
+      "question_text": "Una estrategia de mitigación de complejidad usada por ATCOs según Kontogiannis y Malakis es:",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Ignorar los tráficos VFR"},
+        {"option_id": "B", "text": "Simplificar la presentación radar (agrupar tráficos, limpiar pantalla)"},
+        {"option_id": "C", "text": "Pedir permiso al piloto para cada instrucción"},
+        {"option_id": "D", "text": "Cerrar el sector inmediatamente"}
+      ],
+      "correct_answer": "B",
+      "hint": "'Limpia la bahía y la pantalla'.",
+      "explanation": "Simplificar la información visual es una estrategia cognitiva para gestionar la sobrecarga.",
+      "tags": ["estrategias_mitigacion", "complejidad"]
+    },
+    {
+      "question_id": "MOD8_034",
+      "question_text": "¿Qué sucede con la calidad del servicio cuando la complejidad es extrema?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Aumenta para satisfacer al cliente."},
+        {"option_id": "B", "text": "Se reduce en favor de mantener la seguridad (priorización de tareas)."},
+        {"option_id": "C", "text": "No varía gracias a la tecnología."},
+        {"option_id": "D", "text": "Se eliminan todos los tráficos IFR."}
+      ],
+      "correct_answer": "B",
+      "hint": "Trade-off entre precisión y seguridad.",
+      "explanation": "Ante presión extrema, el ATCO prioriza la seguridad, omitiendo tareas secundarias o simplificando resoluciones.",
+      "tags": ["carga_trabajo", "seguridad"]
+    },
+    {
+      "question_id": "MOD8_035",
+      "question_text": "¿Qué componente de la comunicación es el medio físico por el que se transmite el mensaje (ej. frecuencia de radio)?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Emisor"},
+        {"option_id": "B", "text": "Canal"},
+        {"option_id": "C", "text": "Código"},
+        {"option_id": "D", "text": "Contexto"}
+      ],
+      "correct_answer": "B",
+      "hint": "Soporte de la información.",
+      "explanation": "El canal es el soporte físico (hilo telefónico, frecuencia, aire) de la comunicación.",
+      "tags": ["comunicacion", "elementos"]
+    },
+    {
+      "question_id": "MOD8_036",
+      "question_text": "¿Quién tiene la responsabilidad última de asegurar que el mensaje ha llegado adecuadamente?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El receptor siempre"},
+        {"option_id": "B", "text": "Aquel que comunica (emisor)"},
+        {"option_id": "C", "text": "El supervisor"},
+        {"option_id": "D", "text": "La organización"}
+      ],
+      "correct_answer": "B",
+      "hint": "Debe buscar vías alternativas si no es eficaz.",
+      "explanation": "El emisor es responsable de la eficacia de su comunicación y de verificar que el receptor comprendió el mensaje.",
+      "tags": ["comunicacion", "trm"]
+    },
+    {
+      "question_id": "MOD8_037",
+      "question_text": "¿Qué concepto aeronáutico nace para comprobar que las interferencias no merman la ejecución del mensaje?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Fraseología"},
+        {"option_id": "B", "text": "Colación (Read-back)"},
+        {"option_id": "C", "text": "Emisión"},
+        {"option_id": "D", "text": "Sintonía"}
+      ],
+      "correct_answer": "B",
+      "hint": "Repetir la instrucción recibida.",
+      "explanation": "La colación permite al emisor verificar que el receptor ha decodificado correctamente el mensaje.",
+      "tags": ["comunicacion", "fraseologia"]
+    },
+    {
+      "question_id": "MOD8_038",
+      "question_text": "En la organización, el propósito de la comunicación suele ser persuasivo, es decir:",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Solo para dar información teórica."},
+        {"option_id": "B", "text": "Para generar una acción común o conseguir que el receptor actúe."},
+        {"option_id": "C", "text": "Para engañar al interlocutor."},
+        {"option_id": "D", "text": "Para evitar el trabajo en equipo."}
+      ],
+      "correct_answer": "B",
+      "hint": "Busca resultados operativos.",
+      "explanation": "La comunicación profesional busca inducir comportamientos o acciones coordinadas.",
+      "tags": ["comunicacion", "organizacion"]
+    },
+    {
+      "question_id": "MOD8_039",
+      "question_text": "¿Cuál es una de las habilidades más difíciles del proceso comunicativo que implica entender desde el punto de vista del receptor?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Hablar rápido"},
+        {"option_id": "B", "text": "Escucha activa"},
+        {"option_id": "C", "text": "Memorización"},
+        {"option_id": "D", "text": "Dictado"}
+      ],
+      "correct_answer": "B",
+      "hint": "No es solo oír.",
+      "explanation": "La escucha activa implica oír, comprender, retener y responder adecuadamente, empatizando con el otro.",
+      "tags": ["comunicacion", "trm"]
+    },
+    {
+      "question_id": "MOD8_040",
+      "question_text": "¿Cuál de estos factores DIFICULTA la escucha activa?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Mantener contacto visual"},
+        {"option_id": "B", "text": "Hacer pequeños resúmenes de lo dicho"},
+        {"option_id": "C", "text": "Hacer comentarios cortantes o gratuitos"},
+        {"option_id": "D", "text": "Hacer preguntas abiertas"}
+      ],
+      "correct_answer": "C",
+      "hint": "Barreras actitudinales.",
+      "explanation": "Los comentarios cortantes o inhibidores bloquean la comunicación y la disposición del interlocutor.",
+      "tags": ["comunicacion", "barreras"]
+    },
+    {
+      "question_id": "MOD8_041",
+      "question_text": "¿Qué tipo de barreras de comunicación son impersonales y se deben al entorno (ruido, luz, calor)?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Barreras cognitivas"},
+        {"option_id": "B", "text": "Barreras ambientales"},
+        {"option_id": "C", "text": "Barreras semánticas"},
+        {"option_id": "D", "text": "Barreras psicológicas"}
+      ],
+      "correct_answer": "B",
+      "hint": "Relacionadas con la sala de control.",
+      "explanation": "Las barreras ambientales son físicas y externas a las personas involucradas.",
+      "tags": ["comunicacion", "barreras"]
+    },
+    {
+      "question_id": "MOD8_042",
+      "question_text": "¿Qué es una barrera semántica?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Hay mucho ruido de fondo."},
+        {"option_id": "B", "text": "El receptor interpreta un significado distinto al que pretendía el emisor para una palabra."},
+        {"option_id": "C", "text": "El emisor tiene la voz muy débil."},
+        {"option_id": "D", "text": "El emisor está enfadado."}
+      ],
+      "correct_answer": "B",
+      "hint": "Relacionado con el significado de los términos.",
+      "explanation": "Ocurre cuando los códigos de significado no coinciden (ej. 'date prisa' puede ser 1 min o 2 días).",
+      "tags": ["comunicacion", "barreras"]
+    },
+    {
+      "question_id": "MOD8_043",
+      "question_text": "¿Cuál es el antídoto para las barreras de comunicación que implica percibir sentimientos ajenos como propios?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Asertividad"},
+        {"option_id": "B", "text": "Empatía"},
+        {"option_id": "C", "text": "Simpatía"},
+        {"option_id": "D", "text": "Autoridad"}
+      ],
+      "correct_answer": "B",
+      "hint": "Saber 'leer' al otro.",
+      "explanation": "La empatía permite establecer relaciones saludables y entender el contexto emocional del otro.",
+      "tags": ["comunicacion", "competencias"]
+    },
+    {
+      "question_id": "MOD8_044",
+      "question_text": "¿Qué habilidad permite defender la postura propia sin herir ni atacar a la otra parte?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Agresividad"},
+        {"option_id": "B", "text": "Pasividad"},
+        {"option_id": "C", "text": "Asertividad"},
+        {"option_id": "D", "text": "Manipulación"}
+      ],
+      "correct_answer": "C",
+      "hint": "Decir 'no' de forma correcta.",
+      "explanation": "La asertividad es la capacidad de comunicar necesidades y sentimientos respetando a los demás.",
+      "tags": ["comunicacion", "asertividad"]
+    },
+    {
+      "question_id": "MOD8_045",
+      "question_text": "Según Allan Pease, ¿qué porcentaje de la comunicación puede llegar a ser No Verbal + Paraverbal?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Alrededor del 20%"},
+        {"option_id": "B", "text": "Alrededor del 50%"},
+        {"option_id": "C", "text": "Hasta un 80%"},
+        {"option_id": "D", "text": "100%"}
+      ],
+      "correct_answer": "C",
+      "hint": "Las palabras son solo una pequeña parte.",
+      "explanation": "El lenguaje corporal (50%) y el paraverbal (volumen, tono) pueden sumar el 80% del impacto comunicativo.",
+      "tags": ["comunicacion", "no_verbal"]
+    },
+    {
+      "question_id": "MOD8_046",
+      "question_text": "¿Cuál de estas es una emoción básica que, bien manejada, nos ayuda a revelarnos contra situaciones no deseadas?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Tristeza"},
+        {"option_id": "B", "text": "Ira"},
+        {"option_id": "C", "text": "Asco"},
+        {"option_id": "D", "text": "Miedo"}
+      ],
+      "correct_answer": "B",
+      "hint": "Da fuerzas para hacer frente a algo.",
+      "explanation": "La ira, si se maneja bien, permite defenderse de lo que se considera injusto o indeseado.",
+      "tags": ["emociones"]
+    },
+    {
+      "question_id": "MOD8_047",
+      "question_text": "¿Qué emoción básica tiene el lado positivo de hacernos más responsables y cautelosos?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Alegría"},
+        {"option_id": "B", "text": "Sorpresa"},
+        {"option_id": "C", "text": "Miedo"},
+        {"option_id": "D", "text": "Asco"}
+      ],
+      "correct_answer": "C",
+      "hint": "Evita riesgos innecesarios.",
+      "explanation": "El miedo en dosis adecuadas favorece la precaución, aunque en exceso puede paralizar.",
+      "tags": ["emociones"]
+    },
+    {
+      "question_id": "MOD8_048",
+      "question_text": "¿Cómo se define la fatiga?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Aburrimiento extremo."},
+        {"option_id": "B", "text": "Mecanismo biológico que impulsa al descanso y degrada el rendimiento cognitivo."},
+        {"option_id": "C", "text": "Falta de ganas de trabajar."},
+        {"option_id": "D", "text": "Enfermedad crónica de los ATCOs."}
+      ],
+      "correct_answer": "B",
+      "hint": "No se puede suprimir de forma natural.",
+      "explanation": "La fatiga es un estado natural objetivo que reduce las capacidades físicas y mentales.",
+      "tags": ["fatiga", "definicion"]
+    },
+    {
+      "question_id": "MOD8_049",
+      "question_text": "¿Qué promedio diario de horas de sueño recomienda la OMS para un adulto (18-64 años)?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "6 horas"},
+        {"option_id": "B", "text": "8 horas"},
+        {"option_id": "C", "text": "10 horas"},
+        {"option_id": "D", "text": "12 horas"}
+      ],
+      "correct_answer": "B",
+      "hint": "Es la cifra estándar recomendada.",
+      "explanation": "Se recomienda un promedio de 8 horas para recuperarse de la actividad diaria normal.",
+      "tags": ["sueño", "salud"]
+    },
+    {
+      "question_id": "MOD8_050",
+      "question_text": "Los ciclos de sueño se repiten aproximadamente cada:",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "30 a 45 minutos"},
+        {"option_id": "B", "text": "90 a 100 minutos"},
+        {"option_id": "C", "text": "3 a 4 horas"},
+        {"option_id": "D", "text": "8 horas"}
+      ],
+      "correct_answer": "B",
+      "hint": "Varias veces por noche.",
+      "explanation": "Un nuevo ciclo de sueño (fases I a IV + REM) comienza cada 90-100 minutos.",
+      "tags": ["sueño", "fisiologia"]
+    },
+    {
+      "question_id": "MOD8_051",
+      "question_text": "¿En qué fase del sueño aparece el predominio de actividad cerebral DELTA?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Fase I"},
+        {"option_id": "B", "text": "Fase II"},
+        {"option_id": "C", "text": "Fase III y IV"},
+        {"option_id": "D", "text": "Fase REM"}
+      ],
+      "correct_answer": "C",
+      "hint": "Sueño profundo.",
+      "explanation": "Las fases III y IV son de sueño lento/profundo caracterizadas por ondas Delta.",
+      "tags": ["sueño", "fisiologia"]
+    },
+    {
+      "question_id": "MOD8_052",
+      "question_text": "¿Cuál es la fase esencial para la recuperación física y psíquica del organismo?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Fase I"},
+        {"option_id": "B", "text": "Fase II"},
+        {"option_id": "C", "text": "Fase IV"},
+        {"option_id": "D", "text": "Vigilia"}
+      ],
+      "correct_answer": "C",
+      "hint": "Su déficit causa somnolencia diurna.",
+      "explanation": "La fase IV es la de mayor profundidad y crítica para la restauración del organismo.",
+      "tags": ["sueño", "salud"]
+    },
+    {
+      "question_id": "MOD8_053",
+      "question_text": "¿Qué caracteriza a los microsueños?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Duran 20 minutos."},
+        {"option_id": "B", "text": "Duran solo unos segundos y el cerebro desconecta de estímulos exteriores."},
+        {"option_id": "C", "text": "Son sueños muy agradables."},
+        {"option_id": "D", "text": "Solo ocurren en fase REM."}
+      ],
+      "correct_answer": "B",
+      "hint": "Peligrosos en tareas de seguridad.",
+      "explanation": "Son episodios involuntarios de sueño brevísimos debidos a la deuda de sueño.",
+      "tags": ["fatiga", "microsueños"]
+    },
+    {
+      "question_id": "MOD8_054",
+      "question_text": "El Proceso Circadiano (C) regula funciones bajo un patrón de:",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "12 horas"},
+        {"option_id": "B", "text": "24 horas"},
+        {"option_id": "C", "text": "7 días"},
+        {"option_id": "D", "text": "28 días"}
+      ],
+      "correct_answer": "B",
+      "hint": "Reloj corporal interno.",
+      "explanation": "El ritmo circadiano sigue un ciclo de aproximadamente 24 horas coincidiendo con el día/noche.",
+      "tags": ["circadiano", "fisiologia"]
+    },
+    {
+      "question_id": "MOD8_055",
+      "question_text": "¿Cuál es el momento del WOCL donde se produce la mayor somnolencia?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "12 a 15 p.m."},
+        {"option_id": "B", "text": "18 a 21 p.m."},
+        {"option_id": "C", "text": "3 a 6 a.m."},
+        {"option_id": "D", "text": "9 a 12 a.m."}
+      ],
+      "correct_answer": "C",
+      "hint": "Segunda parte de la noche.",
+      "explanation": "El mínimo de la ventana circadiana ocurre típicamente entre las 3 y las 6 de la madrugada.",
+      "tags": ["circadiano", "fatiga"]
+    },
+    {
+      "question_id": "MOD8_056",
+      "question_text": "¿Qué proceso es responsable del impulso de dormir tras horas de vigilia (acumulativo)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Proceso Circadiano (C)"},
+        {"option_id": "B", "text": "Proceso Homeostático (S)"},
+        {"option_id": "C", "text": "Proceso Inercial (W)"},
+        {"option_id": "D", "text": "Proceso de alerta"}
+      ],
+      "correct_answer": "B",
+      "hint": "Cuanto más tiempo despierto, mayor impulso.",
+      "explanation": "El Proceso S (homeostático) acumula la necesidad de sueño según el tiempo transcurrido desde el último descanso.",
+      "tags": ["sueño", "fisiologia"]
+    },
+    {
+      "question_id": "MOD8_057",
+      "question_text": "¿Qué refleja la 'Inercia del Sueño' (Proceso W)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "La facilidad para quedarse dormido."},
+        {"option_id": "B", "text": "Estado de transición con bajo rendimiento inmediatamente después de despertar."},
+        {"option_id": "C", "text": "El sueño durante el turno de noche."},
+        {"option_id": "D", "text": "La resistencia a irse a la cama."}
+      ],
+      "correct_answer": "B",
+      "hint": "Se recomienda dejar tiempo antes de actuar.",
+      "explanation": "Es el periodo de desorientación y baja vigilancia justo al despertar.",
+      "tags": ["fatiga", "sueño"]
+    },
+    {
+      "question_id": "MOD8_058",
+      "question_text": "OACI define fatiga como un estado fisiológico de reducción de capacidad por:",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Falta de sueldo"},
+        {"option_id": "B", "text": "Falta de sueño, vigilia prolongada, fase circadiana y/o carga de trabajo"},
+        {"option_id": "C", "text": "Solo por mala alimentación"},
+        {"option_id": "D", "text": "Exceso de ruido ambiental"}
+      ],
+      "correct_answer": "B",
+      "hint": "Doc. 9966 de OACI.",
+      "explanation": "OACI incluye múltiples factores (sueño, tiempo despierto, ritmos y carga mental) en su definición de fatiga.",
+      "tags": ["oaci", "fatiga"]
+    },
+    {
+      "question_id": "MOD8_059",
+      "question_text": "A bajos niveles de activación (según Yerkes-Dodson), el rendimiento es:",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Máximo"},
+        {"option_id": "B", "text": "Bajo (monotonía/falta de motivación)"},
+        {"option_id": "C", "text": "Óptimo"},
+        {"option_id": "D", "text": "Inexistente"}
+      ],
+      "correct_answer": "B",
+      "hint": "Relación en U invertida.",
+      "explanation": "Con poca activación, la falta de estímulos también degrada el rendimiento operacional.",
+      "tags": ["yerkes_dodson", "rendimiento"]
+    },
+    {
+      "question_id": "MOD8_060",
+      "question_text": "¿Qué sistema de gestión utiliza ENAIRE para riesgos de fatiga y estrés?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "SMS (Safety Management System)"},
+        {"option_id": "B", "text": "FSRMS (Fatigue and Stress Risk Management System)"},
+        {"option_id": "C", "text": "ATMS"},
+        {"option_id": "D", "text": "ISO 14001"}
+      ],
+      "correct_answer": "B",
+      "hint": "Sistema integrado específico.",
+      "explanation": "ENAIRE cuenta con el FSRMS para gestionar estos riesgos específicos de forma integrada.",
+      "tags": ["enaire", "gestion_riesgos"]
+    },
+    {
+      "question_id": "MOD8_061",
+      "question_text": "¿Cuál es un síntoma PSICOLÓGICO de la fatiga?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Visión borrosa"},
+        {"option_id": "B", "text": "Irritabilidad y alteración del estado de ánimo"},
+        {"option_id": "C", "text": "Ojos llorosos"},
+        {"option_id": "D", "text": "Dolor de cabeza"}
+      ],
+      "correct_answer": "B",
+      "hint": "No es físico.",
+      "explanation": "La irritabilidad y cambios de humor son manifestaciones psicológicas/emocionales de la fatiga.",
+      "tags": ["fatiga", "sintomas"]
+    },
+    {
+      "question_id": "MOD8_062",
+      "question_text": "¿Cuál es un síntoma FISIOLÓGICO de la fatiga?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Alteración de la memoria"},
+        {"option_id": "B", "text": "Enrojecimiento de los ojos"},
+        {"option_id": "C", "text": "Lentitud en tareas"},
+        {"option_id": "D", "text": "Alteración de la percepción del riesgo"}
+      ],
+      "correct_answer": "B",
+      "hint": "Afectación física directa.",
+      "explanation": "El enrojecimiento ocular es un signo físico (fisiológico) claro de cansancio/fatiga visual.",
+      "tags": ["fatiga", "sintomas"]
+    },
+    {
+      "question_id": "MOD8_063",
+      "question_text": "Las estrategias de SEGUNDO nivel contra la fatiga buscan:",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Prevenir que aparezca la fatiga"},
+        {"option_id": "B", "text": "Mitigar los efectos de la fatiga ya presente"},
+        {"option_id": "C", "text": "Eliminar la necesidad de dormir"},
+        {"option_id": "D", "text": "Aumentar el sueldo por nocturnidad"}
+      ],
+      "correct_answer": "B",
+      "hint": "Cuando el ATCO ya está fatigado.",
+      "explanation": "El primer nivel previene (siesta, café); el segundo nivel mitiga riesgos cuando ya se está fatigado (monitorización extra, autoconciencia).",
+      "tags": ["fatiga", "mitigacion"]
+    },
+    {
+      "question_id": "MOD8_064",
+      "question_text": "¿Qué tipo de sueño suele ser más ligero e interrumpido en los ATCOs?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "El nocturno en casa"},
+        {"option_id": "B", "text": "El diurno durante el turno de noche en el trabajo (descansos)"},
+        {"option_id": "C", "text": "El sueño de fin de semana"},
+        {"option_id": "D", "text": "No hay diferencia"}
+      ],
+      "correct_answer": "B",
+      "hint": "No es comparable a la calidad del hogar.",
+      "explanation": "Los estudios muestran que el descanso en el lugar de trabajo es menos reparador y más ligero (frecuencia No-REM).",
+      "tags": ["sueño", "atco"]
+    },
+    {
+      "question_id": "MOD8_065",
+      "question_text": "El trabajo a turnos puede perjudicar la salud afectando principalmente a:",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Sueño, salud física/psicológica y vida familiar/social"},
+        {"option_id": "B", "text": "Solo a la visión"},
+        {"option_id": "C", "text": "Únicamente a la capacidad de cálculo"},
+        {"option_id": "D", "text": "Solo a los mayores de 60 años"}
+      ],
+      "correct_answer": "A",
+      "hint": "Afectación integral.",
+      "explanation": "Los desajustes circadianos impactan en el organismo, la mente y el entorno social del trabajador.",
+      "tags": ["turnos", "salud"]
+    },
+    {
+      "question_id": "MOD8_066",
+      "question_text": "¿Cómo se define el estrés?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Una enfermedad mental hereditaria."},
+        {"option_id": "B", "text": "Respuesta psicofisiológica cuando el organismo interpreta que no tiene recursos suficientes para adaptarse a un estímulo."},
+        {"option_id": "C", "text": "Ganas de gritar por la frecuencia."},
+        {"option_id": "D", "text": "Exceso de cafeína."}
+      ],
+      "correct_answer": "B",
+      "hint": "Desequilibrio entre demanda y recursos.",
+      "explanation": "El estrés surge de la valoración de insuficiencia de medios para afrontar una situación.",
+      "tags": ["estres", "definicion"]
+    },
+    {
+      "question_id": "MOD8_067",
+      "question_text": "¿Qué componente del estrés actúa preparando al organismo afectando a la musculatura lisa (ej. respiración)?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Endocrina"},
+        {"option_id": "B", "text": "Autónoma"},
+        {"option_id": "C", "text": "Conductual"},
+        {"option_id": "D", "text": "Social"}
+      ],
+      "correct_answer": "B",
+      "hint": "Sistema nervioso autónomo.",
+      "explanation": "La respuesta autónoma prepara al cuerpo para la acción (lucha/huida) afectando funciones involuntarias.",
+      "tags": ["estres", "fisiologia"]
+    },
+    {
+      "question_id": "MOD8_068",
+      "question_text": "¿Qué tipo de estrés resulta de presiones mantenidas largo tiempo y suele ser de naturaleza emocional?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Agudo"},
+        {"option_id": "B", "text": "Crónico"},
+        {"option_id": "C", "text": "Eustrés"},
+        {"option_id": "D", "text": "Flashback"}
+      ],
+      "correct_answer": "B",
+      "hint": "Lo contrario a puntual.",
+      "explanation": "El estrés crónico es persistente y desgasta al individuo a largo plazo.",
+      "tags": ["estres", "tipos"]
+    },
+    {
+      "question_id": "MOD8_069",
+      "question_text": "Según el modelo de Lazarus & Folkman, el eustrés se genera si:",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "La persona cree que no puede gestionar el estímulo."},
+        {"option_id": "B", "text": "La persona tiene expectativas de poder gestionar el estímulo (estrés positivo)."},
+        {"option_id": "C", "text": "No hay ningún estímulo."},
+        {"option_id": "D", "text": "Hay demasiados estímulos a la vez."}
+      ],
+      "correct_answer": "B",
+      "hint": "Valoración positiva de la capacidad.",
+      "explanation": "El eustrés es la tensión positiva que motiva cuando nos sentimos capaces de afrontar el reto.",
+      "tags": ["estres", "modelos"]
+    },
+    {
+      "question_id": "MOD8_070",
+      "question_text": "¿Qué modelo de estrés tiene en cuenta la autopercepción y la demanda real/percibida?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Modelo de Reason"},
+        {"option_id": "B", "text": "Modelo transaccional de Cox-Mackay"},
+        {"option_id": "C", "text": "Modelo SHELL"},
+        {"option_id": "D", "text": "Ley de Boyle"}
+      ],
+      "correct_answer": "B",
+      "hint": "Fuente: EUROCONTROL 'Managing Stress in ATM'.",
+      "explanation": "El modelo de Cox-Mackay analiza la transacción entre el individuo y su entorno basándose en percepciones.",
+      "tags": ["estres", "modelos"]
+    },
+    {
+      "question_id": "MOD8_071",
+      "question_text": "¿Cuál es un síntoma FISIOLÓGICO del estrés?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Irritabilidad"},
+        {"option_id": "B", "text": "Trastornos gastrointestinales (náuseas, diarrea)"},
+        {"option_id": "C", "text": "Pesimismo"},
+        {"option_id": "D", "text": "Aislamiento social"}
+      ],
+      "correct_answer": "B",
+      "hint": "Afectación corporal interna.",
+      "explanation": "Los problemas digestivos son una respuesta somática común al estrés elevado.",
+      "tags": ["estres", "sintomas"]
+    },
+    {
+      "question_id": "MOD8_072",
+      "question_text": "¿Cuál es un síntoma PSICOLÓGICO cognitivo del estrés?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Palpitaciones"},
+        {"option_id": "B", "text": "Afectación a la atención y vigilancia"},
+        {"option_id": "C", "text": "Sudoración"},
+        {"option_id": "D", "text": "Absentismo"}
+      ],
+      "correct_answer": "B",
+      "hint": "Afecta al procesamiento de información.",
+      "explanation": "El estrés degrada la capacidad de mantener la alerta y procesar datos correctamente.",
+      "tags": ["estres", "cognicion"]
+    },
+    {
+      "question_id": "MOD8_073",
+      "question_text": "¿Cuál es un síntoma CONDUCTUAL del estrés?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Depresión"},
+        {"option_id": "B", "text": "Rigidez muscular"},
+        {"option_id": "C", "text": "Consumo de alcohol o drogas"},
+        {"option_id": "D", "text": "Frustración"}
+      ],
+      "correct_answer": "C",
+      "hint": "Acciones observables.",
+      "explanation": "La automedicación o abuso de sustancias son comportamientos (conductas) derivados del estrés mal gestionado.",
+      "tags": ["estres", "conducta"]
+    },
+    {
+      "question_id": "MOD8_074",
+      "question_text": "¿Qué estado de estrés se da cuando el ATCO se aburre por tareas rutinarias y su desempeño es pobre?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Eustrés"},
+        {"option_id": "B", "text": "Hipoestrés"},
+        {"option_id": "C", "text": "Hiperestrés"},
+        {"option_id": "D", "text": "Distrés"}
+      ],
+      "correct_answer": "B",
+      "hint": "Baja tensión.",
+      "explanation": "El hipoestrés implica falta de interés y tensión, aumentando el riesgo de error por descuido.",
+      "tags": ["estres", "tipos"]
+    },
+    {
+      "question_id": "MOD8_075",
+      "question_text": "El Hiperestrés se caracteriza por:",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Un nivel óptimo de relajación."},
+        {"option_id": "B", "text": "Sensación de pérdida de control y desbordamiento por carga de trabajo."},
+        {"option_id": "C", "text": "Familiaridad extrema con los procedimientos."},
+        {"option_id": "D", "text": "Mejoría en la toma de decisiones."}
+      ],
+      "correct_answer": "B",
+      "hint": "Exceso de tensión.",
+      "explanation": "El hiperestrés ocurre cuando la demanda desborda la capacidad de atención y concentración del ATCO.",
+      "tags": ["estres", "carga_trabajo"]
+    },
+    {
+      "question_id": "MOD8_076",
+      "question_text": "¿Qué es el 'Distrés' en relación con las tareas de control?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Falta de trabajo."},
+        {"option_id": "B", "text": "Estrés causado por falta de familiaridad con nuevos procedimientos."},
+        {"option_id": "C", "text": "Estrés positivo."},
+        {"option_id": "D", "text": "Cansancio tras el turno."}
+      ],
+      "correct_answer": "B",
+      "hint": "Relacionado con cambios operativos.",
+      "explanation": "El distrés aparece cuando la calidad de gestión se resiente por falta de adaptación a novedades.",
+      "tags": ["estres", "operacion"]
+    },
+    {
+      "question_id": "MOD8_077",
+      "question_text": "¿Cuál es un estresor AMBIENTAL/FÍSICO común en una torre de control?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Conflicto con un compañero"},
+        {"option_id": "B", "text": "Ruido o vibración intrusiva"},
+        {"option_id": "C", "text": "Miedo al accidente"},
+        {"option_id": "D", "text": "Cambio de reglamentación"}
+      ],
+      "correct_answer": "B",
+      "hint": "Factor externo físico.",
+      "explanation": "El ruido, la temperatura inadecuada o la iluminación son estresores ambientales.",
+      "tags": ["estres", "ambiente"]
+    },
+    {
+      "question_id": "MOD8_078",
+      "question_text": "¿Qué tipo de estresor es la 'ambigüedad de roles'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Individual"},
+        {"option_id": "B", "text": "Relacionado con la tarea/organización"},
+        {"option_id": "C", "text": "Físico"},
+        {"option_id": "D", "text": "No causa estrés"}
+      ],
+      "correct_answer": "B",
+      "hint": "Definición de responsabilidades.",
+      "explanation": "No tener claras las tareas o límites de responsabilidad genera estrés vinculado a la organización del trabajo.",
+      "tags": ["estres", "organizacion"]
+    },
+    {
+      "question_id": "MOD8_079",
+      "question_text": "¿Cuál es un efecto del estrés significativo en el desempeño del ATCO?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Uso perfecto de la fraseología"},
+        {"option_id": "B", "text": "Tendencia a utilizar procedimientos ya no operativos o lengua materna"},
+        {"option_id": "C", "text": "Aumento de la capacidad de memoria"},
+        {"option_id": "D", "text": "Mejor juicio y razonamiento"}
+      ],
+      "correct_answer": "B",
+      "hint": "Regresión a hábitos antiguos.",
+      "explanation": "Bajo estrés, el cerebro tiende a simplificar y volver a conductas antiguas o más familiares, aunque sean erróneas.",
+      "tags": ["estres", "desempeño"]
+    },
+    {
+      "question_id": "MOD8_080",
+      "question_text": "El modelo GEMS de clasificación de errores fue desarrollado por:",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Rasmussen"},
+        {"option_id": "B", "text": "Reason"},
+        {"option_id": "C", "text": "Endsley"},
+        {"option_id": "D", "text": "Hollnagel"}
+      ],
+      "correct_answer": "B",
+      "hint": "Relacionado con el queso suizo.",
+      "explanation": "GEMS es la aportación de James Reason para clasificar los errores humanos.",
+      "tags": ["error_humano", "modelos"]
+    },
+    {
+      "question_id": "MOD8_081",
+      "question_text": "¿Qué significan las siglas TEM?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Traffic Emergency Monitoring"},
+        {"option_id": "B", "text": "Threat and Error Management"},
+        {"option_id": "C", "text": "Total Efficiency Model"},
+        {"option_id": "D", "text": "Technical Engineering Manual"}
+      ],
+      "correct_answer": "B",
+      "hint": "Gestión de Amenazas y Errores.",
+      "explanation": "TEM es un modelo integral para gestionar las amenazas externas y los errores internos en aviación.",
+      "tags": ["tem", "siglas"]
+    },
+    {
+      "question_id": "MOD8_082",
+      "question_text": "En el modelo TEM, una 'Amenaza' se define como:",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Un error cometido por el ATCO."},
+        {"option_id": "B", "text": "Eventos externos que aumentan la complejidad y deben ser gestionados para mantener el margen de seguridad."},
+        {"option_id": "C", "text": "Una sanción disciplinaria."},
+        {"option_id": "D", "text": "Un fallo total del sistema."}
+      ],
+      "correct_answer": "B",
+      "hint": "Viene de fuera (clima, tráfico, etc.).",
+      "explanation": "Las amenazas son factores que el ATCO no controla pero que complican la operación.",
+      "tags": ["tem", "amenazas"]
+    },
+    {
+      "question_id": "MOD8_083",
+      "question_text": "¿Qué es una 'transgresión' según la normativa de ATCOs?",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Un error involuntario de cálculo."},
+        {"option_id": "B", "text": "Una desviación deliberada de las reglas o procedimientos."},
+        {"option_id": "C", "text": "Un fallo del equipo de radio."},
+        {"option_id": "D", "text": "Un problema médico."}
+      ],
+      "correct_answer": "B",
+      "hint": "Implica voluntariedad.",
+      "explanation": "A diferencia del error (involuntario), la transgresión es una violación consciente de la norma.",
+      "tags": ["error_humano", "transgresion"]
+    },
+    {
+      "question_id": "MOD8_084",
+      "question_text": "¿Cuál es el fin de la investigación de accidentes según el Anexo 13 de OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Castigar al culpable."},
+        {"option_id": "B", "text": "Determinar responsabilidades civiles."},
+        {"option_id": "C", "text": "Prevenir futuros accidentes sin determinar culpa o responsabilidad."},
+        {"option_id": "D", "text": "Cobrar los seguros."}
+      ],
+      "correct_answer": "C",
+      "hint": "Enfoque técnico preventivo.",
+      "explanation": "La investigación técnica busca aprender del suceso para mejorar el sistema global.",
+      "tags": ["oaci", "investigacion"]
+    },
+    {
+      "question_id": "MOD8_085",
+      "question_text": "¿Qué tipo de barrera cognitiva es hablar demasiado rápido por frecuencia?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Semántica"},
+        {"option_id": "B", "text": "Verbal"},
+        {"option_id": "C", "text": "Fisiológica"},
+        {"option_id": "D", "text": "Ambiental"}
+      ],
+      "correct_answer": "B",
+      "hint": "Relacionado con el habla.",
+      "explanation": "Las barreras verbales se refieren a la forma de hablar (velocidad, acento, etc.).",
+      "tags": ["comunicacion", "barreras"]
+    },
+    {
+      "question_id": "MOD8_086",
+      "question_text": "¿Qué factor favorece la escucha activa?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Mirar el móvil mientras te hablan"},
+        {"option_id": "B", "text": "Dejar los temas a medias"},
+        {"option_id": "C", "text": "Hacer pequeños resúmenes de lo que dice la otra persona"},
+        {"option_id": "D", "text": "Interrumpir constantemente"}
+      ],
+      "correct_answer": "C",
+      "hint": "Feedback clarificador.",
+      "explanation": "Resumir demuestra atención y asegura que se ha entendido el mensaje.",
+      "tags": ["comunicacion", "escucha_activa"]
+    },
+    {
+      "question_id": "MOD8_087",
+      "question_text": "La 'Cultura Justa' en ENAIRE fomenta:",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "La impunidad total."},
+        {"option_id": "B", "text": "La confianza para notificar incidentes de seguridad."},
+        {"option_id": "C", "text": "El anonimato absoluto de todos los trabajadores."},
+        {"option_id": "D", "text": "Las denuncias entre compañeros."}
+      ],
+      "correct_answer": "B",
+      "hint": "Pilar del SMS.",
+      "explanation": "La Cultura Justa permite aprender de los errores honestos sin miedo a represalias.",
+      "tags": ["enaire", "seguridad"]
+    },
+    {
+      "question_id": "MOD8_088",
+      "question_text": "¿Cuál es la principal característica de un equipo autónomo frente a un grupo?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "No necesitan manuales."},
+        {"option_id": "B", "text": "Se preocupan tanto del resultado como del proceso y potencian el esfuerzo colectivo."},
+        {"option_id": "C", "text": "Solo se comunican con su superior."},
+        {"option_id": "D", "text": "Cada uno hace lo que quiere."}
+      ],
+      "correct_answer": "B",
+      "hint": "Enfoque integral y colaborativo.",
+      "explanation": "El equipo potencia la comunicación abierta y la solución participativa de problemas.",
+      "tags": ["trm", "equipo"]
+    },
+    {
+      "question_id": "MOD8_089",
+      "question_text": "En TRM, ¿qué significa 'Cross-checking'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Cruzar los datos del radar con el GPS."},
+        {"option_id": "B", "text": "Monitorización mutua entre compañeros para detectar errores."},
+        {"option_id": "C", "text": "Cambiar de turno con un colega."},
+        {"option_id": "D", "text": "Verificar el plan de vuelo dos veces solo."}
+      ],
+      "correct_answer": "B",
+      "hint": "Vigilancia recíproca.",
+      "explanation": "Es una técnica vital de TRM donde los miembros del equipo se supervisan para evitar fallos individuales.",
+      "tags": ["trm", "seguridad"]
+    },
+    {
+      "question_id": "MOD8_090",
+      "question_text": "¿Qué proceso cognitivo permite dar significado a los estímulos sensoriales?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Registro sensorial"},
+        {"option_id": "B", "text": "Percepción"},
+        {"option_id": "C", "text": "Memoria a largo plazo"},
+        {"option_id": "D", "text": "Respuesta motora"}
+      ],
+      "correct_answer": "B",
+      "hint": "Transformación de datos en información con sentido.",
+      "explanation": "La percepción es el proceso de interpretar y dar significado a lo que captamos por los sentidos.",
+      "tags": ["cognicion", "percepcion"]
+    },
+    {
+      "question_id": "MOD8_091",
+      "question_text": "¿Cuál es la capacidad de la memoria a largo plazo?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Limitada a 7 ítems"},
+        {"option_id": "B", "text": "Prácticamente ilimitada"},
+        {"option_id": "C", "text": "Dura solo 30 segundos"},
+        {"option_id": "D", "text": "Se borra cada noche"}
+      ],
+      "correct_answer": "B",
+      "hint": "Almacén masivo de experiencias.",
+      "explanation": "La memoria a largo plazo tiene una capacidad inmensa, aunque requiere tiempo para consolidar la información.",
+      "tags": ["cognicion", "memoria"]
+    },
+    {
+      "question_id": "MOD8_092",
+      "question_text": "¿Qué es el 'Stick Shaker'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Un tipo de café para controladores."},
+        {"option_id": "B", "text": "Dispositivo que hace vibrar la palanca de control como aviso de pérdida inminente."},
+        {"option_id": "C", "text": "Un mando para mover el radar."},
+        {"option_id": "D", "text": "Una alarma de incendio."}
+      ],
+      "correct_answer": "B",
+      "hint": "Aviso táctil para el piloto.",
+      "explanation": "Es una barrera de seguridad (H-L) que alerta al piloto físicamente antes de que el avión entre en pérdida.",
+      "tags": ["interfaz", "seguridad"]
+    },
+    {
+      "question_id": "MOD8_093",
+      "question_text": "¿Qué porcentaje aproximado de la plantilla de ENAIRE son controladores?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "25%"},
+        {"option_id": "B", "text": "49%"},
+        {"option_id": "C", "text": "75%"},
+        {"option_id": "D", "text": "90%"}
+      ],
+      "correct_answer": "B",
+      "hint": "Casi la mitad.",
+      "explanation": "Los controladores representan cerca del 49% del personal de ENAIRE.",
+      "tags": ["enaire", "rrhh"]
+    },
+    {
+      "question_id": "MOD8_094",
+      "question_text": "¿Qué habilidad TRM implica prever qué pasará con el tráfico en los próximos minutos?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Comunicación"},
+        {"option_id": "B", "text": "Conciencia situacional"},
+        {"option_id": "C", "text": "Resolución de conflictos técnicos"},
+        {"option_id": "D", "text": "Gestión de roles"}
+      ],
+      "correct_answer": "B",
+      "hint": "Nivel 3 de Endsley.",
+      "explanation": "La proyección futura es el nivel más alto de la conciencia situacional.",
+      "tags": ["conciencia_situacional", "trm"]
+    },
+    {
+      "question_id": "MOD8_095",
+      "question_text": "¿Cuál es el 'antídoto' principal contra la pérdida de CS por asunciones erróneas?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "No pensar en nada."},
+        {"option_id": "B", "text": "Verificación y monitorización constante de los datos reales."},
+        {"option_id": "C", "text": "Creer siempre lo que dice el piloto."},
+        {"option_id": "D", "text": "Aumentar el brillo de la pantalla."}
+      ],
+      "correct_answer": "B",
+      "hint": "Evitar rellenar huecos mentalmente.",
+      "explanation": "La monitorización activa evita que la mente 'rellene' con asunciones la falta de información.",
+      "tags": ["conciencia_situacional", "mitigacion"]
+    },
+    {
+      "question_id": "MOD8_096",
+      "question_text": "¿Qué síntoma de fatiga dificulta el enfoque y puede causar visión borrosa?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Fisiológico"},
+        {"option_id": "B", "text": "Psicológico"},
+        {"option_id": "C", "text": "Auditivo"},
+        {"option_id": "D", "text": "Ninguno"}
+      ],
+      "correct_answer": "A",
+      "hint": "Afecta a la función del ojo.",
+      "explanation": "La visión borrosa es una manifestación física (fisiológica) de la fatiga.",
+      "tags": ["fatiga", "sintomas"]
+    },
+    {
+      "question_id": "MOD8_097",
+      "question_text": "El estrés 'Eustrés' se considera:",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Muy peligroso"},
+        {"option_id": "B", "text": "Necesario y positivo para el rendimiento"},
+        {"option_id": "C", "text": "Lo mismo que hipoestrés"},
+        {"option_id": "D", "text": "Causante de úlceras"}
+      ],
+      "correct_answer": "B",
+      "hint": "Estrés 'bueno'.",
+      "explanation": "Es el nivel de tensión que nos mantiene alerta y eficaces.",
+      "tags": ["estres", "tipos"]
+    },
+    {
+      "question_id": "MOD8_098",
+      "question_text": "En el modelo GEMS, un error basado en habilidades suele ser un:",
+      "difficulty": 4,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Lapsus o desliz (Slip/Lapse)"},
+        {"option_id": "B", "text": "Equivocación (Mistake)"},
+        {"option_id": "C", "text": "Crimen"},
+        {"option_id": "D", "text": "Invento"}
+      ],
+      "correct_answer": "A",
+      "hint": "Fallo en la ejecución de una rutina.",
+      "explanation": "Los Slips/Lapses ocurren en el nivel skill-based; los Mistakes ocurren en los niveles de reglas o conocimiento.",
+      "tags": ["reason", "error_humano"]
+    },
+    {
+      "question_id": "MOD8_099",
+      "question_text": "¿Qué parte de la formación de ATCOs incluye el factor humano de forma transversal?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Solo la básica"},
+        {"option_id": "B", "text": "Toda la formación (básica, habilitación, unidad y continua)"},
+        {"option_id": "C", "text": "Solo la de simulador"},
+        {"option_id": "D", "text": "Ninguna, es opcional"}
+      ],
+      "correct_answer": "B",
+      "hint": "Requisito normativo UE.",
+      "explanation": "Los FFHH son una competencia obligatoria en todos los niveles de la carrera del controlador.",
+      "tags": ["formacion", "ue"]
+    },
+    {
+      "question_id": "MOD8_100",
+      "question_text": "¿Cuál es el propósito final del estudio de los FFHH en ATM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {"option_id": "A", "text": "Hacer que los controladores sean más felices."},
+        {"option_id": "B", "text": "Garantizar un rendimiento óptimo del sistema y una gestión de riesgos eficiente."},
+        {"option_id": "C", "text": "Ahorrar luz en la sala de control."},
+        {"option_id": "D", "text": "Reducir el número de controladores necesarios."}
+      ],
+      "correct_answer": "B",
+      "hint": "Seguridad y eficiencia.",
+      "explanation": "El fin último es la seguridad operacional mediante la optimización de la interfaz humano-sistema.",
+      "tags": ["factores_humanos", "objetivo"]
+    }
+  ],
+  "metadata": {
+    "total_questions": 100,
+    "difficulty_distribution": {
+      "muy_facil": 10,
+      "facil": 25,
+      "media": 45,
+      "dificil": 15,
+      "muy_dificil": 5
+    },
+    "topics_covered": [
+      "Modelos Teóricos (SHELL-O, Reason, Rasmussen, GEMS, TEM)",
+      "Seguridad Operacional (Safety-I, Safety-II, Cultura Justa, CIAIAC)",
+      "Fisiología y Fatiga (Ciclos de sueño, WOCL, Microsueños, Inercia)",
+      "Psicología y Estrés (Ley Yerkes-Dodson, Cox-Mackay, Sintomatología, CISM)",
+      "Cognición (Memoria, Percepción, Conciencia Situacional de Endsley)",
+      "Comunicación (Barreras, Escucha Activa, Asertividad, No Verbal)",
+      "TRM (Trabajo en Equipo, Monitorización Mutua, Roles)",
+      "Organización y Formación (Plantilla ENAIRE, Ciclo formativo ATCO)",
+      "Legislación (Reglamento UE 2017/373, Anexo 13 OACI)"
+    ],
+    "created_at": "2025-02-06",
+    "language": "es",
+    "exam_format": "mcq_multiple_choice",
+    "answer_format": "single_correct",
+    "scope": "modulo_8_completo_ampliado"
+  }
+}
