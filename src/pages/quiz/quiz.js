@@ -391,20 +391,40 @@ async function loadQuestions(moduleIds) {
       const response = await fetch(`./mcq/${module.mcqFile}`);
       const data = await response.json();
 
-      const questions = data.mcq_set.map(q => ({
-        questionId: q.question_id,
-        moduleId: module.id,
-        questionText: q.question_text,
-        options: q.options.map(opt => ({
-          optionId: opt.option_id,
-          text: opt.text
-        })),
-        correctAnswer: q.correct_answer,
-        hint: q.hint,
-        explanation: q.explanation,
-        difficulty: q.difficulty,
-        tags: q.tags
-      }));
+      const questions = data.mcq_set.map(q => {
+        let options = [];
+        let correctAnswer = q.correct_answer;
+
+        // Handle mixed formats: options as array of strings vs array of objects
+        if (q.options && typeof q.options[0] === 'string') {
+          options = q.options.map((text, index) => ({
+            optionId: String.fromCharCode(65 + index), // 0->A, 1->B, etc.
+            text: text
+          }));
+          
+          // If correct_answer is missing but correct_option (index) exists
+          if (!correctAnswer && typeof q.correct_option !== 'undefined') {
+            correctAnswer = String.fromCharCode(65 + q.correct_option);
+          }
+        } else {
+          options = q.options.map(opt => ({
+            optionId: opt.option_id,
+            text: opt.text
+          }));
+        }
+
+        return {
+          questionId: q.question_id,
+          moduleId: module.id,
+          questionText: q.question_text,
+          options: options,
+          correctAnswer: correctAnswer,
+          hint: q.hint,
+          explanation: q.explanation,
+          difficulty: q.difficulty,
+          tags: q.tags
+        };
+      });
 
       allQuestions.push(...questions);
     } catch (error) {
