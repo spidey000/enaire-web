@@ -8,15 +8,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Solo los radares en tierra"},
-        {"option_id": "B", "text": "Conjunto de elementos jurídicos, organizativos, técnicos y operativos para operaciones seguras y eficientes"},
-        {"option_id": "C", "text": "Solo las reglas de vuelo visual"},
-        {"option_id": "D", "text": "El entrenamiento de los pilotos"}
+        {
+          "option_id": "A",
+          "text": "Solo los radares en tierra"
+        },
+        {
+          "option_id": "B",
+          "text": "El entrenamiento de los pilotos"
+        },
+        {
+          "option_id": "C",
+          "text": "Solo las reglas de vuelo visual"
+        },
+        {
+          "option_id": "D",
+          "text": "Conjunto de elementos jurídicos, organizativos, técnicos y operativos para operaciones seguras y eficientes"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Requiere un desarrollo equilibrado de todos sus elementos.",
       "explanation": "El SNA engloba todo el marco necesario (CNS-ATM) para la aviación moderna.",
-      "tags": ["definiciones", "sna"]
+      "tags": [
+        "definiciones",
+        "sna"
+      ]
     },
     {
       "question_id": "MOD5_002",
@@ -24,15 +39,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Comunicaciones"},
-        {"option_id": "B", "text": "Navegación"},
-        {"option_id": "C", "text": "Vigilancia (Surveillance)"},
-        {"option_id": "D", "text": "Meteorología"}
+        {
+          "option_id": "A",
+          "text": "Meteorología"
+        },
+        {
+          "option_id": "B",
+          "text": "Comunicaciones"
+        },
+        {
+          "option_id": "C",
+          "text": "Vigilancia (Surveillance)"
+        },
+        {
+          "option_id": "D",
+          "text": "Navegación"
+        }
       ],
       "correct_answer": "C",
       "hint": "S del acrónimo CNS.",
       "explanation": "La vigilancia proporciona la ubicación de las aeronaves al sistema de control.",
-      "tags": ["definiciones", "vigilancia"]
+      "tags": [
+        "definiciones",
+        "vigilancia"
+      ]
     },
     {
       "question_id": "MOD5_003",
@@ -40,15 +70,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Saber dónde está el avión"},
-        {"option_id": "B", "text": "Dirigir la aeronave para mantener la ruta establecida según los datos de posición"},
-        {"option_id": "C", "text": "Hablar con la torre"},
-        {"option_id": "D", "text": "Mirar por la ventana"}
+        {
+          "option_id": "A",
+          "text": "Saber dónde está el avión"
+        },
+        {
+          "option_id": "B",
+          "text": "Dirigir la aeronave para mantener la ruta establecida según los datos de posición"
+        },
+        {
+          "option_id": "C",
+          "text": "Mirar por la ventana"
+        },
+        {
+          "option_id": "D",
+          "text": "Hablar con la torre"
+        }
       ],
       "correct_answer": "B",
       "hint": "Acción de pilotaje basada en la posición.",
       "explanation": "Navegar requiere posicionamiento (saber dónde se está) y guiado (dirigir el avión).",
-      "tags": ["navegacion", "funciones"]
+      "tags": [
+        "navegacion",
+        "funciones"
+      ]
     },
     {
       "question_id": "MOD5_004",
@@ -56,15 +101,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Navegación a estima"},
-        {"option_id": "B", "text": "Navegación visual (VFR)"},
-        {"option_id": "C", "text": "Navegación inercial"},
-        {"option_id": "D", "text": "RNAV"}
+        {
+          "option_id": "A",
+          "text": "Navegación visual (VFR)"
+        },
+        {
+          "option_id": "B",
+          "text": "Navegación a estima"
+        },
+        {
+          "option_id": "C",
+          "text": "Navegación inercial"
+        },
+        {
+          "option_id": "D",
+          "text": "RNAV"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Depende de ríos, carreteras y edificios.",
       "explanation": "La navegación visual se basa en el reconocimiento del terreno por parte del piloto.",
-      "tags": ["tecnicas_navegacion"]
+      "tags": [
+        "tecnicas_navegacion"
+      ]
     },
     {
       "question_id": "MOD5_005",
@@ -72,15 +131,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Altura, peso y combustible"},
-        {"option_id": "B", "text": "Velocidad, tiempo y rumbo"},
-        {"option_id": "C", "text": "Viento, visibilidad y nubes"},
-        {"option_id": "D", "text": "Frecuencia, radio y radar"}
+        {
+          "option_id": "A",
+          "text": "Velocidad, tiempo y rumbo"
+        },
+        {
+          "option_id": "B",
+          "text": "Frecuencia, radio y radar"
+        },
+        {
+          "option_id": "C",
+          "text": "Altura, peso y combustible"
+        },
+        {
+          "option_id": "D",
+          "text": "Viento, visibilidad y nubes"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Distancia = Velocidad * Tiempo.",
       "explanation": "Calcula la posición proyectada usando el rumbo mantenido y el tiempo transcurrido a una velocidad dada.",
-      "tags": ["tecnicas_navegacion"]
+      "tags": [
+        "tecnicas_navegacion"
+      ]
     },
     {
       "question_id": "MOD5_006",
@@ -88,15 +161,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Es muy cara"},
-        {"option_id": "B", "text": "Obliga a una red de rutas fija supeditada a la ubicación de las estaciones en tierra"},
-        {"option_id": "C", "text": "No funciona de noche"},
-        {"option_id": "D", "text": "Solo sirve para barcos"}
+        {
+          "option_id": "A",
+          "text": "Es muy cara"
+        },
+        {
+          "option_id": "B",
+          "text": "Obliga a una red de rutas fija supeditada a la ubicación de las estaciones en tierra"
+        },
+        {
+          "option_id": "C",
+          "text": "No funciona de noche"
+        },
+        {
+          "option_id": "D",
+          "text": "Solo sirve para barcos"
+        }
       ],
       "correct_answer": "B",
       "hint": "Vuelo de estación en estación.",
       "explanation": "Limita la flexibilidad y capacidad al forzar a los aviones a pasar por encima de las radioayudas terrestres.",
-      "tags": ["tecnicas_navegacion", "radioayudas"]
+      "tags": [
+        "tecnicas_navegacion",
+        "radioayudas"
+      ]
     },
     {
       "question_id": "MOD5_007",
@@ -104,15 +192,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Volar solo sobre el mar"},
-        {"option_id": "B", "text": "Desplazarse en cualquier trayectoria deseada sin necesidad de sobrevolar estaciones terrestres"},
-        {"option_id": "C", "text": "Volar sin piloto automático"},
-        {"option_id": "D", "text": "Volar solo en línea recta"}
+        {
+          "option_id": "A",
+          "text": "Volar sin piloto automático"
+        },
+        {
+          "option_id": "B",
+          "text": "Volar solo sobre el mar"
+        },
+        {
+          "option_id": "C",
+          "text": "Volar solo en línea recta"
+        },
+        {
+          "option_id": "D",
+          "text": "Desplazarse en cualquier trayectoria deseada sin necesidad de sobrevolar estaciones terrestres"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Usa coordenadas de latitud y longitud.",
       "explanation": "RNAV permite rutas directas y flexibles usando satélites o combinaciones de radioayudas.",
-      "tags": ["rnav", "pbn"]
+      "tags": [
+        "rnav",
+        "pbn"
+      ]
     },
     {
       "question_id": "MOD5_008",
@@ -120,15 +223,31 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "RNP es para aviones más pequeños"},
-        {"option_id": "B", "text": "RNP incluye el requisito de vigilancia y alerta de la performance a bordo"},
-        {"option_id": "C", "text": "RNAV no usa satélites"},
-        {"option_id": "D", "text": "No hay ninguna diferencia"}
+        {
+          "option_id": "A",
+          "text": "RNAV no usa satélites"
+        },
+        {
+          "option_id": "B",
+          "text": "RNP es para aviones más pequeños"
+        },
+        {
+          "option_id": "C",
+          "text": "RNP incluye el requisito de vigilancia y alerta de la performance a bordo"
+        },
+        {
+          "option_id": "D",
+          "text": "No hay ninguna diferencia"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "RNP = Performance de Navegación Requerida.",
       "explanation": "El sistema RNP avisa al piloto si la precisión de la navegación no es la requerida.",
-      "tags": ["rnav", "rnp", "pbn"]
+      "tags": [
+        "rnav",
+        "rnp",
+        "pbn"
+      ]
     },
     {
       "question_id": "MOD5_009",
@@ -136,15 +255,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "CNS-ATM"},
-        {"option_id": "B", "text": "PBN (Performance-Based Navigation)"},
-        {"option_id": "C", "text": "EGNOS"},
-        {"option_id": "D", "text": "VOR-DME"}
+        {
+          "option_id": "A",
+          "text": "PBN (Performance-Based Navigation)"
+        },
+        {
+          "option_id": "B",
+          "text": "VOR-DME"
+        },
+        {
+          "option_id": "C",
+          "text": "CNS-ATM"
+        },
+        {
+          "option_id": "D",
+          "text": "EGNOS"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Navegación Basada en Prestaciones.",
       "explanation": "PBN define los requisitos de precisión, integridad, continuidad y disponibilidad.",
-      "tags": ["pbn"]
+      "tags": [
+        "pbn"
+      ]
     },
     {
       "question_id": "MOD5_010",
@@ -152,15 +285,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Diferencia entre posición real e indicada"},
-        {"option_id": "B", "text": "Capacidad del sistema para advertir al usuario cuando no debe ser utilizado"},
-        {"option_id": "C", "text": "Porcentaje de tiempo que funciona"},
-        {"option_id": "D", "text": "Alcance máximo de la señal"}
+        {
+          "option_id": "A",
+          "text": "Diferencia entre posición real e indicada"
+        },
+        {
+          "option_id": "B",
+          "text": "Capacidad del sistema para advertir al usuario cuando no debe ser utilizado"
+        },
+        {
+          "option_id": "C",
+          "text": "Alcance máximo de la señal"
+        },
+        {
+          "option_id": "D",
+          "text": "Porcentaje de tiempo que funciona"
+        }
       ],
       "correct_answer": "B",
       "hint": "Aviso de fallo o desconexión automática.",
       "explanation": "La integridad garantiza que no se use información errónea sin previo aviso.",
-      "tags": ["pbn", "parametros"]
+      "tags": [
+        "pbn",
+        "parametros"
+      ]
     },
     {
       "question_id": "MOD5_011",
@@ -168,15 +316,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1 NM"},
-        {"option_id": "B", "text": "5 NM"},
-        {"option_id": "C", "text": "0.5 NM"},
-        {"option_id": "D", "text": "10 NM"}
+        {
+          "option_id": "A",
+          "text": "10 NM"
+        },
+        {
+          "option_id": "B",
+          "text": "1 NM"
+        },
+        {
+          "option_id": "C",
+          "text": "5 NM"
+        },
+        {
+          "option_id": "D",
+          "text": "0.5 NM"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "El número indica la precisión.",
       "explanation": "RNAV 5 exige mantener la posición con un error menor a 5 NM el 95% del tiempo.",
-      "tags": ["rnav", "pbn"]
+      "tags": [
+        "rnav",
+        "pbn"
+      ]
     },
     {
       "question_id": "MOD5_012",
@@ -184,15 +347,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Solo cerca del aeropuerto"},
-        {"option_id": "B", "text": "Continental"},
-        {"option_id": "C", "text": "Global"},
-        {"option_id": "D", "text": "Solo en el mar"}
+        {
+          "option_id": "A",
+          "text": "Continental"
+        },
+        {
+          "option_id": "B",
+          "text": "Global"
+        },
+        {
+          "option_id": "C",
+          "text": "Solo cerca del aeropuerto"
+        },
+        {
+          "option_id": "D",
+          "text": "Solo en el mar"
+        }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "hint": "Basado en la propia aeronave.",
       "explanation": "Al ser un sistema autónomo del avión (algoritmos internos), funciona en todo el mundo.",
-      "tags": ["gnss", "abas"]
+      "tags": [
+        "gnss",
+        "abas"
+      ]
     },
     {
       "question_id": "MOD5_013",
@@ -200,15 +378,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Navigation Data Base"},
-        {"option_id": "B", "text": "Non-Directional Beacon (Radiofaro no direccional)"},
-        {"option_id": "C", "text": "National Defence Board"},
-        {"option_id": "D", "text": "Next Departure Beacon"}
+        {
+          "option_id": "A",
+          "text": "Non-Directional Beacon (Radiofaro no direccional)"
+        },
+        {
+          "option_id": "B",
+          "text": "National Defence Board"
+        },
+        {
+          "option_id": "C",
+          "text": "Navigation Data Base"
+        },
+        {
+          "option_id": "D",
+          "text": "Next Departure Beacon"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Emite una señal omnidireccional sencilla.",
       "explanation": "Es la radioayuda más antigua y sencilla, que emite en todas direcciones.",
-      "tags": ["radioayudas", "ndb"]
+      "tags": [
+        "radioayudas",
+        "ndb"
+      ]
     },
     {
       "question_id": "MOD5_014",
@@ -216,15 +409,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "VOR"},
-        {"option_id": "B", "text": "ADF (Automatic Direction Finder)"},
-        {"option_id": "C", "text": "DME"},
-        {"option_id": "D", "text": "ILS"}
+        {
+          "option_id": "A",
+          "text": "ILS"
+        },
+        {
+          "option_id": "B",
+          "text": "ADF (Automatic Direction Finder)"
+        },
+        {
+          "option_id": "C",
+          "text": "DME"
+        },
+        {
+          "option_id": "D",
+          "text": "VOR"
+        }
       ],
       "correct_answer": "B",
       "hint": "La aguja apunta a la estación.",
       "explanation": "El ADF es el receptor que permite al piloto conocer la marcación de la estación NDB.",
-      "tags": ["radioayudas", "ndb"]
+      "tags": [
+        "radioayudas",
+        "ndb"
+      ]
     },
     {
       "question_id": "MOD5_015",
@@ -232,15 +440,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "VHF (Muy alta frecuencia)"},
-        {"option_id": "B", "text": "LF-MF (Baja y media frecuencia)"},
-        {"option_id": "C", "text": "UHF (Ultra alta frecuencia)"},
-        {"option_id": "D", "text": "Microondas"}
+        {
+          "option_id": "A",
+          "text": "UHF (Ultra alta frecuencia)"
+        },
+        {
+          "option_id": "B",
+          "text": "LF-MF (Baja y media frecuencia)"
+        },
+        {
+          "option_id": "C",
+          "text": "Microondas"
+        },
+        {
+          "option_id": "D",
+          "text": "VHF (Muy alta frecuencia)"
+        }
       ],
       "correct_answer": "B",
       "hint": "Frecuencias similares a la radio AM comercial.",
       "explanation": "Debido a esto, la señal es sensible a interferencias atmosféricas.",
-      "tags": ["radioayudas", "ndb"]
+      "tags": [
+        "radioayudas",
+        "ndb"
+      ]
     },
     {
       "question_id": "MOD5_016",
@@ -248,15 +471,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Vertical Operational Range"},
-        {"option_id": "B", "text": "Very high frequency Omnidirectional Range (Radiofaro omnidireccional VHF)"},
-        {"option_id": "C", "text": "Velocity of Rotation"},
-        {"option_id": "D", "text": "Visual Observation Radio"}
+        {
+          "option_id": "A",
+          "text": "Very high frequency Omnidirectional Range (Radiofaro omnidireccional VHF)"
+        },
+        {
+          "option_id": "B",
+          "text": "Visual Observation Radio"
+        },
+        {
+          "option_id": "C",
+          "text": "Vertical Operational Range"
+        },
+        {
+          "option_id": "D",
+          "text": "Velocity of Rotation"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Proporciona radiales magnéticos.",
       "explanation": "Es la radioayuda básica para la navegación en ruta continental.",
-      "tags": ["radioayudas", "vor"]
+      "tags": [
+        "radioayudas",
+        "vor"
+      ]
     },
     {
       "question_id": "MOD5_017",
@@ -264,15 +502,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Rumbos"},
-        {"option_id": "B", "text": "Radiales"},
-        {"option_id": "C", "text": "Arcos"},
-        {"option_id": "D", "text": "Sectores"}
+        {
+          "option_id": "A",
+          "text": "Arcos"
+        },
+        {
+          "option_id": "B",
+          "text": "Rumbos"
+        },
+        {
+          "option_id": "C",
+          "text": "Radiales"
+        },
+        {
+          "option_id": "D",
+          "text": "Sectores"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Hay 360, uno por cada grado del compás.",
       "explanation": "Los radiales permiten al piloto situarse respecto a la estación terrestre.",
-      "tags": ["radioayudas", "vor"]
+      "tags": [
+        "radioayudas",
+        "vor"
+      ]
     },
     {
       "question_id": "MOD5_018",
@@ -280,15 +533,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "La velocidad del avión"},
-        {"option_id": "B", "text": "Si la aeronave vuela hacia o desde la estación"},
-        {"option_id": "C", "text": "La distancia en kilómetros"},
-        {"option_id": "D", "text": "Si el motor está encendido"}
+        {
+          "option_id": "A",
+          "text": "La velocidad del avión"
+        },
+        {
+          "option_id": "B",
+          "text": "La distancia en kilómetros"
+        },
+        {
+          "option_id": "C",
+          "text": "Si el motor está encendido"
+        },
+        {
+          "option_id": "D",
+          "text": "Si la aeronave vuela hacia o desde la estación"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Determina el semiplano de situación.",
       "explanation": "Indica si la posición relativa es de acercamiento o alejamiento de la radioayuda.",
-      "tags": ["radioayudas", "vor"]
+      "tags": [
+        "radioayudas",
+        "vor"
+      ]
     },
     {
       "question_id": "MOD5_019",
@@ -296,15 +564,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "50 NM"},
-        {"option_id": "B", "text": "200 NM"},
-        {"option_id": "C", "text": "1.000 NM"},
-        {"option_id": "D", "text": "Ilimitado"}
+        {
+          "option_id": "A",
+          "text": "Ilimitado"
+        },
+        {
+          "option_id": "B",
+          "text": "50 NM"
+        },
+        {
+          "option_id": "C",
+          "text": "200 NM"
+        },
+        {
+          "option_id": "D",
+          "text": "1.000 NM"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Requiere línea de vista.",
       "explanation": "Al trabajar en VHF, su alcance está limitado por la curvatura terrestre y obstáculos.",
-      "tags": ["radioayudas", "vor"]
+      "tags": [
+        "radioayudas",
+        "vor"
+      ]
     },
     {
       "question_id": "MOD5_020",
@@ -312,15 +595,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Es más barato"},
-        {"option_id": "B", "text": "Reduce errores de precisión causados por obstáculos en el terreno"},
-        {"option_id": "C", "text": "Usa menos electricidad"},
-        {"option_id": "D", "text": "Permite hablar con el piloto"}
+        {
+          "option_id": "A",
+          "text": "Usa menos electricidad"
+        },
+        {
+          "option_id": "B",
+          "text": "Reduce errores de precisión causados por obstáculos en el terreno"
+        },
+        {
+          "option_id": "C",
+          "text": "Es más barato"
+        },
+        {
+          "option_id": "D",
+          "text": "Permite hablar con el piloto"
+        }
       ],
       "correct_answer": "B",
       "hint": "Utiliza técnicas de transmisión más avanzadas.",
       "explanation": "El DVOR es mucho más inmune a los reflejos de la señal en montañas o edificios.",
-      "tags": ["radioayudas", "vor"]
+      "tags": [
+        "radioayudas",
+        "vor"
+      ]
     },
     {
       "question_id": "MOD5_021",
@@ -328,15 +626,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Rumbos"},
-        {"option_id": "B", "text": "Distancia oblicua a la estación (en NM)"},
-        {"option_id": "C", "text": "Altitud"},
-        {"option_id": "D", "text": "Velocidad vertical"}
+        {
+          "option_id": "A",
+          "text": "Rumbos"
+        },
+        {
+          "option_id": "B",
+          "text": "Velocidad vertical"
+        },
+        {
+          "option_id": "C",
+          "text": "Altitud"
+        },
+        {
+          "option_id": "D",
+          "text": "Distancia oblicua a la estación (en NM)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Distance Measuring Equipment.",
       "explanation": "Mide el tiempo de ida y vuelta de una señal para calcular la distancia.",
-      "tags": ["radioayudas", "dme"]
+      "tags": [
+        "radioayudas",
+        "dme"
+      ]
     },
     {
       "question_id": "MOD5_022",
@@ -344,15 +657,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Que mide la distancia sobre el suelo"},
-        {"option_id": "B", "text": "Que incluye la altura del avión en el cálculo (hipotenusa)"},
-        {"option_id": "C", "text": "Que la medida es aproximada"},
-        {"option_id": "D", "text": "Que solo mide distancias laterales"}
+        {
+          "option_id": "A",
+          "text": "Que mide la distancia sobre el suelo"
+        },
+        {
+          "option_id": "B",
+          "text": "Que solo mide distancias laterales"
+        },
+        {
+          "option_id": "C",
+          "text": "Que la medida es aproximada"
+        },
+        {
+          "option_id": "D",
+          "text": "Que incluye la altura del avión en el cálculo (hipotenusa)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Si vuelas sobre la estación a 6.000 ft, marcará 1 NM.",
       "explanation": "La distancia DME es la línea recta entre el avión y la antena, no la proyección horizontal.",
-      "tags": ["radioayudas", "dme"]
+      "tags": [
+        "radioayudas",
+        "dme"
+      ]
     },
     {
       "question_id": "MOD5_023",
@@ -360,15 +688,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "NDB/ILS"},
-        {"option_id": "B", "text": "VOR/DME"},
-        {"option_id": "C", "text": "Radar/GPS"},
-        {"option_id": "D", "text": "VHF/UHF"}
+        {
+          "option_id": "A",
+          "text": "NDB/ILS"
+        },
+        {
+          "option_id": "B",
+          "text": "VHF/UHF"
+        },
+        {
+          "option_id": "C",
+          "text": "Radar/GPS"
+        },
+        {
+          "option_id": "D",
+          "text": "VOR/DME"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Permite fijar una posición mediante radial y distancia.",
       "explanation": "La mayoría de estaciones VOR tienen un DME coemplazado.",
-      "tags": ["radioayudas"]
+      "tags": [
+        "radioayudas"
+      ]
     },
     {
       "question_id": "MOD5_024",
@@ -376,15 +718,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "VOR"},
-        {"option_id": "B", "text": "ILS (Instrument Landing System)"},
-        {"option_id": "C", "text": "DME"},
-        {"option_id": "D", "text": "NDB"}
+        {
+          "option_id": "A",
+          "text": "ILS (Instrument Landing System)"
+        },
+        {
+          "option_id": "B",
+          "text": "VOR"
+        },
+        {
+          "option_id": "C",
+          "text": "DME"
+        },
+        {
+          "option_id": "D",
+          "text": "NDB"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Permite aterrizar con baja visibilidad.",
       "explanation": "El ILS guía al avión hasta la pista en azimut y senda de planeo.",
-      "tags": ["radioayudas", "ils"]
+      "tags": [
+        "radioayudas",
+        "ils"
+      ]
     },
     {
       "question_id": "MOD5_025",
@@ -392,15 +749,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Senda de planeo (Glide Path)"},
-        {"option_id": "B", "text": "Localizador (LOC)"},
-        {"option_id": "C", "text": "Radiobaliza"},
-        {"option_id": "D", "text": "Anemómetro"}
+        {
+          "option_id": "A",
+          "text": "Anemómetro"
+        },
+        {
+          "option_id": "B",
+          "text": "Radiobaliza"
+        },
+        {
+          "option_id": "C",
+          "text": "Senda de planeo (Glide Path)"
+        },
+        {
+          "option_id": "D",
+          "text": "Localizador (LOC)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Sitúa al avión a izquierda o derecha del eje.",
       "explanation": "El localizador emite señales para alinear el avión con el eje de la pista.",
-      "tags": ["radioayudas", "ils"]
+      "tags": [
+        "radioayudas",
+        "ils"
+      ]
     },
     {
       "question_id": "MOD5_026",
@@ -408,15 +780,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1 grado"},
-        {"option_id": "B", "text": "3 grados"},
-        {"option_id": "C", "text": "5 grados"},
-        {"option_id": "D", "text": "10 grados"}
+        {
+          "option_id": "A",
+          "text": "5 grados"
+        },
+        {
+          "option_id": "B",
+          "text": "1 grado"
+        },
+        {
+          "option_id": "C",
+          "text": "3 grados"
+        },
+        {
+          "option_id": "D",
+          "text": "10 grados"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Es la trayectoria de planeo normal.",
       "explanation": "Aunque puede variar, 3º es la pendiente nominal del Glide Path.",
-      "tags": ["radioayudas", "ils"]
+      "tags": [
+        "radioayudas",
+        "ils"
+      ]
     },
     {
       "question_id": "MOD5_027",
@@ -424,15 +811,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "GPS"},
-        {"option_id": "B", "text": "DME coemplazado"},
-        {"option_id": "C", "text": "Radar primario"},
-        {"option_id": "D", "text": "Luces PAPI"}
+        {
+          "option_id": "A",
+          "text": "Luces PAPI"
+        },
+        {
+          "option_id": "B",
+          "text": "Radar primario"
+        },
+        {
+          "option_id": "C",
+          "text": "GPS"
+        },
+        {
+          "option_id": "D",
+          "text": "DME coemplazado"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Proporciona distancia constante, no solo en un punto.",
       "explanation": "El DME permite conocer la distancia al umbral en todo momento de la aproximación.",
-      "tags": ["radioayudas", "ils"]
+      "tags": [
+        "radioayudas",
+        "ils"
+      ]
     },
     {
       "question_id": "MOD5_028",
@@ -440,15 +842,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Categoría I"},
-        {"option_id": "B", "text": "Categoría II"},
-        {"option_id": "C", "text": "Categoría III C"},
-        {"option_id": "D", "text": "Categoría III A"}
+        {
+          "option_id": "A",
+          "text": "Categoría III C"
+        },
+        {
+          "option_id": "B",
+          "text": "Categoría III A"
+        },
+        {
+          "option_id": "C",
+          "text": "Categoría I"
+        },
+        {
+          "option_id": "D",
+          "text": "Categoría II"
+        }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "hint": "C de 'Cero' visibilidad.",
       "explanation": "La Cat III C permite aterrizaje y rodaje sin visibilidad exterior absoluta.",
-      "tags": ["radioayudas", "ils"]
+      "tags": [
+        "radioayudas",
+        "ils"
+      ]
     },
     {
       "question_id": "MOD5_029",
@@ -456,15 +873,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "ILS"},
-        {"option_id": "B", "text": "PAPI (Precision Approach Path Indicator)"},
-        {"option_id": "C", "text": "DME"},
-        {"option_id": "D", "text": "SSR"}
+        {
+          "option_id": "A",
+          "text": "ILS"
+        },
+        {
+          "option_id": "B",
+          "text": "DME"
+        },
+        {
+          "option_id": "C",
+          "text": "SSR"
+        },
+        {
+          "option_id": "D",
+          "text": "PAPI (Precision Approach Path Indicator)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Usa luces rojas y blancas.",
       "explanation": "El PAPI ayuda visualmente al piloto a mantener la senda de planeo.",
-      "tags": ["sistemas_visuales"]
+      "tags": [
+        "sistemas_visuales"
+      ]
     },
     {
       "question_id": "MOD5_030",
@@ -472,15 +903,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "El avión está muy alto"},
-        {"option_id": "B", "text": "El avión está muy bajo"},
-        {"option_id": "C", "text": "Senda perfecta"},
-        {"option_id": "D", "text": "Pista cerrada"}
+        {
+          "option_id": "A",
+          "text": "Senda perfecta"
+        },
+        {
+          "option_id": "B",
+          "text": "El avión está muy alto"
+        },
+        {
+          "option_id": "C",
+          "text": "Pista cerrada"
+        },
+        {
+          "option_id": "D",
+          "text": "El avión está muy bajo"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Rojo = Peligro / Bajo.",
       "explanation": "4 rojas significan por debajo de la senda; 4 blancas significan muy por encima.",
-      "tags": ["sistemas_visuales"]
+      "tags": [
+        "sistemas_visuales"
+      ]
     },
     {
       "question_id": "MOD5_031",
@@ -488,15 +933,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "2"},
-        {"option_id": "B", "text": "3"},
-        {"option_id": "C", "text": "4"},
-        {"option_id": "D", "text": "24"}
+        {
+          "option_id": "A",
+          "text": "4"
+        },
+        {
+          "option_id": "B",
+          "text": "2"
+        },
+        {
+          "option_id": "C",
+          "text": "3"
+        },
+        {
+          "option_id": "D",
+          "text": "24"
+        }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "hint": "Tres para posición y un cuarto para sincronizar el reloj.",
       "explanation": "Se requiere la señal de 4 satélites simultáneamente para una navegación precisa.",
-      "tags": ["gnss"]
+      "tags": [
+        "gnss"
+      ]
     },
     {
       "question_id": "MOD5_032",
@@ -504,15 +963,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "GPS"},
-        {"option_id": "B", "text": "GLONASS"},
-        {"option_id": "C", "text": "Galileo"},
-        {"option_id": "D", "text": "BeiDou"}
+        {
+          "option_id": "A",
+          "text": "GLONASS"
+        },
+        {
+          "option_id": "B",
+          "text": "Galileo"
+        },
+        {
+          "option_id": "C",
+          "text": "BeiDou"
+        },
+        {
+          "option_id": "D",
+          "text": "GPS"
+        }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "hint": "De carácter civil.",
       "explanation": "Galileo es el sistema de posicionamiento global de la UE.",
-      "tags": ["gnss"]
+      "tags": [
+        "gnss"
+      ]
     },
     {
       "question_id": "MOD5_033",
@@ -520,15 +993,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Un satélite espía"},
-        {"option_id": "B", "text": "El sistema de aumentación basado en satélites (SBAS) europeo"},
-        {"option_id": "C", "text": "Un tipo de radar"},
-        {"option_id": "D", "text": "Una radioayuda terrestre"}
+        {
+          "option_id": "A",
+          "text": "Un satélite espía"
+        },
+        {
+          "option_id": "B",
+          "text": "Un tipo de radar"
+        },
+        {
+          "option_id": "C",
+          "text": "El sistema de aumentación basado en satélites (SBAS) europeo"
+        },
+        {
+          "option_id": "D",
+          "text": "Una radioayuda terrestre"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Mejora la precisión del GPS sobre Europa.",
       "explanation": "EGNOS proporciona correcciones e integridad para vuelos en Europa.",
-      "tags": ["gnss", "sbas"]
+      "tags": [
+        "gnss",
+        "sbas"
+      ]
     },
     {
       "question_id": "MOD5_034",
@@ -536,15 +1024,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "VOR"},
-        {"option_id": "B", "text": "INS (Inertial Navigation System)"},
-        {"option_id": "C", "text": "DME"},
-        {"option_id": "D", "text": "GPS"}
+        {
+          "option_id": "A",
+          "text": "DME"
+        },
+        {
+          "option_id": "B",
+          "text": "GPS"
+        },
+        {
+          "option_id": "C",
+          "text": "INS (Inertial Navigation System)"
+        },
+        {
+          "option_id": "D",
+          "text": "VOR"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Usa acelerómetros y giróscopos.",
       "explanation": "El INS calcula la posición integrando aceleraciones detectadas a bordo.",
-      "tags": ["navegacion_autonoma", "ins"]
+      "tags": [
+        "navegacion_autonoma",
+        "ins"
+      ]
     },
     {
       "question_id": "MOD5_035",
@@ -552,15 +1055,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "No funciona sobre el agua"},
-        {"option_id": "B", "text": "El error sistemático crece con el tiempo (necesita actualizaciones)"},
-        {"option_id": "C", "text": "Es muy pequeño"},
-        {"option_id": "D", "text": "Usa mucha gasolina"}
+        {
+          "option_id": "A",
+          "text": "Usa mucha gasolina"
+        },
+        {
+          "option_id": "B",
+          "text": "No funciona sobre el agua"
+        },
+        {
+          "option_id": "C",
+          "text": "Es muy pequeño"
+        },
+        {
+          "option_id": "D",
+          "text": "El error sistemático crece con el tiempo (necesita actualizaciones)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Deriva inercial.",
       "explanation": "El error acumulado requiere ser corregido periódicamente mediante radioayudas o GPS.",
-      "tags": ["ins"]
+      "tags": [
+        "ins"
+      ]
     },
     {
       "question_id": "MOD5_036",
@@ -568,15 +1085,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Radar secundario (SSR)"},
-        {"option_id": "B", "text": "Radar primario (PSR)"},
-        {"option_id": "C", "text": "ADS-B"},
-        {"option_id": "D", "text": "Multilateración"}
+        {
+          "option_id": "A",
+          "text": "ADS-B"
+        },
+        {
+          "option_id": "B",
+          "text": "Radar primario (PSR)"
+        },
+        {
+          "option_id": "C",
+          "text": "Multilateración"
+        },
+        {
+          "option_id": "D",
+          "text": "Radar secundario (SSR)"
+        }
       ],
       "correct_answer": "B",
       "hint": "Basado en el eco de ondas reflejadas.",
       "explanation": "El radar primario detecta cualquier objeto metálico sin necesidad de transpondedor.",
-      "tags": ["vigilancia", "radar"]
+      "tags": [
+        "vigilancia",
+        "radar"
+      ]
     },
     {
       "question_id": "MOD5_037",
@@ -584,15 +1116,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Standard Surveillance Radio"},
-        {"option_id": "B", "text": "Secondary Surveillance Radar (Radar secundario de vigilancia)"},
-        {"option_id": "C", "text": "Surface Search Radar"},
-        {"option_id": "D", "text": "System Safety Review"}
+        {
+          "option_id": "A",
+          "text": "Surface Search Radar"
+        },
+        {
+          "option_id": "B",
+          "text": "System Safety Review"
+        },
+        {
+          "option_id": "C",
+          "text": "Standard Surveillance Radio"
+        },
+        {
+          "option_id": "D",
+          "text": "Secondary Surveillance Radar (Radar secundario de vigilancia)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Vigilancia cooperativa.",
       "explanation": "El SSR interroga al avión y recibe datos del transpondedor.",
-      "tags": ["vigilancia", "radar"]
+      "tags": [
+        "vigilancia",
+        "radar"
+      ]
     },
     {
       "question_id": "MOD5_038",
@@ -600,15 +1147,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Modo A"},
-        {"option_id": "B", "text": "Modo C"},
-        {"option_id": "C", "text": "Modo S"},
-        {"option_id": "D", "text": "Modo X"}
+        {
+          "option_id": "A",
+          "text": "Modo X"
+        },
+        {
+          "option_id": "B",
+          "text": "Modo C"
+        },
+        {
+          "option_id": "C",
+          "text": "Modo A"
+        },
+        {
+          "option_id": "D",
+          "text": "Modo S"
+        }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "hint": "S de Selectivo.",
       "explanation": "El Modo S mejora la eficiencia del enlace de datos aire-tierra.",
-      "tags": ["vigilancia", "radar"]
+      "tags": [
+        "vigilancia",
+        "radar"
+      ]
     },
     {
       "question_id": "MOD5_039",
@@ -616,15 +1178,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Solo la identificación"},
-        {"option_id": "B", "text": "La altitud de presión (Nivel de Vuelo)"},
-        {"option_id": "C", "text": "La velocidad del aire"},
-        {"option_id": "D", "text": "El nombre del piloto"}
+        {
+          "option_id": "A",
+          "text": "Solo la identificación"
+        },
+        {
+          "option_id": "B",
+          "text": "El nombre del piloto"
+        },
+        {
+          "option_id": "C",
+          "text": "La altitud de presión (Nivel de Vuelo)"
+        },
+        {
+          "option_id": "D",
+          "text": "La velocidad del aire"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Esencial para el control de tráfico en ruta.",
       "explanation": "Transmite la altitud codificada para que aparezca en la pantalla del controlador.",
-      "tags": ["vigilancia", "transpondedor"]
+      "tags": [
+        "vigilancia",
+        "transpondedor"
+      ]
     },
     {
       "question_id": "MOD5_040",
@@ -632,15 +1209,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Vigilancia con un solo radar muy potente"},
-        {"option_id": "B", "text": "Triangulación de la posición mediante la diferencia horaria de llegada (TDOA) de la señal"},
-        {"option_id": "C", "text": "Uso de prismáticos en la torre"},
-        {"option_id": "D", "text": "Cálculo de peso de la aeronave"}
+        {
+          "option_id": "A",
+          "text": "Vigilancia con un solo radar muy potente"
+        },
+        {
+          "option_id": "B",
+          "text": "Cálculo de peso de la aeronave"
+        },
+        {
+          "option_id": "C",
+          "text": "Uso de prismáticos en la torre"
+        },
+        {
+          "option_id": "D",
+          "text": "Triangulación de la posición mediante la diferencia horaria de llegada (TDOA) de la señal"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Usa múltiples receptores en tierra.",
       "explanation": "MLAT calcula la posición basándose en cuándo llega la señal del avión a distintos puntos.",
-      "tags": ["vigilancia"]
+      "tags": [
+        "vigilancia"
+      ]
     },
     {
       "question_id": "MOD5_041",
@@ -648,15 +1239,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Aeronautical Data System - Basic"},
-        {"option_id": "B", "text": "Automatic Dependent Surveillance - Broadcast (Radiodifusión)"},
-        {"option_id": "C", "text": "Advanced Digital Surveillance - Border"},
-        {"option_id": "D", "text": "Air Traffic Deployment Service"}
+        {
+          "option_id": "A",
+          "text": "Aeronautical Data System - Basic"
+        },
+        {
+          "option_id": "B",
+          "text": "Advanced Digital Surveillance - Border"
+        },
+        {
+          "option_id": "C",
+          "text": "Automatic Dependent Surveillance - Broadcast (Radiodifusión)"
+        },
+        {
+          "option_id": "D",
+          "text": "Air Traffic Deployment Service"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "El avión emite sus datos continuamente sin ser interrogado.",
       "explanation": "La aeronave transmite su posición GPS y otros datos a cualquiera que tenga receptor.",
-      "tags": ["vigilancia", "ads"]
+      "tags": [
+        "vigilancia",
+        "ads"
+      ]
     },
     {
       "question_id": "MOD5_042",
@@ -664,15 +1270,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Porque depende de que el piloto hable"},
-        {"option_id": "B", "text": "Porque la precisión depende de los sistemas de navegación de a bordo"},
-        {"option_id": "C", "text": "Porque depende del tiempo atmosférico"},
-        {"option_id": "D", "text": "Porque depende de la batería"}
+        {
+          "option_id": "A",
+          "text": "Porque depende de que el piloto hable"
+        },
+        {
+          "option_id": "B",
+          "text": "Porque depende de la batería"
+        },
+        {
+          "option_id": "C",
+          "text": "Porque la precisión depende de los sistemas de navegación de a bordo"
+        },
+        {
+          "option_id": "D",
+          "text": "Porque depende del tiempo atmosférico"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "El avión genera su propio dato de posición.",
       "explanation": "A diferencia del radar (independiente), el ADS depende del equipo de navegación del avión.",
-      "tags": ["vigilancia", "ads"]
+      "tags": [
+        "vigilancia",
+        "ads"
+      ]
     },
     {
       "question_id": "MOD5_043",
@@ -680,15 +1301,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "PSR"},
-        {"option_id": "B", "text": "SMR (Surface Movement Radar)"},
-        {"option_id": "C", "text": "VOR"},
-        {"option_id": "D", "text": "GLONASS"}
+        {
+          "option_id": "A",
+          "text": "SMR (Surface Movement Radar)"
+        },
+        {
+          "option_id": "B",
+          "text": "VOR"
+        },
+        {
+          "option_id": "C",
+          "text": "PSR"
+        },
+        {
+          "option_id": "D",
+          "text": "GLONASS"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Funciona en banda X (alta frecuencia).",
       "explanation": "El SMR ofrece alta resolución para el área de maniobras en tierra.",
-      "tags": ["vigilancia", "radar"]
+      "tags": [
+        "vigilancia",
+        "radar"
+      ]
     },
     {
       "question_id": "MOD5_044",
@@ -696,15 +1332,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "SSR"},
-        {"option_id": "B", "text": "Radar meteorológico"},
-        {"option_id": "C", "text": "DME"},
-        {"option_id": "D", "text": "ADF"}
+        {
+          "option_id": "A",
+          "text": "ADF"
+        },
+        {
+          "option_id": "B",
+          "text": "DME"
+        },
+        {
+          "option_id": "C",
+          "text": "SSR"
+        },
+        {
+          "option_id": "D",
+          "text": "Radar meteorológico"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Suele ir en el morro del avión.",
       "explanation": "Detecta el movimiento y densidad de las gotas de lluvia.",
-      "tags": ["vigilancia", "meteorologia"]
+      "tags": [
+        "vigilancia",
+        "meteorologia"
+      ]
     },
     {
       "question_id": "MOD5_045",
@@ -712,15 +1363,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Global Border Air System"},
-        {"option_id": "B", "text": "Ground-based Augmentation System (Aumentación basada en tierra)"},
-        {"option_id": "C", "text": "General Beacon Air Support"},
-        {"option_id": "D", "text": "Gravity Based Altitude Sensor"}
+        {
+          "option_id": "A",
+          "text": "Global Border Air System"
+        },
+        {
+          "option_id": "B",
+          "text": "Ground-based Augmentation System (Aumentación basada en tierra)"
+        },
+        {
+          "option_id": "C",
+          "text": "Gravity Based Altitude Sensor"
+        },
+        {
+          "option_id": "D",
+          "text": "General Beacon Air Support"
+        }
       ],
       "correct_answer": "B",
       "hint": "Proporciona correcciones locales para aproximaciones de precisión.",
       "explanation": "Es una estación terrestre en el aeropuerto que mejora el GNSS localmente.",
-      "tags": ["gnss", "gbas"]
+      "tags": [
+        "gnss",
+        "gbas"
+      ]
     },
     {
       "question_id": "MOD5_046",
@@ -728,15 +1394,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Navegación Visual"},
-        {"option_id": "B", "text": "Navegación Radioeléctrica Convencional"},
-        {"option_id": "C", "text": "PBN"},
-        {"option_id": "D", "text": "Vigilancia dependiente"}
+        {
+          "option_id": "A",
+          "text": "Navegación Radioeléctrica Convencional"
+        },
+        {
+          "option_id": "B",
+          "text": "PBN"
+        },
+        {
+          "option_id": "C",
+          "text": "Vigilancia dependiente"
+        },
+        {
+          "option_id": "D",
+          "text": "Navegación Visual"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Depende de la ubicación física de las balizas.",
       "explanation": "Es el método tradicional de volar de una radioayuda a otra.",
-      "tags": ["navegacion"]
+      "tags": [
+        "navegacion"
+      ]
     },
     {
       "question_id": "MOD5_047",
@@ -744,15 +1424,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "En el pago de una suscripción"},
-        {"option_id": "B", "text": "En un acuerdo entre aeronave y sistema de tierra sobre qué datos enviar y cuándo"},
-        {"option_id": "C", "text": "En la firma de un contrato de mantenimiento"},
-        {"option_id": "D", "text": "Solo funciona para aviones de carga"}
+        {
+          "option_id": "A",
+          "text": "Solo funciona para aviones de carga"
+        },
+        {
+          "option_id": "B",
+          "text": "En la firma de un contrato de mantenimiento"
+        },
+        {
+          "option_id": "C",
+          "text": "En un acuerdo entre aeronave y sistema de tierra sobre qué datos enviar y cuándo"
+        },
+        {
+          "option_id": "D",
+          "text": "En el pago de una suscripción"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "C de Contrato.",
       "explanation": "El sistema solicita datos específicos (periódicos o por eventos) al avión.",
-      "tags": ["vigilancia", "ads"]
+      "tags": [
+        "vigilancia",
+        "ads"
+      ]
     },
     {
       "question_id": "MOD5_048",
@@ -760,15 +1455,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "DME"},
-        {"option_id": "B", "text": "NDB"},
-        {"option_id": "C", "text": "ASIM"},
-        {"option_id": "D", "text": "TCAS"}
+        {
+          "option_id": "A",
+          "text": "ASIM"
+        },
+        {
+          "option_id": "B",
+          "text": "TCAS"
+        },
+        {
+          "option_id": "C",
+          "text": "DME"
+        },
+        {
+          "option_id": "D",
+          "text": "NDB"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Aunque esté en desuso en ruta, sigue usándose en aproximación.",
       "explanation": "El NDB proporciona el guiado horizontal necesario para estas maniobras.",
-      "tags": ["radioayudas", "ndb"]
+      "tags": [
+        "radioayudas",
+        "ndb"
+      ]
     },
     {
       "question_id": "MOD5_049",
@@ -776,15 +1486,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "RBI"},
-        {"option_id": "B", "text": "RMI (Radio Magnetic Indicator)"},
-        {"option_id": "C", "text": "CDI"},
-        {"option_id": "D", "text": "GPS"}
+        {
+          "option_id": "A",
+          "text": "GPS"
+        },
+        {
+          "option_id": "B",
+          "text": "RBI"
+        },
+        {
+          "option_id": "C",
+          "text": "CDI"
+        },
+        {
+          "option_id": "D",
+          "text": "RMI (Radio Magnetic Indicator)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Dispone de una rosa de rumbos móvil.",
       "explanation": "El RMI permite leer directamente el rumbo hacia la estación sobre la escala de rumbos del avión.",
-      "tags": ["instrumentos"]
+      "tags": [
+        "instrumentos"
+      ]
     },
     {
       "question_id": "MOD5_050",
@@ -792,15 +1516,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Un haz estrecho dirigido"},
-        {"option_id": "B", "text": "Una señal omnidireccional (en todas direcciones)"},
-        {"option_id": "C", "text": "Solo hacia el norte"},
-        {"option_id": "D", "text": "Solo hacia arriba"}
+        {
+          "option_id": "A",
+          "text": "Un haz estrecho dirigido"
+        },
+        {
+          "option_id": "B",
+          "text": "Una señal omnidireccional (en todas direcciones)"
+        },
+        {
+          "option_id": "C",
+          "text": "Solo hacia arriba"
+        },
+        {
+          "option_id": "D",
+          "text": "Solo hacia el norte"
+        }
       ],
       "correct_answer": "B",
       "hint": "Cubre los 360 grados.",
       "explanation": "Permite ser captada desde cualquier posición alrededor de la estación.",
-      "tags": ["ndb"]
+      "tags": [
+        "ndb"
+      ]
     },
     {
       "question_id": "MOD5_051",
@@ -808,15 +1546,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Exactitud (Accuracy)"},
-        {"option_id": "B", "text": "Integridad"},
-        {"option_id": "C", "text": "Continuidad"},
-        {"option_id": "D", "text": "Disponibilidad"}
+        {
+          "option_id": "A",
+          "text": "Integridad"
+        },
+        {
+          "option_id": "B",
+          "text": "Continuidad"
+        },
+        {
+          "option_id": "C",
+          "text": "Disponibilidad"
+        },
+        {
+          "option_id": "D",
+          "text": "Exactitud (Accuracy)"
+        }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "hint": "Grado de error de posición.",
       "explanation": "Es el margen de error del sistema de navegación.",
-      "tags": ["pbn"]
+      "tags": [
+        "pbn"
+      ]
     },
     {
       "question_id": "MOD5_052",
@@ -824,15 +1576,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "RNAV 10"},
-        {"option_id": "B", "text": "RNAV 5"},
-        {"option_id": "C", "text": "RNAV 1"},
-        {"option_id": "D", "text": "RNP 4"}
+        {
+          "option_id": "A",
+          "text": "RNAV 5"
+        },
+        {
+          "option_id": "B",
+          "text": "RNP 4"
+        },
+        {
+          "option_id": "C",
+          "text": "RNAV 10"
+        },
+        {
+          "option_id": "D",
+          "text": "RNAV 1"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Antiguamente llamada B-RNAV.",
       "explanation": "RNAV 5 es el estándar para la fase de ruta en el continente.",
-      "tags": ["pbn", "ue"]
+      "tags": [
+        "pbn",
+        "ue"
+      ]
     },
     {
       "question_id": "MOD5_053",
@@ -840,15 +1607,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "La previsión del tiempo"},
-        {"option_id": "B", "text": "El identificador de la estación (2 o 3 letras)"},
-        {"option_id": "C", "text": "Un mensaje de bienvenida"},
-        {"option_id": "D", "text": "La altitud de la antena"}
+        {
+          "option_id": "A",
+          "text": "La previsión del tiempo"
+        },
+        {
+          "option_id": "B",
+          "text": "Un mensaje de bienvenida"
+        },
+        {
+          "option_id": "C",
+          "text": "La altitud de la antena"
+        },
+        {
+          "option_id": "D",
+          "text": "El identificador de la estación (2 o 3 letras)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Sirve para verificar que se ha sintonizado la estación correcta.",
       "explanation": "Cada radioayuda transmite su identidad sonora periódicamente.",
-      "tags": ["radioayudas"]
+      "tags": [
+        "radioayudas"
+      ]
     },
     {
       "question_id": "MOD5_054",
@@ -856,15 +1637,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Están en los extremos"},
-        {"option_id": "B", "text": "Están centradas formando una cruz"},
-        {"option_id": "C", "text": "No aparecen"},
-        {"option_id": "D", "text": "Parpadean en rojo"}
+        {
+          "option_id": "A",
+          "text": "Parpadean en rojo"
+        },
+        {
+          "option_id": "B",
+          "text": "Están en los extremos"
+        },
+        {
+          "option_id": "C",
+          "text": "Están centradas formando una cruz"
+        },
+        {
+          "option_id": "D",
+          "text": "No aparecen"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Indicación de mando nulo.",
       "explanation": "Cuando el avión vuela la trayectoria exacta, las agujas se mantienen cruzadas en el centro del instrumento.",
-      "tags": ["ils"]
+      "tags": [
+        "ils"
+      ]
     },
     {
       "question_id": "MOD5_055",
@@ -872,15 +1667,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LF"},
-        {"option_id": "B", "text": "VHF (108.10 - 111.95 MHz)"},
-        {"option_id": "C", "text": "UHF"},
-        {"option_id": "D", "text": "HF"}
+        {
+          "option_id": "A",
+          "text": "UHF"
+        },
+        {
+          "option_id": "B",
+          "text": "VHF (108.10 - 111.95 MHz)"
+        },
+        {
+          "option_id": "C",
+          "text": "LF"
+        },
+        {
+          "option_id": "D",
+          "text": "HF"
+        }
       ],
       "correct_answer": "B",
       "hint": "Comparte banda con el VOR.",
       "explanation": "El localizador opera en la banda alta de radiofrecuencia VHF.",
-      "tags": ["ils"]
+      "tags": [
+        "ils"
+      ]
     },
     {
       "question_id": "MOD5_056",
@@ -888,15 +1697,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "VHF"},
-        {"option_id": "B", "text": "UHF (329.15 - 335 MHz)"},
-        {"option_id": "C", "text": "MF"},
-        {"option_id": "D", "text": "VLF"}
+        {
+          "option_id": "A",
+          "text": "UHF (329.15 - 335 MHz)"
+        },
+        {
+          "option_id": "B",
+          "text": "VLF"
+        },
+        {
+          "option_id": "C",
+          "text": "MF"
+        },
+        {
+          "option_id": "D",
+          "text": "VHF"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Frecuencias mucho más altas que el localizador.",
       "explanation": "La senda de planeo utiliza la banda de ultra alta frecuencia.",
-      "tags": ["ils"]
+      "tags": [
+        "ils"
+      ]
     },
     {
       "question_id": "MOD5_057",
@@ -904,15 +1727,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "ABAS"},
-        {"option_id": "B", "text": "SBAS (como EGNOS)"},
-        {"option_id": "C", "text": "GBAS"},
-        {"option_id": "D", "text": "VOR"}
+        {
+          "option_id": "A",
+          "text": "ABAS"
+        },
+        {
+          "option_id": "B",
+          "text": "GBAS"
+        },
+        {
+          "option_id": "C",
+          "text": "SBAS (como EGNOS)"
+        },
+        {
+          "option_id": "D",
+          "text": "VOR"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Satellite-Based Augmentation System.",
       "explanation": "SBAS difunde sus datos de aumentación a través de satélites en órbita fija sobre el ecuador.",
-      "tags": ["gnss", "sbas"]
+      "tags": [
+        "gnss",
+        "sbas"
+      ]
     },
     {
       "question_id": "MOD5_058",
@@ -920,15 +1758,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Giróscopo"},
-        {"option_id": "B", "text": "Acelerómetro"},
-        {"option_id": "C", "text": "Integrador"},
-        {"option_id": "D", "text": "Magnetómetro"}
+        {
+          "option_id": "A",
+          "text": "Giróscopo"
+        },
+        {
+          "option_id": "B",
+          "text": "Acelerómetro"
+        },
+        {
+          "option_id": "C",
+          "text": "Integrador"
+        },
+        {
+          "option_id": "D",
+          "text": "Magnetómetro"
+        }
       ],
       "correct_answer": "B",
       "hint": "Detecta cambios de velocidad.",
       "explanation": "El acelerómetro es la unidad básica de medida en un sistema inercial.",
-      "tags": ["ins"]
+      "tags": [
+        "ins"
+      ]
     },
     {
       "question_id": "MOD5_059",
@@ -936,15 +1788,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "En el interrogatorio radio"},
-        {"option_id": "B", "text": "En la reflexión de ondas electromagnéticas sobre un blanco"},
-        {"option_id": "C", "text": "En la luz visible"},
-        {"option_id": "D", "text": "En la presión del aire"}
+        {
+          "option_id": "A",
+          "text": "En el interrogatorio radio"
+        },
+        {
+          "option_id": "B",
+          "text": "En la luz visible"
+        },
+        {
+          "option_id": "C",
+          "text": "En la presión del aire"
+        },
+        {
+          "option_id": "D",
+          "text": "En la reflexión de ondas electromagnéticas sobre un blanco"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Funciona por el 'eco'.",
       "explanation": "El PSR detecta la energía reflejada de vuelta por el objeto (aeronave).",
-      "tags": ["radar"]
+      "tags": [
+        "radar"
+      ]
     },
     {
       "question_id": "MOD5_060",
@@ -952,15 +1818,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "No necesita antenas"},
-        {"option_id": "B", "text": "Proporciona información adicional como identificación y altitud del vuelo"},
-        {"option_id": "C", "text": "Detecta mejor las nubes"},
-        {"option_id": "D", "text": "Es inmune a fallos eléctricos"}
+        {
+          "option_id": "A",
+          "text": "Proporciona información adicional como identificación y altitud del vuelo"
+        },
+        {
+          "option_id": "B",
+          "text": "Es inmune a fallos eléctricos"
+        },
+        {
+          "option_id": "C",
+          "text": "Detecta mejor las nubes"
+        },
+        {
+          "option_id": "D",
+          "text": "No necesita antenas"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Usa la respuesta del transpondedor.",
       "explanation": "Al ser cooperativo, el SSR recibe datos específicos que el primario no puede obtener.",
-      "tags": ["radar"]
+      "tags": [
+        "radar"
+      ]
     },
     {
       "question_id": "MOD5_061",
@@ -968,15 +1848,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Total System Error (Error total del sistema)"},
-        {"option_id": "B", "text": "Traffic Support Entry"},
-        {"option_id": "C", "text": "Technical Safety Equipment"},
-        {"option_id": "D", "text": "Time Surface Elevation"}
+        {
+          "option_id": "A",
+          "text": "Technical Safety Equipment"
+        },
+        {
+          "option_id": "B",
+          "text": "Traffic Support Entry"
+        },
+        {
+          "option_id": "C",
+          "text": "Time Surface Elevation"
+        },
+        {
+          "option_id": "D",
+          "text": "Total System Error (Error total del sistema)"
+        }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "hint": "Precisión de navegación lateral.",
       "explanation": "TSE es el error combinado que define el cumplimiento de una especificación PBN.",
-      "tags": ["pbn"]
+      "tags": [
+        "pbn"
+      ]
     },
     {
       "question_id": "MOD5_062",
@@ -984,15 +1878,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "GPS"},
-        {"option_id": "B", "text": "EGNOS"},
-        {"option_id": "C", "text": "GLONASS"},
-        {"option_id": "D", "text": "Galileo"}
+        {
+          "option_id": "A",
+          "text": "EGNOS"
+        },
+        {
+          "option_id": "B",
+          "text": "GLONASS"
+        },
+        {
+          "option_id": "C",
+          "text": "Galileo"
+        },
+        {
+          "option_id": "D",
+          "text": "GPS"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Es un sistema de aumentación regional.",
       "explanation": "EGNOS mejora el GPS en Europa, pero no es una constelación independiente de satélites.",
-      "tags": ["gnss"]
+      "tags": [
+        "gnss"
+      ]
     },
     {
       "question_id": "MOD5_063",
@@ -1000,15 +1908,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Llamar al piloto por teléfono"},
-        {"option_id": "B", "text": "Interrogar individualmente a un respondedor específico"},
-        {"option_id": "C", "text": "Elegir un radar diferente"},
-        {"option_id": "D", "text": "Silenciar a los aviones pequeños"}
+        {
+          "option_id": "A",
+          "text": "Silenciar a los aviones pequeños"
+        },
+        {
+          "option_id": "B",
+          "text": "Interrogar individualmente a un respondedor específico"
+        },
+        {
+          "option_id": "C",
+          "text": "Llamar al piloto por teléfono"
+        },
+        {
+          "option_id": "D",
+          "text": "Elegir un radar diferente"
+        }
       ],
       "correct_answer": "B",
       "hint": "Optimiza el uso de la frecuencia de 1030/1090 MHz.",
       "explanation": "Permite la vigilancia dirigida, reduciendo interferencias y mejorando la calidad del dato.",
-      "tags": ["vigilancia", "radar"]
+      "tags": [
+        "vigilancia",
+        "radar"
+      ]
     },
     {
       "question_id": "MOD5_064",
@@ -1016,15 +1939,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "SSR"},
-        {"option_id": "B", "text": "ADS-C (Contrato)"},
-        {"option_id": "C", "text": "VOR"},
-        {"option_id": "D", "text": "SMR"}
+        {
+          "option_id": "A",
+          "text": "VOR"
+        },
+        {
+          "option_id": "B",
+          "text": "SSR"
+        },
+        {
+          "option_id": "C",
+          "text": "ADS-C (Contrato)"
+        },
+        {
+          "option_id": "D",
+          "text": "SMR"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Transmite vía satélite.",
       "explanation": "El ADS permite vigilar aeronaves basándose en sus reportes de posición satelitales.",
-      "tags": ["vigilancia", "ads"]
+      "tags": [
+        "vigilancia",
+        "ads"
+      ]
     },
     {
       "question_id": "MOD5_065",
@@ -1032,15 +1970,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1 vuelta cada minuto"},
-        {"option_id": "B", "text": "6 a 15 revoluciones por minuto"},
-        {"option_id": "C", "text": "100 vueltas por segundo"},
-        {"option_id": "D", "text": "No gira, es fija"}
+        {
+          "option_id": "A",
+          "text": "No gira, es fija"
+        },
+        {
+          "option_id": "B",
+          "text": "6 a 15 revoluciones por minuto"
+        },
+        {
+          "option_id": "C",
+          "text": "1 vuelta cada minuto"
+        },
+        {
+          "option_id": "D",
+          "text": "100 vueltas por segundo"
+        }
       ],
       "correct_answer": "B",
       "hint": "Ritmo pausado de actualización.",
       "explanation": "Las antenas PSR giran de forma constante para cubrir el azimut completo.",
-      "tags": ["vigilancia", "radar"]
+      "tags": [
+        "vigilancia",
+        "radar"
+      ]
     },
     {
       "question_id": "MOD5_066",
@@ -1048,15 +2001,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "L"},
-        {"option_id": "B", "text": "X (8 a 12 GHz)"},
-        {"option_id": "C", "text": "S"},
-        {"option_id": "D", "text": "HF"}
+        {
+          "option_id": "A",
+          "text": "X (8 a 12 GHz)"
+        },
+        {
+          "option_id": "B",
+          "text": "S"
+        },
+        {
+          "option_id": "C",
+          "text": "HF"
+        },
+        {
+          "option_id": "D",
+          "text": "L"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Frecuencias muy altas para alta resolución.",
       "explanation": "La banda X permite detectar objetos pequeños como vehículos en pista.",
-      "tags": ["vigilancia", "radar"]
+      "tags": [
+        "vigilancia",
+        "radar"
+      ]
     },
     {
       "question_id": "MOD5_067",
@@ -1064,15 +2032,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Total Data Output Access"},
-        {"option_id": "B", "text": "Time Difference of Arrival (Diferencia horaria de llegada)"},
-        {"option_id": "C", "text": "Traffic Design Operational Area"},
-        {"option_id": "D", "text": "Terminal Distance Observation Air"}
+        {
+          "option_id": "A",
+          "text": "Traffic Design Operational Area"
+        },
+        {
+          "option_id": "B",
+          "text": "Terminal Distance Observation Air"
+        },
+        {
+          "option_id": "C",
+          "text": "Total Data Output Access"
+        },
+        {
+          "option_id": "D",
+          "text": "Time Difference of Arrival (Diferencia horaria de llegada)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Método matemático de cálculo de posición.",
       "explanation": "Calcula la posición midiendo cuándo llega la señal a cada receptor terrestre.",
-      "tags": ["vigilancia"]
+      "tags": [
+        "vigilancia"
+      ]
     },
     {
       "question_id": "MOD5_068",
@@ -1080,15 +2062,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Volar los satélites"},
-        {"option_id": "B", "text": "Monitorizar y supervisar la constelación desde estaciones terrestres"},
-        {"option_id": "C", "text": "Recibir la señal en el avión"},
-        {"option_id": "D", "text": "Vender los receptores"}
+        {
+          "option_id": "A",
+          "text": "Vender los receptores"
+        },
+        {
+          "option_id": "B",
+          "text": "Monitorizar y supervisar la constelación desde estaciones terrestres"
+        },
+        {
+          "option_id": "C",
+          "text": "Volar los satélites"
+        },
+        {
+          "option_id": "D",
+          "text": "Recibir la señal en el avión"
+        }
       ],
       "correct_answer": "B",
       "hint": "Misión técnica terrestre.",
       "explanation": "Asegura que los satélites estén en su órbita correcta y sus relojes sincronizados.",
-      "tags": ["gnss"]
+      "tags": [
+        "gnss"
+      ]
     },
     {
       "question_id": "MOD5_069",
@@ -1096,15 +2092,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "INS mecánico"},
-        {"option_id": "B", "text": "Giróscopo Láser (Ring Laser Gyro)"},
-        {"option_id": "C", "text": "Radar Doppler"},
-        {"option_id": "D", "text": "VOR Doppler"}
+        {
+          "option_id": "A",
+          "text": "VOR Doppler"
+        },
+        {
+          "option_id": "B",
+          "text": "Radar Doppler"
+        },
+        {
+          "option_id": "C",
+          "text": "INS mecánico"
+        },
+        {
+          "option_id": "D",
+          "text": "Giróscopo Láser (Ring Laser Gyro)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Sin partes móviles mecánicas.",
       "explanation": "Los inerciales láser son más precisos y robustos que los antiguos mecánicos.",
-      "tags": ["ins"]
+      "tags": [
+        "ins"
+      ]
     },
     {
       "question_id": "MOD5_070",
@@ -1112,15 +2122,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Visual"},
-        {"option_id": "B", "text": "Navegación a estima mediante integración de velocidades"},
-        {"option_id": "C", "text": "Triangulación de satélites"},
-        {"option_id": "D", "text": "Reconocimiento de imágenes"}
+        {
+          "option_id": "A",
+          "text": "Reconocimiento de imágenes"
+        },
+        {
+          "option_id": "B",
+          "text": "Navegación a estima mediante integración de velocidades"
+        },
+        {
+          "option_id": "C",
+          "text": "Triangulación de satélites"
+        },
+        {
+          "option_id": "D",
+          "text": "Visual"
+        }
       ],
       "correct_answer": "B",
       "hint": "Usa el cambio de frecuencia de ondas reflejadas en el suelo.",
       "explanation": "Mide el desplazamiento real sobre el terreno para estimar la posición.",
-      "tags": ["navegacion"]
+      "tags": [
+        "navegacion"
+      ]
     },
     {
       "question_id": "MOD5_071",
@@ -1128,15 +2152,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Las estaciones de tierra"},
-        {"option_id": "B", "text": "Los receptores a bordo de las aeronaves"},
-        {"option_id": "C", "text": "Los satélites"},
-        {"option_id": "D", "text": "El centro de control de misión"}
+        {
+          "option_id": "A",
+          "text": "El centro de control de misión"
+        },
+        {
+          "option_id": "B",
+          "text": "Los receptores a bordo de las aeronaves"
+        },
+        {
+          "option_id": "C",
+          "text": "Los satélites"
+        },
+        {
+          "option_id": "D",
+          "text": "Las estaciones de tierra"
+        }
       ],
       "correct_answer": "B",
       "hint": "Parte que 'usa' la señal.",
       "explanation": "Está formado por los equipos receptores de los usuarios finales.",
-      "tags": ["gnss"]
+      "tags": [
+        "gnss"
+      ]
     },
     {
       "question_id": "MOD5_072",
@@ -1144,15 +2182,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "MSAS"},
-        {"option_id": "B", "text": "WAAS (Wide Area Augmentation System)"},
-        {"option_id": "C", "text": "GAGAN"},
-        {"option_id": "D", "text": "GPS"}
+        {
+          "option_id": "A",
+          "text": "GAGAN"
+        },
+        {
+          "option_id": "B",
+          "text": "MSAS"
+        },
+        {
+          "option_id": "C",
+          "text": "GPS"
+        },
+        {
+          "option_id": "D",
+          "text": "WAAS (Wide Area Augmentation System)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "W...A...A...S.",
       "explanation": "WAAS es el sistema SBAS desarrollado por la FAA en EE.UU.",
-      "tags": ["gnss", "sbas"]
+      "tags": [
+        "gnss",
+        "sbas"
+      ]
     },
     {
       "question_id": "MOD5_073",
@@ -1160,15 +2213,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Crucero"},
-        {"option_id": "B", "text": "Aproximación y aterrizaje"},
-        {"option_id": "C", "text": "Ascenso inicial"},
-        {"option_id": "D", "text": "Rodaje al hangar"}
+        {
+          "option_id": "A",
+          "text": "Crucero"
+        },
+        {
+          "option_id": "B",
+          "text": "Aproximación y aterrizaje"
+        },
+        {
+          "option_id": "C",
+          "text": "Ascenso inicial"
+        },
+        {
+          "option_id": "D",
+          "text": "Rodaje al hangar"
+        }
       ],
       "correct_answer": "B",
       "hint": "Cerca del suelo.",
       "explanation": "El ILS garantiza la llegada segura al umbral de pista.",
-      "tags": ["ils"]
+      "tags": [
+        "ils"
+      ]
     },
     {
       "question_id": "MOD5_074",
@@ -1176,15 +2243,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Ámbar"},
-        {"option_id": "B", "text": "Azul"},
-        {"option_id": "C", "text": "Blanca"},
-        {"option_id": "D", "text": "Roja"}
+        {
+          "option_id": "A",
+          "text": "Blanca"
+        },
+        {
+          "option_id": "B",
+          "text": "Azul"
+        },
+        {
+          "option_id": "C",
+          "text": "Roja"
+        },
+        {
+          "option_id": "D",
+          "text": "Ámbar"
+        }
       ],
       "correct_answer": "B",
       "hint": "La más lejana.",
       "explanation": "El marcador exterior activa una luz azul y un tono Morse de rayas.",
-      "tags": ["ils", "instrumentos"]
+      "tags": [
+        "ils",
+        "instrumentos"
+      ]
     },
     {
       "question_id": "MOD5_075",
@@ -1192,15 +2274,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Azul"},
-        {"option_id": "B", "text": "Ámbar"},
-        {"option_id": "C", "text": "Blanca"},
-        {"option_id": "D", "text": "Verde"}
+        {
+          "option_id": "A",
+          "text": "Blanca"
+        },
+        {
+          "option_id": "B",
+          "text": "Verde"
+        },
+        {
+          "option_id": "C",
+          "text": "Azul"
+        },
+        {
+          "option_id": "D",
+          "text": "Ámbar"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Punto de decisión habitual en Cat I.",
       "explanation": "El marcador intermedio activa una luz ámbar y tonos Morse alternados.",
-      "tags": ["ils", "instrumentos"]
+      "tags": [
+        "ils",
+        "instrumentos"
+      ]
     },
     {
       "question_id": "MOD5_076",
@@ -1208,15 +2305,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Azul"},
-        {"option_id": "B", "text": "Ámbar"},
-        {"option_id": "C", "text": "Blanca"},
-        {"option_id": "D", "text": "Morada"}
+        {
+          "option_id": "A",
+          "text": "Blanca"
+        },
+        {
+          "option_id": "B",
+          "text": "Morada"
+        },
+        {
+          "option_id": "C",
+          "text": "Azul"
+        },
+        {
+          "option_id": "D",
+          "text": "Ámbar"
+        }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "hint": "Muy cerca del umbral.",
       "explanation": "El marcador interno activa una luz blanca y tonos Morse de puntos rápidos.",
-      "tags": ["ils", "instrumentos"]
+      "tags": [
+        "ils",
+        "instrumentos"
+      ]
     },
     {
       "question_id": "MOD5_077",
@@ -1224,15 +2336,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "> 60m (200ft)"},
-        {"option_id": "B", "text": "> 30m (100ft)"},
-        {"option_id": "C", "text": "0m"},
-        {"option_id": "D", "text": "15m"}
+        {
+          "option_id": "A",
+          "text": "15m"
+        },
+        {
+          "option_id": "B",
+          "text": "> 30m (100ft)"
+        },
+        {
+          "option_id": "C",
+          "text": "> 60m (200ft)"
+        },
+        {
+          "option_id": "D",
+          "text": "0m"
+        }
       ],
       "correct_answer": "B",
       "hint": "Entre la Cat I y la Cat III.",
       "explanation": "La Cat II permite descender hasta 100 pies antes de requerir contacto visual.",
-      "tags": ["ils", "categorias"]
+      "tags": [
+        "ils",
+        "categorias"
+      ]
     },
     {
       "question_id": "MOD5_078",
@@ -1240,15 +2367,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Radar Video Recorder"},
-        {"option_id": "B", "text": "Runway Visual Range (Alcance visual en pista)"},
-        {"option_id": "C", "text": "Radio Variable Range"},
-        {"option_id": "D", "text": "Route Verification Report"}
+        {
+          "option_id": "A",
+          "text": "Radio Variable Range"
+        },
+        {
+          "option_id": "B",
+          "text": "Radar Video Recorder"
+        },
+        {
+          "option_id": "C",
+          "text": "Runway Visual Range (Alcance visual en pista)"
+        },
+        {
+          "option_id": "D",
+          "text": "Route Verification Report"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Mide la visibilidad sobre la pista.",
       "explanation": "Es la distancia que el piloto ve las señales o luces del eje de pista.",
-      "tags": ["visibilidad", "siglas"]
+      "tags": [
+        "visibilidad",
+        "siglas"
+      ]
     },
     {
       "question_id": "MOD5_079",
@@ -1256,15 +2398,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Es más cara"},
-        {"option_id": "B", "text": "Permite vigilancia en zonas donde el radar convencional no es práctico o posible"},
-        {"option_id": "C", "text": "Solo detecta globos"},
-        {"option_id": "D", "text": "No necesita electricidad"}
+        {
+          "option_id": "A",
+          "text": "Solo detecta globos"
+        },
+        {
+          "option_id": "B",
+          "text": "No necesita electricidad"
+        },
+        {
+          "option_id": "C",
+          "text": "Es más cara"
+        },
+        {
+          "option_id": "D",
+          "text": "Permite vigilancia en zonas donde el radar convencional no es práctico o posible"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "WAM.",
       "explanation": "Sustituye o complementa al radar en áreas remotas o complejas.",
-      "tags": ["vigilancia"]
+      "tags": [
+        "vigilancia"
+      ]
     },
     {
       "question_id": "MOD5_080",
@@ -1272,15 +2428,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "PAPI"},
-        {"option_id": "B", "text": "APAPI (Abbreviated PAPI)"},
-        {"option_id": "C", "text": "VASIS"},
-        {"option_id": "D", "text": "ALS"}
+        {
+          "option_id": "A",
+          "text": "APAPI (Abbreviated PAPI)"
+        },
+        {
+          "option_id": "B",
+          "text": "VASIS"
+        },
+        {
+          "option_id": "C",
+          "text": "PAPI"
+        },
+        {
+          "option_id": "D",
+          "text": "ALS"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "A de abreviado.",
       "explanation": "El APAPI es la versión simplificada del PAPI con solo dos luces.",
-      "tags": ["sistemas_visuales"]
+      "tags": [
+        "sistemas_visuales"
+      ]
     },
     {
       "question_id": "MOD5_081",
@@ -1288,15 +2458,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "General North Satellite System"},
-        {"option_id": "B", "text": "Global Navigation Satellite System"},
-        {"option_id": "C", "text": "Government Network Safety Service"},
-        {"option_id": "D", "text": "Ground Navigation Standar System"}
+        {
+          "option_id": "A",
+          "text": "Ground Navigation Standar System"
+        },
+        {
+          "option_id": "B",
+          "text": "Government Network Safety Service"
+        },
+        {
+          "option_id": "C",
+          "text": "General North Satellite System"
+        },
+        {
+          "option_id": "D",
+          "text": "Global Navigation Satellite System"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Termino genérico para navegación por satélite.",
       "explanation": "Engloba a todos los sistemas globales como GPS, Galileo, etc.",
-      "tags": ["gnss"]
+      "tags": [
+        "gnss"
+      ]
     },
     {
       "question_id": "MOD5_082",
@@ -1304,15 +2488,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "El piloto debe enviar los datos manualmente"},
-        {"option_id": "B", "text": "Es automático y no necesita intervención del piloto"},
-        {"option_id": "C", "text": "Solo funciona si el radar terrestre le interroga"},
-        {"option_id": "D", "text": "Solo funciona de día"}
+        {
+          "option_id": "A",
+          "text": "Es automático y no necesita intervención del piloto"
+        },
+        {
+          "option_id": "B",
+          "text": "El piloto debe enviar los datos manualmente"
+        },
+        {
+          "option_id": "C",
+          "text": "Solo funciona si el radar terrestre le interroga"
+        },
+        {
+          "option_id": "D",
+          "text": "Solo funciona de día"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "A de Automático.",
       "explanation": "El ADS-B emite información de posición de forma continua y autónoma.",
-      "tags": ["ads"]
+      "tags": [
+        "ads"
+      ]
     },
     {
       "question_id": "MOD5_083",
@@ -1320,15 +2518,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Banda L"},
-        {"option_id": "B", "text": "Banda X (8 a 12 GHz)"},
-        {"option_id": "C", "text": "Banda S"},
-        {"option_id": "D", "text": "Banda HF"}
+        {
+          "option_id": "A",
+          "text": "Banda HF"
+        },
+        {
+          "option_id": "B",
+          "text": "Banda S"
+        },
+        {
+          "option_id": "C",
+          "text": "Banda L"
+        },
+        {
+          "option_id": "D",
+          "text": "Banda X (8 a 12 GHz)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Frecuencias muy altas para ver objetos pequeños en tierra.",
       "explanation": "La banda X proporciona la resolución necesaria para vigilar pistas y calles de rodaje.",
-      "tags": ["radar"]
+      "tags": [
+        "radar"
+      ]
     },
     {
       "question_id": "MOD5_084",
@@ -1336,15 +2548,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "EGNOS"},
-        {"option_id": "B", "text": "MSAS (Multi-functional Satellite Augmentation System)"},
-        {"option_id": "C", "text": "WAAS"},
-        {"option_id": "D", "text": "GAGAN"}
+        {
+          "option_id": "A",
+          "text": "MSAS (Multi-functional Satellite Augmentation System)"
+        },
+        {
+          "option_id": "B",
+          "text": "EGNOS"
+        },
+        {
+          "option_id": "C",
+          "text": "GAGAN"
+        },
+        {
+          "option_id": "D",
+          "text": "WAAS"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "M... S... A... S...",
       "explanation": "MSAS es el sistema SBAS regional de Japón.",
-      "tags": ["gnss", "sbas"]
+      "tags": [
+        "gnss",
+        "sbas"
+      ]
     },
     {
       "question_id": "MOD5_085",
@@ -1352,15 +2579,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Una nube blanca"},
-        {"option_id": "B", "text": "El objeto detectado (la aeronave)"},
-        {"option_id": "C", "text": "El centro de la pantalla"},
-        {"option_id": "D", "text": "Un tipo de transpondedor"}
+        {
+          "option_id": "A",
+          "text": "El objeto detectado (la aeronave)"
+        },
+        {
+          "option_id": "B",
+          "text": "Una nube blanca"
+        },
+        {
+          "option_id": "C",
+          "text": "Un tipo de transpondedor"
+        },
+        {
+          "option_id": "D",
+          "text": "El centro de la pantalla"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Target.",
       "explanation": "Cualquier objeto que refleje las ondas del radar se denomina blanco o eco.",
-      "tags": ["radar"]
+      "tags": [
+        "radar"
+      ]
     },
     {
       "question_id": "MOD5_086",
@@ -1368,15 +2609,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Ninguna"},
-        {"option_id": "B", "text": "Habilita procedimientos con guiado vertical (APV) sin necesidad de ILS terrestre"},
-        {"option_id": "C", "text": "Permite volar más rápido"},
-        {"option_id": "D", "text": "Elimina el ruido del motor"}
+        {
+          "option_id": "A",
+          "text": "Habilita procedimientos con guiado vertical (APV) sin necesidad de ILS terrestre"
+        },
+        {
+          "option_id": "B",
+          "text": "Elimina el ruido del motor"
+        },
+        {
+          "option_id": "C",
+          "text": "Permite volar más rápido"
+        },
+        {
+          "option_id": "D",
+          "text": "Ninguna"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Procedimientos RNP APCH.",
       "explanation": "El GNSS con aumentación permite aproximaciones precisas en aeropuertos sin equipamiento terrestre complejo.",
-      "tags": ["gnss", "pbn"]
+      "tags": [
+        "gnss",
+        "pbn"
+      ]
     },
     {
       "question_id": "MOD5_087",
@@ -1384,15 +2640,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Sujetar el asiento del piloto"},
-        {"option_id": "B", "text": "Mantener los acelerómetros paralelos a la superficie terrestre"},
-        {"option_id": "C", "text": "Enfriar el computador"},
-        {"option_id": "D", "text": "Recibir la señal GPS"}
+        {
+          "option_id": "A",
+          "text": "Mantener los acelerómetros paralelos a la superficie terrestre"
+        },
+        {
+          "option_id": "B",
+          "text": "Sujetar el asiento del piloto"
+        },
+        {
+          "option_id": "C",
+          "text": "Recibir la señal GPS"
+        },
+        {
+          "option_id": "D",
+          "text": "Enfriar el computador"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Garantiza una referencia direccional constante.",
       "explanation": "La plataforma utiliza giróscopos para mantenerse estable independientemente de los movimientos del avión.",
-      "tags": ["ins"]
+      "tags": [
+        "ins"
+      ]
     },
     {
       "question_id": "MOD5_088",
@@ -1400,15 +2670,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Que el avión no se pare"},
-        {"option_id": "B", "text": "Capacidad de realizar funciones sin interrupciones imprevistas durante la operación"},
-        {"option_id": "C", "text": "Que el piloto siga despierto"},
-        {"option_id": "D", "text": "Uso de combustible continuo"}
+        {
+          "option_id": "A",
+          "text": "Que el piloto siga despierto"
+        },
+        {
+          "option_id": "B",
+          "text": "Que el avión no se pare"
+        },
+        {
+          "option_id": "C",
+          "text": "Capacidad de realizar funciones sin interrupciones imprevistas durante la operación"
+        },
+        {
+          "option_id": "D",
+          "text": "Uso de combustible continuo"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Probabilidad de fallo durante el servicio.",
       "explanation": "La continuidad asegura que el sistema no se apague en mitad de una maniobra crítica.",
-      "tags": ["pbn"]
+      "tags": [
+        "pbn"
+      ]
     },
     {
       "question_id": "MOD5_089",
@@ -1416,15 +2700,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Independientes cooperativos"},
-        {"option_id": "B", "text": "Independientes no cooperativos"},
-        {"option_id": "C", "text": "Dependientes"},
-        {"option_id": "D", "text": "Visuales"}
+        {
+          "option_id": "A",
+          "text": "Independientes no cooperativos"
+        },
+        {
+          "option_id": "B",
+          "text": "Dependientes"
+        },
+        {
+          "option_id": "C",
+          "text": "Visuales"
+        },
+        {
+          "option_id": "D",
+          "text": "Independientes cooperativos"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Ejemplo: Radar Primario.",
       "explanation": "No cooperativo significa que el blanco no ayuda activamente a su detección.",
-      "tags": ["vigilancia"]
+      "tags": [
+        "vigilancia"
+      ]
     },
     {
       "question_id": "MOD5_090",
@@ -1432,15 +2730,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Sencillo"},
-        {"option_id": "B", "text": "CAT I"},
-        {"option_id": "C", "text": "CAT II/III (con barretas rojas laterales)"},
-        {"option_id": "D", "text": "PAPI"}
+        {
+          "option_id": "A",
+          "text": "CAT II/III (con barretas rojas laterales)"
+        },
+        {
+          "option_id": "B",
+          "text": "Sencillo"
+        },
+        {
+          "option_id": "C",
+          "text": "PAPI"
+        },
+        {
+          "option_id": "D",
+          "text": "CAT I"
+        }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "hint": "Incluye luces suplementarias en los últimos 300 metros.",
       "explanation": "El ALS de CAT II/III proporciona mayor guía visual en condiciones de visibilidad extrema.",
-      "tags": ["sistemas_visuales"]
+      "tags": [
+        "sistemas_visuales"
+      ]
     },
     {
       "question_id": "MOD5_091",
@@ -1448,15 +2760,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Se apaga el equipo"},
-        {"option_id": "B", "text": "Cambia la bandera de TO a FROM (o viceversa)"},
-        {"option_id": "C", "text": "Aumenta la velocidad"},
-        {"option_id": "D", "text": "La aguja gira 360 grados rápido"}
+        {
+          "option_id": "A",
+          "text": "La aguja gira 360 grados rápido"
+        },
+        {
+          "option_id": "B",
+          "text": "Se apaga el equipo"
+        },
+        {
+          "option_id": "C",
+          "text": "Cambia la bandera de TO a FROM (o viceversa)"
+        },
+        {
+          "option_id": "D",
+          "text": "Aumenta la velocidad"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Cruzas de un semiplano al otro.",
       "explanation": "El cambio de TO a FROM indica que se ha sobrevolado la radioayuda.",
-      "tags": ["vor"]
+      "tags": [
+        "vor"
+      ]
     },
     {
       "question_id": "MOD5_092",
@@ -1464,15 +2790,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1030 MHz"},
-        {"option_id": "B", "text": "1090 MHz"},
-        {"option_id": "C", "text": "121.5 MHz"},
-        {"option_id": "D", "text": "243 MHz"}
+        {
+          "option_id": "A",
+          "text": "1090 MHz"
+        },
+        {
+          "option_id": "B",
+          "text": "243 MHz"
+        },
+        {
+          "option_id": "C",
+          "text": "121.5 MHz"
+        },
+        {
+          "option_id": "D",
+          "text": "1030 MHz"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Interrogación en 1030, respuesta en...",
       "explanation": "Las aeronaves responden al radar secundario en la frecuencia de 1090 MHz.",
-      "tags": ["transpondedor"]
+      "tags": [
+        "transpondedor"
+      ]
     },
     {
       "question_id": "MOD5_093",
@@ -1480,15 +2820,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "GPS"},
-        {"option_id": "B", "text": "Radar Doppler"},
-        {"option_id": "C", "text": "VOR"},
-        {"option_id": "D", "text": "ILS"}
+        {
+          "option_id": "A",
+          "text": "ILS"
+        },
+        {
+          "option_id": "B",
+          "text": "VOR"
+        },
+        {
+          "option_id": "C",
+          "text": "GPS"
+        },
+        {
+          "option_id": "D",
+          "text": "Radar Doppler"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Efecto Doppler.",
       "explanation": "El Radar Doppler mide el desplazamiento lateral y longitudinal respecto al suelo.",
-      "tags": ["navegacion"]
+      "tags": [
+        "navegacion"
+      ]
     },
     {
       "question_id": "MOD5_094",
@@ -1496,15 +2850,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Time Surface Error"},
-        {"option_id": "B", "text": "Total System Error (Error total del sistema)"},
-        {"option_id": "C", "text": "Terminal Safety Entry"},
-        {"option_id": "D", "text": "Traffic Standard Elevation"}
+        {
+          "option_id": "A",
+          "text": "Terminal Safety Entry"
+        },
+        {
+          "option_id": "B",
+          "text": "Traffic Standard Elevation"
+        },
+        {
+          "option_id": "C",
+          "text": "Time Surface Error"
+        },
+        {
+          "option_id": "D",
+          "text": "Total System Error (Error total del sistema)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Suma de errores de definición, navegación y pilotaje.",
       "explanation": "El TSE es la métrica clave para verificar el cumplimiento de los requisitos de precisión lateral.",
-      "tags": ["pbn"]
+      "tags": [
+        "pbn"
+      ]
     },
     {
       "question_id": "MOD5_095",
@@ -1512,15 +2880,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Acelerómetro"},
-        {"option_id": "B", "text": "Computador de a bordo"},
-        {"option_id": "C", "text": "Integrador"},
-        {"option_id": "D", "text": "Rosa de rumbos"}
+        {
+          "option_id": "A",
+          "text": "Computador de a bordo"
+        },
+        {
+          "option_id": "B",
+          "text": "Rosa de rumbos"
+        },
+        {
+          "option_id": "C",
+          "text": "Acelerómetro"
+        },
+        {
+          "option_id": "D",
+          "text": "Integrador"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Procesa la información.",
       "explanation": "El computador inercial realiza los cálculos matemáticos para obtener la posición.",
-      "tags": ["ins"]
+      "tags": [
+        "ins"
+      ]
     },
     {
       "question_id": "MOD5_096",
@@ -1528,15 +2910,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Es invisible"},
-        {"option_id": "B", "text": "Alta precisión y frecuencia de actualización para vigilancia de superficie y entorno"},
-        {"option_id": "C", "text": "No necesita transpondedor"},
-        {"option_id": "D", "text": "Sirve para pesar los aviones"}
+        {
+          "option_id": "A",
+          "text": "No necesita transpondedor"
+        },
+        {
+          "option_id": "B",
+          "text": "Es invisible"
+        },
+        {
+          "option_id": "C",
+          "text": "Sirve para pesar los aviones"
+        },
+        {
+          "option_id": "D",
+          "text": "Alta precisión y frecuencia de actualización para vigilancia de superficie y entorno"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Alternativa o complemento al SMR.",
       "explanation": "Proporciona una imagen muy clara de los movimientos en tierra y baja cota.",
-      "tags": ["vigilancia"]
+      "tags": [
+        "vigilancia"
+      ]
     },
     {
       "question_id": "MOD5_097",
@@ -1544,15 +2940,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Standard Beacon Air Service"},
-        {"option_id": "B", "text": "Satellite-Based Augmentation System"},
-        {"option_id": "C", "text": "Surface Based Air Surveillance"},
-        {"option_id": "D", "text": "Secondary Beacon Altitude System"}
+        {
+          "option_id": "A",
+          "text": "Surface Based Air Surveillance"
+        },
+        {
+          "option_id": "B",
+          "text": "Standard Beacon Air Service"
+        },
+        {
+          "option_id": "C",
+          "text": "Secondary Beacon Altitude System"
+        },
+        {
+          "option_id": "D",
+          "text": "Satellite-Based Augmentation System"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Aumentación vía satélite.",
       "explanation": "Sistemas como EGNOS o WAAS que mejoran el GNSS regionalmente.",
-      "tags": ["gnss", "siglas"]
+      "tags": [
+        "gnss",
+        "siglas"
+      ]
     },
     {
       "question_id": "MOD5_098",
@@ -1560,15 +2971,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Necesita mucha más potencia que el primario"},
-        {"option_id": "B", "text": "Necesita mucha menos potencia porque el avión responde activamente"},
-        {"option_id": "C", "text": "No necesita potencia, usa el sol"},
-        {"option_id": "D", "text": "Solo gasta batería"}
+        {
+          "option_id": "A",
+          "text": "No necesita potencia, usa el sol"
+        },
+        {
+          "option_id": "B",
+          "text": "Necesita mucha menos potencia porque el avión responde activamente"
+        },
+        {
+          "option_id": "C",
+          "text": "Solo gasta batería"
+        },
+        {
+          "option_id": "D",
+          "text": "Necesita mucha más potencia que el primario"
+        }
       ],
       "correct_answer": "B",
       "hint": "Cooperativo vs No cooperativo.",
       "explanation": "Al no depender de un eco débil, el SSR es mucho más eficiente energéticamente.",
-      "tags": ["radar"]
+      "tags": [
+        "radar"
+      ]
     },
     {
       "question_id": "MOD5_099",
@@ -1576,15 +3001,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "10 metros"},
-        {"option_id": "B", "text": "2,5 metros"},
-        {"option_id": "C", "text": "50 metros"},
-        {"option_id": "D", "text": "A ras de suelo"}
+        {
+          "option_id": "A",
+          "text": "2,5 metros"
+        },
+        {
+          "option_id": "B",
+          "text": "50 metros"
+        },
+        {
+          "option_id": "C",
+          "text": "10 metros"
+        },
+        {
+          "option_id": "D",
+          "text": "A ras de suelo"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Situados cerca del eje de pista.",
       "explanation": "Se ubican a 2,5 m para medir la visibilidad representativa de la zona de toma.",
-      "tags": ["visibilidad", "instrumentos"]
+      "tags": [
+        "visibilidad",
+        "instrumentos"
+      ]
     },
     {
       "question_id": "MOD5_100",
@@ -1592,15 +3032,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Hacer los aviones más rápidos"},
-        {"option_id": "B", "text": "Garantizar la seguridad, regularidad y eficiencia de la navegación aérea"},
-        {"option_id": "C", "text": "Reducir el número de controladores"},
-        {"option_id": "D", "text": "Vender más satélites"}
+        {
+          "option_id": "A",
+          "text": "Reducir el número de controladores"
+        },
+        {
+          "option_id": "B",
+          "text": "Garantizar la seguridad, regularidad y eficiencia de la navegación aérea"
+        },
+        {
+          "option_id": "C",
+          "text": "Hacer los aviones más rápidos"
+        },
+        {
+          "option_id": "D",
+          "text": "Vender más satélites"
+        }
       ],
       "correct_answer": "B",
       "hint": "Misión fundamental del SNA.",
       "explanation": "El equilibrio entre Comunicaciones, Navegación y Vigilancia es la base del ATM moderno.",
-      "tags": ["sna", "objetivos"]
+      "tags": [
+        "sna",
+        "objetivos"
+      ]
     }
   ],
   "metadata": {

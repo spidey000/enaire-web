@@ -8,15 +8,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Hidrostática"},
-        {"option_id": "B", "text": "Aerodinámica"},
-        {"option_id": "C", "text": "Termodinámica"},
-        {"option_id": "D", "text": "Mecánica cuántica"}
+        {
+          "option_id": "A",
+          "text": "Aerodinámica"
+        },
+        {
+          "option_id": "B",
+          "text": "Mecánica cuántica"
+        },
+        {
+          "option_id": "C",
+          "text": "Hidrostática"
+        },
+        {
+          "option_id": "D",
+          "text": "Termodinámica"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Se centra en el aire como fluido.",
       "explanation": "La aerodinámica es la rama de la mecánica de fluidos especializada en el cálculo de las acciones sobre cuerpos sólidos cuando existe movimiento relativo entre estos y el fluido.",
-      "tags": ["definiciones", "fisica"]
+      "tags": [
+        "definiciones",
+        "fisica"
+      ]
     },
     {
       "question_id": "MOD9_002",
@@ -24,15 +39,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Estudio de la construcción de motores"},
-        {"option_id": "B", "text": "Ciencia aplicada que estudia el movimiento de los vehículos voladores"},
-        {"option_id": "C", "text": "Estudio de las leyes de navegación"},
-        {"option_id": "D", "text": "Regulación del tráfico aéreo"}
+        {
+          "option_id": "A",
+          "text": "Estudio de la construcción de motores"
+        },
+        {
+          "option_id": "B",
+          "text": "Regulación del tráfico aéreo"
+        },
+        {
+          "option_id": "C",
+          "text": "Ciencia aplicada que estudia el movimiento de los vehículos voladores"
+        },
+        {
+          "option_id": "D",
+          "text": "Estudio de las leyes de navegación"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Se centra en el movimiento atmosférico.",
       "explanation": "La mecánica de vuelo se ocupa del estudio del movimiento de los vehículos voladores, centrándose este manual en el movimiento atmosférico de los aviones.",
-      "tags": ["definiciones"]
+      "tags": [
+        "definiciones"
+      ]
     },
     {
       "question_id": "MOD9_003",
@@ -40,15 +69,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Aumenta"},
-        {"option_id": "B", "text": "Decrece"},
-        {"option_id": "C", "text": "Se mantiene constante"},
-        {"option_id": "D", "text": "Depende de la temperatura"}
+        {
+          "option_id": "A",
+          "text": "Depende de la temperatura"
+        },
+        {
+          "option_id": "B",
+          "text": "Decrece"
+        },
+        {
+          "option_id": "C",
+          "text": "Se mantiene constante"
+        },
+        {
+          "option_id": "D",
+          "text": "Aumenta"
+        }
       ],
       "correct_answer": "B",
       "hint": "Hay una relación inversa entre velocidad y presión estática.",
       "explanation": "Bernoulli comprobó que la presión interna de un fluido decrece en la medida que la velocidad del fluido se incrementa.",
-      "tags": ["bernoulli", "fisica"]
+      "tags": [
+        "bernoulli",
+        "fisica"
+      ]
     },
     {
       "question_id": "MOD9_004",
@@ -56,15 +100,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Presión estática"},
-        {"option_id": "B", "text": "Presión dinámica"},
-        {"option_id": "C", "text": "Gravedad"},
-        {"option_id": "D", "text": "Viscosidad"}
+        {
+          "option_id": "A",
+          "text": "Viscosidad"
+        },
+        {
+          "option_id": "B",
+          "text": "Gravedad"
+        },
+        {
+          "option_id": "C",
+          "text": "Presión estática"
+        },
+        {
+          "option_id": "D",
+          "text": "Presión dinámica"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Depende de la densidad y del cuadrado de la velocidad.",
       "explanation": "El término 1/2ρV² representa la presión dinámica del fluido.",
-      "tags": ["bernoulli", "fisica"]
+      "tags": [
+        "bernoulli",
+        "fisica"
+      ]
     },
     {
       "question_id": "MOD9_005",
@@ -72,15 +131,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Tubo Pitot"},
-        {"option_id": "B", "text": "Tubo Venturi"},
-        {"option_id": "C", "text": "Altímetro"},
-        {"option_id": "D", "text": "Magneto"}
+        {
+          "option_id": "A",
+          "text": "Altímetro"
+        },
+        {
+          "option_id": "B",
+          "text": "Tubo Pitot"
+        },
+        {
+          "option_id": "C",
+          "text": "Magneto"
+        },
+        {
+          "option_id": "D",
+          "text": "Tubo Venturi"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Tiene un estrechamiento en su sección.",
       "explanation": "El tubo Venturi aplica el teorema de Bernoulli: al reducirse la sección, aumenta la velocidad y disminuye la presión.",
-      "tags": ["bernoulli", "instrumentos"]
+      "tags": [
+        "bernoulli",
+        "instrumentos"
+      ]
     },
     {
       "question_id": "MOD9_006",
@@ -88,15 +162,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "0ºC"},
-        {"option_id": "B", "text": "15ºC"},
-        {"option_id": "C", "text": "25ºC"},
-        {"option_id": "D", "text": "10ºC"}
+        {
+          "option_id": "A",
+          "text": "0ºC"
+        },
+        {
+          "option_id": "B",
+          "text": "15ºC"
+        },
+        {
+          "option_id": "C",
+          "text": "10ºC"
+        },
+        {
+          "option_id": "D",
+          "text": "25ºC"
+        }
       ],
       "correct_answer": "B",
       "hint": "Valor estándar de OACI.",
       "explanation": "OACI definió la ISA con 15ºC de temperatura al nivel del mar.",
-      "tags": ["isa", "atmosfera"]
+      "tags": [
+        "isa",
+        "atmosfera"
+      ]
     },
     {
       "question_id": "MOD9_007",
@@ -104,15 +193,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1000 hPa"},
-        {"option_id": "B", "text": "1013 hPa (hectopascales)"},
-        {"option_id": "C", "text": "1030 hPa"},
-        {"option_id": "D", "text": "29.92 hPa"}
+        {
+          "option_id": "A",
+          "text": "1030 hPa"
+        },
+        {
+          "option_id": "B",
+          "text": "1013 hPa (hectopascales)"
+        },
+        {
+          "option_id": "C",
+          "text": "1000 hPa"
+        },
+        {
+          "option_id": "D",
+          "text": "29.92 hPa"
+        }
       ],
       "correct_answer": "B",
       "hint": "Equivale a 760 mmHg o 29.92 pulgadas de Hg.",
       "explanation": "La presión estándar al nivel del mar es de 1013 hectopascales (hPa).",
-      "tags": ["isa", "atmosfera"]
+      "tags": [
+        "isa",
+        "atmosfera"
+      ]
     },
     {
       "question_id": "MOD9_008",
@@ -120,15 +224,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Aumenta 2ºC cada 1.000 pies"},
-        {"option_id": "B", "text": "Disminuye 2ºC cada 1.000 pies"},
-        {"option_id": "C", "text": "Disminuye 6,5ºC cada 1.000 pies"},
-        {"option_id": "D", "text": "Se mantiene constante"}
+        {
+          "option_id": "A",
+          "text": "Disminuye 6,5ºC cada 1.000 pies"
+        },
+        {
+          "option_id": "B",
+          "text": "Se mantiene constante"
+        },
+        {
+          "option_id": "C",
+          "text": "Disminuye 2ºC cada 1.000 pies"
+        },
+        {
+          "option_id": "D",
+          "text": "Aumenta 2ºC cada 1.000 pies"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Equivale a 6,5ºC por kilómetro.",
       "explanation": "La temperatura disminuye 2º cada 1.000 pies de altitud hasta los 36.000 pies.",
-      "tags": ["isa", "temperatura"]
+      "tags": [
+        "isa",
+        "temperatura"
+      ]
     },
     {
       "question_id": "MOD9_009",
@@ -136,15 +255,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "18.000 pies"},
-        {"option_id": "B", "text": "36.000 pies"},
-        {"option_id": "C", "text": "24.000 pies"},
-        {"option_id": "D", "text": "45.000 pies"}
+        {
+          "option_id": "A",
+          "text": "24.000 pies"
+        },
+        {
+          "option_id": "B",
+          "text": "36.000 pies"
+        },
+        {
+          "option_id": "C",
+          "text": "45.000 pies"
+        },
+        {
+          "option_id": "D",
+          "text": "18.000 pies"
+        }
       ],
       "correct_answer": "B",
       "hint": "Límite de la tropopausa estándar.",
       "explanation": "Por encima de 36.000 pies, la temperatura se considera constante en -56ºC hasta los 80.000 pies.",
-      "tags": ["isa", "atmosfera"]
+      "tags": [
+        "isa",
+        "atmosfera"
+      ]
     },
     {
       "question_id": "MOD9_010",
@@ -152,15 +286,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Altitud verdadera"},
-        {"option_id": "B", "text": "Altitud de presión"},
-        {"option_id": "C", "text": "Altitud de densidad"},
-        {"option_id": "D", "text": "Altura absoluta"}
+        {
+          "option_id": "A",
+          "text": "Altura absoluta"
+        },
+        {
+          "option_id": "B",
+          "text": "Altitud de presión"
+        },
+        {
+          "option_id": "C",
+          "text": "Altitud de densidad"
+        },
+        {
+          "option_id": "D",
+          "text": "Altitud verdadera"
+        }
       ],
       "correct_answer": "B",
       "hint": "Es la referencia sobre el plano estándar.",
       "explanation": "Si el altímetro está ajustado para 1013 hPa, la altitud indicada es la altitud de presión.",
-      "tags": ["altitud", "instrumentos"]
+      "tags": [
+        "altitud",
+        "instrumentos"
+      ]
     },
     {
       "question_id": "MOD9_011",
@@ -168,15 +317,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "La distancia real al suelo."},
-        {"option_id": "B", "text": "La altitud en la atmósfera estándar a la cual se encuentra una determinada densidad."},
-        {"option_id": "C", "text": "La altitud corregida por error de instrumentos."},
-        {"option_id": "D", "text": "La altitud leída en el anemómetro."}
+        {
+          "option_id": "A",
+          "text": "La altitud leída en el anemómetro."
+        },
+        {
+          "option_id": "B",
+          "text": "La distancia real al suelo."
+        },
+        {
+          "option_id": "C",
+          "text": "La altitud en la atmósfera estándar a la cual se encuentra una determinada densidad."
+        },
+        {
+          "option_id": "D",
+          "text": "La altitud corregida por error de instrumentos."
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Relacionada con el rendimiento de la aeronave.",
       "explanation": "La altitud densidad es aquella que correspondería en la ISA a una determinada densidad del aire observada.",
-      "tags": ["altitud", "densidad"]
+      "tags": [
+        "altitud",
+        "densidad"
+      ]
     },
     {
       "question_id": "MOD9_012",
@@ -184,15 +348,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Cuando la temperatura disminuye"},
-        {"option_id": "B", "text": "Cuando la temperatura, altitud y humedad aumentan"},
-        {"option_id": "C", "text": "Cuando la presión aumenta"},
-        {"option_id": "D", "text": "Cuando el aire es más seco"}
+        {
+          "option_id": "A",
+          "text": "Cuando el aire es más seco"
+        },
+        {
+          "option_id": "B",
+          "text": "Cuando la temperatura disminuye"
+        },
+        {
+          "option_id": "C",
+          "text": "Cuando la presión aumenta"
+        },
+        {
+          "option_id": "D",
+          "text": "Cuando la temperatura, altitud y humedad aumentan"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "El aire 'pesa' menos.",
       "explanation": "La densidad decrece (altitud densidad alta) cuando suben la temperatura, la altitud y la humedad.",
-      "tags": ["fisica", "densidad"]
+      "tags": [
+        "fisica",
+        "densidad"
+      ]
     },
     {
       "question_id": "MOD9_013",
@@ -200,15 +379,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Aumentan las actuaciones"},
-        {"option_id": "B", "text": "Disminuyen las actuaciones"},
-        {"option_id": "C", "text": "No tiene efecto"},
-        {"option_id": "D", "text": "Solo afecta a aeronaves pesadas"}
+        {
+          "option_id": "A",
+          "text": "No tiene efecto"
+        },
+        {
+          "option_id": "B",
+          "text": "Aumentan las actuaciones"
+        },
+        {
+          "option_id": "C",
+          "text": "Disminuyen las actuaciones"
+        },
+        {
+          "option_id": "D",
+          "text": "Solo afecta a aeronaves pesadas"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Menos densidad = menos 'sustento' para motor y alas.",
       "explanation": "Cuando la densidad decrece (altitud densidad alta), las actuaciones de la aeronave disminuyen significativamente.",
-      "tags": ["performance", "densidad"]
+      "tags": [
+        "performance",
+        "densidad"
+      ]
     },
     {
       "question_id": "MOD9_014",
@@ -216,15 +410,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "El color del fuselaje"},
-        {"option_id": "B", "text": "La Altitud Densidad"},
-        {"option_id": "C", "text": "La velocidad del sonido"},
-        {"option_id": "D", "text": "El número de pasajeros"}
+        {
+          "option_id": "A",
+          "text": "La Altitud Densidad"
+        },
+        {
+          "option_id": "B",
+          "text": "El color del fuselaje"
+        },
+        {
+          "option_id": "C",
+          "text": "La velocidad del sonido"
+        },
+        {
+          "option_id": "D",
+          "text": "El número de pasajeros"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Afecta a potencia, empuje y sustentación.",
       "explanation": "La altitud densidad es el factor crítico porque afecta a la potencia del motor, la eficiencia de la hélice y la sustentación.",
-      "tags": ["performance"]
+      "tags": [
+        "performance"
+      ]
     },
     {
       "question_id": "MOD9_015",
@@ -232,15 +440,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "La marcada por el anemómetro sin corregir"},
-        {"option_id": "B", "text": "La velocidad del avión respecto al aire en el que vuela"},
-        {"option_id": "C", "text": "La velocidad respecto al suelo"},
-        {"option_id": "D", "text": "La velocidad corregida por viento"}
+        {
+          "option_id": "A",
+          "text": "La marcada por el anemómetro sin corregir"
+        },
+        {
+          "option_id": "B",
+          "text": "La velocidad respecto al suelo"
+        },
+        {
+          "option_id": "C",
+          "text": "La velocidad del avión respecto al aire en el que vuela"
+        },
+        {
+          "option_id": "D",
+          "text": "La velocidad corregida por viento"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "TAS = True Airspeed.",
       "explanation": "La TAS es la velocidad real de la aeronave a través de la masa de aire.",
-      "tags": ["velocidades"]
+      "tags": [
+        "velocidades"
+      ]
     },
     {
       "question_id": "MOD9_016",
@@ -248,15 +470,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "TAS"},
-        {"option_id": "B", "text": "IAS (Indicated Airspeed)"},
-        {"option_id": "C", "text": "GS"},
-        {"option_id": "D", "text": "CAS"}
+        {
+          "option_id": "A",
+          "text": "CAS"
+        },
+        {
+          "option_id": "B",
+          "text": "GS"
+        },
+        {
+          "option_id": "C",
+          "text": "TAS"
+        },
+        {
+          "option_id": "D",
+          "text": "IAS (Indicated Airspeed)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Es la velocidad 'indicada'.",
       "explanation": "La IAS es la velocidad que marca el instrumento sin corrección por errores de posición, instrumento o compresibilidad.",
-      "tags": ["velocidades", "instrumentos"]
+      "tags": [
+        "velocidades",
+        "instrumentos"
+      ]
     },
     {
       "question_id": "MOD9_017",
@@ -264,15 +501,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "IAS corregida por errores de posición e instrumento"},
-        {"option_id": "B", "text": "IAS corregida por altitud"},
-        {"option_id": "C", "text": "TAS corregida por viento"},
-        {"option_id": "D", "text": "Velocidad respecto al suelo"}
+        {
+          "option_id": "A",
+          "text": "IAS corregida por altitud"
+        },
+        {
+          "option_id": "B",
+          "text": "Velocidad respecto al suelo"
+        },
+        {
+          "option_id": "C",
+          "text": "TAS corregida por viento"
+        },
+        {
+          "option_id": "D",
+          "text": "IAS corregida por errores de posición e instrumento"
+        }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "hint": "Es igual a la TAS al nivel del mar en atmósfera estándar.",
       "explanation": "La CAS es la IAS una vez corregida por los errores propios de la instalación y del instrumento.",
-      "tags": ["velocidades"]
+      "tags": [
+        "velocidades"
+      ]
     },
     {
       "question_id": "MOD9_018",
@@ -280,15 +531,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "CAS"},
-        {"option_id": "B", "text": "GS (Ground Speed)"},
-        {"option_id": "C", "text": "IAS"},
-        {"option_id": "D", "text": "EAS"}
+        {
+          "option_id": "A",
+          "text": "IAS"
+        },
+        {
+          "option_id": "B",
+          "text": "EAS"
+        },
+        {
+          "option_id": "C",
+          "text": "CAS"
+        },
+        {
+          "option_id": "D",
+          "text": "GS (Ground Speed)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Velocidad sobre el suelo.",
       "explanation": "La Ground Speed (GS) es la velocidad real del avión respecto a la superficie terrestre.",
-      "tags": ["velocidades"]
+      "tags": [
+        "velocidades"
+      ]
     },
     {
       "question_id": "MOD9_019",
@@ -296,15 +561,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Relación entre IAS y CAS"},
-        {"option_id": "B", "text": "Relación entre la TAS y la velocidad del sonido"},
-        {"option_id": "C", "text": "Velocidad de despegue segura"},
-        {"option_id": "D", "text": "Presión en el motor"}
+        {
+          "option_id": "A",
+          "text": "Velocidad de despegue segura"
+        },
+        {
+          "option_id": "B",
+          "text": "Relación entre la TAS y la velocidad del sonido"
+        },
+        {
+          "option_id": "C",
+          "text": "Presión en el motor"
+        },
+        {
+          "option_id": "D",
+          "text": "Relación entre IAS y CAS"
+        }
       ],
       "correct_answer": "B",
       "hint": "MN = TAS / c.",
       "explanation": "El número de Mach expresa la relación entre la velocidad verdadera del avión y la velocidad del sonido en ese mismo aire.",
-      "tags": ["velocidades", "alta_velocidad"]
+      "tags": [
+        "velocidades",
+        "alta_velocidad"
+      ]
     },
     {
       "question_id": "MOD9_020",
@@ -312,15 +592,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "100 Kts"},
-        {"option_id": "B", "text": "250 Kts"},
-        {"option_id": "C", "text": "Mach 1"},
-        {"option_id": "D", "text": "500 Kts"}
+        {
+          "option_id": "A",
+          "text": "250 Kts"
+        },
+        {
+          "option_id": "B",
+          "text": "100 Kts"
+        },
+        {
+          "option_id": "C",
+          "text": "500 Kts"
+        },
+        {
+          "option_id": "D",
+          "text": "Mach 1"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Error del anemómetro a altas velocidades.",
       "explanation": "Por encima de 250 Kts la variación de la densidad por compresión es apreciable y genera error en el instrumento.",
-      "tags": ["instrumentos", "velocidades"]
+      "tags": [
+        "instrumentos",
+        "velocidades"
+      ]
     },
     {
       "question_id": "MOD9_021",
@@ -328,15 +623,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Peso, Masa, Motor, Viento"},
-        {"option_id": "B", "text": "Empuje, Peso, Resistencia y Sustentación"},
-        {"option_id": "C", "text": "Gravedad, Aire, Inercia y Fricción"},
-        {"option_id": "D", "text": "Ascenso, Descenso, Giro y Parada"}
+        {
+          "option_id": "A",
+          "text": "Empuje, Peso, Resistencia y Sustentación"
+        },
+        {
+          "option_id": "B",
+          "text": "Gravedad, Aire, Inercia y Fricción"
+        },
+        {
+          "option_id": "C",
+          "text": "Peso, Masa, Motor, Viento"
+        },
+        {
+          "option_id": "D",
+          "text": "Ascenso, Descenso, Giro y Parada"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Lift, Weight, Thrust, Drag.",
       "explanation": "En vuelo equilibrado, estas cuatro fuerzas se compensan entre sí.",
-      "tags": ["fuerzas"]
+      "tags": [
+        "fuerzas"
+      ]
     },
     {
       "question_id": "MOD9_022",
@@ -344,15 +653,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Componente paralela a la corriente de aire"},
-        {"option_id": "B", "text": "Componente perpendicular a la corriente de aire"},
-        {"option_id": "C", "text": "Fuerza que tira hacia abajo"},
-        {"option_id": "D", "text": "Fuerza de avance del motor"}
+        {
+          "option_id": "A",
+          "text": "Componente perpendicular a la corriente de aire"
+        },
+        {
+          "option_id": "B",
+          "text": "Fuerza que tira hacia abajo"
+        },
+        {
+          "option_id": "C",
+          "text": "Componente paralela a la corriente de aire"
+        },
+        {
+          "option_id": "D",
+          "text": "Fuerza de avance del motor"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "L = Cl * q * S.",
       "explanation": "La sustentación es la fuerza aerodinámica perpendicular a la dirección del viento relativo.",
-      "tags": ["fuerzas", "sustentacion"]
+      "tags": [
+        "fuerzas",
+        "sustentacion"
+      ]
     },
     {
       "question_id": "MOD9_023",
@@ -360,15 +684,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Empuje"},
-        {"option_id": "B", "text": "Peso"},
-        {"option_id": "C", "text": "Resistencia"},
-        {"option_id": "D", "text": "Inercia"}
+        {
+          "option_id": "A",
+          "text": "Inercia"
+        },
+        {
+          "option_id": "B",
+          "text": "Empuje"
+        },
+        {
+          "option_id": "C",
+          "text": "Peso"
+        },
+        {
+          "option_id": "D",
+          "text": "Resistencia"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Debida a la gravedad.",
       "explanation": "El peso (W) tira del avión hacia abajo y se opone a la sustentación.",
-      "tags": ["fuerzas", "peso"]
+      "tags": [
+        "fuerzas",
+        "peso"
+      ]
     },
     {
       "question_id": "MOD9_024",
@@ -376,15 +715,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Sustentación"},
-        {"option_id": "B", "text": "Resistencia (Drag)"},
-        {"option_id": "C", "text": "Peso"},
-        {"option_id": "D", "text": "Fricción del suelo"}
+        {
+          "option_id": "A",
+          "text": "Resistencia (Drag)"
+        },
+        {
+          "option_id": "B",
+          "text": "Sustentación"
+        },
+        {
+          "option_id": "C",
+          "text": "Peso"
+        },
+        {
+          "option_id": "D",
+          "text": "Fricción del suelo"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Causada por la interrupción del flujo de aire.",
       "explanation": "La resistencia es la fuerza que retarda el avance, paralela al viento relativo.",
-      "tags": ["fuerzas", "resistencia"]
+      "tags": [
+        "fuerzas",
+        "resistencia"
+      ]
     },
     {
       "question_id": "MOD9_025",
@@ -392,15 +746,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Solo del peso"},
-        {"option_id": "B", "text": "Del ángulo de ataque y la forma del perfil"},
-        {"option_id": "C", "text": "De la cantidad de combustible"},
-        {"option_id": "D", "text": "Del número de motores"}
+        {
+          "option_id": "A",
+          "text": "Del ángulo de ataque y la forma del perfil"
+        },
+        {
+          "option_id": "B",
+          "text": "Del número de motores"
+        },
+        {
+          "option_id": "C",
+          "text": "De la cantidad de combustible"
+        },
+        {
+          "option_id": "D",
+          "text": "Solo del peso"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Es característico de cada diseño de ala.",
       "explanation": "Para cada perfil alar, el coeficiente Cl depende del ángulo de ataque.",
-      "tags": ["aerodinamica", "sustentacion"]
+      "tags": [
+        "aerodinamica",
+        "sustentacion"
+      ]
     },
     {
       "question_id": "MOD9_026",
@@ -408,15 +777,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Disminuye"},
-        {"option_id": "B", "text": "Aumenta"},
-        {"option_id": "C", "text": "Se mantiene igual"},
-        {"option_id": "D", "text": "Desaparece"}
+        {
+          "option_id": "A",
+          "text": "Disminuye"
+        },
+        {
+          "option_id": "B",
+          "text": "Aumenta"
+        },
+        {
+          "option_id": "C",
+          "text": "Se mantiene igual"
+        },
+        {
+          "option_id": "D",
+          "text": "Desaparece"
+        }
       ],
       "correct_answer": "B",
       "hint": "La sustentación es proporcional al cuadrado de la velocidad.",
       "explanation": "Al aumentar la velocidad (V), la presión dinámica (q) sube, lo que incrementa la sustentación.",
-      "tags": ["aerodinamica", "sustentacion"]
+      "tags": [
+        "aerodinamica",
+        "sustentacion"
+      ]
     },
     {
       "question_id": "MOD9_027",
@@ -424,15 +808,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "El aire que sale de las toberas del motor"},
-        {"option_id": "B", "text": "La diferencia de presión entre el intradós y el extradós"},
-        {"option_id": "C", "text": "El roce del aire con el fuselaje"},
-        {"option_id": "D", "text": "La rotación de las hélices"}
+        {
+          "option_id": "A",
+          "text": "La rotación de las hélices"
+        },
+        {
+          "option_id": "B",
+          "text": "El roce del aire con el fuselaje"
+        },
+        {
+          "option_id": "C",
+          "text": "El aire que sale de las toberas del motor"
+        },
+        {
+          "option_id": "D",
+          "text": "La diferencia de presión entre el intradós y el extradós"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "El aire tiende a ir de alta a baja presión rodeando la punta.",
       "explanation": "La mayor presión bajo el ala (intradós) y menor sobre ella (extradós) genera un flujo hacia afuera en la punta alar, creando el vórtice.",
-      "tags": ["vortices", "aerodinamica"]
+      "tags": [
+        "vortices",
+        "aerodinamica"
+      ]
     },
     {
       "question_id": "MOD9_028",
@@ -440,15 +839,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "A la envergadura"},
-        {"option_id": "B", "text": "Al peso de la aeronave"},
-        {"option_id": "C", "text": "A la velocidad"},
-        {"option_id": "D", "text": "Al número de flaps"}
+        {
+          "option_id": "A",
+          "text": "Al número de flaps"
+        },
+        {
+          "option_id": "B",
+          "text": "A la envergadura"
+        },
+        {
+          "option_id": "C",
+          "text": "Al peso de la aeronave"
+        },
+        {
+          "option_id": "D",
+          "text": "A la velocidad"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "A más peso, más sustentación necesaria y vórtices más fuertes.",
       "explanation": "La intensidad es directamente proporcional al peso e inversamente proporcional a la envergadura y velocidad.",
-      "tags": ["vortices", "seguridad"]
+      "tags": [
+        "vortices",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD9_029",
@@ -456,15 +870,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Avión ligero, rápido y limpio"},
-        {"option_id": "B", "text": "Avión pesado, lento y en configuración limpia"},
-        {"option_id": "C", "text": "Avión pequeño volando a alta cota"},
-        {"option_id": "D", "text": "Avión pesado, rápido y con flaps"}
+        {
+          "option_id": "A",
+          "text": "Avión pesado, rápido y con flaps"
+        },
+        {
+          "option_id": "B",
+          "text": "Avión pequeño volando a alta cota"
+        },
+        {
+          "option_id": "C",
+          "text": "Avión pesado, lento y en configuración limpia"
+        },
+        {
+          "option_id": "D",
+          "text": "Avión ligero, rápido y limpio"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Heavy, Slow, Clean.",
       "explanation": "La fuerza del vórtice es máxima cuando el generador es pesado, vuela lento y no tiene dispositivos que rompan el flujo (limpio).",
-      "tags": ["vortices", "seguridad"]
+      "tags": [
+        "vortices",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD9_030",
@@ -472,15 +901,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Al arrancar motores"},
-        {"option_id": "B", "text": "En el momento de la rotación (cuando las ruedas de proa dejan la pista)"},
-        {"option_id": "C", "text": "Al soltar frenos"},
-        {"option_id": "D", "text": "Al alcanzar la V1"}
+        {
+          "option_id": "A",
+          "text": "Al alcanzar la V1"
+        },
+        {
+          "option_id": "B",
+          "text": "En el momento de la rotación (cuando las ruedas de proa dejan la pista)"
+        },
+        {
+          "option_id": "C",
+          "text": "Al soltar frenos"
+        },
+        {
+          "option_id": "D",
+          "text": "Al arrancar motores"
+        }
       ],
       "correct_answer": "B",
       "hint": "Cuando el ala empieza a cargar el peso del avión.",
       "explanation": "El vórtice se asocia a la sustentación; empieza cuando las ruedas de proa se levantan y termina cuando tocan el suelo al aterrizar.",
-      "tags": ["vortices", "despegue"]
+      "tags": [
+        "vortices",
+        "despegue"
+      ]
     },
     {
       "question_id": "MOD9_031",
@@ -488,15 +932,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Pérdida de un motor"},
-        {"option_id": "B", "text": "Balanceo inducido violento que sobrepasa la eficacia de los mandos"},
-        {"option_id": "C", "text": "Rotura de las ventanas"},
-        {"option_id": "D", "text": "Aumento del consumo de combustible"}
+        {
+          "option_id": "A",
+          "text": "Aumento del consumo de combustible"
+        },
+        {
+          "option_id": "B",
+          "text": "Pérdida de un motor"
+        },
+        {
+          "option_id": "C",
+          "text": "Rotura de las ventanas"
+        },
+        {
+          "option_id": "D",
+          "text": "Balanceo inducido violento que sobrepasa la eficacia de los mandos"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Efecto de rotación sobre el avión afectado.",
       "explanation": "El peligro crítico es que el vórtice haga girar al avión afectado de forma tan violenta que los alerones no puedan corregirlo.",
-      "tags": ["vortices", "seguridad"]
+      "tags": [
+        "vortices",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD9_032",
@@ -504,15 +963,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Hidroplaneo"},
-        {"option_id": "B", "text": "Efecto suelo"},
-        {"option_id": "C", "text": "Stall"},
-        {"option_id": "D", "text": "Mach crítico"}
+        {
+          "option_id": "A",
+          "text": "Mach crítico"
+        },
+        {
+          "option_id": "B",
+          "text": "Hidroplaneo"
+        },
+        {
+          "option_id": "C",
+          "text": "Efecto suelo"
+        },
+        {
+          "option_id": "D",
+          "text": "Stall"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Ocurre poco antes del contacto con pista.",
       "explanation": "El efecto suelo destruye el vórtice contra la superficie, reduciendo la resistencia inducida y aumentando la sustentación.",
-      "tags": ["aerodinamica", "efecto_suelo"]
+      "tags": [
+        "aerodinamica",
+        "efecto_suelo"
+      ]
     },
     {
       "question_id": "MOD9_033",
@@ -520,15 +994,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Kilogramos"},
-        {"option_id": "B", "text": "Gs (aceleración de la gravedad)"},
-        {"option_id": "C", "text": "Nudos"},
-        {"option_id": "D", "text": "Hectopascales"}
+        {
+          "option_id": "A",
+          "text": "Hectopascales"
+        },
+        {
+          "option_id": "B",
+          "text": "Gs (aceleración de la gravedad)"
+        },
+        {
+          "option_id": "C",
+          "text": "Kilogramos"
+        },
+        {
+          "option_id": "D",
+          "text": "Nudos"
+        }
       ],
       "correct_answer": "B",
       "hint": "Indica la fuerza aparente sobre el cuerpo.",
       "explanation": "El factor de carga es la proporción entre sustentación y peso, y se mide en Gs.",
-      "tags": ["mecanica", "factor_carga"]
+      "tags": [
+        "mecanica",
+        "factor_carga"
+      ]
     },
     {
       "question_id": "MOD9_034",
@@ -536,15 +1025,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Disminuir"},
-        {"option_id": "B", "text": "Aumentar"},
-        {"option_id": "C", "text": "Ser igual al peso"},
-        {"option_id": "D", "text": "Ser cero"}
+        {
+          "option_id": "A",
+          "text": "Ser cero"
+        },
+        {
+          "option_id": "B",
+          "text": "Ser igual al peso"
+        },
+        {
+          "option_id": "C",
+          "text": "Disminuir"
+        },
+        {
+          "option_id": "D",
+          "text": "Aumentar"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Solo la componente vertical equilibra el peso.",
       "explanation": "En viraje, parte de la sustentación se usa para girar (componente horizontal), por lo que se requiere más sustentación total para que la componente vertical iguale al peso.",
-      "tags": ["aerodinamica", "virajes"]
+      "tags": [
+        "aerodinamica",
+        "virajes"
+      ]
     },
     {
       "question_id": "MOD9_035",
@@ -552,15 +1056,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Volar demasiado rápido"},
-        {"option_id": "B", "text": "Exceder el ángulo de ataque crítico"},
-        {"option_id": "C", "text": "Bajar el tren de aterrizaje"},
-        {"option_id": "D", "text": "Apagar el motor"}
+        {
+          "option_id": "A",
+          "text": "Apagar el motor"
+        },
+        {
+          "option_id": "B",
+          "text": "Volar demasiado rápido"
+        },
+        {
+          "option_id": "C",
+          "text": "Bajar el tren de aterrizaje"
+        },
+        {
+          "option_id": "D",
+          "text": "Exceder el ángulo de ataque crítico"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "El aire se separa de la superficie superior del ala.",
       "explanation": "La pérdida resulta de la separación del flujo de aire del extradós por un ángulo de ataque excesivo.",
-      "tags": ["aerodinamica", "stall"]
+      "tags": [
+        "aerodinamica",
+        "stall"
+      ]
     },
     {
       "question_id": "MOD9_036",
@@ -568,15 +1087,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Disminuye"},
-        {"option_id": "B", "text": "Aumenta"},
-        {"option_id": "C", "text": "Es constante"},
-        {"option_id": "D", "text": "Llega a cero"}
+        {
+          "option_id": "A",
+          "text": "Es constante"
+        },
+        {
+          "option_id": "B",
+          "text": "Disminuye"
+        },
+        {
+          "option_id": "C",
+          "text": "Aumenta"
+        },
+        {
+          "option_id": "D",
+          "text": "Llega a cero"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Se necesita más velocidad para compensar el aire menos denso.",
       "explanation": "La velocidad de pérdida (Vs) depende de la densidad; al disminuir esta con la altura, la Vs aumenta.",
-      "tags": ["aerodinamica", "velocidades"]
+      "tags": [
+        "aerodinamica",
+        "velocidades"
+      ]
     },
     {
       "question_id": "MOD9_037",
@@ -584,15 +1118,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Un tipo de comida en el avión"},
-        {"option_id": "B", "text": "Fuerte vibración antes de entrar en pérdida"},
-        {"option_id": "C", "text": "Sonido de los motores al despegar"},
-        {"option_id": "D", "text": "Viento de cola fuerte"}
+        {
+          "option_id": "A",
+          "text": "Fuerte vibración antes de entrar en pérdida"
+        },
+        {
+          "option_id": "B",
+          "text": "Sonido de los motores al despegar"
+        },
+        {
+          "option_id": "C",
+          "text": "Un tipo de comida en el avión"
+        },
+        {
+          "option_id": "D",
+          "text": "Viento de cola fuerte"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Aviso aerodinámico.",
       "explanation": "Es una vibración causada por la separación parcial de la corriente antes de la pérdida total.",
-      "tags": ["aerodinamica", "stall"]
+      "tags": [
+        "aerodinamica",
+        "stall"
+      ]
     },
     {
       "question_id": "MOD9_038",
@@ -600,15 +1149,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Speed Brake"},
-        {"option_id": "B", "text": "Stick Shaker"},
-        {"option_id": "C", "text": "Auto-throttle"},
-        {"option_id": "D", "text": "Transpondedor"}
+        {
+          "option_id": "A",
+          "text": "Auto-throttle"
+        },
+        {
+          "option_id": "B",
+          "text": "Speed Brake"
+        },
+        {
+          "option_id": "C",
+          "text": "Stick Shaker"
+        },
+        {
+          "option_id": "D",
+          "text": "Transpondedor"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Vibrador de palanca.",
       "explanation": "El stick shaker avisa al piloto antes de que se produzca la pérdida real.",
-      "tags": ["seguridad", "instrumentos"]
+      "tags": [
+        "seguridad",
+        "instrumentos"
+      ]
     },
     {
       "question_id": "MOD9_039",
@@ -616,15 +1180,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Velocidad de ruptura del sonido"},
-        {"option_id": "B", "text": "Número de Mach en el que se alcanza la velocidad del sonido en algún punto del extradós"},
-        {"option_id": "C", "text": "Velocidad máxima de los neumáticos"},
-        {"option_id": "D", "text": "Mach 2.0"}
+        {
+          "option_id": "A",
+          "text": "Mach 2.0"
+        },
+        {
+          "option_id": "B",
+          "text": "Número de Mach en el que se alcanza la velocidad del sonido en algún punto del extradós"
+        },
+        {
+          "option_id": "C",
+          "text": "Velocidad máxima de los neumáticos"
+        },
+        {
+          "option_id": "D",
+          "text": "Velocidad de ruptura del sonido"
+        }
       ],
       "correct_answer": "B",
       "hint": "Da lugar a una onda de choque.",
       "explanation": "Es la velocidad de vuelo donde el aire sobre el ala llega a Mach 1 localmente.",
-      "tags": ["alta_velocidad", "aerodinamica"]
+      "tags": [
+        "alta_velocidad",
+        "aerodinamica"
+      ]
     },
     {
       "question_id": "MOD9_040",
@@ -632,15 +1211,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Una maniobra de emergencia"},
-        {"option_id": "B", "text": "Punto donde coinciden la velocidad de pérdida por alta y baja velocidad"},
-        {"option_id": "C", "text": "El final de la pista"},
-        {"option_id": "D", "text": "Un tipo de hangar"}
+        {
+          "option_id": "A",
+          "text": "Punto donde coinciden la velocidad de pérdida por alta y baja velocidad"
+        },
+        {
+          "option_id": "B",
+          "text": "Una maniobra de emergencia"
+        },
+        {
+          "option_id": "C",
+          "text": "Un tipo de hangar"
+        },
+        {
+          "option_id": "D",
+          "text": "El final de la pista"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Rincón del ataúd.",
       "explanation": "A gran altura, el margen entre entrar en pérdida por ir lento o por ir demasiado rápido (onda de choque) es mínimo.",
-      "tags": ["alta_velocidad", "seguridad"]
+      "tags": [
+        "alta_velocidad",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD9_041",
@@ -648,15 +1242,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Intradós"},
-        {"option_id": "B", "text": "Extradós"},
-        {"option_id": "C", "text": "Cuerda"},
-        {"option_id": "D", "text": "Borde de ataque"}
+        {
+          "option_id": "A",
+          "text": "Intradós"
+        },
+        {
+          "option_id": "B",
+          "text": "Cuerda"
+        },
+        {
+          "option_id": "C",
+          "text": "Extradós"
+        },
+        {
+          "option_id": "D",
+          "text": "Borde de ataque"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Donde la presión es menor.",
       "explanation": "El extradós es la superficie superior del ala.",
-      "tags": ["ala", "geometria"]
+      "tags": [
+        "ala",
+        "geometria"
+      ]
     },
     {
       "question_id": "MOD9_042",
@@ -664,15 +1273,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Distancia de punta a punta de las alas"},
-        {"option_id": "B", "text": "Línea que une el borde de ataque y el borde de salida"},
-        {"option_id": "C", "text": "Ancho del fuselaje"},
-        {"option_id": "D", "text": "Línea de máxima curvatura"}
+        {
+          "option_id": "A",
+          "text": "Línea que une el borde de ataque y el borde de salida"
+        },
+        {
+          "option_id": "B",
+          "text": "Ancho del fuselaje"
+        },
+        {
+          "option_id": "C",
+          "text": "Distancia de punta a punta de las alas"
+        },
+        {
+          "option_id": "D",
+          "text": "Línea de máxima curvatura"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Línea recta de referencia.",
       "explanation": "La cuerda es la línea recta que conecta los extremos delantero y trasero del perfil.",
-      "tags": ["ala", "geometria"]
+      "tags": [
+        "ala",
+        "geometria"
+      ]
     },
     {
       "question_id": "MOD9_043",
@@ -680,15 +1304,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Largo del avión"},
-        {"option_id": "B", "text": "Distancia entre los dos extremos de las alas"},
-        {"option_id": "C", "text": "Superficie total de las alas"},
-        {"option_id": "D", "text": "Altura de la cola"}
+        {
+          "option_id": "A",
+          "text": "Distancia entre los dos extremos de las alas"
+        },
+        {
+          "option_id": "B",
+          "text": "Altura de la cola"
+        },
+        {
+          "option_id": "C",
+          "text": "Superficie total de las alas"
+        },
+        {
+          "option_id": "D",
+          "text": "Largo del avión"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Dimensión transversal máxima.",
       "explanation": "La envergadura es la distancia de punta a punta de plano.",
-      "tags": ["ala", "geometria"]
+      "tags": [
+        "ala",
+        "geometria"
+      ]
     },
     {
       "question_id": "MOD9_044",
@@ -696,15 +1335,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Longitud del fuselaje"},
-        {"option_id": "B", "text": "Cociente entre la envergadura y la cuerda media"},
-        {"option_id": "C", "text": "Angulo de las alas con el fuselaje"},
-        {"option_id": "D", "text": "Número de flaps"}
+        {
+          "option_id": "A",
+          "text": "Angulo de las alas con el fuselaje"
+        },
+        {
+          "option_id": "B",
+          "text": "Número de flaps"
+        },
+        {
+          "option_id": "C",
+          "text": "Cociente entre la envergadura y la cuerda media"
+        },
+        {
+          "option_id": "D",
+          "text": "Longitud del fuselaje"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Aspect Ratio.",
       "explanation": "Define la relación entre la longitud y anchura del ala. Elevado en planeadores, bajo en aviones rápidos.",
-      "tags": ["ala", "geometria"]
+      "tags": [
+        "ala",
+        "geometria"
+      ]
     },
     {
       "question_id": "MOD9_045",
@@ -712,15 +1366,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Diedro"},
-        {"option_id": "B", "text": "Flecha"},
-        {"option_id": "C", "text": "Incidencia"},
-        {"option_id": "D", "text": "Ataque"}
+        {
+          "option_id": "A",
+          "text": "Flecha"
+        },
+        {
+          "option_id": "B",
+          "text": "Ataque"
+        },
+        {
+          "option_id": "C",
+          "text": "Diedro"
+        },
+        {
+          "option_id": "D",
+          "text": "Incidencia"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Puede ser positiva (hacia atrás) o negativa.",
       "explanation": "La flecha es el ángulo de las alas respecto al eje lateral.",
-      "tags": ["ala", "geometria"]
+      "tags": [
+        "ala",
+        "geometria"
+      ]
     },
     {
       "question_id": "MOD9_046",
@@ -728,15 +1397,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Ángulo hacia atrás de las alas"},
-        {"option_id": "B", "text": "Ángulo en forma de 'V' que forman las alas con el eje lateral (visto de frente)"},
-        {"option_id": "C", "text": "Curvatura del perfil"},
-        {"option_id": "D", "text": "Distancia al suelo"}
+        {
+          "option_id": "A",
+          "text": "Ángulo en forma de 'V' que forman las alas con el eje lateral (visto de frente)"
+        },
+        {
+          "option_id": "B",
+          "text": "Distancia al suelo"
+        },
+        {
+          "option_id": "C",
+          "text": "Ángulo hacia atrás de las alas"
+        },
+        {
+          "option_id": "D",
+          "text": "Curvatura del perfil"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Relacionado con la estabilidad lateral.",
       "explanation": "El diedro es la inclinación de las alas hacia arriba o abajo respecto a la horizontal.",
-      "tags": ["ala", "geometria"]
+      "tags": [
+        "ala",
+        "geometria"
+      ]
     },
     {
       "question_id": "MOD9_047",
@@ -744,15 +1428,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Ángulo entre el morro y el horizonte"},
-        {"option_id": "B", "text": "Ángulo agudo formado por la cuerda del ala y la dirección del viento relativo"},
-        {"option_id": "C", "text": "Ángulo de las alas con el suelo"},
-        {"option_id": "D", "text": "Ángulo de giro en un viraje"}
+        {
+          "option_id": "A",
+          "text": "Ángulo de giro en un viraje"
+        },
+        {
+          "option_id": "B",
+          "text": "Ángulo entre el morro y el horizonte"
+        },
+        {
+          "option_id": "C",
+          "text": "Ángulo agudo formado por la cuerda del ala y la dirección del viento relativo"
+        },
+        {
+          "option_id": "D",
+          "text": "Ángulo de las alas con el suelo"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Es variable y depende de la trayectoria.",
       "explanation": "Es el ángulo con el que el aire 'embiste' al perfil alar.",
-      "tags": ["aerodinamica", "ala"]
+      "tags": [
+        "aerodinamica",
+        "ala"
+      ]
     },
     {
       "question_id": "MOD9_048",
@@ -760,15 +1459,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Morro"},
-        {"option_id": "B", "text": "Centro de gravedad"},
-        {"option_id": "C", "text": "Asiento del piloto"},
-        {"option_id": "D", "text": "Cola"}
+        {
+          "option_id": "A",
+          "text": "Cola"
+        },
+        {
+          "option_id": "B",
+          "text": "Asiento del piloto"
+        },
+        {
+          "option_id": "C",
+          "text": "Morro"
+        },
+        {
+          "option_id": "D",
+          "text": "Centro de gravedad"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Punto de equilibrio de masas.",
       "explanation": "Los ejes longitudinal, lateral y vertical se cortan en el centro de gravedad.",
-      "tags": ["ejes"]
+      "tags": [
+        "ejes"
+      ]
     },
     {
       "question_id": "MOD9_049",
@@ -776,15 +1489,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Cabeceo (Pitch)"},
-        {"option_id": "B", "text": "Alabeo o balanceo (Roll)"},
-        {"option_id": "C", "text": "Guiñada (Yaw)"},
-        {"option_id": "D", "text": "Ascenso"}
+        {
+          "option_id": "A",
+          "text": "Alabeo o balanceo (Roll)"
+        },
+        {
+          "option_id": "B",
+          "text": "Guiñada (Yaw)"
+        },
+        {
+          "option_id": "C",
+          "text": "Cabeceo (Pitch)"
+        },
+        {
+          "option_id": "D",
+          "text": "Ascenso"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Mover una punta del ala arriba y la otra abajo.",
       "explanation": "Alrededor del eje longitudinal se produce el alabeo (roll).",
-      "tags": ["ejes", "movimientos"]
+      "tags": [
+        "ejes",
+        "movimientos"
+      ]
     },
     {
       "question_id": "MOD9_050",
@@ -792,15 +1520,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Longitudinal"},
-        {"option_id": "B", "text": "Lateral (o transversal)"},
-        {"option_id": "C", "text": "Vertical"},
-        {"option_id": "D", "text": "De hélice"}
+        {
+          "option_id": "A",
+          "text": "De hélice"
+        },
+        {
+          "option_id": "B",
+          "text": "Longitudinal"
+        },
+        {
+          "option_id": "C",
+          "text": "Vertical"
+        },
+        {
+          "option_id": "D",
+          "text": "Lateral (o transversal)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Va de ala a ala.",
       "explanation": "El eje lateral es perpendicular al plano de simetría.",
-      "tags": ["ejes"]
+      "tags": [
+        "ejes"
+      ]
     },
     {
       "question_id": "MOD9_051",
@@ -808,15 +1550,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Alabeo"},
-        {"option_id": "B", "text": "Cabeceo (Pitch)"},
-        {"option_id": "C", "text": "Guiñada"},
-        {"option_id": "D", "text": "Deriva"}
+        {
+          "option_id": "A",
+          "text": "Guiñada"
+        },
+        {
+          "option_id": "B",
+          "text": "Deriva"
+        },
+        {
+          "option_id": "C",
+          "text": "Alabeo"
+        },
+        {
+          "option_id": "D",
+          "text": "Cabeceo (Pitch)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Morro arriba o abajo.",
       "explanation": "Alrededor del eje lateral se produce el movimiento de cabeceo.",
-      "tags": ["ejes", "movimientos"]
+      "tags": [
+        "ejes",
+        "movimientos"
+      ]
     },
     {
       "question_id": "MOD9_052",
@@ -824,15 +1581,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Cabeceo"},
-        {"option_id": "B", "text": "Guiñada (Yaw)"},
-        {"option_id": "C", "text": "Alabeo"},
-        {"option_id": "D", "text": "Tirabuzón"}
+        {
+          "option_id": "A",
+          "text": "Alabeo"
+        },
+        {
+          "option_id": "B",
+          "text": "Tirabuzón"
+        },
+        {
+          "option_id": "C",
+          "text": "Guiñada (Yaw)"
+        },
+        {
+          "option_id": "D",
+          "text": "Cabeceo"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Movimiento del morro a izquierda o derecha.",
       "explanation": "La guiñada es el movimiento de dirección sobre el eje vertical.",
-      "tags": ["ejes", "movimientos"]
+      "tags": [
+        "ejes",
+        "movimientos"
+      ]
     },
     {
       "question_id": "MOD9_053",
@@ -840,15 +1612,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Elevadores"},
-        {"option_id": "B", "text": "Alerones"},
-        {"option_id": "C", "text": "Timón de dirección"},
-        {"option_id": "D", "text": "Spoilers"}
+        {
+          "option_id": "A",
+          "text": "Timón de dirección"
+        },
+        {
+          "option_id": "B",
+          "text": "Alerones"
+        },
+        {
+          "option_id": "C",
+          "text": "Elevadores"
+        },
+        {
+          "option_id": "D",
+          "text": "Spoilers"
+        }
       ],
       "correct_answer": "B",
       "hint": "Situados en el borde de salida de las alas.",
       "explanation": "Los alerones controlan el movimiento de balanceo/alabeo.",
-      "tags": ["controles"]
+      "tags": [
+        "controles"
+      ]
     },
     {
       "question_id": "MOD9_054",
@@ -856,15 +1642,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Alerones"},
-        {"option_id": "B", "text": "Timones de profundidad (elevators)"},
-        {"option_id": "C", "text": "Timón de dirección"},
-        {"option_id": "D", "text": "Trim tabs"}
+        {
+          "option_id": "A",
+          "text": "Alerones"
+        },
+        {
+          "option_id": "B",
+          "text": "Trim tabs"
+        },
+        {
+          "option_id": "C",
+          "text": "Timones de profundidad (elevators)"
+        },
+        {
+          "option_id": "D",
+          "text": "Timón de dirección"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Situados en el estabilizador horizontal.",
       "explanation": "Los elevadores controlan el cabeceo alrededor del eje lateral.",
-      "tags": ["controles"]
+      "tags": [
+        "controles"
+      ]
     },
     {
       "question_id": "MOD9_055",
@@ -872,15 +1672,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Alerones"},
-        {"option_id": "B", "text": "Elevadores"},
-        {"option_id": "C", "text": "Timón de dirección (rudder)"},
-        {"option_id": "D", "text": "Flaps"}
+        {
+          "option_id": "A",
+          "text": "Elevadores"
+        },
+        {
+          "option_id": "B",
+          "text": "Flaps"
+        },
+        {
+          "option_id": "C",
+          "text": "Alerones"
+        },
+        {
+          "option_id": "D",
+          "text": "Timón de dirección (rudder)"
+        }
       ],
-      "correct_answer": "C",
+      "correct_answer": "D",
       "hint": "Situado en el estabilizador vertical.",
       "explanation": "El timón de dirección controla el movimiento sobre el eje vertical.",
-      "tags": ["controles"]
+      "tags": [
+        "controles"
+      ]
     },
     {
       "question_id": "MOD9_056",
@@ -888,15 +1702,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Girando el volante"},
-        {"option_id": "B", "text": "Tirando de la palanca"},
-        {"option_id": "C", "text": "Pisando los pedales"},
-        {"option_id": "D", "text": "Moviendo el acelerador"}
+        {
+          "option_id": "A",
+          "text": "Tirando de la palanca"
+        },
+        {
+          "option_id": "B",
+          "text": "Moviendo el acelerador"
+        },
+        {
+          "option_id": "C",
+          "text": "Pisando los pedales"
+        },
+        {
+          "option_id": "D",
+          "text": "Girando el volante"
+        }
       ],
       "correct_answer": "C",
       "hint": "Acción con los pies.",
       "explanation": "El accionamiento del timón de dirección se efectúa pisando los pedales a derecha o izquierda.",
-      "tags": ["controles"]
+      "tags": [
+        "controles"
+      ]
     },
     {
       "question_id": "MOD9_057",
@@ -904,15 +1732,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Aumentar la velocidad de crucero"},
-        {"option_id": "B", "text": "Variar la curvatura del ala para aumentar el Cl máx"},
-        {"option_id": "C", "text": "Reducir el peso del avión"},
-        {"option_id": "D", "text": "Enfriar los motores"}
+        {
+          "option_id": "A",
+          "text": "Variar la curvatura del ala para aumentar el Cl máx"
+        },
+        {
+          "option_id": "B",
+          "text": "Enfriar los motores"
+        },
+        {
+          "option_id": "C",
+          "text": "Reducir el peso del avión"
+        },
+        {
+          "option_id": "D",
+          "text": "Aumentar la velocidad de crucero"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Permiten volar más lento.",
       "explanation": "Los hipersustentadores aumentan el coeficiente de sustentación máximo, permitiendo velocidades más bajas de despegue y aterrizaje.",
-      "tags": ["aerodinamica", "hipersustentadores"]
+      "tags": [
+        "aerodinamica",
+        "hipersustentadores"
+      ]
     },
     {
       "question_id": "MOD9_058",
@@ -920,15 +1763,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Borde de salida"},
-        {"option_id": "B", "text": "Borde de ataque"},
-        {"option_id": "C", "text": "Extradós"},
-        {"option_id": "D", "text": "Fuselaje"}
+        {
+          "option_id": "A",
+          "text": "Extradós"
+        },
+        {
+          "option_id": "B",
+          "text": "Fuselaje"
+        },
+        {
+          "option_id": "C",
+          "text": "Borde de salida"
+        },
+        {
+          "option_id": "D",
+          "text": "Borde de ataque"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Parte delantera del ala.",
       "explanation": "Los slats están situados en el borde de ataque.",
-      "tags": ["ala"]
+      "tags": [
+        "ala"
+      ]
     },
     {
       "question_id": "MOD9_059",
@@ -936,15 +1793,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Aumentar la sustentación"},
-        {"option_id": "B", "text": "Reducir la sustentación y aumentar la resistencia"},
-        {"option_id": "C", "text": "Acelerar el avión"},
-        {"option_id": "D", "text": "Controlar la guiñada"}
+        {
+          "option_id": "A",
+          "text": "Reducir la sustentación y aumentar la resistencia"
+        },
+        {
+          "option_id": "B",
+          "text": "Aumentar la sustentación"
+        },
+        {
+          "option_id": "C",
+          "text": "Acelerar el avión"
+        },
+        {
+          "option_id": "D",
+          "text": "Controlar la guiñada"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Se usan para descender rápido o frenar en pista.",
       "explanation": "Los spoilers destruyen sustentación y aumentan el drag.",
-      "tags": ["controles"]
+      "tags": [
+        "controles"
+      ]
     },
     {
       "question_id": "MOD9_060",
@@ -952,15 +1823,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Para aumentar la potencia"},
-        {"option_id": "B", "text": "Para anular la fuerza en la palanca o mando de vuelo"},
-        {"option_id": "C", "text": "Para girar más rápido"},
-        {"option_id": "D", "text": "Como freno de emergencia"}
+        {
+          "option_id": "A",
+          "text": "Para girar más rápido"
+        },
+        {
+          "option_id": "B",
+          "text": "Para anular la fuerza en la palanca o mando de vuelo"
+        },
+        {
+          "option_id": "C",
+          "text": "Como freno de emergencia"
+        },
+        {
+          "option_id": "D",
+          "text": "Para aumentar la potencia"
+        }
       ],
       "correct_answer": "B",
       "hint": "Ayuda al piloto a no tener que hacer fuerza constante.",
       "explanation": "El trim tab anula el momento de charnela, permitiendo mantener la actitud deseada sin esfuerzo físico del piloto.",
-      "tags": ["controles"]
+      "tags": [
+        "controles"
+      ]
     },
     {
       "question_id": "MOD9_061",
@@ -968,15 +1853,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Velocidad de rotación"},
-        {"option_id": "B", "text": "Velocidad de decisión"},
-        {"option_id": "C", "text": "Velocidad de pérdida"},
-        {"option_id": "D", "text": "Velocidad de crucero"}
+        {
+          "option_id": "A",
+          "text": "Velocidad de pérdida"
+        },
+        {
+          "option_id": "B",
+          "text": "Velocidad de crucero"
+        },
+        {
+          "option_id": "C",
+          "text": "Velocidad de decisión"
+        },
+        {
+          "option_id": "D",
+          "text": "Velocidad de rotación"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Punto de no retorno en pista.",
       "explanation": "V1 es la velocidad máxima para abortar o mínima para continuar el despegue.",
-      "tags": ["despegue", "velocidades"]
+      "tags": [
+        "despegue",
+        "velocidades"
+      ]
     },
     {
       "question_id": "MOD9_062",
@@ -984,15 +1884,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Abortar el despegue inmediatamente"},
-        {"option_id": "B", "text": "Continuar el despegue"},
-        {"option_id": "C", "text": "Apagar todos los motores"},
-        {"option_id": "D", "text": "Girar 180 grados"}
+        {
+          "option_id": "A",
+          "text": "Apagar todos los motores"
+        },
+        {
+          "option_id": "B",
+          "text": "Abortar el despegue inmediatamente"
+        },
+        {
+          "option_id": "C",
+          "text": "Continuar el despegue"
+        },
+        {
+          "option_id": "D",
+          "text": "Girar 180 grados"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Ya no hay pista suficiente para frenar.",
       "explanation": "Tras la V1, se debe continuar el despegue con el motor restante.",
-      "tags": ["despegue", "seguridad"]
+      "tags": [
+        "despegue",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD9_063",
@@ -1000,15 +1915,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Velocidad de frenado"},
-        {"option_id": "B", "text": "Velocidad de rotación"},
-        {"option_id": "C", "text": "Velocidad de ascenso"},
-        {"option_id": "D", "text": "Velocidad de crucero"}
+        {
+          "option_id": "A",
+          "text": "Velocidad de frenado"
+        },
+        {
+          "option_id": "B",
+          "text": "Velocidad de rotación"
+        },
+        {
+          "option_id": "C",
+          "text": "Velocidad de ascenso"
+        },
+        {
+          "option_id": "D",
+          "text": "Velocidad de crucero"
+        }
       ],
       "correct_answer": "B",
       "hint": "Cuando se levanta el morro.",
       "explanation": "Vr es la velocidad a la que se inicia la rotación para la actitud de despegue.",
-      "tags": ["despegue", "velocidades"]
+      "tags": [
+        "despegue",
+        "velocidades"
+      ]
     },
     {
       "question_id": "MOD9_064",
@@ -1016,15 +1946,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "V1"},
-        {"option_id": "B", "text": "Vr"},
-        {"option_id": "C", "text": "V2"},
-        {"option_id": "D", "text": "Vlof"}
+        {
+          "option_id": "A",
+          "text": "Vlof"
+        },
+        {
+          "option_id": "B",
+          "text": "V2"
+        },
+        {
+          "option_id": "C",
+          "text": "Vr"
+        },
+        {
+          "option_id": "D",
+          "text": "V1"
+        }
       ],
-      "correct_answer": "C",
+      "correct_answer": "B",
       "hint": "Velocidad de seguridad.",
       "explanation": "V2 es la velocidad de seguridad al despegue con un motor inoperativo.",
-      "tags": ["despegue", "velocidades"]
+      "tags": [
+        "despegue",
+        "velocidades"
+      ]
     },
     {
       "question_id": "MOD9_065",
@@ -1032,15 +1977,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Velocidad de aterrizaje"},
-        {"option_id": "B", "text": "Velocidad en que el avión se va al aire (Lift-off)"},
-        {"option_id": "C", "text": "Velocidad de decisión"},
-        {"option_id": "D", "text": "Velocidad máxima operativa"}
+        {
+          "option_id": "A",
+          "text": "Velocidad máxima operativa"
+        },
+        {
+          "option_id": "B",
+          "text": "Velocidad de aterrizaje"
+        },
+        {
+          "option_id": "C",
+          "text": "Velocidad de decisión"
+        },
+        {
+          "option_id": "D",
+          "text": "Velocidad en que el avión se va al aire (Lift-off)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Literalmente: levantarse.",
       "explanation": "Vlof es la velocidad a la que el avión deja de hacer contacto con el suelo.",
-      "tags": ["despegue", "velocidades"]
+      "tags": [
+        "despegue",
+        "velocidades"
+      ]
     },
     {
       "question_id": "MOD9_066",
@@ -1048,15 +2008,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Stopway"},
-        {"option_id": "B", "text": "Clearway"},
-        {"option_id": "C", "text": "Taxiway"},
-        {"option_id": "D", "text": "Apron"}
+        {
+          "option_id": "A",
+          "text": "Taxiway"
+        },
+        {
+          "option_id": "B",
+          "text": "Stopway"
+        },
+        {
+          "option_id": "C",
+          "text": "Clearway"
+        },
+        {
+          "option_id": "D",
+          "text": "Apron"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Zona libre.",
       "explanation": "Clearway es una zona libre de obstáculos para la fase inicial de ascenso.",
-      "tags": ["aerodromo", "performance"]
+      "tags": [
+        "aerodromo",
+        "performance"
+      ]
     },
     {
       "question_id": "MOD9_067",
@@ -1064,15 +2039,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Zona para aparcar el avión"},
-        {"option_id": "B", "text": "Área para decelerar en caso de despegue abortado"},
-        {"option_id": "C", "text": "Zona de embarque"},
-        {"option_id": "D", "text": "Principio de la pista"}
+        {
+          "option_id": "A",
+          "text": "Área para decelerar en caso de despegue abortado"
+        },
+        {
+          "option_id": "B",
+          "text": "Zona de embarque"
+        },
+        {
+          "option_id": "C",
+          "text": "Principio de la pista"
+        },
+        {
+          "option_id": "D",
+          "text": "Zona para aparcar el avión"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Soporta el peso del avión pero no es pista de uso normal.",
       "explanation": "Stopway es una longitud adicional para frenado en despegues abortados.",
-      "tags": ["aerodromo", "performance"]
+      "tags": [
+        "aerodromo",
+        "performance"
+      ]
     },
     {
       "question_id": "MOD9_068",
@@ -1080,15 +2070,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "V2"},
-        {"option_id": "B", "text": "Vref"},
-        {"option_id": "C", "text": "Vtd"},
-        {"option_id": "D", "text": "Vmc"}
+        {
+          "option_id": "A",
+          "text": "V2"
+        },
+        {
+          "option_id": "B",
+          "text": "Vmc"
+        },
+        {
+          "option_id": "C",
+          "text": "Vtd"
+        },
+        {
+          "option_id": "D",
+          "text": "Vref"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Velocidad de referencia.",
       "explanation": "Vref es 1,3 Vs0 y se requiere a 50 pies sobre el umbral.",
-      "tags": ["aterrizaje", "velocidades"]
+      "tags": [
+        "aterrizaje",
+        "velocidades"
+      ]
     },
     {
       "question_id": "MOD9_069",
@@ -1096,15 +2101,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Bataneo"},
-        {"option_id": "B", "text": "Hidroplaneo"},
-        {"option_id": "C", "text": "Efecto suelo"},
-        {"option_id": "D", "text": "Cavitación"}
+        {
+          "option_id": "A",
+          "text": "Cavitación"
+        },
+        {
+          "option_id": "B",
+          "text": "Bataneo"
+        },
+        {
+          "option_id": "C",
+          "text": "Hidroplaneo"
+        },
+        {
+          "option_id": "D",
+          "text": "Efecto suelo"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Aquaplaning.",
       "explanation": "El hidroplaneo ocurre cuando las ruedas deslizan sobre el agua sin girar.",
-      "tags": ["aterrizaje", "seguridad"]
+      "tags": [
+        "aterrizaje",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD9_070",
@@ -1112,15 +2132,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Frenos a tope"},
-        {"option_id": "B", "text": "Uso de la reversa"},
-        {"option_id": "C", "text": "Bajar el tren de morro rápido"},
-        {"option_id": "D", "text": "Girar el timón"}
+        {
+          "option_id": "A",
+          "text": "Bajar el tren de morro rápido"
+        },
+        {
+          "option_id": "B",
+          "text": "Frenos a tope"
+        },
+        {
+          "option_id": "C",
+          "text": "Uso de la reversa"
+        },
+        {
+          "option_id": "D",
+          "text": "Girar el timón"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Uso del motor.",
       "explanation": "La reversa no depende del contacto neumático-pista para generar fuerza de frenado.",
-      "tags": ["aterrizaje", "seguridad"]
+      "tags": [
+        "aterrizaje",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD9_071",
@@ -1128,15 +2163,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "La aumenta"},
-        {"option_id": "B", "text": "La reduce"},
-        {"option_id": "C", "text": "No afecta"},
-        {"option_id": "D", "text": "Solo afecta a la TAS"}
+        {
+          "option_id": "A",
+          "text": "Solo afecta a la TAS"
+        },
+        {
+          "option_id": "B",
+          "text": "La aumenta"
+        },
+        {
+          "option_id": "C",
+          "text": "No afecta"
+        },
+        {
+          "option_id": "D",
+          "text": "La reduce"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "El avión alcanza la velocidad necesaria respecto al aire antes.",
       "explanation": "El viento de frente reduce la distancia de carrera de despegue.",
-      "tags": ["performance", "despegue"]
+      "tags": [
+        "performance",
+        "despegue"
+      ]
     },
     {
       "question_id": "MOD9_072",
@@ -1144,15 +2194,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Disminuye"},
-        {"option_id": "B", "text": "Aumenta"},
-        {"option_id": "C", "text": "Es igual"},
-        {"option_id": "D", "text": "Oscila"}
+        {
+          "option_id": "A",
+          "text": "Es igual"
+        },
+        {
+          "option_id": "B",
+          "text": "Disminuye"
+        },
+        {
+          "option_id": "C",
+          "text": "Oscila"
+        },
+        {
+          "option_id": "D",
+          "text": "Aumenta"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "El aire es menos denso arriba.",
       "explanation": "Para mantener la misma presión dinámica (IAS) en aire menos denso, hay que volar más rápido (TAS).",
-      "tags": ["velocidades", "aerodinamica"]
+      "tags": [
+        "velocidades",
+        "aerodinamica"
+      ]
     },
     {
       "question_id": "MOD9_073",
@@ -1160,15 +2225,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Velocidad máxima de crucero"},
-        {"option_id": "B", "text": "Velocidad mínima de control en el suelo"},
-        {"option_id": "C", "text": "Velocidad de pérdida en giro"},
-        {"option_id": "D", "text": "Velocidad de ráfaga"}
+        {
+          "option_id": "A",
+          "text": "Velocidad máxima de crucero"
+        },
+        {
+          "option_id": "B",
+          "text": "Velocidad de pérdida en giro"
+        },
+        {
+          "option_id": "C",
+          "text": "Velocidad mínima de control en el suelo"
+        },
+        {
+          "option_id": "D",
+          "text": "Velocidad de ráfaga"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Minimum Control Speed Ground.",
       "explanation": "Es la velocidad mínima para mantener el control direccional en pista tras fallo de motor.",
-      "tags": ["velocidades", "seguridad"]
+      "tags": [
+        "velocidades",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD9_074",
@@ -1176,15 +2256,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "V2"},
-        {"option_id": "B", "text": "Vmcg"},
-        {"option_id": "C", "text": "Vs"},
-        {"option_id": "D", "text": "Vr"}
+        {
+          "option_id": "A",
+          "text": "Vmcg"
+        },
+        {
+          "option_id": "B",
+          "text": "Vs"
+        },
+        {
+          "option_id": "C",
+          "text": "V2"
+        },
+        {
+          "option_id": "D",
+          "text": "Vr"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Debes poder controlar el avión antes de decidir continuar.",
       "explanation": "V1 >= Vmcg para garantizar control direccional si se decide seguir el despegue.",
-      "tags": ["despegue", "velocidades"]
+      "tags": [
+        "despegue",
+        "velocidades"
+      ]
     },
     {
       "question_id": "MOD9_075",
@@ -1192,15 +2287,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Directamente proporcional"},
-        {"option_id": "B", "text": "Inversamente proporcional"},
-        {"option_id": "C", "text": "No depende de la velocidad"},
-        {"option_id": "D", "text": "Exponencial"}
+        {
+          "option_id": "A",
+          "text": "Inversamente proporcional"
+        },
+        {
+          "option_id": "B",
+          "text": "No depende de la velocidad"
+        },
+        {
+          "option_id": "C",
+          "text": "Exponencial"
+        },
+        {
+          "option_id": "D",
+          "text": "Directamente proporcional"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "A menos velocidad, más fuerte el vórtice.",
       "explanation": "La intensidad es inversamente proporcional a la velocidad (vórtice máximo en aviones lentos).",
-      "tags": ["vortices", "aerodinamica"]
+      "tags": [
+        "vortices",
+        "aerodinamica"
+      ]
     },
     {
       "question_id": "MOD9_076",
@@ -1208,15 +2318,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Sustentación"},
-        {"option_id": "B", "text": "Resistencia (Drag)"},
-        {"option_id": "C", "text": "Peso"},
-        {"option_id": "D", "text": "Gravedad"}
+        {
+          "option_id": "A",
+          "text": "Resistencia (Drag)"
+        },
+        {
+          "option_id": "B",
+          "text": "Sustentación"
+        },
+        {
+          "option_id": "C",
+          "text": "Peso"
+        },
+        {
+          "option_id": "D",
+          "text": "Gravedad"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Fuerza hacia atrás.",
       "explanation": "El empuje supera o iguala a la resistencia para avanzar.",
-      "tags": ["fuerzas"]
+      "tags": [
+        "fuerzas"
+      ]
     },
     {
       "question_id": "MOD9_077",
@@ -1224,15 +2348,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "El avión frena"},
-        {"option_id": "B", "text": "El avión acelera horizontalmente"},
-        {"option_id": "C", "text": "El avión baja de cota"},
-        {"option_id": "D", "text": "No ocurre nada"}
+        {
+          "option_id": "A",
+          "text": "El avión baja de cota"
+        },
+        {
+          "option_id": "B",
+          "text": "No ocurre nada"
+        },
+        {
+          "option_id": "C",
+          "text": "El avión frena"
+        },
+        {
+          "option_id": "D",
+          "text": "El avión acelera horizontalmente"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Desequilibrio hacia adelante.",
       "explanation": "Al exceder el empuje a la resistencia, el avión acelera.",
-      "tags": ["aerodinamica", "fuerzas"]
+      "tags": [
+        "aerodinamica",
+        "fuerzas"
+      ]
     },
     {
       "question_id": "MOD9_078",
@@ -1240,15 +2379,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Sustentación"},
-        {"option_id": "B", "text": "Vórtice"},
-        {"option_id": "C", "text": "Empuje"},
-        {"option_id": "D", "text": "Gravedad"}
+        {
+          "option_id": "A",
+          "text": "Sustentación"
+        },
+        {
+          "option_id": "B",
+          "text": "Empuje"
+        },
+        {
+          "option_id": "C",
+          "text": "Vórtice"
+        },
+        {
+          "option_id": "D",
+          "text": "Gravedad"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Causa la estela turbulenta.",
       "explanation": "El flujo circular de aire en las puntas crea el remolino llamado vórtice.",
-      "tags": ["vortices"]
+      "tags": [
+        "vortices"
+      ]
     },
     {
       "question_id": "MOD9_079",
@@ -1256,15 +2409,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Más alto vuela el avión"},
-        {"option_id": "B", "text": "Más cercano está el avión al suelo y mayor sea su envergadura"},
-        {"option_id": "C", "text": "Menor sea el peso"},
-        {"option_id": "D", "text": "Más frío sea el aire"}
+        {
+          "option_id": "A",
+          "text": "Más alto vuela el avión"
+        },
+        {
+          "option_id": "B",
+          "text": "Más frío sea el aire"
+        },
+        {
+          "option_id": "C",
+          "text": "Más cercano está el avión al suelo y mayor sea su envergadura"
+        },
+        {
+          "option_id": "D",
+          "text": "Menor sea el peso"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Relación con la envergadura.",
       "explanation": "Tiene un efecto mayor a baja altura y en aviones de gran ala.",
-      "tags": ["aerodinamica", "efecto_suelo"]
+      "tags": [
+        "aerodinamica",
+        "efecto_suelo"
+      ]
     },
     {
       "question_id": "MOD9_080",
@@ -1272,15 +2440,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "La horizontal"},
-        {"option_id": "B", "text": "La vertical"},
-        {"option_id": "C", "text": "Ambas"},
-        {"option_id": "D", "text": "Ninguna"}
+        {
+          "option_id": "A",
+          "text": "La horizontal"
+        },
+        {
+          "option_id": "B",
+          "text": "Ambas"
+        },
+        {
+          "option_id": "C",
+          "text": "Ninguna"
+        },
+        {
+          "option_id": "D",
+          "text": "La vertical"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "La horizontal produce el giro.",
       "explanation": "La componente vertical de la sustentación es la que debe igualar al peso para no perder altura.",
-      "tags": ["aerodinamica", "virajes"]
+      "tags": [
+        "aerodinamica",
+        "virajes"
+      ]
     },
     {
       "question_id": "MOD9_081",
@@ -1288,15 +2471,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "V1"},
-        {"option_id": "B", "text": "Velocidad de pérdida (Vs)"},
-        {"option_id": "C", "text": "V2"},
-        {"option_id": "D", "text": "Vne"}
+        {
+          "option_id": "A",
+          "text": "Velocidad de pérdida (Vs)"
+        },
+        {
+          "option_id": "B",
+          "text": "Vne"
+        },
+        {
+          "option_id": "C",
+          "text": "V1"
+        },
+        {
+          "option_id": "D",
+          "text": "V2"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Límite inferior de vuelo.",
       "explanation": "La Vs es la velocidad mínima para mantener el vuelo controlado.",
-      "tags": ["velocidades", "stall"]
+      "tags": [
+        "velocidades",
+        "stall"
+      ]
     },
     {
       "question_id": "MOD9_082",
@@ -1304,15 +2502,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Muy grande"},
-        {"option_id": "B", "text": "Pequeño (ej. 0.4)"},
-        {"option_id": "C", "text": "Máximo"},
-        {"option_id": "D", "text": "Cero"}
+        {
+          "option_id": "A",
+          "text": "Muy grande"
+        },
+        {
+          "option_id": "B",
+          "text": "Cero"
+        },
+        {
+          "option_id": "C",
+          "text": "Máximo"
+        },
+        {
+          "option_id": "D",
+          "text": "Pequeño (ej. 0.4)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "La velocidad compensa el Cl bajo.",
       "explanation": "Como la velocidad es alta, no se requiere un ángulo de ataque (Cl) grande para sustentar el peso.",
-      "tags": ["aerodinamica", "sustentacion"]
+      "tags": [
+        "aerodinamica",
+        "sustentacion"
+      ]
     },
     {
       "question_id": "MOD9_083",
@@ -1320,15 +2533,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Aumentar la potencia"},
-        {"option_id": "B", "text": "Descender para ampliar el margen de velocidades"},
-        {"option_id": "C", "text": "Subir más alto"},
-        {"option_id": "D", "text": "Sacar flaps"}
+        {
+          "option_id": "A",
+          "text": "Sacar flaps"
+        },
+        {
+          "option_id": "B",
+          "text": "Subir más alto"
+        },
+        {
+          "option_id": "C",
+          "text": "Aumentar la potencia"
+        },
+        {
+          "option_id": "D",
+          "text": "Descender para ampliar el margen de velocidades"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Busca aire más denso.",
       "explanation": "Al descender, la densidad aumenta y se separan las velocidades de pérdida por alta y baja velocidad.",
-      "tags": ["seguridad", "alta_velocidad"]
+      "tags": [
+        "seguridad",
+        "alta_velocidad"
+      ]
     },
     {
       "question_id": "MOD9_084",
@@ -1336,15 +2564,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Línea recta entre bordes"},
-        {"option_id": "B", "text": "Línea equidistante del intradós y del extradós"},
-        {"option_id": "C", "text": "Borde de ataque"},
-        {"option_id": "D", "text": "Perfil del fuselaje"}
+        {
+          "option_id": "A",
+          "text": "Línea equidistante del intradós y del extradós"
+        },
+        {
+          "option_id": "B",
+          "text": "Borde de ataque"
+        },
+        {
+          "option_id": "C",
+          "text": "Línea recta entre bordes"
+        },
+        {
+          "option_id": "D",
+          "text": "Perfil del fuselaje"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Define la 'forma' del perfil.",
       "explanation": "Es la línea que pasa por el medio del espesor del ala.",
-      "tags": ["ala", "geometria"]
+      "tags": [
+        "ala",
+        "geometria"
+      ]
     },
     {
       "question_id": "MOD9_085",
@@ -1352,15 +2595,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "No hay sustentación"},
-        {"option_id": "B", "text": "Se generará sustentación"},
-        {"option_id": "C", "text": "El avión caerá"},
-        {"option_id": "D", "text": "Hay resistencia infinita"}
+        {
+          "option_id": "A",
+          "text": "Hay resistencia infinita"
+        },
+        {
+          "option_id": "B",
+          "text": "Se generará sustentación"
+        },
+        {
+          "option_id": "C",
+          "text": "No hay sustentación"
+        },
+        {
+          "option_id": "D",
+          "text": "El avión caerá"
+        }
       ],
       "correct_answer": "B",
       "hint": "La forma ayuda a la sustentación.",
       "explanation": "Por su curvatura asimétrica, produce sustentación incluso a 0º de incidencia.",
-      "tags": ["aerodinamica", "ala"]
+      "tags": [
+        "aerodinamica",
+        "ala"
+      ]
     },
     {
       "question_id": "MOD9_086",
@@ -1368,15 +2626,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Reducción del espesor"},
-        {"option_id": "B", "text": "Cociente entre la cuerda en el encastre y la cuerda en la punta"},
-        {"option_id": "C", "text": "Ángulo diedro"},
-        {"option_id": "D", "text": "Largo de los flaps"}
+        {
+          "option_id": "A",
+          "text": "Reducción del espesor"
+        },
+        {
+          "option_id": "B",
+          "text": "Largo de los flaps"
+        },
+        {
+          "option_id": "C",
+          "text": "Ángulo diedro"
+        },
+        {
+          "option_id": "D",
+          "text": "Cociente entre la cuerda en el encastre y la cuerda en la punta"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Taper ratio.",
       "explanation": "Relación entre el ancho del ala donde se une al avión y donde termina.",
-      "tags": ["ala", "geometria"]
+      "tags": [
+        "ala",
+        "geometria"
+      ]
     },
     {
       "question_id": "MOD9_087",
@@ -1384,15 +2657,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Timón de dirección"},
-        {"option_id": "B", "text": "Alerones"},
-        {"option_id": "C", "text": "Elevadores"},
-        {"option_id": "D", "text": "Spoilers"}
+        {
+          "option_id": "A",
+          "text": "Elevadores"
+        },
+        {
+          "option_id": "B",
+          "text": "Timón de dirección"
+        },
+        {
+          "option_id": "C",
+          "text": "Spoilers"
+        },
+        {
+          "option_id": "D",
+          "text": "Alerones"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Control de alabeo.",
       "explanation": "Los alerones se mueven con el giro del mando lateral.",
-      "tags": ["controles"]
+      "tags": [
+        "controles"
+      ]
     },
     {
       "question_id": "MOD9_088",
@@ -1400,15 +2687,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Alerones"},
-        {"option_id": "B", "text": "Timones de profundidad"},
-        {"option_id": "C", "text": "Pedales"},
-        {"option_id": "D", "text": "Flaps"}
+        {
+          "option_id": "A",
+          "text": "Timones de profundidad"
+        },
+        {
+          "option_id": "B",
+          "text": "Alerones"
+        },
+        {
+          "option_id": "C",
+          "text": "Pedales"
+        },
+        {
+          "option_id": "D",
+          "text": "Flaps"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Control de morro.",
       "explanation": "El movimiento longitudinal del mando activa los elevadores.",
-      "tags": ["controles"]
+      "tags": [
+        "controles"
+      ]
     },
     {
       "question_id": "MOD9_089",
@@ -1416,15 +2717,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Simétricamente"},
-        {"option_id": "B", "text": "Asimétricamente"},
-        {"option_id": "C", "text": "No se pueden usar"},
-        {"option_id": "D", "text": "Solo en tierra"}
+        {
+          "option_id": "A",
+          "text": "Simétricamente"
+        },
+        {
+          "option_id": "B",
+          "text": "Asimétricamente"
+        },
+        {
+          "option_id": "C",
+          "text": "No se pueden usar"
+        },
+        {
+          "option_id": "D",
+          "text": "Solo en tierra"
+        }
       ],
       "correct_answer": "B",
       "hint": "Solo en un lado cada vez.",
       "explanation": "Al deflectarse asimétricamente, ayudan a los alerones a inclinar el avión.",
-      "tags": ["controles", "alta_velocidad"]
+      "tags": [
+        "controles",
+        "alta_velocidad"
+      ]
     },
     {
       "question_id": "MOD9_090",
@@ -1432,15 +2748,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Eje vertical"},
-        {"option_id": "B", "text": "Eje de charnela"},
-        {"option_id": "C", "text": "Eje longitudinal"},
-        {"option_id": "D", "text": "Eje de hélice"}
+        {
+          "option_id": "A",
+          "text": "Eje de hélice"
+        },
+        {
+          "option_id": "B",
+          "text": "Eje de charnela"
+        },
+        {
+          "option_id": "C",
+          "text": "Eje longitudinal"
+        },
+        {
+          "option_id": "D",
+          "text": "Eje vertical"
+        }
       ],
       "correct_answer": "B",
       "hint": "Eje de rotación del mando.",
       "explanation": "El eje de charnela es el eje de rotación del mando primario.",
-      "tags": ["controles"]
+      "tags": [
+        "controles"
+      ]
     },
     {
       "question_id": "MOD9_091",
@@ -1448,15 +2778,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Aumenta"},
-        {"option_id": "B", "text": "Se pierde aceleración"},
-        {"option_id": "C", "text": "Es igual"},
-        {"option_id": "D", "text": "Se vuelve infinita"}
+        {
+          "option_id": "A",
+          "text": "Es igual"
+        },
+        {
+          "option_id": "B",
+          "text": "Aumenta"
+        },
+        {
+          "option_id": "C",
+          "text": "Se pierde aceleración"
+        },
+        {
+          "option_id": "D",
+          "text": "Se vuelve infinita"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Menos potencia total.",
       "explanation": "Se produce una pérdida de aceleración que implica mayor distancia de pista.",
-      "tags": ["despegue", "performance"]
+      "tags": [
+        "despegue",
+        "performance"
+      ]
     },
     {
       "question_id": "MOD9_092",
@@ -1464,15 +2809,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Cabeceo arriba"},
-        {"option_id": "B", "text": "Momento de giro (guiñada) hacia el lado del motor fallado"},
-        {"option_id": "C", "text": "Aumento de sustentación"},
-        {"option_id": "D", "text": "Frenado de las ruedas"}
+        {
+          "option_id": "A",
+          "text": "Cabeceo arriba"
+        },
+        {
+          "option_id": "B",
+          "text": "Aumento de sustentación"
+        },
+        {
+          "option_id": "C",
+          "text": "Momento de giro (guiñada) hacia el lado del motor fallado"
+        },
+        {
+          "option_id": "D",
+          "text": "Frenado de las ruedas"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Guiñada adversa.",
       "explanation": "El empuje asimétrico tiende a sacar al avión de la pista.",
-      "tags": ["seguridad", "despegue"]
+      "tags": [
+        "seguridad",
+        "despegue"
+      ]
     },
     {
       "question_id": "MOD9_093",
@@ -1480,15 +2840,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Usando los frenos"},
-        {"option_id": "B", "text": "Haciendo uso únicamente de los controles aerodinámicos (timón)"},
-        {"option_id": "C", "text": "Bajando el tren"},
-        {"option_id": "D", "text": "Gritando"}
+        {
+          "option_id": "A",
+          "text": "Usando los frenos"
+        },
+        {
+          "option_id": "B",
+          "text": "Haciendo uso únicamente de los controles aerodinámicos (timón)"
+        },
+        {
+          "option_id": "C",
+          "text": "Bajando el tren"
+        },
+        {
+          "option_id": "D",
+          "text": "Gritando"
+        }
       ],
       "correct_answer": "B",
       "hint": "Uso del rudder.",
       "explanation": "Se debe controlar usando solo el timón de dirección para evitar salir de pista.",
-      "tags": ["despegue", "seguridad"]
+      "tags": [
+        "despegue",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD9_094",
@@ -1496,15 +2871,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Velocidad de aterrizaje"},
-        {"option_id": "B", "text": "Velocidad mínima de control en el aire"},
-        {"option_id": "C", "text": "Velocidad máxima absoluta"},
-        {"option_id": "D", "text": "Velocidad de ráfaga"}
+        {
+          "option_id": "A",
+          "text": "Velocidad máxima absoluta"
+        },
+        {
+          "option_id": "B",
+          "text": "Velocidad mínima de control en el aire"
+        },
+        {
+          "option_id": "C",
+          "text": "Velocidad de ráfaga"
+        },
+        {
+          "option_id": "D",
+          "text": "Velocidad de aterrizaje"
+        }
       ],
       "correct_answer": "B",
       "hint": "Minimum Control Speed Air.",
       "explanation": "Velocidad mínima para mantener el control tras fallo de motor ya en vuelo.",
-      "tags": ["velocidades", "seguridad"]
+      "tags": [
+        "velocidades",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD9_095",
@@ -1512,15 +2902,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "V2"},
-        {"option_id": "B", "text": "V1"},
-        {"option_id": "C", "text": "Vr"},
-        {"option_id": "D", "text": "Taxi"}
+        {
+          "option_id": "A",
+          "text": "V1"
+        },
+        {
+          "option_id": "B",
+          "text": "Vr"
+        },
+        {
+          "option_id": "C",
+          "text": "Taxi"
+        },
+        {
+          "option_id": "D",
+          "text": "V2"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Punto de decisión.",
       "explanation": "El cálculo de distancias críticas se hace asumiendo el fallo en V1.",
-      "tags": ["despegue", "performance"]
+      "tags": [
+        "despegue",
+        "performance"
+      ]
     },
     {
       "question_id": "MOD9_096",
@@ -1528,15 +2933,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Distancia de aceleración-despegue"},
-        {"option_id": "B", "text": "Distancia de aceleración-parada"},
-        {"option_id": "C", "text": "Distancia de despegue"},
-        {"option_id": "D", "text": "Clearway"}
+        {
+          "option_id": "A",
+          "text": "Clearway"
+        },
+        {
+          "option_id": "B",
+          "text": "Distancia de aceleración-despegue"
+        },
+        {
+          "option_id": "C",
+          "text": "Distancia de aceleración-parada"
+        },
+        {
+          "option_id": "D",
+          "text": "Distancia de despegue"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Considera solo acción de frenos.",
       "explanation": "Es la distancia necesaria para abortar con seguridad en V1.",
-      "tags": ["despegue", "performance"]
+      "tags": [
+        "despegue",
+        "performance"
+      ]
     },
     {
       "question_id": "MOD9_097",
@@ -1544,15 +2964,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Vref"},
-        {"option_id": "B", "text": "Ascenso en aproximación"},
-        {"option_id": "C", "text": "Vtd"},
-        {"option_id": "D", "text": "Vs0"}
+        {
+          "option_id": "A",
+          "text": "Vs0"
+        },
+        {
+          "option_id": "B",
+          "text": "Vref"
+        },
+        {
+          "option_id": "C",
+          "text": "Vtd"
+        },
+        {
+          "option_id": "D",
+          "text": "Ascenso en aproximación"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Crítica para el motor al aire.",
       "explanation": "Es la velocidad que permite subir con seguridad si se frustra el aterrizaje con fallo de motor.",
-      "tags": ["aterrizaje", "performance"]
+      "tags": [
+        "aterrizaje",
+        "performance"
+      ]
     },
     {
       "question_id": "MOD9_098",
@@ -1560,15 +2995,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Solo del peso"},
-        {"option_id": "B", "text": "Neumáticos, contaminación de pista y espesor de la capa de agua/nieve"},
-        {"option_id": "C", "text": "Potencia del motor"},
-        {"option_id": "D", "text": "Altura de la torre"}
+        {
+          "option_id": "A",
+          "text": "Potencia del motor"
+        },
+        {
+          "option_id": "B",
+          "text": "Solo del peso"
+        },
+        {
+          "option_id": "C",
+          "text": "Neumáticos, contaminación de pista y espesor de la capa de agua/nieve"
+        },
+        {
+          "option_id": "D",
+          "text": "Altura de la torre"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Factores de contacto.",
       "explanation": "Depende de la interacción física entre rueda, contaminante y pista.",
-      "tags": ["aterrizaje", "seguridad"]
+      "tags": [
+        "aterrizaje",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD9_099",
@@ -1576,15 +3026,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "No afecta"},
-        {"option_id": "B", "text": "Afecta a los requerimientos de distancia"},
-        {"option_id": "C", "text": "Solo afecta al consumo"},
-        {"option_id": "D", "text": "Cambia la gravedad"}
+        {
+          "option_id": "A",
+          "text": "Solo afecta al consumo"
+        },
+        {
+          "option_id": "B",
+          "text": "Cambia la gravedad"
+        },
+        {
+          "option_id": "C",
+          "text": "No afecta"
+        },
+        {
+          "option_id": "D",
+          "text": "Afecta a los requerimientos de distancia"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Pista cuesta arriba o cuesta abajo.",
       "explanation": "La pendiente de la pista influye en cuánto espacio necesita el avión para acelerar.",
-      "tags": ["performance", "despegue"]
+      "tags": [
+        "performance",
+        "despegue"
+      ]
     },
     {
       "question_id": "MOD9_100",
@@ -1592,15 +3057,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1,3 Vs0"},
-        {"option_id": "B", "text": "1,15 veces la velocidad de pérdida en configuración de aterrizaje"},
-        {"option_id": "C", "text": "Vs0"},
-        {"option_id": "D", "text": "V2"}
+        {
+          "option_id": "A",
+          "text": "1,3 Vs0"
+        },
+        {
+          "option_id": "B",
+          "text": "Vs0"
+        },
+        {
+          "option_id": "C",
+          "text": "1,15 veces la velocidad de pérdida en configuración de aterrizaje"
+        },
+        {
+          "option_id": "D",
+          "text": "V2"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Vtd.",
       "explanation": "La velocidad de toma (touchdown) es aproximadamente 1,15 veces la Vs0.",
-      "tags": ["aterrizaje", "velocidades"]
+      "tags": [
+        "aterrizaje",
+        "velocidades"
+      ]
     }
   ],
   "metadata": {

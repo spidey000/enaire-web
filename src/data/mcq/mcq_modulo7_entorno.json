@@ -8,15 +8,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1980"},
-        {"option_id": "B", "text": "1990"},
-        {"option_id": "C", "text": "2014"},
-        {"option_id": "D", "text": "2000"}
+        {
+          "option_id": "A",
+          "text": "1980"
+        },
+        {
+          "option_id": "B",
+          "text": "1990"
+        },
+        {
+          "option_id": "C",
+          "text": "2000"
+        },
+        {
+          "option_id": "D",
+          "text": "2014"
+        }
       ],
       "correct_answer": "B",
       "hint": "Ley 4/1990 de 29 de junio.",
       "explanation": "Aeropuertos Españoles y Navegación Aérea (Aena EPE) fue creada por la Ley 4/1990 de Presupuestos Generales del Estado para 1990.",
-      "tags": ["historia", "enaire"]
+      "tags": [
+        "historia",
+        "enaire"
+      ]
     },
     {
       "question_id": "MOD7_002",
@@ -24,15 +39,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Ley 9/2010"},
-        {"option_id": "B", "text": "Ley 18/2014"},
-        {"option_id": "C", "text": "Ley 21/2003"},
-        {"option_id": "D", "text": "Ley de Navegación Aérea 1960"}
+        {
+          "option_id": "A",
+          "text": "Ley 18/2014"
+        },
+        {
+          "option_id": "B",
+          "text": "Ley 9/2010"
+        },
+        {
+          "option_id": "C",
+          "text": "Ley 21/2003"
+        },
+        {
+          "option_id": "D",
+          "text": "Ley de Navegación Aérea 1960"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Ley de aprobación de medidas urgentes para el crecimiento.",
       "explanation": "La denominación pasó a ser ENAIRE por la Ley 18/2014 de 15 de octubre.",
-      "tags": ["legislacion", "enaire"]
+      "tags": [
+        "legislacion",
+        "enaire"
+      ]
     },
     {
       "question_id": "MOD7_003",
@@ -40,15 +70,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Ministerio del Interior"},
-        {"option_id": "B", "text": "Ministerio de Transportes y Movilidad Sostenible"},
-        {"option_id": "C", "text": "Ministerio de Fomento"},
-        {"option_id": "D", "text": "Ministerio de Defensa"}
+        {
+          "option_id": "A",
+          "text": "Ministerio de Fomento"
+        },
+        {
+          "option_id": "B",
+          "text": "Ministerio de Transportes y Movilidad Sostenible"
+        },
+        {
+          "option_id": "C",
+          "text": "Ministerio del Interior"
+        },
+        {
+          "option_id": "D",
+          "text": "Ministerio de Defensa"
+        }
       ],
       "correct_answer": "B",
       "hint": "Antes se llamaba Ministerio de Fomento.",
       "explanation": "ENAIRE es una entidad pública empresarial adscrita al Ministerio de Transportes y Movilidad Sostenible.",
-      "tags": ["organizacion"]
+      "tags": [
+        "organizacion"
+      ]
     },
     {
       "question_id": "MOD7_004",
@@ -56,15 +100,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "3"},
-        {"option_id": "B", "text": "5"},
-        {"option_id": "C", "text": "21"},
-        {"option_id": "D", "text": "7"}
+        {
+          "option_id": "A",
+          "text": "21"
+        },
+        {
+          "option_id": "B",
+          "text": "7"
+        },
+        {
+          "option_id": "C",
+          "text": "5"
+        },
+        {
+          "option_id": "D",
+          "text": "3"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Madrid, Barcelona, Canarias, Sevilla, Palma.",
       "explanation": "ENAIRE cuenta con cinco centros de control (ACC).",
-      "tags": ["infraestructura"]
+      "tags": [
+        "infraestructura"
+      ]
     },
     {
       "question_id": "MOD7_005",
@@ -72,15 +130,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "10"},
-        {"option_id": "B", "text": "21"},
-        {"option_id": "C", "text": "46"},
-        {"option_id": "D", "text": "5"}
+        {
+          "option_id": "A",
+          "text": "46"
+        },
+        {
+          "option_id": "B",
+          "text": "10"
+        },
+        {
+          "option_id": "C",
+          "text": "21"
+        },
+        {
+          "option_id": "D",
+          "text": "5"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Además de los 5 ACC.",
       "explanation": "ENAIRE gestiona 21 torres de control.",
-      "tags": ["infraestructura"]
+      "tags": [
+        "infraestructura"
+      ]
     },
     {
       "question_id": "MOD7_006",
@@ -88,15 +160,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Más de 500.000"},
-        {"option_id": "B", "text": "Más de 1 millón"},
-        {"option_id": "C", "text": "Más de 2 millones"},
-        {"option_id": "D", "text": "Más de 5 millones"}
+        {
+          "option_id": "A",
+          "text": "Más de 2 millones"
+        },
+        {
+          "option_id": "B",
+          "text": "Más de 5 millones"
+        },
+        {
+          "option_id": "C",
+          "text": "Más de 500.000"
+        },
+        {
+          "option_id": "D",
+          "text": "Más de 1 millón"
+        }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "hint": "Transportando a más de 300 millones de personas.",
       "explanation": "ENAIRE gestiona más de 2 millones de vuelos al año (ej. récord en 2024 de 2,5 millones).",
-      "tags": ["estadisticas"]
+      "tags": [
+        "estadisticas"
+      ]
     },
     {
       "question_id": "MOD7_007",
@@ -104,15 +190,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1.000.000 km²"},
-        {"option_id": "B", "text": "2.190.000 km²"},
-        {"option_id": "C", "text": "500.000 km²"},
-        {"option_id": "D", "text": "3.500.000 km²"}
+        {
+          "option_id": "A",
+          "text": "1.000.000 km²"
+        },
+        {
+          "option_id": "B",
+          "text": "3.500.000 km²"
+        },
+        {
+          "option_id": "C",
+          "text": "2.190.000 km²"
+        },
+        {
+          "option_id": "D",
+          "text": "500.000 km²"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Incluye gran parte del Atlántico y Mediterráneo.",
       "explanation": "ENAIRE gestiona 2.190.000 kilómetros cuadrados de espacio aéreo.",
-      "tags": ["espacio_aereo"]
+      "tags": [
+        "espacio_aereo"
+      ]
     },
     {
       "question_id": "MOD7_008",
@@ -120,15 +220,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Primero"},
-        {"option_id": "B", "text": "Segundo"},
-        {"option_id": "C", "text": "Cuarto"},
-        {"option_id": "D", "text": "Décimo"}
+        {
+          "option_id": "A",
+          "text": "Segundo"
+        },
+        {
+          "option_id": "B",
+          "text": "Primero"
+        },
+        {
+          "option_id": "C",
+          "text": "Cuarto"
+        },
+        {
+          "option_id": "D",
+          "text": "Décimo"
+        }
       ],
       "correct_answer": "C",
       "hint": "Es uno de los 'Big Five'.",
       "explanation": "ENAIRE es el cuarto proveedor de navegación aérea en Europa por volumen de tráfico.",
-      "tags": ["enaire", "ranking"]
+      "tags": [
+        "enaire",
+        "ranking"
+      ]
     },
     {
       "question_id": "MOD7_009",
@@ -136,15 +251,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "2010"},
-        {"option_id": "B", "text": "2015"},
-        {"option_id": "C", "text": "2019"},
-        {"option_id": "D", "text": "2021"}
+        {
+          "option_id": "A",
+          "text": "2021"
+        },
+        {
+          "option_id": "B",
+          "text": "2010"
+        },
+        {
+          "option_id": "C",
+          "text": "2015"
+        },
+        {
+          "option_id": "D",
+          "text": "2019"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Anterior a la designación como Operador de Servicios Esenciales.",
       "explanation": "ENAIRE fue designada como Operador de Infraestructuras Críticas en 2015.",
-      "tags": ["seguridad"]
+      "tags": [
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD7_010",
@@ -152,15 +281,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "2015"},
-        {"option_id": "B", "text": "2019"},
-        {"option_id": "C", "text": "2014"},
-        {"option_id": "D", "text": "2023"}
+        {
+          "option_id": "A",
+          "text": "2023"
+        },
+        {
+          "option_id": "B",
+          "text": "2019"
+        },
+        {
+          "option_id": "C",
+          "text": "2015"
+        },
+        {
+          "option_id": "D",
+          "text": "2014"
+        }
       ],
       "correct_answer": "B",
       "hint": "Designación reciente para servicios digitales y de red.",
       "explanation": "ENAIRE fue designada Operador de Servicios Esenciales en 2019.",
-      "tags": ["seguridad"]
+      "tags": [
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD7_011",
@@ -168,15 +311,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "49%"},
-        {"option_id": "B", "text": "51%"},
-        {"option_id": "C", "text": "100%"},
-        {"option_id": "D", "text": "25%"}
+        {
+          "option_id": "A",
+          "text": "100%"
+        },
+        {
+          "option_id": "B",
+          "text": "51%"
+        },
+        {
+          "option_id": "C",
+          "text": "25%"
+        },
+        {
+          "option_id": "D",
+          "text": "49%"
+        }
       ],
       "correct_answer": "B",
       "hint": "Es el accionista mayoritario.",
       "explanation": "ENAIRE posee el 51% de las acciones de Aena S.A.",
-      "tags": ["acciones", "grupo_empresarial"]
+      "tags": [
+        "acciones",
+        "grupo_empresarial"
+      ]
     },
     {
       "question_id": "MOD7_012",
@@ -184,15 +342,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Ineco"},
-        {"option_id": "B", "text": "CRIDA"},
-        {"option_id": "C", "text": "STARTICAL"},
-        {"option_id": "D", "text": "EAD"}
+        {
+          "option_id": "A",
+          "text": "Ineco"
+        },
+        {
+          "option_id": "B",
+          "text": "EAD"
+        },
+        {
+          "option_id": "C",
+          "text": "STARTICAL"
+        },
+        {
+          "option_id": "D",
+          "text": "CRIDA"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Centro de Referencia de I+D+i.",
       "explanation": "CRIDA es la filial de ENAIRE para investigación y desarrollo.",
-      "tags": ["grupo_empresarial"]
+      "tags": [
+        "grupo_empresarial"
+      ]
     },
     {
       "question_id": "MOD7_013",
@@ -200,15 +372,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "CRIDA"},
-        {"option_id": "B", "text": "STARTICAL"},
-        {"option_id": "C", "text": "Ineco"},
-        {"option_id": "D", "text": "ESA"}
+        {
+          "option_id": "A",
+          "text": "Ineco"
+        },
+        {
+          "option_id": "B",
+          "text": "ESA"
+        },
+        {
+          "option_id": "C",
+          "text": "CRIDA"
+        },
+        {
+          "option_id": "D",
+          "text": "STARTICAL"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Relacionada con constelaciones de satélites.",
       "explanation": "STARTICAL es la empresa participada al 50% con Indra.",
-      "tags": ["grupo_empresarial"]
+      "tags": [
+        "grupo_empresarial"
+      ]
     },
     {
       "question_id": "MOD7_014",
@@ -216,15 +402,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "51%"},
-        {"option_id": "B", "text": "45,85%"},
-        {"option_id": "C", "text": "36%"},
-        {"option_id": "D", "text": "100%"}
+        {
+          "option_id": "A",
+          "text": "36%"
+        },
+        {
+          "option_id": "B",
+          "text": "45,85%"
+        },
+        {
+          "option_id": "C",
+          "text": "100%"
+        },
+        {
+          "option_id": "D",
+          "text": "51%"
+        }
       ],
       "correct_answer": "B",
       "hint": "Casi la mitad.",
       "explanation": "ENAIRE posee el 45,85% de Ineco.",
-      "tags": ["grupo_empresarial"]
+      "tags": [
+        "grupo_empresarial"
+      ]
     },
     {
       "question_id": "MOD7_015",
@@ -232,15 +432,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "51%"},
-        {"option_id": "B", "text": "36%"},
-        {"option_id": "C", "text": "50%"},
-        {"option_id": "D", "text": "10%"}
+        {
+          "option_id": "A",
+          "text": "10%"
+        },
+        {
+          "option_id": "B",
+          "text": "51%"
+        },
+        {
+          "option_id": "C",
+          "text": "50%"
+        },
+        {
+          "option_id": "D",
+          "text": "36%"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Relacionado con la base de datos AIS europea.",
       "explanation": "ENAIRE tiene una participación del 36% en el Grupo EAD.",
-      "tags": ["grupo_empresarial"]
+      "tags": [
+        "grupo_empresarial"
+      ]
     },
     {
       "question_id": "MOD7_016",
@@ -248,15 +462,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Formar controladores"},
-        {"option_id": "B", "text": "Gestionar patrimonio artístico y cultura aeronáutica"},
-        {"option_id": "C", "text": "Vender billetes de avión"},
-        {"option_id": "D", "text": "Investigar accidentes"}
+        {
+          "option_id": "A",
+          "text": "Investigar accidentes"
+        },
+        {
+          "option_id": "B",
+          "text": "Gestionar patrimonio artístico y cultura aeronáutica"
+        },
+        {
+          "option_id": "C",
+          "text": "Vender billetes de avión"
+        },
+        {
+          "option_id": "D",
+          "text": "Formar controladores"
+        }
       ],
       "correct_answer": "B",
       "hint": "Lado artístico y divulgativo.",
       "explanation": "La Fundación ENAIRE gestiona el patrimonio artístico y divulga la cultura aeronáutica.",
-      "tags": ["fundacion"]
+      "tags": [
+        "fundacion"
+      ]
     },
     {
       "question_id": "MOD7_017",
@@ -264,15 +492,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Más de 2.000"},
-        {"option_id": "B", "text": "Más de 4.200"},
-        {"option_id": "C", "text": "Más de 10.000"},
-        {"option_id": "D", "text": "Alrededor de 1.000"}
+        {
+          "option_id": "A",
+          "text": "Más de 2.000"
+        },
+        {
+          "option_id": "B",
+          "text": "Alrededor de 1.000"
+        },
+        {
+          "option_id": "C",
+          "text": "Más de 10.000"
+        },
+        {
+          "option_id": "D",
+          "text": "Más de 4.200"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Dato de octubre de 2024.",
       "explanation": "La plantilla de ENAIRE la componen más de 4.200 personas.",
-      "tags": ["plantilla"]
+      "tags": [
+        "plantilla"
+      ]
     },
     {
       "question_id": "MOD7_018",
@@ -280,15 +522,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "20%"},
-        {"option_id": "B", "text": "49%"},
-        {"option_id": "C", "text": "75%"},
-        {"option_id": "D", "text": "90%"}
+        {
+          "option_id": "A",
+          "text": "90%"
+        },
+        {
+          "option_id": "B",
+          "text": "20%"
+        },
+        {
+          "option_id": "C",
+          "text": "49%"
+        },
+        {
+          "option_id": "D",
+          "text": "75%"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Casi la mitad del equipo.",
       "explanation": "Los controladores representan alrededor del 49% de la plantilla.",
-      "tags": ["plantilla"]
+      "tags": [
+        "plantilla"
+      ]
     },
     {
       "question_id": "MOD7_019",
@@ -296,15 +552,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "49%"},
-        {"option_id": "B", "text": "20%"},
-        {"option_id": "C", "text": "5%"},
-        {"option_id": "D", "text": "26%"}
+        {
+          "option_id": "A",
+          "text": "20%"
+        },
+        {
+          "option_id": "B",
+          "text": "5%"
+        },
+        {
+          "option_id": "C",
+          "text": "26%"
+        },
+        {
+          "option_id": "D",
+          "text": "49%"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Mantenimiento y desarrollo de sistemas.",
       "explanation": "El personal técnico y de ingeniería supone un 20% aproximadamente.",
-      "tags": ["plantilla"]
+      "tags": [
+        "plantilla"
+      ]
     },
     {
       "question_id": "MOD7_020",
@@ -312,15 +582,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Ser el cuarto gestor de Europa"},
-        {"option_id": "B", "text": "Cuidamos de tu vuelo para que sea seguro, rápido, eficiente y sostenible"},
-        {"option_id": "C", "text": "Maximizar beneficios para el Estado"},
-        {"option_id": "D", "text": "Formar a los mejores controladores del mundo"}
+        {
+          "option_id": "A",
+          "text": "Formar a los mejores controladores del mundo"
+        },
+        {
+          "option_id": "B",
+          "text": "Maximizar beneficios para el Estado"
+        },
+        {
+          "option_id": "C",
+          "text": "Ser el cuarto gestor de Europa"
+        },
+        {
+          "option_id": "D",
+          "text": "Cuidamos de tu vuelo para que sea seguro, rápido, eficiente y sostenible"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Es el lema del plan estratégico.",
       "explanation": "Este es el propósito oficial definido en el Plan de Vuelo 2025.",
-      "tags": ["plan_estrategico"]
+      "tags": [
+        "plan_estrategico"
+      ]
     },
     {
       "question_id": "MOD7_021",
@@ -328,15 +612,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Solo en la reducción de tasas"},
-        {"option_id": "B", "text": "Personas, innovación y digitalización"},
-        {"option_id": "C", "text": "Compra de aeropuertos extranjeros"},
-        {"option_id": "D", "text": "Uso exclusivo de radares antiguos"}
+        {
+          "option_id": "A",
+          "text": "Compra de aeropuertos extranjeros"
+        },
+        {
+          "option_id": "B",
+          "text": "Personas, innovación y digitalización"
+        },
+        {
+          "option_id": "C",
+          "text": "Solo en la reducción de tasas"
+        },
+        {
+          "option_id": "D",
+          "text": "Uso exclusivo de radares antiguos"
+        }
       ],
       "correct_answer": "B",
       "hint": "Pilares de la transformación futura.",
       "explanation": "La visión se basa en personas, innovación y digitalización.",
-      "tags": ["plan_estrategico"]
+      "tags": [
+        "plan_estrategico"
+      ]
     },
     {
       "question_id": "MOD7_022",
@@ -344,15 +642,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "SESAR"},
-        {"option_id": "B", "text": "Cielo Único Europeo (SES)"},
-        {"option_id": "C", "text": "OACI"},
-        {"option_id": "D", "text": "EASA"}
+        {
+          "option_id": "A",
+          "text": "Cielo Único Europeo (SES)"
+        },
+        {
+          "option_id": "B",
+          "text": "EASA"
+        },
+        {
+          "option_id": "C",
+          "text": "SESAR"
+        },
+        {
+          "option_id": "D",
+          "text": "OACI"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Single European Sky.",
       "explanation": "El Cielo Único Europeo (SES) fue creado en 1999.",
-      "tags": ["ses", "europa"]
+      "tags": [
+        "ses",
+        "europa"
+      ]
     },
     {
       "question_id": "MOD7_023",
@@ -360,15 +673,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Velocidad, Altura, Peso, Consumo"},
-        {"option_id": "B", "text": "Seguridad, Coste-Eficiencia, Capacidad y Medioambiente"},
-        {"option_id": "C", "text": "Radares, Radios, Luces, Torres"},
-        {"option_id": "D", "text": "España, Francia, Italia, Alemania"}
+        {
+          "option_id": "A",
+          "text": "Velocidad, Altura, Peso, Consumo"
+        },
+        {
+          "option_id": "B",
+          "text": "España, Francia, Italia, Alemania"
+        },
+        {
+          "option_id": "C",
+          "text": "Seguridad, Coste-Eficiencia, Capacidad y Medioambiente"
+        },
+        {
+          "option_id": "D",
+          "text": "Radares, Radios, Luces, Torres"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "KPAs del SES.",
       "explanation": "Las cuatro áreas son Seguridad, Coste-Eficiencia, Capacidad y Medioambiente.",
-      "tags": ["ses", "rendimiento"]
+      "tags": [
+        "ses",
+        "rendimiento"
+      ]
     },
     {
       "question_id": "MOD7_024",
@@ -376,15 +704,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1 año"},
-        {"option_id": "B", "text": "5 años"},
-        {"option_id": "C", "text": "10 años"},
-        {"option_id": "D", "text": "3 años"}
+        {
+          "option_id": "A",
+          "text": "5 años"
+        },
+        {
+          "option_id": "B",
+          "text": "10 años"
+        },
+        {
+          "option_id": "C",
+          "text": "1 año"
+        },
+        {
+          "option_id": "D",
+          "text": "3 años"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Aunque el primero duró solo 3.",
       "explanation": "La normativa se despliega en periodos de cinco años.",
-      "tags": ["ses", "rendimiento"]
+      "tags": [
+        "ses",
+        "rendimiento"
+      ]
     },
     {
       "question_id": "MOD7_025",
@@ -392,15 +735,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "RP1"},
-        {"option_id": "B", "text": "RP2"},
-        {"option_id": "C", "text": "RP3"},
-        {"option_id": "D", "text": "RP4"}
+        {
+          "option_id": "A",
+          "text": "RP4"
+        },
+        {
+          "option_id": "B",
+          "text": "RP2"
+        },
+        {
+          "option_id": "C",
+          "text": "RP3"
+        },
+        {
+          "option_id": "D",
+          "text": "RP1"
+        }
       ],
-      "correct_answer": "D",
+      "correct_answer": "A",
       "hint": "RP4 abarca 2025-2029.",
       "explanation": "El RP4 se extiende de 2025 a 2029.",
-      "tags": ["ses", "rendimiento"]
+      "tags": [
+        "ses",
+        "rendimiento"
+      ]
     },
     {
       "question_id": "MOD7_026",
@@ -408,15 +766,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "AIS"},
-        {"option_id": "B", "text": "ATS (Servicio de Tránsito Aéreo)"},
-        {"option_id": "C", "text": "CNS"},
-        {"option_id": "D", "text": "MET"}
+        {
+          "option_id": "A",
+          "text": "ATS (Servicio de Tránsito Aéreo)"
+        },
+        {
+          "option_id": "B",
+          "text": "AIS"
+        },
+        {
+          "option_id": "C",
+          "text": "CNS"
+        },
+        {
+          "option_id": "D",
+          "text": "MET"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Air Traffic Service.",
       "explanation": "El ATS previene colisiones y acelera el movimiento de forma ordenada.",
-      "tags": ["servicios"]
+      "tags": [
+        "servicios"
+      ]
     },
     {
       "question_id": "MOD7_027",
@@ -424,15 +796,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Control, Navegación y Seguridad"},
-        {"option_id": "B", "text": "Comunicaciones, Navegación y Vigilancia (Surveillance)"},
-        {"option_id": "C", "text": "Central de Navegación Sistemática"},
-        {"option_id": "D", "text": "Comunicaciones Nacionales de Seguridad"}
+        {
+          "option_id": "A",
+          "text": "Central de Navegación Sistemática"
+        },
+        {
+          "option_id": "B",
+          "text": "Comunicaciones Nacionales de Seguridad"
+        },
+        {
+          "option_id": "C",
+          "text": "Control, Navegación y Seguridad"
+        },
+        {
+          "option_id": "D",
+          "text": "Comunicaciones, Navegación y Vigilancia (Surveillance)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Communications, Navigation, Surveillance.",
       "explanation": "CNS corresponde a los servicios técnicos de soporte.",
-      "tags": ["servicios", "siglas"]
+      "tags": [
+        "servicios",
+        "siglas"
+      ]
     },
     {
       "question_id": "MOD7_028",
@@ -440,15 +827,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "ATS"},
-        {"option_id": "B", "text": "AIS (Servicio de Información Aeronáutica)"},
-        {"option_id": "C", "text": "TACC"},
-        {"option_id": "D", "text": "OJT"}
+        {
+          "option_id": "A",
+          "text": "TACC"
+        },
+        {
+          "option_id": "B",
+          "text": "ATS"
+        },
+        {
+          "option_id": "C",
+          "text": "OJT"
+        },
+        {
+          "option_id": "D",
+          "text": "AIS (Servicio de Información Aeronáutica)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Aeronautical Information Service.",
       "explanation": "El AIS pone a disposición la información para planificar vuelos.",
-      "tags": ["servicios"]
+      "tags": [
+        "servicios"
+      ]
     },
     {
       "question_id": "MOD7_029",
@@ -456,15 +857,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Air Traffic Force Management"},
-        {"option_id": "B", "text": "Air Traffic Flow Management (Gestión de Afluencia)"},
-        {"option_id": "C", "text": "Aeronautical Traffic Flow Monitor"},
-        {"option_id": "D", "text": "Automatic Traffic Flow Management"}
+        {
+          "option_id": "A",
+          "text": "Air Traffic Force Management"
+        },
+        {
+          "option_id": "B",
+          "text": "Aeronautical Traffic Flow Monitor"
+        },
+        {
+          "option_id": "C",
+          "text": "Automatic Traffic Flow Management"
+        },
+        {
+          "option_id": "D",
+          "text": "Air Traffic Flow Management (Gestión de Afluencia)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Garantiza regularidad y capacidad.",
       "explanation": "ATFM es la gestión de afluencia para evitar congestiones.",
-      "tags": ["servicios", "siglas"]
+      "tags": [
+        "servicios",
+        "siglas"
+      ]
     },
     {
       "question_id": "MOD7_030",
@@ -472,15 +888,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Gestión de aeropuertos"},
-        {"option_id": "B", "text": "Gestión del Espacio Aéreo (Airspace Management)"},
-        {"option_id": "C", "text": "Servicio de meteorología"},
-        {"option_id": "D", "text": "Mantenimiento de radares"}
+        {
+          "option_id": "A",
+          "text": "Gestión del Espacio Aéreo (Airspace Management)"
+        },
+        {
+          "option_id": "B",
+          "text": "Gestión de aeropuertos"
+        },
+        {
+          "option_id": "C",
+          "text": "Servicio de meteorología"
+        },
+        {
+          "option_id": "D",
+          "text": "Mantenimiento de radares"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Asegura coordinación civil/militar.",
       "explanation": "ASM es la gestión del espacio aéreo.",
-      "tags": ["servicios"]
+      "tags": [
+        "servicios"
+      ]
     },
     {
       "question_id": "MOD7_031",
@@ -488,15 +918,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Flight Plan Distribution"},
-        {"option_id": "B", "text": "Flight Procedures Design (Diseño de procedimientos de vuelo)"},
-        {"option_id": "C", "text": "Frequent Pilot Data"},
-        {"option_id": "D", "text": "Final Phase Departures"}
+        {
+          "option_id": "A",
+          "text": "Final Phase Departures"
+        },
+        {
+          "option_id": "B",
+          "text": "Flight Procedures Design (Diseño de procedimientos de vuelo)"
+        },
+        {
+          "option_id": "C",
+          "text": "Flight Plan Distribution"
+        },
+        {
+          "option_id": "D",
+          "text": "Frequent Pilot Data"
+        }
       ],
       "correct_answer": "B",
       "hint": "Cálculo de rutas de entrada/salida.",
       "explanation": "FPD es el diseño de procedimientos de vuelo.",
-      "tags": ["servicios"]
+      "tags": [
+        "servicios"
+      ]
     },
     {
       "question_id": "MOD7_032",
@@ -504,15 +948,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Básica, Habilitación y Anotación"},
-        {"option_id": "B", "text": "Transición, Pre-OJT y OJT"},
-        {"option_id": "C", "text": "Teoría, Examen y Licencia"},
-        {"option_id": "D", "text": "Inglés, Psicología y Medicina"}
+        {
+          "option_id": "A",
+          "text": "Transición, Pre-OJT y OJT"
+        },
+        {
+          "option_id": "B",
+          "text": "Básica, Habilitación y Anotación"
+        },
+        {
+          "option_id": "C",
+          "text": "Teoría, Examen y Licencia"
+        },
+        {
+          "option_id": "D",
+          "text": "Inglés, Psicología y Medicina"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "De la teoría al puesto real.",
       "explanation": "La formación de unidad consta de Transición, Pre-OJT (simulador) y OJT (puesto de trabajo).",
-      "tags": ["formacion"]
+      "tags": [
+        "formacion"
+      ]
     },
     {
       "question_id": "MOD7_033",
@@ -520,15 +978,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Off Job Training"},
-        {"option_id": "B", "text": "On the Job Training (Formación en el puesto de trabajo)"},
-        {"option_id": "C", "text": "Only Junior Training"},
-        {"option_id": "D", "text": "Operational Joint Training"}
+        {
+          "option_id": "A",
+          "text": "Only Junior Training"
+        },
+        {
+          "option_id": "B",
+          "text": "Operational Joint Training"
+        },
+        {
+          "option_id": "C",
+          "text": "On the Job Training (Formación en el puesto de trabajo)"
+        },
+        {
+          "option_id": "D",
+          "text": "Off Job Training"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Bajo supervisión de un instructor.",
       "explanation": "OJT es la fase final práctica de la formación de unidad.",
-      "tags": ["formacion", "siglas"]
+      "tags": [
+        "formacion",
+        "siglas"
+      ]
     },
     {
       "question_id": "MOD7_034",
@@ -536,15 +1009,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Formación inicial"},
-        {"option_id": "B", "text": "Formación de actualización (Refresher)"},
-        {"option_id": "C", "text": "Formación de conversión"},
-        {"option_id": "D", "text": "Máster OACI"}
+        {
+          "option_id": "A",
+          "text": "Formación de conversión"
+        },
+        {
+          "option_id": "B",
+          "text": "Máster OACI"
+        },
+        {
+          "option_id": "C",
+          "text": "Formación de actualización (Refresher)"
+        },
+        {
+          "option_id": "D",
+          "text": "Formación inicial"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Para mantener cualificación.",
       "explanation": "La formación de actualización es obligatoria para mantener la anotación vigente.",
-      "tags": ["formacion"]
+      "tags": [
+        "formacion"
+      ]
     },
     {
       "question_id": "MOD7_035",
@@ -552,15 +1039,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "A nuevos controladores"},
-        {"option_id": "B", "text": "A cambios operativos que se implementen en la unidad"},
-        {"option_id": "C", "text": "A cambiar de torre a ACC"},
-        {"option_id": "D", "text": "A aprender idiomas"}
+        {
+          "option_id": "A",
+          "text": "A cambios operativos que se implementen en la unidad"
+        },
+        {
+          "option_id": "B",
+          "text": "A aprender idiomas"
+        },
+        {
+          "option_id": "C",
+          "text": "A cambiar de torre a ACC"
+        },
+        {
+          "option_id": "D",
+          "text": "A nuevos controladores"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Cuando algo cambia en el sistema o procedimientos.",
       "explanation": "La formación de conversión se imparte ante cambios operativos significativos.",
-      "tags": ["formacion"]
+      "tags": [
+        "formacion"
+      ]
     },
     {
       "question_id": "MOD7_036",
@@ -568,15 +1069,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Complutense y Carlos III"},
-        {"option_id": "B", "text": "Politécnica y Autónoma de Madrid"},
-        {"option_id": "C", "text": "Universidad de Barcelona"},
-        {"option_id": "D", "text": "Oxford y Cambridge"}
+        {
+          "option_id": "A",
+          "text": "Oxford y Cambridge"
+        },
+        {
+          "option_id": "B",
+          "text": "Politécnica y Autónoma de Madrid"
+        },
+        {
+          "option_id": "C",
+          "text": "Universidad de Barcelona"
+        },
+        {
+          "option_id": "D",
+          "text": "Complutense y Carlos III"
+        }
       ],
       "correct_answer": "B",
       "hint": "UPM y UAM.",
       "explanation": "ENAIRE colabora con la Politécnica y la Autónoma de Madrid.",
-      "tags": ["formacion"]
+      "tags": [
+        "formacion"
+      ]
     },
     {
       "question_id": "MOD7_037",
@@ -584,15 +1099,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "SARPs"},
-        {"option_id": "B", "text": "TRAINAIR PLUS"},
-        {"option_id": "C", "text": "PANS-OPS"},
-        {"option_id": "D", "text": "SMS"}
+        {
+          "option_id": "A",
+          "text": "SMS"
+        },
+        {
+          "option_id": "B",
+          "text": "TRAINAIR PLUS"
+        },
+        {
+          "option_id": "C",
+          "text": "PANS-OPS"
+        },
+        {
+          "option_id": "D",
+          "text": "SARPs"
+        }
       ],
       "correct_answer": "B",
       "hint": "Certificación de excelencia formativa.",
       "explanation": "El máster cuenta con la certificación TRAINAIR PLUS de OACI.",
-      "tags": ["formacion", "oaci"]
+      "tags": [
+        "formacion",
+        "oaci"
+      ]
     },
     {
       "question_id": "MOD7_038",
@@ -600,15 +1130,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Solo a alumnos controladores"},
-        {"option_id": "B", "text": "Profesionales del sector, gestores, militares y titulados universitarios"},
-        {"option_id": "C", "text": "Solo a pilotos"},
-        {"option_id": "D", "text": "A jubilados de Aena"}
+        {
+          "option_id": "A",
+          "text": "A jubilados de Aena"
+        },
+        {
+          "option_id": "B",
+          "text": "Solo a pilotos"
+        },
+        {
+          "option_id": "C",
+          "text": "Solo a alumnos controladores"
+        },
+        {
+          "option_id": "D",
+          "text": "Profesionales del sector, gestores, militares y titulados universitarios"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Perfil multidisciplinar.",
       "explanation": "Está abierto a profesionales del sector aeronáutico y graduados interesados.",
-      "tags": ["formacion"]
+      "tags": [
+        "formacion"
+      ]
     },
     {
       "question_id": "MOD7_039",
@@ -616,15 +1160,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Plan Horizonte 2030"},
-        {"option_id": "B", "text": "Plan de Vuelo 2025"},
-        {"option_id": "C", "text": "Plan Cielo Único"},
-        {"option_id": "D", "text": "Estrategia ENAIRE 2020"}
+        {
+          "option_id": "A",
+          "text": "Estrategia ENAIRE 2020"
+        },
+        {
+          "option_id": "B",
+          "text": "Plan Horizonte 2030"
+        },
+        {
+          "option_id": "C",
+          "text": "Plan de Vuelo 2025"
+        },
+        {
+          "option_id": "D",
+          "text": "Plan Cielo Único"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Finaliza en 2025.",
       "explanation": "El plan estratégico vigente es el Plan de Vuelo 2025.",
-      "tags": ["plan_estrategico"]
+      "tags": [
+        "plan_estrategico"
+      ]
     },
     {
       "question_id": "MOD7_040",
@@ -632,15 +1190,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Eliminar la ciberseguridad"},
-        {"option_id": "B", "text": "Contribuir a la movilidad sostenible y descarbonización"},
-        {"option_id": "C", "text": "Reducir el número de vuelos"},
-        {"option_id": "D", "text": "Privatizar la navegación aérea"}
+        {
+          "option_id": "A",
+          "text": "Eliminar la ciberseguridad"
+        },
+        {
+          "option_id": "B",
+          "text": "Privatizar la navegación aérea"
+        },
+        {
+          "option_id": "C",
+          "text": "Reducir el número de vuelos"
+        },
+        {
+          "option_id": "D",
+          "text": "Contribuir a la movilidad sostenible y descarbonización"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Foco medioambiental.",
       "explanation": "La sostenibilidad es un pilar clave del Plan de Vuelo 2025.",
-      "tags": ["plan_estrategico"]
+      "tags": [
+        "plan_estrategico"
+      ]
     },
     {
       "question_id": "MOD7_041",
@@ -648,15 +1220,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "El Consejo"},
-        {"option_id": "B", "text": "La Asamblea"},
-        {"option_id": "C", "text": "La Secretaría General"},
-        {"option_id": "D", "text": "El Presidente de EE.UU."}
+        {
+          "option_id": "A",
+          "text": "La Asamblea"
+        },
+        {
+          "option_id": "B",
+          "text": "El Presidente de EE.UU."
+        },
+        {
+          "option_id": "C",
+          "text": "La Secretaría General"
+        },
+        {
+          "option_id": "D",
+          "text": "El Consejo"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Se reúne al menos cada 3 años.",
       "explanation": "La Asamblea es el órgano soberano donde están todos los Estados Miembros.",
-      "tags": ["oaci", "instituciones"]
+      "tags": [
+        "oaci",
+        "instituciones"
+      ]
     },
     {
       "question_id": "MOD7_042",
@@ -664,15 +1251,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "193"},
-        {"option_id": "B", "text": "36"},
-        {"option_id": "C", "text": "54"},
-        {"option_id": "D", "text": "12"}
+        {
+          "option_id": "A",
+          "text": "193"
+        },
+        {
+          "option_id": "B",
+          "text": "54"
+        },
+        {
+          "option_id": "C",
+          "text": "36"
+        },
+        {
+          "option_id": "D",
+          "text": "12"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Son elegidos por la Asamblea por 3 años.",
       "explanation": "El Consejo es un órgano ejecutivo permanente de 36 Estados.",
-      "tags": ["oaci", "instituciones"]
+      "tags": [
+        "oaci",
+        "instituciones"
+      ]
     },
     {
       "question_id": "MOD7_043",
@@ -680,15 +1282,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Nueva York"},
-        {"option_id": "B", "text": "Montreal (Canadá)"},
-        {"option_id": "C", "text": "París"},
-        {"option_id": "D", "text": "Ginebra"}
+        {
+          "option_id": "A",
+          "text": "Montreal (Canadá)"
+        },
+        {
+          "option_id": "B",
+          "text": "Ginebra"
+        },
+        {
+          "option_id": "C",
+          "text": "Nueva York"
+        },
+        {
+          "option_id": "D",
+          "text": "París"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "País norteamericano de habla francesa/inglesa.",
       "explanation": "La sede de OACI está en Montreal.",
-      "tags": ["oaci"]
+      "tags": [
+        "oaci"
+      ]
     },
     {
       "question_id": "MOD7_044",
@@ -696,15 +1312,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1919"},
-        {"option_id": "B", "text": "1944"},
-        {"option_id": "C", "text": "1947"},
-        {"option_id": "D", "text": "1960"}
+        {
+          "option_id": "A",
+          "text": "1960"
+        },
+        {
+          "option_id": "B",
+          "text": "1947"
+        },
+        {
+          "option_id": "C",
+          "text": "1919"
+        },
+        {
+          "option_id": "D",
+          "text": "1944"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Durante la II Guerra Mundial.",
       "explanation": "El convenio se firmó el 7 de diciembre de 1944.",
-      "tags": ["oaci", "historia"]
+      "tags": [
+        "oaci",
+        "historia"
+      ]
     },
     {
       "question_id": "MOD7_045",
@@ -712,15 +1343,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Anexo 2"},
-        {"option_id": "B", "text": "Anexo 11"},
-        {"option_id": "C", "text": "Anexo 14"},
-        {"option_id": "D", "text": "Anexo 17"}
+        {
+          "option_id": "A",
+          "text": "Anexo 2"
+        },
+        {
+          "option_id": "B",
+          "text": "Anexo 17"
+        },
+        {
+          "option_id": "C",
+          "text": "Anexo 11"
+        },
+        {
+          "option_id": "D",
+          "text": "Anexo 14"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Fundamental para controladores.",
       "explanation": "El Anexo 11 define los ATS.",
-      "tags": ["oaci", "anexos"]
+      "tags": [
+        "oaci",
+        "anexos"
+      ]
     },
     {
       "question_id": "MOD7_046",
@@ -728,15 +1374,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Anexo 1"},
-        {"option_id": "B", "text": "Anexo 2"},
-        {"option_id": "C", "text": "Anexo 10"},
-        {"option_id": "D", "text": "Anexo 11"}
+        {
+          "option_id": "A",
+          "text": "Anexo 10"
+        },
+        {
+          "option_id": "B",
+          "text": "Anexo 1"
+        },
+        {
+          "option_id": "C",
+          "text": "Anexo 2"
+        },
+        {
+          "option_id": "D",
+          "text": "Anexo 11"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Reglas de vuelo.",
       "explanation": "El Anexo 2 es el Reglamento del Aire.",
-      "tags": ["oaci", "anexos"]
+      "tags": [
+        "oaci",
+        "anexos"
+      ]
     },
     {
       "question_id": "MOD7_047",
@@ -744,15 +1405,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Anexo 1"},
-        {"option_id": "B", "text": "Anexo 5"},
-        {"option_id": "C", "text": "Anexo 9"},
-        {"option_id": "D", "text": "Anexo 19"}
+        {
+          "option_id": "A",
+          "text": "Anexo 9"
+        },
+        {
+          "option_id": "B",
+          "text": "Anexo 19"
+        },
+        {
+          "option_id": "C",
+          "text": "Anexo 1"
+        },
+        {
+          "option_id": "D",
+          "text": "Anexo 5"
+        }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "hint": "Es el primero de la lista.",
       "explanation": "El Anexo 1 regula las licencias.",
-      "tags": ["oaci", "anexos"]
+      "tags": [
+        "oaci",
+        "anexos"
+      ]
     },
     {
       "question_id": "MOD7_048",
@@ -760,15 +1436,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Anexo 11"},
-        {"option_id": "B", "text": "Anexo 14"},
-        {"option_id": "C", "text": "Anexo 15"},
-        {"option_id": "D", "text": "Anexo 16"}
+        {
+          "option_id": "A",
+          "text": "Anexo 11"
+        },
+        {
+          "option_id": "B",
+          "text": "Anexo 14"
+        },
+        {
+          "option_id": "C",
+          "text": "Anexo 16"
+        },
+        {
+          "option_id": "D",
+          "text": "Anexo 15"
+        }
       ],
       "correct_answer": "B",
       "hint": "Infraestructura en tierra.",
       "explanation": "El Anexo 14 regula los aeródromos.",
-      "tags": ["oaci", "anexos"]
+      "tags": [
+        "oaci",
+        "anexos"
+      ]
     },
     {
       "question_id": "MOD7_049",
@@ -776,15 +1467,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Proyectos de Aeropuertos y Navegación"},
-        {"option_id": "B", "text": "Procedimientos para los Servicios de Navegación Aérea – Gestión del Tránsito Aéreo (Doc 4444)"},
-        {"option_id": "C", "text": "Plan Anual de Seguridad"},
-        {"option_id": "D", "text": "Procedimientos de Aeronaves y Navegación"}
+        {
+          "option_id": "A",
+          "text": "Procedimientos para los Servicios de Navegación Aérea – Gestión del Tránsito Aéreo (Doc 4444)"
+        },
+        {
+          "option_id": "B",
+          "text": "Plan Anual de Seguridad"
+        },
+        {
+          "option_id": "C",
+          "text": "Procedimientos de Aeronaves y Navegación"
+        },
+        {
+          "option_id": "D",
+          "text": "Proyectos de Aeropuertos y Navegación"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Doc 4444.",
       "explanation": "PANS-ATM son los procedimientos detallados de gestión de tráfico.",
-      "tags": ["oaci", "documentos"]
+      "tags": [
+        "oaci",
+        "documentos"
+      ]
     },
     {
       "question_id": "MOD7_050",
@@ -792,15 +1498,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "OACI"},
-        {"option_id": "B", "text": "EUROCONTROL"},
-        {"option_id": "C", "text": "EASA"},
-        {"option_id": "D", "text": "IATA"}
+        {
+          "option_id": "A",
+          "text": "EASA"
+        },
+        {
+          "option_id": "B",
+          "text": "OACI"
+        },
+        {
+          "option_id": "C",
+          "text": "EUROCONTROL"
+        },
+        {
+          "option_id": "D",
+          "text": "IATA"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Organización para la seguridad de la navegación aérea.",
       "explanation": "EUROCONTROL tiene su sede en Bruselas.",
-      "tags": ["eurocontrol"]
+      "tags": [
+        "eurocontrol"
+      ]
     },
     {
       "question_id": "MOD7_051",
@@ -808,15 +1528,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "EASA"},
-        {"option_id": "B", "text": "NM (Network Manager / Gestor de Red)"},
-        {"option_id": "C", "text": "MUAC"},
-        {"option_id": "D", "text": "SESAR"}
+        {
+          "option_id": "A",
+          "text": "SESAR"
+        },
+        {
+          "option_id": "B",
+          "text": "EASA"
+        },
+        {
+          "option_id": "C",
+          "text": "NM (Network Manager / Gestor de Red)"
+        },
+        {
+          "option_id": "D",
+          "text": "MUAC"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Antiguamente CFMU.",
       "explanation": "El Network Manager centraliza el ATFCM en Europa.",
-      "tags": ["eurocontrol", "atfcm"]
+      "tags": [
+        "eurocontrol",
+        "atfcm"
+      ]
     },
     {
       "question_id": "MOD7_052",
@@ -824,15 +1559,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "ACC Madrid"},
-        {"option_id": "B", "text": "MUAC (Maastricht Upper Area Control Centre)"},
-        {"option_id": "C", "text": "NMOC"},
-        {"option_id": "D", "text": "EAD"}
+        {
+          "option_id": "A",
+          "text": "NMOC"
+        },
+        {
+          "option_id": "B",
+          "text": "MUAC (Maastricht Upper Area Control Centre)"
+        },
+        {
+          "option_id": "C",
+          "text": "EAD"
+        },
+        {
+          "option_id": "D",
+          "text": "ACC Madrid"
+        }
       ],
       "correct_answer": "B",
       "hint": "Maastricht.",
       "explanation": "MUAC es el centro de control propio de EUROCONTROL.",
-      "tags": ["eurocontrol"]
+      "tags": [
+        "eurocontrol"
+      ]
     },
     {
       "question_id": "MOD7_053",
@@ -840,15 +1589,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Leyes españolas"},
-        {"option_id": "B", "text": "Eurocontrol Safety Regulation Requirements"},
-        {"option_id": "C", "text": "Normas de diseño de aviones"},
-        {"option_id": "D", "text": "Tarifas de ruta"}
+        {
+          "option_id": "A",
+          "text": "Normas de diseño de aviones"
+        },
+        {
+          "option_id": "B",
+          "text": "Eurocontrol Safety Regulation Requirements"
+        },
+        {
+          "option_id": "C",
+          "text": "Tarifas de ruta"
+        },
+        {
+          "option_id": "D",
+          "text": "Leyes españolas"
+        }
       ],
       "correct_answer": "B",
       "hint": "Requerimientos reglamentarios de seguridad de Eurocontrol.",
       "explanation": "Las ESARR son normas de seguridad adoptadas por Eurocontrol.",
-      "tags": ["eurocontrol", "seguridad"]
+      "tags": [
+        "eurocontrol",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD7_054",
@@ -856,15 +1620,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "European Air Defense"},
-        {"option_id": "B", "text": "European AIS Database"},
-        {"option_id": "C", "text": "España Aeronáutica Digital"},
-        {"option_id": "D", "text": "External Air Data"}
+        {
+          "option_id": "A",
+          "text": "European Air Defense"
+        },
+        {
+          "option_id": "B",
+          "text": "European AIS Database"
+        },
+        {
+          "option_id": "C",
+          "text": "External Air Data"
+        },
+        {
+          "option_id": "D",
+          "text": "España Aeronáutica Digital"
+        }
       ],
       "correct_answer": "B",
       "hint": "Base de datos AIS europea.",
       "explanation": "EAD es la base de datos centralizada de información aeronáutica de EUROCONTROL.",
-      "tags": ["eurocontrol", "ais"]
+      "tags": [
+        "eurocontrol",
+        "ais"
+      ]
     },
     {
       "question_id": "MOD7_055",
@@ -872,15 +1651,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1975"},
-        {"option_id": "B", "text": "1986"},
-        {"option_id": "C", "text": "1992"},
-        {"option_id": "D", "text": "2000"}
+        {
+          "option_id": "A",
+          "text": "2000"
+        },
+        {
+          "option_id": "B",
+          "text": "1986"
+        },
+        {
+          "option_id": "C",
+          "text": "1975"
+        },
+        {
+          "option_id": "D",
+          "text": "1992"
+        }
       ],
       "correct_answer": "B",
       "hint": "1 de enero de...",
       "explanation": "España ingresó en la UE el 1 de enero de 1986.",
-      "tags": ["ue", "historia"]
+      "tags": [
+        "ue",
+        "historia"
+      ]
     },
     {
       "question_id": "MOD7_056",
@@ -888,15 +1682,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Comisión Europea"},
-        {"option_id": "B", "text": "Parlamento Europeo"},
-        {"option_id": "C", "text": "Consejo Europeo"},
-        {"option_id": "D", "text": "Tribunal de Cuentas"}
+        {
+          "option_id": "A",
+          "text": "Tribunal de Cuentas"
+        },
+        {
+          "option_id": "B",
+          "text": "Consejo Europeo"
+        },
+        {
+          "option_id": "C",
+          "text": "Parlamento Europeo"
+        },
+        {
+          "option_id": "D",
+          "text": "Comisión Europea"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "720 eurodiputados.",
       "explanation": "El Parlamento Europeo es el órgano democrático de la UE.",
-      "tags": ["ue", "instituciones"]
+      "tags": [
+        "ue",
+        "instituciones"
+      ]
     },
     {
       "question_id": "MOD7_057",
@@ -904,15 +1713,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Parlamento Europeo"},
-        {"option_id": "B", "text": "Comisión Europea"},
-        {"option_id": "C", "text": "Banco Central Europeo"},
-        {"option_id": "D", "text": "Defensor del Pueblo"}
+        {
+          "option_id": "A",
+          "text": "Banco Central Europeo"
+        },
+        {
+          "option_id": "B",
+          "text": "Parlamento Europeo"
+        },
+        {
+          "option_id": "C",
+          "text": "Comisión Europea"
+        },
+        {
+          "option_id": "D",
+          "text": "Defensor del Pueblo"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Poder ejecutivo y motor de la UE.",
       "explanation": "La Comisión Europea ostenta el derecho de iniciativa legislativa.",
-      "tags": ["ue", "instituciones"]
+      "tags": [
+        "ue",
+        "instituciones"
+      ]
     },
     {
       "question_id": "MOD7_058",
@@ -920,15 +1744,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "European Air Space Agency"},
-        {"option_id": "B", "text": "European Union Aviation Safety Agency"},
-        {"option_id": "C", "text": "Escuela de Aviación de Seguridad Aérea"},
-        {"option_id": "D", "text": "Ente Autónomo de Seguridad Aérea"}
+        {
+          "option_id": "A",
+          "text": "Escuela de Aviación de Seguridad Aérea"
+        },
+        {
+          "option_id": "B",
+          "text": "Ente Autónomo de Seguridad Aérea"
+        },
+        {
+          "option_id": "C",
+          "text": "European Union Aviation Safety Agency"
+        },
+        {
+          "option_id": "D",
+          "text": "European Air Space Agency"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Agencia de la UE para la seguridad.",
       "explanation": "EASA es el organismo clave para la seguridad aérea en la UE.",
-      "tags": ["easa", "siglas"]
+      "tags": [
+        "easa",
+        "siglas"
+      ]
     },
     {
       "question_id": "MOD7_059",
@@ -936,15 +1775,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Bruselas"},
-        {"option_id": "B", "text": "Colonia (Alemania)"},
-        {"option_id": "C", "text": "Madrid"},
-        {"option_id": "D", "text": "Roma"}
+        {
+          "option_id": "A",
+          "text": "Bruselas"
+        },
+        {
+          "option_id": "B",
+          "text": "Colonia (Alemania)"
+        },
+        {
+          "option_id": "C",
+          "text": "Madrid"
+        },
+        {
+          "option_id": "D",
+          "text": "Roma"
+        }
       ],
       "correct_answer": "B",
       "hint": "Ciudad alemana a orillas del Rin.",
       "explanation": "La sede de EASA está en Colonia.",
-      "tags": ["easa"]
+      "tags": [
+        "easa"
+      ]
     },
     {
       "question_id": "MOD7_060",
@@ -952,15 +1805,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Un tipo de radar"},
-        {"option_id": "B", "text": "El pilar tecnológico del Cielo Único Europeo (I+D)"},
-        {"option_id": "C", "text": "Una aerolínea de bajo coste"},
-        {"option_id": "D", "text": "Un nuevo tipo de combustible"}
+        {
+          "option_id": "A",
+          "text": "El pilar tecnológico del Cielo Único Europeo (I+D)"
+        },
+        {
+          "option_id": "B",
+          "text": "Una aerolínea de bajo coste"
+        },
+        {
+          "option_id": "C",
+          "text": "Un nuevo tipo de combustible"
+        },
+        {
+          "option_id": "D",
+          "text": "Un tipo de radar"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Single European Sky ATM Research.",
       "explanation": "SESAR desarrolla las tecnologías y procedimientos para el futuro ATM.",
-      "tags": ["ses", "tecnologia"]
+      "tags": [
+        "ses",
+        "tecnologia"
+      ]
     },
     {
       "question_id": "MOD7_061",
@@ -968,15 +1836,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Reglamento 216/2008"},
-        {"option_id": "B", "text": "Reglamento (UE) 2018/1139"},
-        {"option_id": "C", "text": "Reglamento 549/2004"},
-        {"option_id": "D", "text": "Ley 21/2003"}
+        {
+          "option_id": "A",
+          "text": "Reglamento (UE) 2018/1139"
+        },
+        {
+          "option_id": "B",
+          "text": "Ley 21/2003"
+        },
+        {
+          "option_id": "C",
+          "text": "Reglamento 216/2008"
+        },
+        {
+          "option_id": "D",
+          "text": "Reglamento 549/2004"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Derogó al 216/2008.",
       "explanation": "El Reglamento (UE) 2018/1139 es el actual marco de normas comunes de aviación civil.",
-      "tags": ["ue", "legislacion"]
+      "tags": [
+        "ue",
+        "legislacion"
+      ]
     },
     {
       "question_id": "MOD7_062",
@@ -984,15 +1867,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Sistemas de Emergencia en Ruta Aérea"},
-        {"option_id": "B", "text": "Standardised European Rules of the Air (Reglamento del Aire Europeo)"},
-        {"option_id": "C", "text": "Servicio Español de Radioayudas"},
-        {"option_id": "D", "text": "Safety Environmental Risk Assessment"}
+        {
+          "option_id": "A",
+          "text": "Sistemas de Emergencia en Ruta Aérea"
+        },
+        {
+          "option_id": "B",
+          "text": "Safety Environmental Risk Assessment"
+        },
+        {
+          "option_id": "C",
+          "text": "Standardised European Rules of the Air (Reglamento del Aire Europeo)"
+        },
+        {
+          "option_id": "D",
+          "text": "Servicio Español de Radioayudas"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Reglamento (UE) 923/2012.",
       "explanation": "SERA unifica las reglas del aire en toda la UE.",
-      "tags": ["ue", "sera"]
+      "tags": [
+        "ue",
+        "sera"
+      ]
     },
     {
       "question_id": "MOD7_063",
@@ -1000,15 +1898,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Directiva"},
-        {"option_id": "B", "text": "Reglamento"},
-        {"option_id": "C", "text": "Decisión"},
-        {"option_id": "D", "text": "Recomendación"}
+        {
+          "option_id": "A",
+          "text": "Reglamento"
+        },
+        {
+          "option_id": "B",
+          "text": "Decisión"
+        },
+        {
+          "option_id": "C",
+          "text": "Recomendación"
+        },
+        {
+          "option_id": "D",
+          "text": "Directiva"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Eficacia directa.",
       "explanation": "Los reglamentos no necesitan transposición nacional.",
-      "tags": ["ue", "legislacion"]
+      "tags": [
+        "ue",
+        "legislacion"
+      ]
     },
     {
       "question_id": "MOD7_064",
@@ -1016,15 +1929,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Reglamento"},
-        {"option_id": "B", "text": "Directiva"},
-        {"option_id": "C", "text": "Decisión"},
-        {"option_id": "D", "text": "Dictamen"}
+        {
+          "option_id": "A",
+          "text": "Reglamento"
+        },
+        {
+          "option_id": "B",
+          "text": "Decisión"
+        },
+        {
+          "option_id": "C",
+          "text": "Directiva"
+        },
+        {
+          "option_id": "D",
+          "text": "Dictamen"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Necesita transposición.",
       "explanation": "Las directivas deben ser incorporadas al derecho nacional.",
-      "tags": ["ue", "legislacion"]
+      "tags": [
+        "ue",
+        "legislacion"
+      ]
     },
     {
       "question_id": "MOD7_065",
@@ -1032,15 +1960,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "International Air Traffic Association"},
-        {"option_id": "B", "text": "International Air Transport Association (Asociación de aerolíneas)"},
-        {"option_id": "C", "text": "Instituto de Ayuda al Transporte Aéreo"},
-        {"option_id": "D", "text": "Intercambio de Aviación y Tránsito Aéreo"}
+        {
+          "option_id": "A",
+          "text": "Intercambio de Aviación y Tránsito Aéreo"
+        },
+        {
+          "option_id": "B",
+          "text": "International Air Transport Association (Asociación de aerolíneas)"
+        },
+        {
+          "option_id": "C",
+          "text": "International Air Traffic Association"
+        },
+        {
+          "option_id": "D",
+          "text": "Instituto de Ayuda al Transporte Aéreo"
+        }
       ],
       "correct_answer": "B",
       "hint": "Organismo no gubernamental de aerolíneas.",
       "explanation": "IATA representa los intereses de las compañías aéreas.",
-      "tags": ["iata", "siglas"]
+      "tags": [
+        "iata",
+        "siglas"
+      ]
     },
     {
       "question_id": "MOD7_066",
@@ -1048,15 +1991,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "IATA"},
-        {"option_id": "B", "text": "CANSO"},
-        {"option_id": "C", "text": "ACI"},
-        {"option_id": "D", "text": "EUROCONTROL"}
+        {
+          "option_id": "A",
+          "text": "CANSO"
+        },
+        {
+          "option_id": "B",
+          "text": "EUROCONTROL"
+        },
+        {
+          "option_id": "C",
+          "text": "ACI"
+        },
+        {
+          "option_id": "D",
+          "text": "IATA"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Enaire es miembro de pleno derecho.",
       "explanation": "CANSO (Civil Air Navigation Service Organization) es el foro global de los ANSP.",
-      "tags": ["canso", "instituciones"]
+      "tags": [
+        "canso",
+        "instituciones"
+      ]
     },
     {
       "question_id": "MOD7_067",
@@ -1064,15 +2022,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Asociación de Controladores Independientes"},
-        {"option_id": "B", "text": "Airports Council International (Consejo Internacional de Aeropuertos)"},
-        {"option_id": "C", "text": "Aeronautical Control Information"},
-        {"option_id": "D", "text": "Aviation Council Instruction"}
+        {
+          "option_id": "A",
+          "text": "Asociación de Controladores Independientes"
+        },
+        {
+          "option_id": "B",
+          "text": "Aeronautical Control Information"
+        },
+        {
+          "option_id": "C",
+          "text": "Airports Council International (Consejo Internacional de Aeropuertos)"
+        },
+        {
+          "option_id": "D",
+          "text": "Aviation Council Instruction"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Representa a los operadores aeroportuarios.",
       "explanation": "ACI es la asociación mundial de aeropuertos.",
-      "tags": ["aci", "aeropuertos"]
+      "tags": [
+        "aci",
+        "aeropuertos"
+      ]
     },
     {
       "question_id": "MOD7_068",
@@ -1080,15 +2053,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "ENAIRE"},
-        {"option_id": "B", "text": "AESA"},
-        {"option_id": "C", "text": "DGAC"},
-        {"option_id": "D", "text": "Aena"}
+        {
+          "option_id": "A",
+          "text": "Aena"
+        },
+        {
+          "option_id": "B",
+          "text": "DGAC"
+        },
+        {
+          "option_id": "C",
+          "text": "ENAIRE"
+        },
+        {
+          "option_id": "D",
+          "text": "AESA"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Agencia Estatal de Seguridad Aérea.",
       "explanation": "AESA es el organismo supervisor en España.",
-      "tags": ["aesa", "instituciones"]
+      "tags": [
+        "aesa",
+        "instituciones"
+      ]
     },
     {
       "question_id": "MOD7_069",
@@ -1096,15 +2084,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "ENAIRE"},
-        {"option_id": "B", "text": "AESA"},
-        {"option_id": "C", "text": "DGAC (Dirección General de Aviación Civil)"},
-        {"option_id": "D", "text": "CIAIAC"}
+        {
+          "option_id": "A",
+          "text": "DGAC (Dirección General de Aviación Civil)"
+        },
+        {
+          "option_id": "B",
+          "text": "CIAIAC"
+        },
+        {
+          "option_id": "C",
+          "text": "AESA"
+        },
+        {
+          "option_id": "D",
+          "text": "ENAIRE"
+        }
       ],
-      "correct_answer": "C",
+      "correct_answer": "A",
       "hint": "Depende del Ministerio de Transportes.",
       "explanation": "La DGAC ejerce las funciones de regulador y política estratégica.",
-      "tags": ["dgac", "instituciones"]
+      "tags": [
+        "dgac",
+        "instituciones"
+      ]
     },
     {
       "question_id": "MOD7_070",
@@ -1112,15 +2115,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Centro de Inteligencia Aérea e Información Civil"},
-        {"option_id": "B", "text": "Comisión de Investigación de Accidentes e Incidentes de Aviación Civil"},
-        {"option_id": "C", "text": "Comité Internacional de Ayuda al Control"},
-        {"option_id": "D", "text": "Central de Incendios en Aeropuertos y Aeronaves"}
+        {
+          "option_id": "A",
+          "text": "Centro de Inteligencia Aérea e Información Civil"
+        },
+        {
+          "option_id": "B",
+          "text": "Central de Incendios en Aeropuertos y Aeronaves"
+        },
+        {
+          "option_id": "C",
+          "text": "Comisión de Investigación de Accidentes e Incidentes de Aviación Civil"
+        },
+        {
+          "option_id": "D",
+          "text": "Comité Internacional de Ayuda al Control"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Investigación técnica de sucesos.",
       "explanation": "La CIAIAC investiga accidentes para prevenir futuros sucesos.",
-      "tags": ["ciaiac", "seguridad"]
+      "tags": [
+        "ciaiac",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD7_071",
@@ -1128,15 +2146,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Ley 21/2003 de Seguridad Aérea"},
-        {"option_id": "B", "text": "Ley 48/1960 de Navegación Aérea"},
-        {"option_id": "C", "text": "Constitución Española"},
-        {"option_id": "D", "text": "Ley 9/2010"}
+        {
+          "option_id": "A",
+          "text": "Constitución Española"
+        },
+        {
+          "option_id": "B",
+          "text": "Ley 48/1960 de Navegación Aérea"
+        },
+        {
+          "option_id": "C",
+          "text": "Ley 9/2010"
+        },
+        {
+          "option_id": "D",
+          "text": "Ley 21/2003 de Seguridad Aérea"
+        }
       ],
       "correct_answer": "B",
       "hint": "LNA.",
       "explanation": "La LNA de 1960 es la norma base de navegación.",
-      "tags": ["legislacion", "historia"]
+      "tags": [
+        "legislacion",
+        "historia"
+      ]
     },
     {
       "question_id": "MOD7_072",
@@ -1144,15 +2177,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Ley 48/1960"},
-        {"option_id": "B", "text": "Ley 21/2003 de Seguridad Aérea"},
-        {"option_id": "C", "text": "Ley 18/2014"},
-        {"option_id": "D", "text": "Código Penal"}
+        {
+          "option_id": "A",
+          "text": "Ley 18/2014"
+        },
+        {
+          "option_id": "B",
+          "text": "Ley 21/2003 de Seguridad Aérea"
+        },
+        {
+          "option_id": "C",
+          "text": "Código Penal"
+        },
+        {
+          "option_id": "D",
+          "text": "Ley 48/1960"
+        }
       ],
       "correct_answer": "B",
       "hint": "LSA.",
       "explanation": "La Ley 21/2003 establece el régimen sancionador.",
-      "tags": ["legislacion", "seguridad"]
+      "tags": [
+        "legislacion",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD7_073",
@@ -1160,15 +2208,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Ley 18/2014"},
-        {"option_id": "B", "text": "Ley 9/2010"},
-        {"option_id": "C", "text": "Ley de Presupuestos"},
-        {"option_id": "D", "text": "Estatuto de los Trabajadores"}
+        {
+          "option_id": "A",
+          "text": "Ley de Presupuestos"
+        },
+        {
+          "option_id": "B",
+          "text": "Ley 9/2010"
+        },
+        {
+          "option_id": "C",
+          "text": "Ley 18/2014"
+        },
+        {
+          "option_id": "D",
+          "text": "Estatuto de los Trabajadores"
+        }
       ],
       "correct_answer": "B",
       "hint": "Ley que regula la prestación de servicios ATS.",
       "explanation": "La Ley 9/2010 es la norma de referencia para la profesión de controlador.",
-      "tags": ["legislacion", "atco"]
+      "tags": [
+        "legislacion",
+        "atco"
+      ]
     },
     {
       "question_id": "MOD7_074",
@@ -1176,15 +2239,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "CIAIAC"},
-        {"option_id": "B", "text": "CIDETRA (antes CIDETMA)"},
-        {"option_id": "C", "text": "CIPAI"},
-        {"option_id": "D", "text": "AESA"}
+        {
+          "option_id": "A",
+          "text": "CIAIAC"
+        },
+        {
+          "option_id": "B",
+          "text": "AESA"
+        },
+        {
+          "option_id": "C",
+          "text": "CIPAI"
+        },
+        {
+          "option_id": "D",
+          "text": "CIDETRA (antes CIDETMA)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Comisión Interministerial Defensa-Transportes.",
       "explanation": "CIDETRA coordina las competencias de ambos ministerios.",
-      "tags": ["instituciones"]
+      "tags": [
+        "instituciones"
+      ]
     },
     {
       "question_id": "MOD7_075",
@@ -1192,15 +2269,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1980"},
-        {"option_id": "B", "text": "1991 (constitución efectiva)"},
-        {"option_id": "C", "text": "2014"},
-        {"option_id": "D", "text": "1944"}
+        {
+          "option_id": "A",
+          "text": "1991 (constitución efectiva)"
+        },
+        {
+          "option_id": "B",
+          "text": "1944"
+        },
+        {
+          "option_id": "C",
+          "text": "1980"
+        },
+        {
+          "option_id": "D",
+          "text": "2014"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Creado por RD 905/1991.",
       "explanation": "AENA se constituyó efectivamente en 1991.",
-      "tags": ["aena", "historia"]
+      "tags": [
+        "aena",
+        "historia"
+      ]
     },
     {
       "question_id": "MOD7_076",
@@ -1208,15 +2300,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Derechos de tránsito"},
-        {"option_id": "B", "text": "Libertades del Aire"},
-        {"option_id": "C", "text": "Privilegios Chicago"},
-        {"option_id": "D", "text": "Acuerdos Bilaterales"}
+        {
+          "option_id": "A",
+          "text": "Acuerdos Bilaterales"
+        },
+        {
+          "option_id": "B",
+          "text": "Derechos de tránsito"
+        },
+        {
+          "option_id": "C",
+          "text": "Libertades del Aire"
+        },
+        {
+          "option_id": "D",
+          "text": "Privilegios Chicago"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Recogidas en el Convenio de Chicago.",
       "explanation": "Existen libertades técnicas y comerciales.",
-      "tags": ["legislacion", "historia"]
+      "tags": [
+        "legislacion",
+        "historia"
+      ]
     },
     {
       "question_id": "MOD7_077",
@@ -1224,15 +2331,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Primera"},
-        {"option_id": "B", "text": "Segunda (Libertad de Escala Técnica)"},
-        {"option_id": "C", "text": "Tercera"},
-        {"option_id": "D", "text": "Quinta"}
+        {
+          "option_id": "A",
+          "text": "Quinta"
+        },
+        {
+          "option_id": "B",
+          "text": "Primera"
+        },
+        {
+          "option_id": "C",
+          "text": "Tercera"
+        },
+        {
+          "option_id": "D",
+          "text": "Segunda (Libertad de Escala Técnica)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Libertad técnica.",
       "explanation": "La segunda libertad permite aterrizar sin fines comerciales.",
-      "tags": ["legislacion"]
+      "tags": [
+        "legislacion"
+      ]
     },
     {
       "question_id": "MOD7_078",
@@ -1240,15 +2361,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Segunda"},
-        {"option_id": "B", "text": "Tercera (Libertad de Transporte al Exterior)"},
-        {"option_id": "C", "text": "Cuarta"},
-        {"option_id": "D", "text": "Séptima"}
+        {
+          "option_id": "A",
+          "text": "Cuarta"
+        },
+        {
+          "option_id": "B",
+          "text": "Séptima"
+        },
+        {
+          "option_id": "C",
+          "text": "Segunda"
+        },
+        {
+          "option_id": "D",
+          "text": "Tercera (Libertad de Transporte al Exterior)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Primera libertad comercial.",
       "explanation": "La tercera libertad es la básica comercial de salida.",
-      "tags": ["legislacion"]
+      "tags": [
+        "legislacion"
+      ]
     },
     {
       "question_id": "MOD7_079",
@@ -1256,15 +2391,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Volar sobre el mar"},
-        {"option_id": "B", "text": "Transporte aéreo comercial dentro del territorio de un mismo Estado"},
-        {"option_id": "C", "text": "Reparar el avión"},
-        {"option_id": "D", "text": "Vuelo entre dos países"}
+        {
+          "option_id": "A",
+          "text": "Volar sobre el mar"
+        },
+        {
+          "option_id": "B",
+          "text": "Reparar el avión"
+        },
+        {
+          "option_id": "C",
+          "text": "Vuelo entre dos países"
+        },
+        {
+          "option_id": "D",
+          "text": "Transporte aéreo comercial dentro del territorio de un mismo Estado"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Relacionado con las libertades 8 y 9.",
       "explanation": "El cabotaje es el transporte interno de un país.",
-      "tags": ["legislacion", "definiciones"]
+      "tags": [
+        "legislacion",
+        "definiciones"
+      ]
     },
     {
       "question_id": "MOD7_080",
@@ -1272,15 +2422,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Federación Aeronáutica Belga"},
-        {"option_id": "B", "text": "Functional Airspace Block (Bloque Funcional de Espacio Aéreo)"},
-        {"option_id": "C", "text": "Final Airspace Briefing"},
-        {"option_id": "D", "text": "Fuerza Aérea Básica"}
+        {
+          "option_id": "A",
+          "text": "Fuerza Aérea Básica"
+        },
+        {
+          "option_id": "B",
+          "text": "Final Airspace Briefing"
+        },
+        {
+          "option_id": "C",
+          "text": "Functional Airspace Block (Bloque Funcional de Espacio Aéreo)"
+        },
+        {
+          "option_id": "D",
+          "text": "Federación Aeronáutica Belga"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Diseñados por flujos de tráfico, no fronteras nacionales.",
       "explanation": "Los FAB buscan optimizar el espacio aéreo europeo superando fronteras.",
-      "tags": ["ses", "siglas"]
+      "tags": [
+        "ses",
+        "siglas"
+      ]
     },
     {
       "question_id": "MOD7_081",
@@ -1288,15 +2453,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "FAB Europe Central"},
-        {"option_id": "B", "text": "SW FAB (South West FAB)"},
-        {"option_id": "C", "text": "Blue Med FAB"},
-        {"option_id": "D", "text": "Baltic FAB"}
+        {
+          "option_id": "A",
+          "text": "Baltic FAB"
+        },
+        {
+          "option_id": "B",
+          "text": "SW FAB (South West FAB)"
+        },
+        {
+          "option_id": "C",
+          "text": "Blue Med FAB"
+        },
+        {
+          "option_id": "D",
+          "text": "FAB Europe Central"
+        }
       ],
       "correct_answer": "B",
       "hint": "Bloque del Suroeste.",
       "explanation": "España y Portugal integran el SW FAB.",
-      "tags": ["ses", "espacio_aereo"]
+      "tags": [
+        "ses",
+        "espacio_aereo"
+      ]
     },
     {
       "question_id": "MOD7_082",
@@ -1304,15 +2484,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Anexo 2"},
-        {"option_id": "B", "text": "Anexo 4"},
-        {"option_id": "C", "text": "Anexo 10"},
-        {"option_id": "D", "text": "Anexo 15"}
+        {
+          "option_id": "A",
+          "text": "Anexo 4"
+        },
+        {
+          "option_id": "B",
+          "text": "Anexo 10"
+        },
+        {
+          "option_id": "C",
+          "text": "Anexo 2"
+        },
+        {
+          "option_id": "D",
+          "text": "Anexo 15"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Cartografía.",
       "explanation": "El Anexo 4 regula la elaboración de cartas.",
-      "tags": ["oaci", "anexos"]
+      "tags": [
+        "oaci",
+        "anexos"
+      ]
     },
     {
       "question_id": "MOD7_083",
@@ -1320,15 +2515,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Anexo 1"},
-        {"option_id": "B", "text": "Anexo 10"},
-        {"option_id": "C", "text": "Anexo 11"},
-        {"option_id": "D", "text": "Anexo 12"}
+        {
+          "option_id": "A",
+          "text": "Anexo 1"
+        },
+        {
+          "option_id": "B",
+          "text": "Anexo 10"
+        },
+        {
+          "option_id": "C",
+          "text": "Anexo 12"
+        },
+        {
+          "option_id": "D",
+          "text": "Anexo 11"
+        }
       ],
       "correct_answer": "B",
       "hint": "Radio y datos.",
       "explanation": "El Anexo 10 cubre las telecomunicaciones.",
-      "tags": ["oaci", "anexos"]
+      "tags": [
+        "oaci",
+        "anexos"
+      ]
     },
     {
       "question_id": "MOD7_084",
@@ -1336,15 +2546,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Anexo 1"},
-        {"option_id": "B", "text": "Anexo 19"},
-        {"option_id": "C", "text": "Anexo 13"},
-        {"option_id": "D", "text": "Anexo 17"}
+        {
+          "option_id": "A",
+          "text": "Anexo 19"
+        },
+        {
+          "option_id": "B",
+          "text": "Anexo 13"
+        },
+        {
+          "option_id": "C",
+          "text": "Anexo 17"
+        },
+        {
+          "option_id": "D",
+          "text": "Anexo 1"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "El más reciente.",
       "explanation": "El Anexo 19 es el de Seguridad Operacional (SMS).",
-      "tags": ["oaci", "anexos"]
+      "tags": [
+        "oaci",
+        "anexos"
+      ]
     },
     {
       "question_id": "MOD7_085",
@@ -1352,15 +2577,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Limpiar los radares"},
-        {"option_id": "B", "text": "Máximo órgano de decisión, formula políticas generales y aprueba presupuesto"},
-        {"option_id": "C", "text": "Solo investiga accidentes"},
-        {"option_id": "D", "text": "Vigila las fronteras"}
+        {
+          "option_id": "A",
+          "text": "Vigila las fronteras"
+        },
+        {
+          "option_id": "B",
+          "text": "Limpiar los radares"
+        },
+        {
+          "option_id": "C",
+          "text": "Máximo órgano de decisión, formula políticas generales y aprueba presupuesto"
+        },
+        {
+          "option_id": "D",
+          "text": "Solo investiga accidentes"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Nivel ministerial.",
       "explanation": "La Comisión Permanente es el máximo nivel de gobierno de Eurocontrol.",
-      "tags": ["eurocontrol"]
+      "tags": [
+        "eurocontrol"
+      ]
     },
     {
       "question_id": "MOD7_086",
@@ -1368,15 +2607,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Aeronautical Interior System"},
-        {"option_id": "B", "text": "Aeronautical Information Service (Servicio de Información Aeronáutica)"},
-        {"option_id": "C", "text": "Air Intelligence Safety"},
-        {"option_id": "D", "text": "Automatic Identification Signal"}
+        {
+          "option_id": "A",
+          "text": "Air Intelligence Safety"
+        },
+        {
+          "option_id": "B",
+          "text": "Aeronautical Information Service (Servicio de Información Aeronáutica)"
+        },
+        {
+          "option_id": "C",
+          "text": "Automatic Identification Signal"
+        },
+        {
+          "option_id": "D",
+          "text": "Aeronautical Interior System"
+        }
       ],
       "correct_answer": "B",
       "hint": "Proporciona NOTAMs, AIP, etc.",
       "explanation": "El AIS gestiona la información aeronáutica.",
-      "tags": ["servicios", "siglas"]
+      "tags": [
+        "servicios",
+        "siglas"
+      ]
     },
     {
       "question_id": "MOD7_087",
@@ -1384,15 +2638,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Medición Electrónica de Tráfico"},
-        {"option_id": "B", "text": "Meteorología"},
-        {"option_id": "C", "text": "Mantenimiento de Equipos Técnicos"},
-        {"option_id": "D", "text": "Motor Eléctrico Térmico"}
+        {
+          "option_id": "A",
+          "text": "Motor Eléctrico Térmico"
+        },
+        {
+          "option_id": "B",
+          "text": "Meteorología"
+        },
+        {
+          "option_id": "C",
+          "text": "Mantenimiento de Equipos Técnicos"
+        },
+        {
+          "option_id": "D",
+          "text": "Medición Electrónica de Tráfico"
+        }
       ],
       "correct_answer": "B",
       "hint": "El tiempo atmosférico.",
       "explanation": "MET se refiere a los servicios meteorológicos.",
-      "tags": ["servicios", "siglas"]
+      "tags": [
+        "servicios",
+        "siglas"
+      ]
     },
     {
       "question_id": "MOD7_088",
@@ -1400,15 +2669,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Search and Rescue (Búsqueda y Salvamento)"},
-        {"option_id": "B", "text": "Standard Air Routes"},
-        {"option_id": "C", "text": "Safety Analysis Report"},
-        {"option_id": "D", "text": "Surface Air Radar"}
+        {
+          "option_id": "A",
+          "text": "Surface Air Radar"
+        },
+        {
+          "option_id": "B",
+          "text": "Search and Rescue (Búsqueda y Salvamento)"
+        },
+        {
+          "option_id": "C",
+          "text": "Standard Air Routes"
+        },
+        {
+          "option_id": "D",
+          "text": "Safety Analysis Report"
+        }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "hint": "Auxilio a aeronaves en peligro.",
       "explanation": "SAR es el servicio de búsqueda y rescate.",
-      "tags": ["servicios", "siglas"]
+      "tags": [
+        "servicios",
+        "siglas"
+      ]
     },
     {
       "question_id": "MOD7_089",
@@ -1416,15 +2700,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "ALA (Asociación de Líneas Aéreas)"},
-        {"option_id": "B", "text": "USCA"},
-        {"option_id": "C", "text": "APROCTA"},
-        {"option_id": "D", "text": "AESA"}
+        {
+          "option_id": "A",
+          "text": "AESA"
+        },
+        {
+          "option_id": "B",
+          "text": "ALA (Asociación de Líneas Aéreas)"
+        },
+        {
+          "option_id": "C",
+          "text": "USCA"
+        },
+        {
+          "option_id": "D",
+          "text": "APROCTA"
+        }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "hint": "Defiende los intereses colectivos de las aerolíneas.",
       "explanation": "ALA es la principal asociación de compañías regulares en España.",
-      "tags": ["instituciones"]
+      "tags": [
+        "instituciones"
+      ]
     },
     {
       "question_id": "MOD7_090",
@@ -1432,15 +2730,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Vender aeropuertos"},
-        {"option_id": "B", "text": "Garantizar calidad, inversiones e ingresos máximos por pasajero de Aena"},
-        {"option_id": "C", "text": "Multar a los pilotos"},
-        {"option_id": "D", "text": "Diseñar los uniformes"}
+        {
+          "option_id": "A",
+          "text": "Diseñar los uniformes"
+        },
+        {
+          "option_id": "B",
+          "text": "Garantizar calidad, inversiones e ingresos máximos por pasajero de Aena"
+        },
+        {
+          "option_id": "C",
+          "text": "Multar a los pilotos"
+        },
+        {
+          "option_id": "D",
+          "text": "Vender aeropuertos"
+        }
       ],
       "correct_answer": "B",
       "hint": "Marco quinquenal de regulación.",
       "explanation": "El DORA regula económicamente a Aena S.A.",
-      "tags": ["aena", "legislacion"]
+      "tags": [
+        "aena",
+        "legislacion"
+      ]
     },
     {
       "question_id": "MOD7_091",
@@ -1448,15 +2761,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Aena"},
-        {"option_id": "B", "text": "ENAIRE"},
-        {"option_id": "C", "text": "DGAC"},
-        {"option_id": "D", "text": "Indra"}
+        {
+          "option_id": "A",
+          "text": "Indra"
+        },
+        {
+          "option_id": "B",
+          "text": "ENAIRE"
+        },
+        {
+          "option_id": "C",
+          "text": "Aena"
+        },
+        {
+          "option_id": "D",
+          "text": "DGAC"
+        }
       ],
       "correct_answer": "B",
       "hint": "Proveedor público de ATS.",
       "explanation": "ENAIRE es el gestor nacional designado por ley.",
-      "tags": ["enaire"]
+      "tags": [
+        "enaire"
+      ]
     },
     {
       "question_id": "MOD7_092",
@@ -1464,15 +2791,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "TWR Barajas"},
-        {"option_id": "B", "text": "ACC Madrid"},
-        {"option_id": "C", "text": "TACC Sevilla"},
-        {"option_id": "D", "text": "UAC Barcelona"}
+        {
+          "option_id": "A",
+          "text": "ACC Madrid"
+        },
+        {
+          "option_id": "B",
+          "text": "TACC Sevilla"
+        },
+        {
+          "option_id": "C",
+          "text": "UAC Barcelona"
+        },
+        {
+          "option_id": "D",
+          "text": "TWR Barajas"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "En Torrejón de Ardoz.",
       "explanation": "El ACC de Madrid (sede regional Centro-Norte) gestiona ruta y aproximación.",
-      "tags": ["infraestructura"]
+      "tags": [
+        "infraestructura"
+      ]
     },
     {
       "question_id": "MOD7_093",
@@ -1480,15 +2821,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Cobrar tasas"},
-        {"option_id": "B", "text": "Prevenir colisiones y acelerar el tránsito de forma ordenada"},
-        {"option_id": "C", "text": "Comprar aviones nuevos"},
-        {"option_id": "D", "text": "Entrenar pilotos"}
+        {
+          "option_id": "A",
+          "text": "Prevenir colisiones y acelerar el tránsito de forma ordenada"
+        },
+        {
+          "option_id": "B",
+          "text": "Comprar aviones nuevos"
+        },
+        {
+          "option_id": "C",
+          "text": "Cobrar tasas"
+        },
+        {
+          "option_id": "D",
+          "text": "Entrenar pilotos"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Seguridad y fluidez.",
       "explanation": "La misión del ATS es la seguridad y eficiencia del flujo aéreo.",
-      "tags": ["servicios"]
+      "tags": [
+        "servicios"
+      ]
     },
     {
       "question_id": "MOD7_094",
@@ -1496,15 +2851,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Network Manager Operations Center"},
-        {"option_id": "B", "text": "National Meteorological Operational Center"},
-        {"option_id": "C", "text": "New Management Operational Center"},
-        {"option_id": "D", "text": "Navigation Monitoring Operational Center"}
+        {
+          "option_id": "A",
+          "text": "New Management Operational Center"
+        },
+        {
+          "option_id": "B",
+          "text": "Network Manager Operations Center"
+        },
+        {
+          "option_id": "C",
+          "text": "National Meteorological Operational Center"
+        },
+        {
+          "option_id": "D",
+          "text": "Navigation Monitoring Operational Center"
+        }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "hint": "Centro de operaciones del Gestor de Red europeo.",
       "explanation": "El NMOC centraliza la gestión de afluencia europea.",
-      "tags": ["eurocontrol", "atfcm"]
+      "tags": [
+        "eurocontrol",
+        "atfcm"
+      ]
     },
     {
       "question_id": "MOD7_095",
@@ -1512,15 +2882,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Nueva York"},
-        {"option_id": "B", "text": "Chicago"},
-        {"option_id": "C", "text": "Washington"},
-        {"option_id": "D", "text": "San Francisco"}
+        {
+          "option_id": "A",
+          "text": "Washington"
+        },
+        {
+          "option_id": "B",
+          "text": "Nueva York"
+        },
+        {
+          "option_id": "C",
+          "text": "Chicago"
+        },
+        {
+          "option_id": "D",
+          "text": "San Francisco"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Ciudad del viento.",
       "explanation": "El convenio se llama 'Convenio de Chicago'.",
-      "tags": ["oaci", "historia"]
+      "tags": [
+        "oaci",
+        "historia"
+      ]
     },
     {
       "question_id": "MOD7_096",
@@ -1528,15 +2913,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Anexo 2"},
-        {"option_id": "B", "text": "Anexo 3"},
-        {"option_id": "C", "text": "Anexo 4"},
-        {"option_id": "D", "text": "Anexo 5"}
+        {
+          "option_id": "A",
+          "text": "Anexo 4"
+        },
+        {
+          "option_id": "B",
+          "text": "Anexo 3"
+        },
+        {
+          "option_id": "C",
+          "text": "Anexo 2"
+        },
+        {
+          "option_id": "D",
+          "text": "Anexo 5"
+        }
       ],
       "correct_answer": "B",
       "hint": "Siguiente al Reglamento del Aire.",
       "explanation": "El Anexo 3 es el de Servicio Meteorológico.",
-      "tags": ["oaci", "anexos"]
+      "tags": [
+        "oaci",
+        "anexos"
+      ]
     },
     {
       "question_id": "MOD7_097",
@@ -1544,15 +2944,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Plan Anual de Seguridad"},
-        {"option_id": "B", "text": "Procedimientos para los Servicios de Navegación Aérea – Operación de Aeronaves (Doc 8168)"},
-        {"option_id": "C", "text": "Plan de Navegación por Satélite"},
-        {"option_id": "D", "text": "Procedimientos de Aeropuertos y Sistemas"}
+        {
+          "option_id": "A",
+          "text": "Procedimientos de Aeropuertos y Sistemas"
+        },
+        {
+          "option_id": "B",
+          "text": "Procedimientos para los Servicios de Navegación Aérea – Operación de Aeronaves (Doc 8168)"
+        },
+        {
+          "option_id": "C",
+          "text": "Plan Anual de Seguridad"
+        },
+        {
+          "option_id": "D",
+          "text": "Plan de Navegación por Satélite"
+        }
       ],
       "correct_answer": "B",
       "hint": "Doc 8168.",
       "explanation": "Regula cómo operan las aeronaves y cómo se construyen los procedimientos.",
-      "tags": ["oaci", "documentos"]
+      "tags": [
+        "oaci",
+        "documentos"
+      ]
     },
     {
       "question_id": "MOD7_098",
@@ -1560,15 +2975,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Una ley del Parlamento"},
-        {"option_id": "B", "text": "Una disposición secundaria aprobada por la DGAC para asegurar la aplicación eficaz de normas"},
-        {"option_id": "C", "text": "Un folleto publicitario"},
-        {"option_id": "D", "text": "Un examen de piloto"}
+        {
+          "option_id": "A",
+          "text": "Un folleto publicitario"
+        },
+        {
+          "option_id": "B",
+          "text": "Una disposición secundaria aprobada por la DGAC para asegurar la aplicación eficaz de normas"
+        },
+        {
+          "option_id": "C",
+          "text": "Un examen de piloto"
+        },
+        {
+          "option_id": "D",
+          "text": "Una ley del Parlamento"
+        }
       ],
       "correct_answer": "B",
       "hint": "Contenido técnico.",
       "explanation": "Las circulares completan y precisan la normativa técnica.",
-      "tags": ["legislacion"]
+      "tags": [
+        "legislacion"
+      ]
     },
     {
       "question_id": "MOD7_099",
@@ -1576,15 +3005,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Eurocontrol"},
-        {"option_id": "B", "text": "OACI"},
-        {"option_id": "C", "text": "ONU"},
-        {"option_id": "D", "text": "IATA"}
+        {
+          "option_id": "A",
+          "text": "Eurocontrol"
+        },
+        {
+          "option_id": "B",
+          "text": "OACI"
+        },
+        {
+          "option_id": "C",
+          "text": "ONU"
+        },
+        {
+          "option_id": "D",
+          "text": "IATA"
+        }
       ],
       "correct_answer": "B",
       "hint": "Agencia de la ONU.",
       "explanation": "OACI es el máximo órgano regulador mundial.",
-      "tags": ["oaci"]
+      "tags": [
+        "oaci"
+      ]
     },
     {
       "question_id": "MOD7_100",
@@ -1592,15 +3035,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Maximizar el número de turistas"},
-        {"option_id": "B", "text": "Proporcionar servicios de navegación con seguridad, calidad, eficiencia y respeto al medioambiente"},
-        {"option_id": "C", "text": "Gestionar las pistas de aterrizaje"},
-        {"option_id": "D", "text": "Vigilar las fronteras marinas"}
+        {
+          "option_id": "A",
+          "text": "Proporcionar servicios de navegación con seguridad, calidad, eficiencia y respeto al medioambiente"
+        },
+        {
+          "option_id": "B",
+          "text": "Vigilar las fronteras marinas"
+        },
+        {
+          "option_id": "C",
+          "text": "Gestionar las pistas de aterrizaje"
+        },
+        {
+          "option_id": "D",
+          "text": "Maximizar el número de turistas"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Contribuir al desarrollo económico y social de España.",
       "explanation": "Esta es la misión oficial de la entidad.",
-      "tags": ["enaire", "mision"]
+      "tags": [
+        "enaire",
+        "mision"
+      ]
     }
   ],
   "metadata": {

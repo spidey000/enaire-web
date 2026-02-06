@@ -8,15 +8,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Topografía"},
-        {"option_id": "B", "text": "Geodesia"},
-        {"option_id": "C", "text": "Cartografía"},
-        {"option_id": "D", "text": "Fotogrametría"}
+        {
+          "option_id": "A",
+          "text": "Geodesia"
+        },
+        {
+          "option_id": "B",
+          "text": "Fotogrametría"
+        },
+        {
+          "option_id": "C",
+          "text": "Cartografía"
+        },
+        {
+          "option_id": "D",
+          "text": "Topografía"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Es la base matemática para los mapas.",
       "explanation": "La Geodesia es la ciencia que estudia la forma y dimensiones de la Tierra y su representación en un plano.",
-      "tags": ["geodesia", "definiciones"]
+      "tags": [
+        "geodesia",
+        "definiciones"
+      ]
     },
     {
       "question_id": "MOD6_002",
@@ -24,15 +39,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Esfera perfecta"},
-        {"option_id": "B", "text": "Geoide"},
-        {"option_id": "C", "text": "Elipsoide de revolución"},
-        {"option_id": "D", "text": "Disco plano"}
+        {
+          "option_id": "A",
+          "text": "Esfera perfecta"
+        },
+        {
+          "option_id": "B",
+          "text": "Elipsoide de revolución"
+        },
+        {
+          "option_id": "C",
+          "text": "Disco plano"
+        },
+        {
+          "option_id": "D",
+          "text": "Geoide"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Presenta irregularidades y coincide con el nivel del mar.",
       "explanation": "El geoide es la forma física real de la Tierra, irregular debido a la distribución de masas.",
-      "tags": ["geodesia", "forma_tierra"]
+      "tags": [
+        "geodesia",
+        "forma_tierra"
+      ]
     },
     {
       "question_id": "MOD6_003",
@@ -40,15 +70,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Geoide"},
-        {"option_id": "B", "text": "Elipsoide de revolución"},
-        {"option_id": "C", "text": "Cubo"},
-        {"option_id": "D", "text": "Plano"}
+        {
+          "option_id": "A",
+          "text": "Cubo"
+        },
+        {
+          "option_id": "B",
+          "text": "Elipsoide de revolución"
+        },
+        {
+          "option_id": "C",
+          "text": "Plano"
+        },
+        {
+          "option_id": "D",
+          "text": "Geoide"
+        }
       ],
       "correct_answer": "B",
       "hint": "Se obtiene al girar una elipse sobre su eje menor.",
       "explanation": "Dada la complejidad del geoide, se utiliza el elipsoide como modelo matemático de referencia.",
-      "tags": ["geodesia", "modelos"]
+      "tags": [
+        "geodesia",
+        "modelos"
+      ]
     },
     {
       "question_id": "MOD6_004",
@@ -56,15 +101,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "12.742 km"},
-        {"option_id": "B", "text": "6.371 km"},
-        {"option_id": "C", "text": "40.076 km"},
-        {"option_id": "D", "text": "1.000 km"}
+        {
+          "option_id": "A",
+          "text": "40.076 km"
+        },
+        {
+          "option_id": "B",
+          "text": "1.000 km"
+        },
+        {
+          "option_id": "C",
+          "text": "6.371 km"
+        },
+        {
+          "option_id": "D",
+          "text": "12.742 km"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "La mitad del diámetro.",
       "explanation": "El radio medio de la Tierra se estima en 6.371 km.",
-      "tags": ["geodesia", "cifras"]
+      "tags": [
+        "geodesia",
+        "cifras"
+      ]
     },
     {
       "question_id": "MOD6_005",
@@ -72,15 +132,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Círculos menores"},
-        {"option_id": "B", "text": "Círculos máximos"},
-        {"option_id": "C", "text": "Paralelos"},
-        {"option_id": "D", "text": "Isógonas"}
+        {
+          "option_id": "A",
+          "text": "Círculos máximos"
+        },
+        {
+          "option_id": "B",
+          "text": "Paralelos"
+        },
+        {
+          "option_id": "C",
+          "text": "Isógonas"
+        },
+        {
+          "option_id": "D",
+          "text": "Círculos menores"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Dividen a la Tierra en dos hemisferios iguales.",
       "explanation": "Los círculos máximos son los de mayor diámetro posible en la esfera terrestre.",
-      "tags": ["geodesia", "lineas"]
+      "tags": [
+        "geodesia",
+        "lineas"
+      ]
     },
     {
       "question_id": "MOD6_006",
@@ -88,15 +163,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Meridiano de París"},
-        {"option_id": "B", "text": "Meridiano de Greenwich"},
-        {"option_id": "C", "text": "El Ecuador"},
-        {"option_id": "D", "text": "Meridiano 180"}
+        {
+          "option_id": "A",
+          "text": "El Ecuador"
+        },
+        {
+          "option_id": "B",
+          "text": "Meridiano de París"
+        },
+        {
+          "option_id": "C",
+          "text": "Meridiano 180"
+        },
+        {
+          "option_id": "D",
+          "text": "Meridiano de Greenwich"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Pasa por Londres.",
       "explanation": "El meridiano de Greenwich fue adoptado internacionalmente en 1884 como origen (0º).",
-      "tags": ["geodesia", "coordenadas"]
+      "tags": [
+        "geodesia",
+        "coordenadas"
+      ]
     },
     {
       "question_id": "MOD6_007",
@@ -104,15 +194,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Meridiano origen"},
-        {"option_id": "B", "text": "Ecuador terrestre"},
-        {"option_id": "C", "text": "Trópico de Cáncer"},
-        {"option_id": "D", "text": "Círculo Polar"}
+        {
+          "option_id": "A",
+          "text": "Trópico de Cáncer"
+        },
+        {
+          "option_id": "B",
+          "text": "Meridiano origen"
+        },
+        {
+          "option_id": "C",
+          "text": "Ecuador terrestre"
+        },
+        {
+          "option_id": "D",
+          "text": "Círculo Polar"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Divide a la tierra en Hemisferio Norte y Sur.",
       "explanation": "El Ecuador es el único paralelo que es, a su vez, un círculo máximo.",
-      "tags": ["geodesia", "lineas"]
+      "tags": [
+        "geodesia",
+        "lineas"
+      ]
     },
     {
       "question_id": "MOD6_008",
@@ -120,15 +225,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Las estaciones del año"},
-        {"option_id": "B", "text": "El día y la noche"},
-        {"option_id": "C", "text": "La precesión de los equinoccios"},
-        {"option_id": "D", "text": "El cambio de la Estrella Polar"}
+        {
+          "option_id": "A",
+          "text": "El cambio de la Estrella Polar"
+        },
+        {
+          "option_id": "B",
+          "text": "El día y la noche"
+        },
+        {
+          "option_id": "C",
+          "text": "Las estaciones del año"
+        },
+        {
+          "option_id": "D",
+          "text": "La precesión de los equinoccios"
+        }
       ],
       "correct_answer": "B",
       "hint": "Giro sobre su propio eje.",
       "explanation": "La rotación causa la alternancia de luz y oscuridad cada 24 horas.",
-      "tags": ["movimientos_tierra"]
+      "tags": [
+        "movimientos_tierra"
+      ]
     },
     {
       "question_id": "MOD6_009",
@@ -136,15 +255,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Perihelio"},
-        {"option_id": "B", "text": "Afelio"},
-        {"option_id": "C", "text": "Equinoccio"},
-        {"option_id": "D", "text": "Solsticio"}
+        {
+          "option_id": "A",
+          "text": "Solsticio"
+        },
+        {
+          "option_id": "B",
+          "text": "Equinoccio"
+        },
+        {
+          "option_id": "C",
+          "text": "Afelio"
+        },
+        {
+          "option_id": "D",
+          "text": "Perihelio"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Ocurre en julio.",
       "explanation": "El afelio es el punto máximo de distancia al Sol en la órbita elíptica.",
-      "tags": ["movimientos_tierra"]
+      "tags": [
+        "movimientos_tierra"
+      ]
     },
     {
       "question_id": "MOD6_010",
@@ -152,15 +285,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Traslación"},
-        {"option_id": "B", "text": "Precesión"},
-        {"option_id": "C", "text": "Nutación"},
-        {"option_id": "D", "text": "Rotación"}
+        {
+          "option_id": "A",
+          "text": "Traslación"
+        },
+        {
+          "option_id": "B",
+          "text": "Precesión"
+        },
+        {
+          "option_id": "C",
+          "text": "Nutación"
+        },
+        {
+          "option_id": "D",
+          "text": "Rotación"
+        }
       ],
       "correct_answer": "B",
       "hint": "Genera un cono con el eje terrestre.",
       "explanation": "La precesión es un balanceo lento del eje debido a fuerzas gravitatorias.",
-      "tags": ["movimientos_tierra"]
+      "tags": [
+        "movimientos_tierra"
+      ]
     },
     {
       "question_id": "MOD6_011",
@@ -168,15 +315,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "El ángulo entre el rumbo y la ruta"},
-        {"option_id": "B", "text": "El ángulo entre el norte magnético local y el geográfico"},
-        {"option_id": "C", "text": "La diferencia entre la altitud real y la de presión"},
-        {"option_id": "D", "text": "El giro del avión sobre su eje vertical"}
+        {
+          "option_id": "A",
+          "text": "El ángulo entre el rumbo y la ruta"
+        },
+        {
+          "option_id": "B",
+          "text": "El giro del avión sobre su eje vertical"
+        },
+        {
+          "option_id": "C",
+          "text": "La diferencia entre la altitud real y la de presión"
+        },
+        {
+          "option_id": "D",
+          "text": "El ángulo entre el norte magnético local y el geográfico"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Varía según la posición en la Tierra.",
       "explanation": "Es la desviación de la brújula respecto al norte verdadero.",
-      "tags": ["navegacion", "magnetismo"]
+      "tags": [
+        "navegacion",
+        "magnetismo"
+      ]
     },
     {
       "question_id": "MOD6_012",
@@ -184,15 +346,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Trayectoria dibujada en el mapa"},
-        {"option_id": "B", "text": "Distancia angular entre el norte de referencia y el eje longitudinal de la aeronave"},
-        {"option_id": "C", "text": "Ángulo de deriva"},
-        {"option_id": "D", "text": "Distancia al destino"}
+        {
+          "option_id": "A",
+          "text": "Distancia angular entre el norte de referencia y el eje longitudinal de la aeronave"
+        },
+        {
+          "option_id": "B",
+          "text": "Trayectoria dibujada en el mapa"
+        },
+        {
+          "option_id": "C",
+          "text": "Distancia al destino"
+        },
+        {
+          "option_id": "D",
+          "text": "Ángulo de deriva"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Hacia dónde apunta el morro del avión.",
       "explanation": "El rumbo (Heading) es la orientación de la aeronave respecto al norte (geográfico o magnético).",
-      "tags": ["navegacion"]
+      "tags": [
+        "navegacion"
+      ]
     },
     {
       "question_id": "MOD6_013",
@@ -200,15 +376,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Ruta Loxodrómica"},
-        {"option_id": "B", "text": "Ruta Ortodrómica"},
-        {"option_id": "C", "text": "Ruta de Rumbo Constante"},
-        {"option_id": "D", "text": "Ruta de Greenwich"}
+        {
+          "option_id": "A",
+          "text": "Ruta Ortodrómica"
+        },
+        {
+          "option_id": "B",
+          "text": "Ruta de Greenwich"
+        },
+        {
+          "option_id": "C",
+          "text": "Ruta de Rumbo Constante"
+        },
+        {
+          "option_id": "D",
+          "text": "Ruta Loxodrómica"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Arco de círculo máximo.",
       "explanation": "La ortodrómica es la distancia mínima, fundamental para vuelos de larga distancia.",
-      "tags": ["navegacion", "geometria"]
+      "tags": [
+        "navegacion",
+        "geometria"
+      ]
     },
     {
       "question_id": "MOD6_014",
@@ -216,15 +407,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "El giro de la Tierra"},
-        {"option_id": "B", "text": "El ángulo entre la ruta deseada y el movimiento real causado por el viento"},
-        {"option_id": "C", "text": "La pérdida de señal radar"},
-        {"option_id": "D", "text": "El descenso del avión para aterrizar"}
+        {
+          "option_id": "A",
+          "text": "El giro de la Tierra"
+        },
+        {
+          "option_id": "B",
+          "text": "El descenso del avión para aterrizar"
+        },
+        {
+          "option_id": "C",
+          "text": "La pérdida de señal radar"
+        },
+        {
+          "option_id": "D",
+          "text": "El ángulo entre la ruta deseada y el movimiento real causado por el viento"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Desplazamiento lateral por masa de aire.",
       "explanation": "La deriva es el efecto del viento que 'empuja' al avión fuera de su rumbo.",
-      "tags": ["navegacion"]
+      "tags": [
+        "navegacion"
+      ]
     },
     {
       "question_id": "MOD6_015",
@@ -232,15 +437,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1.000 m"},
-        {"option_id": "B", "text": "1.852 m"},
-        {"option_id": "C", "text": "1.609 m"},
-        {"option_id": "D", "text": "2.000 m"}
+        {
+          "option_id": "A",
+          "text": "2.000 m"
+        },
+        {
+          "option_id": "B",
+          "text": "1.000 m"
+        },
+        {
+          "option_id": "C",
+          "text": "1.852 m"
+        },
+        {
+          "option_id": "D",
+          "text": "1.609 m"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Longitud de un minuto sobre un arco de círculo máximo.",
       "explanation": "La milla náutica estándar internacional es de 1.852 metros.",
-      "tags": ["unidades"]
+      "tags": [
+        "unidades"
+      ]
     },
     {
       "question_id": "MOD6_016",
@@ -248,15 +467,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Distancia angular al meridiano origen"},
-        {"option_id": "B", "text": "Distancia angular medida sobre un meridiano entre un punto y el Ecuador"},
-        {"option_id": "C", "text": "Altura sobre el mar"},
-        {"option_id": "D", "text": "Anchura de la aeronave"}
+        {
+          "option_id": "A",
+          "text": "Distancia angular medida sobre un meridiano entre un punto y el Ecuador"
+        },
+        {
+          "option_id": "B",
+          "text": "Anchura de la aeronave"
+        },
+        {
+          "option_id": "C",
+          "text": "Distancia angular al meridiano origen"
+        },
+        {
+          "option_id": "D",
+          "text": "Altura sobre el mar"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Varía de 0º a 90º Norte o Sur.",
       "explanation": "La latitud sitúa los puntos al Norte o Sur del Ecuador.",
-      "tags": ["coordenadas"]
+      "tags": [
+        "coordenadas"
+      ]
     },
     {
       "question_id": "MOD6_017",
@@ -264,15 +497,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Distancia angular al Ecuador"},
-        {"option_id": "B", "text": "Distancia angular sobre el Ecuador entre el meridiano del lugar y el de Greenwich"},
-        {"option_id": "C", "text": "Largo de la pista"},
-        {"option_id": "D", "text": "Duración del vuelo"}
+        {
+          "option_id": "A",
+          "text": "Largo de la pista"
+        },
+        {
+          "option_id": "B",
+          "text": "Duración del vuelo"
+        },
+        {
+          "option_id": "C",
+          "text": "Distancia angular al Ecuador"
+        },
+        {
+          "option_id": "D",
+          "text": "Distancia angular sobre el Ecuador entre el meridiano del lugar y el de Greenwich"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Varía de 0º a 180º Este u Oeste.",
       "explanation": "La longitud sitúa los puntos al Este u Oeste de la referencia de Londres.",
-      "tags": ["coordenadas"]
+      "tags": [
+        "coordenadas"
+      ]
     },
     {
       "question_id": "MOD6_018",
@@ -280,15 +527,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "ED50"},
-        {"option_id": "B", "text": "WGS84"},
-        {"option_id": "C", "text": "ETRS89"},
-        {"option_id": "D", "text": "NAD27"}
+        {
+          "option_id": "A",
+          "text": "ETRS89"
+        },
+        {
+          "option_id": "B",
+          "text": "WGS84"
+        },
+        {
+          "option_id": "C",
+          "text": "NAD27"
+        },
+        {
+          "option_id": "D",
+          "text": "ED50"
+        }
       ],
       "correct_answer": "B",
       "hint": "World Geodetic System 1984.",
       "explanation": "El WGS84 es el estándar OACI (Anexo 15) para navegación global y GPS.",
-      "tags": ["geodesia", "coordenadas"]
+      "tags": [
+        "geodesia",
+        "coordenadas"
+      ]
     },
     {
       "question_id": "MOD6_019",
@@ -296,15 +558,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "WGS84"},
-        {"option_id": "B", "text": "ETRS89"},
-        {"option_id": "C", "text": "REGCAN95"},
-        {"option_id": "D", "text": "ED50"}
+        {
+          "option_id": "A",
+          "text": "ETRS89"
+        },
+        {
+          "option_id": "B",
+          "text": "WGS84"
+        },
+        {
+          "option_id": "C",
+          "text": "ED50"
+        },
+        {
+          "option_id": "D",
+          "text": "REGCAN95"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Adaptación europea.",
       "explanation": "ETRS89 es el sistema oficial para la península y Baleares, aunque para aviación se usa WGS84 por compatibilidad internacional.",
-      "tags": ["españa", "geodesia"]
+      "tags": [
+        "españa",
+        "geodesia"
+      ]
     },
     {
       "question_id": "MOD6_020",
@@ -312,15 +589,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "El tamaño del papel"},
-        {"option_id": "B", "text": "La relación entre la dimensión real de un objeto y su representación gráfica"},
-        {"option_id": "C", "text": "El número de colores usados"},
-        {"option_id": "D", "text": "La altitud de vuelo"}
+        {
+          "option_id": "A",
+          "text": "El tamaño del papel"
+        },
+        {
+          "option_id": "B",
+          "text": "La relación entre la dimensión real de un objeto y su representación gráfica"
+        },
+        {
+          "option_id": "C",
+          "text": "La altitud de vuelo"
+        },
+        {
+          "option_id": "D",
+          "text": "El número de colores usados"
+        }
       ],
       "correct_answer": "B",
       "hint": "Factor de reducción o ampliación.",
       "explanation": "La escala permite representar áreas inmensas en formatos manejables.",
-      "tags": ["cartografia", "escala"]
+      "tags": [
+        "cartografia",
+        "escala"
+      ]
     },
     {
       "question_id": "MOD6_021",
@@ -328,15 +620,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "La distancia en el mapa"},
-        {"option_id": "B", "text": "La magnitud real en el terreno"},
-        {"option_id": "C", "text": "El error del mapa"},
-        {"option_id": "D", "text": "La altura de las montañas"}
+        {
+          "option_id": "A",
+          "text": "La magnitud real en el terreno"
+        },
+        {
+          "option_id": "B",
+          "text": "La distancia en el mapa"
+        },
+        {
+          "option_id": "C",
+          "text": "La altura de las montañas"
+        },
+        {
+          "option_id": "D",
+          "text": "El error del mapa"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Indica cuántas veces se ha reducido la realidad.",
       "explanation": "1 cm en el mapa equivale a 10.000 cm reales.",
-      "tags": ["cartografia", "escala"]
+      "tags": [
+        "cartografia",
+        "escala"
+      ]
     },
     {
       "question_id": "MOD6_022",
@@ -344,15 +651,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "La que representa continentes (ej. 1:10.000.000)"},
-        {"option_id": "B", "text": "La que tiene un denominador pequeño y representa mucho detalle (ej. 1:5.000)"},
-        {"option_id": "C", "text": "Una regla muy larga"},
-        {"option_id": "D", "text": "Solo se usa para nubes"}
+        {
+          "option_id": "A",
+          "text": "La que tiene un denominador pequeño y representa mucho detalle (ej. 1:5.000)"
+        },
+        {
+          "option_id": "B",
+          "text": "Solo se usa para nubes"
+        },
+        {
+          "option_id": "C",
+          "text": "Una regla muy larga"
+        },
+        {
+          "option_id": "D",
+          "text": "La que representa continentes (ej. 1:10.000.000)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Denominador pequeño = Escala grande.",
       "explanation": "Las escalas grandes abarcan poco terreno pero con gran detalle (ej. planos de ciudades).",
-      "tags": ["cartografia", "escala"]
+      "tags": [
+        "cartografia",
+        "escala"
+      ]
     },
     {
       "question_id": "MOD6_023",
@@ -360,15 +682,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Equivalente"},
-        {"option_id": "B", "text": "Conforme"},
-        {"option_id": "C", "text": "Equidistante"},
-        {"option_id": "D", "text": "Afiláctica"}
+        {
+          "option_id": "A",
+          "text": "Equivalente"
+        },
+        {
+          "option_id": "B",
+          "text": "Equidistante"
+        },
+        {
+          "option_id": "C",
+          "text": "Afiláctica"
+        },
+        {
+          "option_id": "D",
+          "text": "Conforme"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Fundamental para medir rumbos.",
       "explanation": "Las proyecciones conformes mantienen la forma y los ángulos locales.",
-      "tags": ["cartografia", "proyecciones"]
+      "tags": [
+        "cartografia",
+        "proyecciones"
+      ]
     },
     {
       "question_id": "MOD6_024",
@@ -376,15 +713,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Sí, es el mapa perfecto"},
-        {"option_id": "B", "text": "No, es matemáticamente imposible"},
-        {"option_id": "C", "text": "Solo en el Ecuador"},
-        {"option_id": "D", "text": "Solo en mapas electrónicos"}
+        {
+          "option_id": "A",
+          "text": "Sí, es el mapa perfecto"
+        },
+        {
+          "option_id": "B",
+          "text": "Solo en mapas electrónicos"
+        },
+        {
+          "option_id": "C",
+          "text": "Solo en el Ecuador"
+        },
+        {
+          "option_id": "D",
+          "text": "No, es matemáticamente imposible"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Mantener áreas deforma ángulos y viceversa.",
       "explanation": "No existe la posibilidad de transformar una esfera en un plano sin deformar al menos dos de las tres magnitudes (ángulos, áreas, distancias).",
-      "tags": ["cartografia", "proyecciones"]
+      "tags": [
+        "cartografia",
+        "proyecciones"
+      ]
     },
     {
       "question_id": "MOD6_025",
@@ -392,15 +744,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Ortográfica"},
-        {"option_id": "B", "text": "Gnomónica"},
-        {"option_id": "C", "text": "Estereográfica"},
-        {"option_id": "D", "text": "Escenográfica"}
+        {
+          "option_id": "A",
+          "text": "Escenográfica"
+        },
+        {
+          "option_id": "B",
+          "text": "Estereográfica"
+        },
+        {
+          "option_id": "C",
+          "text": "Ortográfica"
+        },
+        {
+          "option_id": "D",
+          "text": "Gnomónica"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "El punto de vista es el núcleo terrestre.",
       "explanation": "La proyección gnomónica proyecta desde el centro de la esfera.",
-      "tags": ["cartografia", "proyecciones"]
+      "tags": [
+        "cartografia",
+        "proyecciones"
+      ]
     },
     {
       "question_id": "MOD6_026",
@@ -408,15 +775,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Cilíndrica de Mercator"},
-        {"option_id": "B", "text": "Cónica conforme de Lambert"},
-        {"option_id": "C", "text": "Plana polar"},
-        {"option_id": "D", "text": "Proyección de Bonne"}
+        {
+          "option_id": "A",
+          "text": "Plana polar"
+        },
+        {
+          "option_id": "B",
+          "text": "Cilíndrica de Mercator"
+        },
+        {
+          "option_id": "C",
+          "text": "Cónica conforme de Lambert"
+        },
+        {
+          "option_id": "D",
+          "text": "Proyección de Bonne"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Representa la ortodrómica casi como una recta.",
       "explanation": "Lambert es ideal para navegación por su conformididad y facilidad para trazar rutas cortas.",
-      "tags": ["cartografia", "navegacion"]
+      "tags": [
+        "cartografia",
+        "navegacion"
+      ]
     },
     {
       "question_id": "MOD6_027",
@@ -424,15 +806,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Líneas horizontales paralelas"},
-        {"option_id": "B", "text": "Rectas concurrentes en el Polo"},
-        {"option_id": "C", "text": "Curvas sinuosas"},
-        {"option_id": "D", "text": "Círculos concéntricos"}
+        {
+          "option_id": "A",
+          "text": "Líneas horizontales paralelas"
+        },
+        {
+          "option_id": "B",
+          "text": "Curvas sinuosas"
+        },
+        {
+          "option_id": "C",
+          "text": "Círculos concéntricos"
+        },
+        {
+          "option_id": "D",
+          "text": "Rectas concurrentes en el Polo"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Convergen hacia el punto de fuga polar.",
       "explanation": "Los meridianos son radios que salen del vértice del cono.",
-      "tags": ["cartografia", "proyecciones"]
+      "tags": [
+        "cartografia",
+        "proyecciones"
+      ]
     },
     {
       "question_id": "MOD6_028",
@@ -440,15 +837,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Líneas de igual presión"},
-        {"option_id": "B", "text": "Líneas que unen puntos de la misma altitud"},
-        {"option_id": "C", "text": "Rutas de aviones"},
-        {"option_id": "D", "text": "Líneas de igual temperatura"}
+        {
+          "option_id": "A",
+          "text": "Rutas de aviones"
+        },
+        {
+          "option_id": "B",
+          "text": "Líneas que unen puntos de la misma altitud"
+        },
+        {
+          "option_id": "C",
+          "text": "Líneas de igual temperatura"
+        },
+        {
+          "option_id": "D",
+          "text": "Líneas de igual presión"
+        }
       ],
       "correct_answer": "B",
       "hint": "Representación del relieve.",
       "explanation": "Las curvas de nivel permiten visualizar la orografía en un plano.",
-      "tags": ["topografia"]
+      "tags": [
+        "topografia"
+      ]
     },
     {
       "question_id": "MOD6_029",
@@ -456,15 +867,30 @@
       "question_text": "¿Qué anexo de OACI regula la producción de cartas aeronáuticas?",
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Anexo 2"},
-        {"option_id": "B", "text": "Anexo 4"},
-        {"option_id": "C", "text": "Anexo 11"},
-        {"option_id": "D", "text": "Anexo 15"}
+        {
+          "option_id": "A",
+          "text": "Anexo 15"
+        },
+        {
+          "option_id": "B",
+          "text": "Anexo 4"
+        },
+        {
+          "option_id": "C",
+          "text": "Anexo 11"
+        },
+        {
+          "option_id": "D",
+          "text": "Anexo 2"
+        }
       ],
       "correct_answer": "B",
       "hint": "Específico para cartografía.",
       "explanation": "El Anexo 4 de OACI define los estándares de las cartas aeronáuticas.",
-      "tags": ["oaci", "normativa"]
+      "tags": [
+        "oaci",
+        "normativa"
+      ]
     },
     {
       "question_id": "MOD6_030",
@@ -472,15 +898,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Pilotar los aviones"},
-        {"option_id": "B", "text": "La producción de la cartografía necesaria para la aviación civil"},
-        {"option_id": "C", "text": "Vender los mapas a los turistas"},
-        {"option_id": "D", "text": "Solo revisar las cartas de otros países"}
+        {
+          "option_id": "A",
+          "text": "La producción de la cartografía necesaria para la aviación civil"
+        },
+        {
+          "option_id": "B",
+          "text": "Solo revisar las cartas de otros países"
+        },
+        {
+          "option_id": "C",
+          "text": "Vender los mapas a los turistas"
+        },
+        {
+          "option_id": "D",
+          "text": "Pilotar los aviones"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Gestionado por ENAIRE en España.",
       "explanation": "AIS es responsable de que la información cartográfica sea precisa y esté actualizada.",
-      "tags": ["ais", "instituciones"]
+      "tags": [
+        "ais",
+        "instituciones"
+      ]
     },
     {
       "question_id": "MOD6_031",
@@ -488,15 +929,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Opcional"},
-        {"option_id": "B", "text": "Obligatoria"},
-        {"option_id": "C", "text": "Condicionalmente necesaria"},
-        {"option_id": "D", "text": "Solo para helicópteros"}
+        {
+          "option_id": "A",
+          "text": "Solo para helicópteros"
+        },
+        {
+          "option_id": "B",
+          "text": "Condicionalmente necesaria"
+        },
+        {
+          "option_id": "C",
+          "text": "Opcional"
+        },
+        {
+          "option_id": "D",
+          "text": "Obligatoria"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Fundamental para la seguridad en despegue.",
       "explanation": "Es una de las cartas que OACI exige producir obligatoriamente.",
-      "tags": ["cartografia", "obligatoriedad"]
+      "tags": [
+        "cartografia",
+        "obligatoriedad"
+      ]
     },
     {
       "question_id": "MOD6_032",
@@ -504,15 +960,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Solo para vuelos transoceánicos"},
-        {"option_id": "B", "text": "Es una carta de carácter obligatorio según OACI"},
-        {"option_id": "C", "text": "Solo si el país no tiene radares"},
-        {"option_id": "D", "text": "Solo para vuelos VFR de noche"}
+        {
+          "option_id": "A",
+          "text": "Solo para vuelos VFR de noche"
+        },
+        {
+          "option_id": "B",
+          "text": "Es una carta de carácter obligatorio según OACI"
+        },
+        {
+          "option_id": "C",
+          "text": "Solo para vuelos transoceánicos"
+        },
+        {
+          "option_id": "D",
+          "text": "Solo si el país no tiene radares"
+        }
       ],
       "correct_answer": "B",
       "hint": "Escala pequeña obligatoria.",
       "explanation": "OACI establece su obligatoriedad para todos los Estados miembros.",
-      "tags": ["cartografia", "obligatoriedad"]
+      "tags": [
+        "cartografia",
+        "obligatoriedad"
+      ]
     },
     {
       "question_id": "MOD6_033",
@@ -520,15 +991,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Que solo se imprime si el piloto la paga"},
-        {"option_id": "B", "text": "Que solo es necesaria si se cumplen determinadas circunstancias (ej. rutas complejas)"},
-        {"option_id": "C", "text": "Que caduca cada mes"},
-        {"option_id": "D", "text": "Que solo sirve para vuelos privados"}
+        {
+          "option_id": "A",
+          "text": "Que solo se imprime si el piloto la paga"
+        },
+        {
+          "option_id": "B",
+          "text": "Que solo sirve para vuelos privados"
+        },
+        {
+          "option_id": "C",
+          "text": "Que caduca cada mes"
+        },
+        {
+          "option_id": "D",
+          "text": "Que solo es necesaria si se cumplen determinadas circunstancias (ej. rutas complejas)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Ejemplo: Carta de Área.",
       "explanation": "Se producen si la información no cabe o no es clara en otras cartas (ej. SID, STAR).",
-      "tags": ["cartografia", "definiciones"]
+      "tags": [
+        "cartografia",
+        "definiciones"
+      ]
     },
     {
       "question_id": "MOD6_034",
@@ -536,15 +1022,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Carta de en Ruta"},
-        {"option_id": "B", "text": "Plano de Estacionamiento y Atraque"},
-        {"option_id": "C", "text": "Carta de Área"},
-        {"option_id": "D", "text": "Carta de Aproximación Visual"}
+        {
+          "option_id": "A",
+          "text": "Carta de Área"
+        },
+        {
+          "option_id": "B",
+          "text": "Carta de Aproximación Visual"
+        },
+        {
+          "option_id": "C",
+          "text": "Carta de en Ruta"
+        },
+        {
+          "option_id": "D",
+          "text": "Plano de Estacionamiento y Atraque"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Información detallada de la plataforma.",
       "explanation": "Facilita los movimientos iniciales en tierra.",
-      "tags": ["cartografia", "fases_vuelo"]
+      "tags": [
+        "cartografia",
+        "fases_vuelo"
+      ]
     },
     {
       "question_id": "MOD6_035",
@@ -552,15 +1053,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "STAR"},
-        {"option_id": "B", "text": "SID"},
-        {"option_id": "C", "text": "IAC"},
-        {"option_id": "D", "text": "VAC"}
+        {
+          "option_id": "A",
+          "text": "VAC"
+        },
+        {
+          "option_id": "B",
+          "text": "STAR"
+        },
+        {
+          "option_id": "C",
+          "text": "IAC"
+        },
+        {
+          "option_id": "D",
+          "text": "SID"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Standard Instrument Departure.",
       "explanation": "La SID guía al piloto desde el despegue hasta la estructura de rutas.",
-      "tags": ["cartografia", "siglas"]
+      "tags": [
+        "cartografia",
+        "siglas"
+      ]
     },
     {
       "question_id": "MOD6_036",
@@ -568,15 +1084,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Plano de Aeródromo"},
-        {"option_id": "B", "text": "Carta de Área"},
-        {"option_id": "C", "text": "Carta de Luces"},
-        {"option_id": "D", "text": "Plano de Obstáculos"}
+        {
+          "option_id": "A",
+          "text": "Carta de Área"
+        },
+        {
+          "option_id": "B",
+          "text": "Carta de Luces"
+        },
+        {
+          "option_id": "C",
+          "text": "Plano de Obstáculos"
+        },
+        {
+          "option_id": "D",
+          "text": "Plano de Aeródromo"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Muestra la estructura compleja del espacio aéreo terminal.",
       "explanation": "La Carta de Área permite ver la conexión entre aerovías y procedimientos locales.",
-      "tags": ["cartografia", "fases_vuelo"]
+      "tags": [
+        "cartografia",
+        "fases_vuelo"
+      ]
     },
     {
       "question_id": "MOD6_037",
@@ -584,15 +1115,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Los edificios de la ciudad"},
-        {"option_id": "B", "text": "Limitaciones de utilización por obstáculos en la trayectoria de despegue"},
-        {"option_id": "C", "text": "La posición de los radares"},
-        {"option_id": "D", "text": "Las nubes peligrosas"}
+        {
+          "option_id": "A",
+          "text": "Los edificios de la ciudad"
+        },
+        {
+          "option_id": "B",
+          "text": "La posición de los radares"
+        },
+        {
+          "option_id": "C",
+          "text": "Las nubes peligrosas"
+        },
+        {
+          "option_id": "D",
+          "text": "Limitaciones de utilización por obstáculos en la trayectoria de despegue"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Crítico para calcular pesos de despegue.",
       "explanation": "Permite al explotador asegurar que puede salvar obstáculos incluso con fallo de motor.",
-      "tags": ["cartografia", "seguridad"]
+      "tags": [
+        "cartografia",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD6_038",
@@ -600,15 +1146,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Rodar por la pista"},
-        {"option_id": "B", "text": "Facilitar el aterrizaje mediante procedimientos instrumentales (ILS, VOR, etc.)"},
-        {"option_id": "C", "text": "Planificar el vuelo el día antes"},
-        {"option_id": "D", "text": "Volar sin radio"}
+        {
+          "option_id": "A",
+          "text": "Volar sin radio"
+        },
+        {
+          "option_id": "B",
+          "text": "Facilitar el aterrizaje mediante procedimientos instrumentales (ILS, VOR, etc.)"
+        },
+        {
+          "option_id": "C",
+          "text": "Rodar por la pista"
+        },
+        {
+          "option_id": "D",
+          "text": "Planificar el vuelo el día antes"
+        }
       ],
       "correct_answer": "B",
       "hint": "Incluye aproximación frustrada y esperas.",
       "explanation": "La IAC es vital para el descenso final hacia la pista.",
-      "tags": ["cartografia", "fases_vuelo"]
+      "tags": [
+        "cartografia",
+        "fases_vuelo"
+      ]
     },
     {
       "question_id": "MOD6_039",
@@ -616,15 +1177,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Google Maps"},
-        {"option_id": "B", "text": "Insignia"},
-        {"option_id": "C", "text": "Skyview"},
-        {"option_id": "D", "text": "AIP-Reader"}
+        {
+          "option_id": "A",
+          "text": "Skyview"
+        },
+        {
+          "option_id": "B",
+          "text": "Google Maps"
+        },
+        {
+          "option_id": "C",
+          "text": "AIP-Reader"
+        },
+        {
+          "option_id": "D",
+          "text": "Insignia"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "insignia.enaire.es.",
       "explanation": "Insignia es la plataforma de ENAIRE para cartografía aeronáutica interactiva.",
-      "tags": ["cartografia", "tecnologia"]
+      "tags": [
+        "cartografia",
+        "tecnologia"
+      ]
     },
     {
       "question_id": "MOD6_040",
@@ -632,15 +1208,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Correo ordinario"},
-        {"option_id": "B", "text": "AIRAC"},
-        {"option_id": "C", "text": "Radio FM"},
-        {"option_id": "D", "text": "Mensaje de texto"}
+        {
+          "option_id": "A",
+          "text": "AIRAC"
+        },
+        {
+          "option_id": "B",
+          "text": "Radio FM"
+        },
+        {
+          "option_id": "C",
+          "text": "Mensaje de texto"
+        },
+        {
+          "option_id": "D",
+          "text": "Correo ordinario"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Ciclos de 28 días.",
       "explanation": "El sistema AIRAC garantiza que la información llegue a los usuarios antes de su entrada en vigor.",
-      "tags": ["ais", "mantenimiento"]
+      "tags": [
+        "ais",
+        "mantenimiento"
+      ]
     },
     {
       "question_id": "MOD6_041",
@@ -648,15 +1239,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "La fecha de publicación"},
-        {"option_id": "B", "text": "Conjunto de parámetros que fijan el origen y orientación del sistema de coordenadas"},
-        {"option_id": "C", "text": "El nombre del autor"},
-        {"option_id": "D", "text": "La altitud de una montaña"}
+        {
+          "option_id": "A",
+          "text": "Conjunto de parámetros que fijan el origen y orientación del sistema de coordenadas"
+        },
+        {
+          "option_id": "B",
+          "text": "El nombre del autor"
+        },
+        {
+          "option_id": "C",
+          "text": "La fecha de publicación"
+        },
+        {
+          "option_id": "D",
+          "text": "La altitud de una montaña"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Modelo asociado a la forma de la Tierra.",
       "explanation": "El Datum define el marco de referencia sobre el elipsoide escogido.",
-      "tags": ["geodesia", "definiciones"]
+      "tags": [
+        "geodesia",
+        "definiciones"
+      ]
     },
     {
       "question_id": "MOD6_042",
@@ -664,15 +1270,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Los ángulos"},
-        {"option_id": "B", "text": "Las distancias (lineal)"},
-        {"option_id": "C", "text": "Las superficies"},
-        {"option_id": "D", "text": "Los colores"}
+        {
+          "option_id": "A",
+          "text": "Los ángulos"
+        },
+        {
+          "option_id": "B",
+          "text": "Los colores"
+        },
+        {
+          "option_id": "C",
+          "text": "Las superficies"
+        },
+        {
+          "option_id": "D",
+          "text": "Las distancias (lineal)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Propiedad de la escala constante.",
       "explanation": "En las líneas automecoicas la escala del mapa coincide exactamente con la nominal.",
-      "tags": ["cartografia", "definiciones"]
+      "tags": [
+        "cartografia",
+        "definiciones"
+      ]
     },
     {
       "question_id": "MOD6_043",
@@ -680,15 +1301,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "A la distancia horizontal entre curvas"},
-        {"option_id": "B", "text": "A la distancia vertical constante entre los planos de corte"},
-        {"option_id": "C", "text": "Al tamaño del mapa"},
-        {"option_id": "D", "text": "A la escala gráfica"}
+        {
+          "option_id": "A",
+          "text": "A la distancia horizontal entre curvas"
+        },
+        {
+          "option_id": "B",
+          "text": "A la escala gráfica"
+        },
+        {
+          "option_id": "C",
+          "text": "A la distancia vertical constante entre los planos de corte"
+        },
+        {
+          "option_id": "D",
+          "text": "Al tamaño del mapa"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Diferencia de altura entre dos líneas sucesivas.",
       "explanation": "La equidistancia define la resolución vertical de la representación topográfica.",
-      "tags": ["topografia"]
+      "tags": [
+        "topografia"
+      ]
     },
     {
       "question_id": "MOD6_044",
@@ -696,15 +1331,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Terreno llano"},
-        {"option_id": "B", "text": "Mayor pendiente del terreno"},
-        {"option_id": "C", "text": "Presencia de agua"},
-        {"option_id": "D", "text": "Menor altitud"}
+        {
+          "option_id": "A",
+          "text": "Terreno llano"
+        },
+        {
+          "option_id": "B",
+          "text": "Presencia de agua"
+        },
+        {
+          "option_id": "C",
+          "text": "Mayor pendiente del terreno"
+        },
+        {
+          "option_id": "D",
+          "text": "Menor altitud"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Las alturas cambian en menos distancia horizontal.",
       "explanation": "Cuanto más juntas estén las curvas, más abrupto es el relieve.",
-      "tags": ["topografia"]
+      "tags": [
+        "topografia"
+      ]
     },
     {
       "question_id": "MOD6_045",
@@ -712,15 +1361,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Sistemas de Tráfico Aéreo Regional"},
-        {"option_id": "B", "text": "Standard Instrument Arrival (Llegada normalizada por instrumentos)"},
-        {"option_id": "C", "text": "Standard Take-off and Run"},
-        {"option_id": "D", "text": "Satellite Tracking and Radar"}
+        {
+          "option_id": "A",
+          "text": "Standard Instrument Arrival (Llegada normalizada por instrumentos)"
+        },
+        {
+          "option_id": "B",
+          "text": "Satellite Tracking and Radar"
+        },
+        {
+          "option_id": "C",
+          "text": "Standard Take-off and Run"
+        },
+        {
+          "option_id": "D",
+          "text": "Sistemas de Tráfico Aéreo Regional"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Procedimiento de llegada.",
       "explanation": "Conecta la fase de ruta con la fase de aproximación.",
-      "tags": ["cartografia", "siglas"]
+      "tags": [
+        "cartografia",
+        "siglas"
+      ]
     },
     {
       "question_id": "MOD6_046",
@@ -728,15 +1392,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Una carta para aterrizajes de emergencia"},
-        {"option_id": "B", "text": "Procedimiento de llegada con descenso continuo (ahorro de combustible)"},
-        {"option_id": "C", "text": "Una carta de comunicaciones digitales"},
-        {"option_id": "D", "text": "Un plano de la bodega de carga"}
+        {
+          "option_id": "A",
+          "text": "Un plano de la bodega de carga"
+        },
+        {
+          "option_id": "B",
+          "text": "Una carta de comunicaciones digitales"
+        },
+        {
+          "option_id": "C",
+          "text": "Procedimiento de llegada con descenso continuo (ahorro de combustible)"
+        },
+        {
+          "option_id": "D",
+          "text": "Una carta para aterrizajes de emergencia"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Optimiza el perfil de vuelo.",
       "explanation": "Elimina restricciones de nivel intermedias para un descenso más eficiente y silencioso.",
-      "tags": ["cartografia", "performance"]
+      "tags": [
+        "cartografia",
+        "performance"
+      ]
     },
     {
       "question_id": "MOD6_047",
@@ -744,15 +1423,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Madrid-Barajas"},
-        {"option_id": "B", "text": "Barcelona-El Prat"},
-        {"option_id": "C", "text": "Palma de Mallorca"},
-        {"option_id": "D", "text": "Málaga"}
+        {
+          "option_id": "A",
+          "text": "Málaga"
+        },
+        {
+          "option_id": "B",
+          "text": "Barcelona-El Prat"
+        },
+        {
+          "option_id": "C",
+          "text": "Palma de Mallorca"
+        },
+        {
+          "option_id": "D",
+          "text": "Madrid-Barajas"
+        }
       ],
       "correct_answer": "B",
       "hint": "Usa tramos en forma de 'trombón'.",
       "explanation": "Barcelona es el pionero en España en el uso de estas transiciones RNAV1.",
-      "tags": ["españa", "cartografia"]
+      "tags": [
+        "españa",
+        "cartografia"
+      ]
     },
     {
       "question_id": "MOD6_048",
@@ -760,15 +1454,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Prohibido el vuelo visual"},
-        {"option_id": "B", "text": "Utilícese únicamente si la aeronave está identificada"},
-        {"option_id": "C", "text": "Solo válida para helicópteros"},
-        {"option_id": "D", "text": "Cuidado con los pájaros"}
+        {
+          "option_id": "A",
+          "text": "Prohibido el vuelo visual"
+        },
+        {
+          "option_id": "B",
+          "text": "Cuidado con los pájaros"
+        },
+        {
+          "option_id": "C",
+          "text": "Solo válida para helicópteros"
+        },
+        {
+          "option_id": "D",
+          "text": "Utilícese únicamente si la aeronave está identificada"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Restricción de uso.",
       "explanation": "Garantiza que el piloto solo use la carta para verificar altitudes cuando el radar lo tiene localizado.",
-      "tags": ["cartografia", "atc"]
+      "tags": [
+        "cartografia",
+        "atc"
+      ]
     },
     {
       "question_id": "MOD6_049",
@@ -776,15 +1485,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Para que los pilotos puedan ver aves"},
-        {"option_id": "B", "text": "Identificar zonas de riesgo por presencia masiva de aves (invernada, migración)"},
-        {"option_id": "C", "text": "Para cazadores"},
-        {"option_id": "D", "text": "Para medir la contaminación"}
+        {
+          "option_id": "A",
+          "text": "Para cazadores"
+        },
+        {
+          "option_id": "B",
+          "text": "Para medir la contaminación"
+        },
+        {
+          "option_id": "C",
+          "text": "Para que los pilotos puedan ver aves"
+        },
+        {
+          "option_id": "D",
+          "text": "Identificar zonas de riesgo por presencia masiva de aves (invernada, migración)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Información facilitada por Agricultura y Medio Ambiente.",
       "explanation": "Previene incidentes por impacto con aves (bird strike).",
-      "tags": ["cartografia", "seguridad"]
+      "tags": [
+        "cartografia",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD6_050",
@@ -792,15 +1516,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Disminuye"},
-        {"option_id": "B", "text": "Aumenta (se ven más detalles del relieve)"},
-        {"option_id": "C", "text": "No cambia"},
-        {"option_id": "D", "text": "El mapa se vuelve ilegible siempre"}
+        {
+          "option_id": "A",
+          "text": "El mapa se vuelve ilegible siempre"
+        },
+        {
+          "option_id": "B",
+          "text": "Aumenta (se ven más detalles del relieve)"
+        },
+        {
+          "option_id": "C",
+          "text": "Disminuye"
+        },
+        {
+          "option_id": "D",
+          "text": "No cambia"
+        }
       ],
       "correct_answer": "B",
       "hint": "Más líneas para el mismo desnivel.",
       "explanation": "Al reducir la distancia vertical entre planos, captamos irregularidades más pequeñas.",
-      "tags": ["topografia"]
+      "tags": [
+        "topografia"
+      ]
     },
     {
       "question_id": "MOD6_051",
@@ -808,15 +1546,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Alargada en los polos"},
-        {"option_id": "B", "text": "Achatada en los polos y ensanchada en el Ecuador"},
-        {"option_id": "C", "text": "Cilíndrica"},
-        {"option_id": "D", "text": "Piramidal"}
+        {
+          "option_id": "A",
+          "text": "Piramidal"
+        },
+        {
+          "option_id": "B",
+          "text": "Achatada en los polos y ensanchada en el Ecuador"
+        },
+        {
+          "option_id": "C",
+          "text": "Alargada en los polos"
+        },
+        {
+          "option_id": "D",
+          "text": "Cilíndrica"
+        }
       ],
       "correct_answer": "B",
       "hint": "Efecto de la velocidad de giro.",
       "explanation": "La Tierra no es una esfera perfecta por este abultamiento ecuatorial.",
-      "tags": ["geodesia", "forma_tierra"]
+      "tags": [
+        "geodesia",
+        "forma_tierra"
+      ]
     },
     {
       "question_id": "MOD6_052",
@@ -824,15 +1577,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "20.000 km"},
-        {"option_id": "B", "text": "40.076 km"},
-        {"option_id": "C", "text": "6.371 km"},
-        {"option_id": "D", "text": "100.000 km"}
+        {
+          "option_id": "A",
+          "text": "100.000 km"
+        },
+        {
+          "option_id": "B",
+          "text": "20.000 km"
+        },
+        {
+          "option_id": "C",
+          "text": "40.076 km"
+        },
+        {
+          "option_id": "D",
+          "text": "6.371 km"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Perímetro terrestre.",
       "explanation": "Cualquier plano que pase por el centro genera una circunferencia de unos 40.076 km.",
-      "tags": ["geodesia", "cifras"]
+      "tags": [
+        "geodesia",
+        "cifras"
+      ]
     },
     {
       "question_id": "MOD6_053",
@@ -840,15 +1608,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Paralelos"},
-        {"option_id": "B", "text": "Meridianos"},
-        {"option_id": "C", "text": "Ecuador"},
-        {"option_id": "D", "text": "Rumbos"}
+        {
+          "option_id": "A",
+          "text": "Meridianos"
+        },
+        {
+          "option_id": "B",
+          "text": "Ecuador"
+        },
+        {
+          "option_id": "C",
+          "text": "Paralelos"
+        },
+        {
+          "option_id": "D",
+          "text": "Rumbos"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Cortan perpendicularmente al Ecuador.",
       "explanation": "Los meridianos son las líneas de longitud.",
-      "tags": ["geodesia", "lineas"]
+      "tags": [
+        "geodesia",
+        "lineas"
+      ]
     },
     {
       "question_id": "MOD6_054",
@@ -856,15 +1639,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Norte y Sur"},
-        {"option_id": "B", "text": "Oriental (Este) y Occidental (Oeste)"},
-        {"option_id": "C", "text": "Derecho e Izquierdo"},
-        {"option_id": "D", "text": "Continental y Oceánico"}
+        {
+          "option_id": "A",
+          "text": "Norte y Sur"
+        },
+        {
+          "option_id": "B",
+          "text": "Continental y Oceánico"
+        },
+        {
+          "option_id": "C",
+          "text": "Oriental (Este) y Occidental (Oeste)"
+        },
+        {
+          "option_id": "D",
+          "text": "Derecho e Izquierdo"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Referencia de longitud.",
       "explanation": "Greenwich separa el Este del Oeste.",
-      "tags": ["geodesia", "coordenadas"]
+      "tags": [
+        "geodesia",
+        "coordenadas"
+      ]
     },
     {
       "question_id": "MOD6_055",
@@ -872,15 +1670,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Meridianos"},
-        {"option_id": "B", "text": "Paralelos"},
-        {"option_id": "C", "text": "Vaguadas"},
-        {"option_id": "D", "text": "Ortodrómicas"}
+        {
+          "option_id": "A",
+          "text": "Meridianos"
+        },
+        {
+          "option_id": "B",
+          "text": "Ortodrómicas"
+        },
+        {
+          "option_id": "C",
+          "text": "Vaguadas"
+        },
+        {
+          "option_id": "D",
+          "text": "Paralelos"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Son perpendiculares a los meridianos.",
       "explanation": "Los paralelos miden la latitud.",
-      "tags": ["geodesia", "lineas"]
+      "tags": [
+        "geodesia",
+        "lineas"
+      ]
     },
     {
       "question_id": "MOD6_056",
@@ -888,15 +1701,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "24 horas exactas"},
-        {"option_id": "B", "text": "23 horas, 56 minutos y 4 segundos"},
-        {"option_id": "C", "text": "12 horas"},
-        {"option_id": "D", "text": "365 días"}
+        {
+          "option_id": "A",
+          "text": "23 horas, 56 minutos y 4 segundos"
+        },
+        {
+          "option_id": "B",
+          "text": "24 horas exactas"
+        },
+        {
+          "option_id": "C",
+          "text": "365 días"
+        },
+        {
+          "option_id": "D",
+          "text": "12 horas"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Día sidéreo.",
       "explanation": "Es el tiempo que tarda la Tierra en dar una vuelta completa respecto a las estrellas fijas.",
-      "tags": ["movimientos_tierra"]
+      "tags": [
+        "movimientos_tierra"
+      ]
     },
     {
       "question_id": "MOD6_057",
@@ -904,15 +1731,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Ecuador"},
-        {"option_id": "B", "text": "Eclíptica"},
-        {"option_id": "C", "text": "Elipsoide"},
-        {"option_id": "D", "text": "Cenit"}
+        {
+          "option_id": "A",
+          "text": "Eclíptica"
+        },
+        {
+          "option_id": "B",
+          "text": "Elipsoide"
+        },
+        {
+          "option_id": "C",
+          "text": "Ecuador"
+        },
+        {
+          "option_id": "D",
+          "text": "Cenit"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Es una órbita elíptica.",
       "explanation": "La Tierra recorre la Eclíptica durante su movimiento de traslación.",
-      "tags": ["movimientos_tierra"]
+      "tags": [
+        "movimientos_tierra"
+      ]
     },
     {
       "question_id": "MOD6_058",
@@ -920,15 +1761,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "El día es mucho más largo que la noche"},
-        {"option_id": "B", "text": "Equivalencia en el número de horas nocturnas y diurnas"},
-        {"option_id": "C", "text": "Hace mucho frío en el Ecuador"},
-        {"option_id": "D", "text": "La Tierra deja de girar"}
+        {
+          "option_id": "A",
+          "text": "Equivalencia en el número de horas nocturnas y diurnas"
+        },
+        {
+          "option_id": "B",
+          "text": "El día es mucho más largo que la noche"
+        },
+        {
+          "option_id": "C",
+          "text": "Hace mucho frío en el Ecuador"
+        },
+        {
+          "option_id": "D",
+          "text": "La Tierra deja de girar"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Los rayos inciden perpendicularmente sobre el Ecuador.",
       "explanation": "Hay dos equinoccios al año (primavera y otoño).",
-      "tags": ["movimientos_tierra"]
+      "tags": [
+        "movimientos_tierra"
+      ]
     },
     {
       "question_id": "MOD6_059",
@@ -936,15 +1791,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Al impacto de meteoritos"},
-        {"option_id": "B", "text": "A una ligera oscilación del eje terrestre sobre la trayectoria de precesión"},
-        {"option_id": "C", "text": "Al magnetismo del núcleo"},
-        {"option_id": "D", "text": "A las corrientes marinas"}
+        {
+          "option_id": "A",
+          "text": "A una ligera oscilación del eje terrestre sobre la trayectoria de precesión"
+        },
+        {
+          "option_id": "B",
+          "text": "Al impacto de meteoritos"
+        },
+        {
+          "option_id": "C",
+          "text": "A las corrientes marinas"
+        },
+        {
+          "option_id": "D",
+          "text": "Al magnetismo del núcleo"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Ciclo de algo más de 18 años.",
       "explanation": "Es un movimiento superpuesto al de precesión.",
-      "tags": ["movimientos_tierra"]
+      "tags": [
+        "movimientos_tierra"
+      ]
     },
     {
       "question_id": "MOD6_060",
@@ -952,15 +1821,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Sí, siempre"},
-        {"option_id": "B", "text": "No, presentan un desfase (declinación)"},
-        {"option_id": "C", "text": "Solo en el Polo Norte"},
-        {"option_id": "D", "text": "Solo durante el día"}
+        {
+          "option_id": "A",
+          "text": "No, presentan un desfase (declinación)"
+        },
+        {
+          "option_id": "B",
+          "text": "Solo en el Polo Norte"
+        },
+        {
+          "option_id": "C",
+          "text": "Solo durante el día"
+        },
+        {
+          "option_id": "D",
+          "text": "Sí, siempre"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "La brújula no apunta al Norte verdadero.",
       "explanation": "El magnetismo terrestre es dinámico y sus polos no coinciden con el eje de rotación.",
-      "tags": ["magnetismo"]
+      "tags": [
+        "magnetismo"
+      ]
     },
     {
       "question_id": "MOD6_061",
@@ -968,15 +1851,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Rm = Rg + declinación"},
-        {"option_id": "B", "text": "Rm = Rg – declinación"},
-        {"option_id": "C", "text": "Rm = Rg * deriva"},
-        {"option_id": "D", "text": "Rm = Rg / 2"}
+        {
+          "option_id": "A",
+          "text": "Rm = Rg / 2"
+        },
+        {
+          "option_id": "B",
+          "text": "Rm = Rg – declinación"
+        },
+        {
+          "option_id": "C",
+          "text": "Rm = Rg + declinación"
+        },
+        {
+          "option_id": "D",
+          "text": "Rm = Rg * deriva"
+        }
       ],
       "correct_answer": "B",
       "hint": "La declinación E es positiva y W es negativa.",
       "explanation": "Permite corregir el rumbo geográfico para usar la brújula magnética.",
-      "tags": ["navegacion"]
+      "tags": [
+        "navegacion"
+      ]
     },
     {
       "question_id": "MOD6_062",
@@ -984,15 +1881,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "La más corta entre dos puntos"},
-        {"option_id": "B", "text": "Aquella que mantiene un rumbo constante cruzando meridianos con el mismo ángulo"},
-        {"option_id": "C", "text": "Una ruta que pasa por los polos"},
-        {"option_id": "D", "text": "La trayectoria de un proyectil"}
+        {
+          "option_id": "A",
+          "text": "La trayectoria de un proyectil"
+        },
+        {
+          "option_id": "B",
+          "text": "Aquella que mantiene un rumbo constante cruzando meridianos con el mismo ángulo"
+        },
+        {
+          "option_id": "C",
+          "text": "La más corta entre dos puntos"
+        },
+        {
+          "option_id": "D",
+          "text": "Una ruta que pasa por los polos"
+        }
       ],
       "correct_answer": "B",
       "hint": "Fácil de seguir pero más larga que la ortodrómica.",
       "explanation": "Es una línea que corta a todos los meridianos con el mismo ángulo.",
-      "tags": ["navegacion"]
+      "tags": [
+        "navegacion"
+      ]
     },
     {
       "question_id": "MOD6_063",
@@ -1000,15 +1911,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Viento de costado (90º)"},
-        {"option_id": "B", "text": "Viento en calma o cuando coincide con la dirección de la aeronave (cara/cola)"},
-        {"option_id": "C", "text": "A gran altitud siempre"},
-        {"option_id": "D", "text": "En el despegue"}
+        {
+          "option_id": "A",
+          "text": "Viento en calma o cuando coincide con la dirección de la aeronave (cara/cola)"
+        },
+        {
+          "option_id": "B",
+          "text": "En el despegue"
+        },
+        {
+          "option_id": "C",
+          "text": "A gran altitud siempre"
+        },
+        {
+          "option_id": "D",
+          "text": "Viento de costado (90º)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "No hay empuje lateral.",
       "explanation": "Si el viento es paralelo a la trayectoria, no desvía al avión lateralmente.",
-      "tags": ["navegacion"]
+      "tags": [
+        "navegacion"
+      ]
     },
     {
       "question_id": "MOD6_064",
@@ -1016,15 +1941,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Un fallo del motor"},
-        {"option_id": "B", "text": "Proyección sobre el suelo de la trayectoria real seguida (Track)"},
-        {"option_id": "C", "text": "El punto de llegada"},
-        {"option_id": "D", "text": "La altitud de seguridad"}
+        {
+          "option_id": "A",
+          "text": "Un fallo del motor"
+        },
+        {
+          "option_id": "B",
+          "text": "La altitud de seguridad"
+        },
+        {
+          "option_id": "C",
+          "text": "El punto de llegada"
+        },
+        {
+          "option_id": "D",
+          "text": "Proyección sobre el suelo de la trayectoria real seguida (Track)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Resultado de corregir el rumbo ante el viento.",
       "explanation": "La derrota es el 'camino' real que el avión ha dibujado sobre el terreno.",
-      "tags": ["navegacion"]
+      "tags": [
+        "navegacion"
+      ]
     },
     {
       "question_id": "MOD6_065",
@@ -1032,15 +1971,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "90º"},
-        {"option_id": "B", "text": "0º"},
-        {"option_id": "C", "text": "180º"},
-        {"option_id": "D", "text": "45º"}
+        {
+          "option_id": "A",
+          "text": "45º"
+        },
+        {
+          "option_id": "B",
+          "text": "180º"
+        },
+        {
+          "option_id": "C",
+          "text": "0º"
+        },
+        {
+          "option_id": "D",
+          "text": "90º"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Línea de origen.",
       "explanation": "El Ecuador es la latitud 0.",
-      "tags": ["coordenadas"]
+      "tags": [
+        "coordenadas"
+      ]
     },
     {
       "question_id": "MOD6_066",
@@ -1048,15 +2001,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "180º"},
-        {"option_id": "B", "text": "0º"},
-        {"option_id": "C", "text": "90º"},
-        {"option_id": "D", "text": "360º"}
+        {
+          "option_id": "A",
+          "text": "90º"
+        },
+        {
+          "option_id": "B",
+          "text": "0º"
+        },
+        {
+          "option_id": "C",
+          "text": "360º"
+        },
+        {
+          "option_id": "D",
+          "text": "180º"
+        }
       ],
       "correct_answer": "B",
       "hint": "Meridiano origen.",
       "explanation": "Se toma como referencia 0º para medir hacia el Este u Oeste.",
-      "tags": ["coordenadas"]
+      "tags": [
+        "coordenadas"
+      ]
     },
     {
       "question_id": "MOD6_067",
@@ -1064,15 +2031,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "WGS84"},
-        {"option_id": "B", "text": "GRS80"},
-        {"option_id": "C", "text": "Everest 1830"},
-        {"option_id": "D", "text": "Hayford"}
+        {
+          "option_id": "A",
+          "text": "WGS84"
+        },
+        {
+          "option_id": "B",
+          "text": "Hayford"
+        },
+        {
+          "option_id": "C",
+          "text": "GRS80"
+        },
+        {
+          "option_id": "D",
+          "text": "Everest 1830"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Geodetic Reference System 1980.",
       "explanation": "Aunque similares, el GRS80 es el elipsoide de base para las redes europeas.",
-      "tags": ["geodesia", "españa"]
+      "tags": [
+        "geodesia",
+        "españa"
+      ]
     },
     {
       "question_id": "MOD6_068",
@@ -1080,15 +2062,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Porque son ilegales"},
-        {"option_id": "B", "text": "Debido a la deriva entre sistemas que supera la exactitud requerida"},
-        {"option_id": "C", "text": "Porque nadie tiene GPS"},
-        {"option_id": "D", "text": "Solo se pueden usar en barcos"}
+        {
+          "option_id": "A",
+          "text": "Porque nadie tiene GPS"
+        },
+        {
+          "option_id": "B",
+          "text": "Debido a la deriva entre sistemas que supera la exactitud requerida"
+        },
+        {
+          "option_id": "C",
+          "text": "Porque son ilegales"
+        },
+        {
+          "option_id": "D",
+          "text": "Solo se pueden usar en barcos"
+        }
       ],
       "correct_answer": "B",
       "hint": "Se prefiere mantener WGS84 por normativa OACI.",
       "explanation": "Para garantizar la precisión aeronáutica, se mantiene el estándar WGS84 unificado.",
-      "tags": ["geodesia", "normativa"]
+      "tags": [
+        "geodesia",
+        "normativa"
+      ]
     },
     {
       "question_id": "MOD6_069",
@@ -1096,15 +2093,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1:50.000"},
-        {"option_id": "B", "text": "1:5.000.000"},
-        {"option_id": "C", "text": "1:500.000"},
-        {"option_id": "D", "text": "1:5.000"}
+        {
+          "option_id": "A",
+          "text": "1:50.000"
+        },
+        {
+          "option_id": "B",
+          "text": "1:5.000"
+        },
+        {
+          "option_id": "C",
+          "text": "1:500.000"
+        },
+        {
+          "option_id": "D",
+          "text": "1:5.000.000"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "50 km = 5.000.000 cm.",
       "explanation": "Se deben usar las mismas unidades en ambos lados de la fracción.",
-      "tags": ["escala"]
+      "tags": [
+        "escala"
+      ]
     },
     {
       "question_id": "MOD6_070",
@@ -1112,15 +2123,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Conforme"},
-        {"option_id": "B", "text": "Equivalente"},
-        {"option_id": "C", "text": "Equidistante"},
-        {"option_id": "D", "text": "Afiláctica"}
+        {
+          "option_id": "A",
+          "text": "Afiláctica"
+        },
+        {
+          "option_id": "B",
+          "text": "Equidistante"
+        },
+        {
+          "option_id": "C",
+          "text": "Equivalente"
+        },
+        {
+          "option_id": "D",
+          "text": "Conforme"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Deforma mucho los ángulos.",
       "explanation": "Las proyecciones equivalentes conservan las superficies relativas.",
-      "tags": ["proyecciones"]
+      "tags": [
+        "proyecciones"
+      ]
     },
     {
       "question_id": "MOD6_071",
@@ -1128,15 +2153,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Gnomónica"},
-        {"option_id": "B", "text": "Ortográfica"},
-        {"option_id": "C", "text": "Estereográfica"},
-        {"option_id": "D", "text": "Escenográfica"}
+        {
+          "option_id": "A",
+          "text": "Gnomónica"
+        },
+        {
+          "option_id": "B",
+          "text": "Estereográfica"
+        },
+        {
+          "option_id": "C",
+          "text": "Ortográfica"
+        },
+        {
+          "option_id": "D",
+          "text": "Escenográfica"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Rayos proyectantes paralelos.",
       "explanation": "La proyección ortográfica ve a la Tierra desde el infinito.",
-      "tags": ["proyecciones"]
+      "tags": [
+        "proyecciones"
+      ]
     },
     {
       "question_id": "MOD6_072",
@@ -1144,15 +2183,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Eje del cilindro paralelo al eje de la Tierra"},
-        {"option_id": "B", "text": "Eje del cilindro perpendicular al eje de rotación terrestre"},
-        {"option_id": "C", "text": "El cilindro no toca la Tierra"},
-        {"option_id": "D", "text": "Solo sirve para los polos"}
+        {
+          "option_id": "A",
+          "text": "Eje del cilindro paralelo al eje de la Tierra"
+        },
+        {
+          "option_id": "B",
+          "text": "El cilindro no toca la Tierra"
+        },
+        {
+          "option_id": "C",
+          "text": "Eje del cilindro perpendicular al eje de rotación terrestre"
+        },
+        {
+          "option_id": "D",
+          "text": "Solo sirve para los polos"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Base de la proyección UTM.",
       "explanation": "El cilindro envuelve a la tierra 'de lado'.",
-      "tags": ["proyecciones"]
+      "tags": [
+        "proyecciones"
+      ]
     },
     {
       "question_id": "MOD6_073",
@@ -1160,15 +2213,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "El Ecuador siempre"},
-        {"option_id": "B", "text": "La línea de tangencia del cono con la esfera donde no hay deformación"},
-        {"option_id": "C", "text": "El paralelo 45º únicamente"},
-        {"option_id": "D", "text": "Una ruta aérea"}
+        {
+          "option_id": "A",
+          "text": "La línea de tangencia del cono con la esfera donde no hay deformación"
+        },
+        {
+          "option_id": "B",
+          "text": "Una ruta aérea"
+        },
+        {
+          "option_id": "C",
+          "text": "El Ecuador siempre"
+        },
+        {
+          "option_id": "D",
+          "text": "El paralelo 45º únicamente"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Es la línea automecoica.",
       "explanation": "En el paralelo estándar la escala del mapa es exacta.",
-      "tags": ["proyecciones", "geometria"]
+      "tags": [
+        "proyecciones",
+        "geometria"
+      ]
     },
     {
       "question_id": "MOD6_074",
@@ -1176,15 +2244,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Uno"},
-        {"option_id": "B", "text": "Dos"},
-        {"option_id": "C", "text": "Ninguno"},
-        {"option_id": "D", "text": "Infinitos"}
+        {
+          "option_id": "A",
+          "text": "Infinitos"
+        },
+        {
+          "option_id": "B",
+          "text": "Dos"
+        },
+        {
+          "option_id": "C",
+          "text": "Uno"
+        },
+        {
+          "option_id": "D",
+          "text": "Ninguno"
+        }
       ],
       "correct_answer": "B",
       "hint": "Al ser secante, corta en dos líneas.",
       "explanation": "Lambert utiliza un cono secante para reducir deformaciones a la mitad.",
-      "tags": ["proyecciones", "lambert"]
+      "tags": [
+        "proyecciones",
+        "lambert"
+      ]
     },
     {
       "question_id": "MOD6_075",
@@ -1192,15 +2275,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Una recta"},
-        {"option_id": "B", "text": "Una curva con concavidad hacia el vértice de la proyección"},
-        {"option_id": "C", "text": "Un círculo perfecto"},
-        {"option_id": "D", "text": "No se puede representar"}
+        {
+          "option_id": "A",
+          "text": "Un círculo perfecto"
+        },
+        {
+          "option_id": "B",
+          "text": "No se puede representar"
+        },
+        {
+          "option_id": "C",
+          "text": "Una curva con concavidad hacia el vértice de la proyección"
+        },
+        {
+          "option_id": "D",
+          "text": "Una recta"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "La ortodrómica es la que aparece casi como recta.",
       "explanation": "La loxodrómica se curva hacia el polo en este tipo de proyección.",
-      "tags": ["proyecciones", "navegacion"]
+      "tags": [
+        "proyecciones",
+        "navegacion"
+      ]
     },
     {
       "question_id": "MOD6_076",
@@ -1208,15 +2306,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Geodesia"},
-        {"option_id": "B", "text": "Topografía"},
-        {"option_id": "C", "text": "Astronomía"},
-        {"option_id": "D", "text": "Meteorología"}
+        {
+          "option_id": "A",
+          "text": "Geodesia"
+        },
+        {
+          "option_id": "B",
+          "text": "Topografía"
+        },
+        {
+          "option_id": "C",
+          "text": "Meteorología"
+        },
+        {
+          "option_id": "D",
+          "text": "Astronomía"
+        }
       ],
       "correct_answer": "B",
       "hint": "Se centra en el detalle local.",
       "explanation": "La topografía asume la tierra plana para áreas reducidas.",
-      "tags": ["topografia"]
+      "tags": [
+        "topografia"
+      ]
     },
     {
       "question_id": "MOD6_077",
@@ -1224,15 +2336,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Su color en el mapa"},
-        {"option_id": "B", "text": "Su distancia vertical al plano de referencia (altitud)"},
-        {"option_id": "C", "text": "Su nombre geográfico"},
-        {"option_id": "D", "text": "Su velocidad de erosión"}
+        {
+          "option_id": "A",
+          "text": "Su nombre geográfico"
+        },
+        {
+          "option_id": "B",
+          "text": "Su velocidad de erosión"
+        },
+        {
+          "option_id": "C",
+          "text": "Su distancia vertical al plano de referencia (altitud)"
+        },
+        {
+          "option_id": "D",
+          "text": "Su color en el mapa"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Usada en planos acotados.",
       "explanation": "La cota define la altura del punto respecto al nivel del mar.",
-      "tags": ["topografia"]
+      "tags": [
+        "topografia"
+      ]
     },
     {
       "question_id": "MOD6_078",
@@ -1240,15 +2366,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "En Google Maps"},
-        {"option_id": "B", "text": "En el Anexo 4 de OACI"},
-        {"option_id": "C", "text": "En el diccionario de la RAE"},
-        {"option_id": "D", "text": "En las normas de tráfico"}
+        {
+          "option_id": "A",
+          "text": "En el diccionario de la RAE"
+        },
+        {
+          "option_id": "B",
+          "text": "En las normas de tráfico"
+        },
+        {
+          "option_id": "C",
+          "text": "En Google Maps"
+        },
+        {
+          "option_id": "D",
+          "text": "En el Anexo 4 de OACI"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Garantiza uniformidad mundial.",
       "explanation": "El Anexo 4 contiene el catálogo de símbolos estándar.",
-      "tags": ["oaci", "simbologia"]
+      "tags": [
+        "oaci",
+        "simbologia"
+      ]
     },
     {
       "question_id": "MOD6_079",
@@ -1256,15 +2397,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Símbolo prohibido"},
-        {"option_id": "B", "text": "Símbolo no incluido en el Anexo 4 de OACI (específico de España)"},
-        {"option_id": "C", "text": "Símbolo muy importante"},
-        {"option_id": "D", "text": "Símbolo que cambia mañana"}
+        {
+          "option_id": "A",
+          "text": "Símbolo prohibido"
+        },
+        {
+          "option_id": "B",
+          "text": "Símbolo no incluido en el Anexo 4 de OACI (específico de España)"
+        },
+        {
+          "option_id": "C",
+          "text": "Símbolo muy importante"
+        },
+        {
+          "option_id": "D",
+          "text": "Símbolo que cambia mañana"
+        }
       ],
       "correct_answer": "B",
       "hint": "Referencia al GEN 2.3.",
       "explanation": "España usa algunos símbolos propios por necesidades específicas.",
-      "tags": ["españa", "simbologia"]
+      "tags": [
+        "españa",
+        "simbologia"
+      ]
     },
     {
       "question_id": "MOD6_080",
@@ -1272,15 +2428,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Anexo 4"},
-        {"option_id": "B", "text": "Anexo 15"},
-        {"option_id": "C", "text": "Anexo 17"},
-        {"option_id": "D", "text": "Anexo 19"}
+        {
+          "option_id": "A",
+          "text": "Anexo 17"
+        },
+        {
+          "option_id": "B",
+          "text": "Anexo 19"
+        },
+        {
+          "option_id": "C",
+          "text": "Anexo 4"
+        },
+        {
+          "option_id": "D",
+          "text": "Anexo 15"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Servicios de Información Aeronáutica.",
       "explanation": "El Anexo 15 regula la gestión de toda la información aeronáutica, incluyendo cartas.",
-      "tags": ["oaci", "normativa"]
+      "tags": [
+        "oaci",
+        "normativa"
+      ]
     },
     {
       "question_id": "MOD6_081",
@@ -1288,15 +2459,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Solo el idioma nacional"},
-        {"option_id": "B", "text": "Idioma nacional e inglés"},
-        {"option_id": "C", "text": "Solo inglés"},
-        {"option_id": "D", "text": "Francés y Español"}
+        {
+          "option_id": "A",
+          "text": "Francés y Español"
+        },
+        {
+          "option_id": "B",
+          "text": "Idioma nacional e inglés"
+        },
+        {
+          "option_id": "C",
+          "text": "Solo el idioma nacional"
+        },
+        {
+          "option_id": "D",
+          "text": "Solo inglés"
+        }
       ],
       "correct_answer": "B",
       "hint": "En España son bilingües.",
       "explanation": "Para uso internacional, el inglés es el idioma común obligatorio junto al local.",
-      "tags": ["normativa"]
+      "tags": [
+        "normativa"
+      ]
     },
     {
       "question_id": "MOD6_082",
@@ -1304,15 +2489,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Carta de Navegación en Ruta"},
-        {"option_id": "B", "text": "Plano de Estacionamiento y Atraque"},
-        {"option_id": "C", "text": "Plano de Aeródromo"},
-        {"option_id": "D", "text": "Plano de Obstáculos Tipo A"}
+        {
+          "option_id": "A",
+          "text": "Plano de Obstáculos Tipo A"
+        },
+        {
+          "option_id": "B",
+          "text": "Plano de Estacionamiento y Atraque"
+        },
+        {
+          "option_id": "C",
+          "text": "Carta de Navegación en Ruta"
+        },
+        {
+          "option_id": "D",
+          "text": "Plano de Aeródromo"
+        }
       ],
       "correct_answer": "B",
       "hint": "Solo se produce si la autoridad estatal lo ve útil.",
       "explanation": "El Plano de Estacionamiento y Atraque es opcional según el Doc 8697.",
-      "tags": ["cartografia", "tipos"]
+      "tags": [
+        "cartografia",
+        "tipos"
+      ]
     },
     {
       "question_id": "MOD6_083",
@@ -1320,15 +2520,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Crucero"},
-        {"option_id": "B", "text": "Aproximación para aterrizar (CAT II/III)"},
-        {"option_id": "C", "text": "Rodaje"},
-        {"option_id": "D", "text": "Planificación en tierra"}
+        {
+          "option_id": "A",
+          "text": "Aproximación para aterrizar (CAT II/III)"
+        },
+        {
+          "option_id": "B",
+          "text": "Crucero"
+        },
+        {
+          "option_id": "C",
+          "text": "Planificación en tierra"
+        },
+        {
+          "option_id": "D",
+          "text": "Rodaje"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Muestra el perfil del terreno bajo la senda final.",
       "explanation": "Permite evaluar el efecto del terreno en el radioaltímetro durante tomas de precisión.",
-      "tags": ["fases_vuelo", "seguridad"]
+      "tags": [
+        "fases_vuelo",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD6_084",
@@ -1336,15 +2551,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Internal Air Communication"},
-        {"option_id": "B", "text": "Instrument Approach Chart (Carta de Aproximación por Instrumentos)"},
-        {"option_id": "C", "text": "International Aeronautical Center"},
-        {"option_id": "D", "text": "Information and Control"}
+        {
+          "option_id": "A",
+          "text": "International Aeronautical Center"
+        },
+        {
+          "option_id": "B",
+          "text": "Instrument Approach Chart (Carta de Aproximación por Instrumentos)"
+        },
+        {
+          "option_id": "C",
+          "text": "Information and Control"
+        },
+        {
+          "option_id": "D",
+          "text": "Internal Air Communication"
+        }
       ],
       "correct_answer": "B",
       "hint": "Indispensable para el aterrizaje IFR.",
       "explanation": "Detalla el procedimiento desde el IAF hasta el umbral.",
-      "tags": ["siglas", "cartografia"]
+      "tags": [
+        "siglas",
+        "cartografia"
+      ]
     },
     {
       "question_id": "MOD6_085",
@@ -1352,15 +2582,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1:1.000.000"},
-        {"option_id": "B", "text": "1:500.000"},
-        {"option_id": "C", "text": "1:10.000"},
-        {"option_id": "D": "1:2.000.000"}
+        {
+          "option_id": "A",
+          "text": "1:2.000.000"
+        },
+        {
+          "option_id": "B",
+          "text": "1:1.000.000"
+        },
+        {
+          "option_id": "C",
+          "text": "1:10.000"
+        },
+        {
+          "option_id": "D",
+          "text": "1:500.000"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Escala media-grande para ver detalles visuales.",
       "explanation": "Es la carta básica para vuelo visual a baja cota.",
-      "tags": ["escala", "vfr"]
+      "tags": [
+        "escala",
+        "vfr"
+      ]
     },
     {
       "question_id": "MOD6_086",
@@ -1368,15 +2613,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "SID"},
-        {"option_id": "B", "text": "Carta de Circulación VFR para TMA"},
-        {"option_id": "C", "text": "Carta de Luces"},
-        {"option_id": "D", "text": "STAR"}
+        {
+          "option_id": "A",
+          "text": "Carta de Luces"
+        },
+        {
+          "option_id": "B",
+          "text": "SID"
+        },
+        {
+          "option_id": "C",
+          "text": "STAR"
+        },
+        {
+          "option_id": "D",
+          "text": "Carta de Circulación VFR para TMA"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Establece pasillos y sectores visuales.",
       "explanation": "Separa el tráfico comercial del de aviación general visual.",
-      "tags": ["españa", "vfr"]
+      "tags": [
+        "españa",
+        "vfr"
+      ]
     },
     {
       "question_id": "MOD6_087",
@@ -1384,15 +2644,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Tienen más colores"},
-        {"option_id": "B", "text": "Interactividad y capacidad de determinar la posición dinámicamente"},
-        {"option_id": "C", "text": "Son más baratas siempre"},
-        {"option_id": "D", "text": "No tienen escala"}
+        {
+          "option_id": "A",
+          "text": "No tienen escala"
+        },
+        {
+          "option_id": "B",
+          "text": "Interactividad y capacidad de determinar la posición dinámicamente"
+        },
+        {
+          "option_id": "C",
+          "text": "Tienen más colores"
+        },
+        {
+          "option_id": "D",
+          "text": "Son más baratas siempre"
+        }
       ],
       "correct_answer": "B",
       "hint": "Aprovechan la tecnología digital.",
       "explanation": "Permiten capas de información seleccionables y actualización automática de la zona.",
-      "tags": ["tecnologia"]
+      "tags": [
+        "tecnologia"
+      ]
     },
     {
       "question_id": "MOD6_088",
@@ -1400,15 +2674,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Esperando a la edición del año que viene"},
-        {"option_id": "B", "text": "Mediante NOTAM"},
-        {"option_id": "C", "text": "Por correo electrónico al piloto"},
-        {"option_id": "D", "text": "No se notifican"}
+        {
+          "option_id": "A",
+          "text": "Mediante NOTAM"
+        },
+        {
+          "option_id": "B",
+          "text": "Por correo electrónico al piloto"
+        },
+        {
+          "option_id": "C",
+          "text": "No se notifican"
+        },
+        {
+          "option_id": "D",
+          "text": "Esperando a la edición del año que viene"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Aviso rápido a los navegantes.",
       "explanation": "El NOTAM avisa de cambios significativos e inmediatos en la cartografía.",
-      "tags": ["mantenimiento", "notam"]
+      "tags": [
+        "mantenimiento",
+        "notam"
+      ]
     },
     {
       "question_id": "MOD6_089",
@@ -1416,15 +2705,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "La que corta los polos"},
-        {"option_id": "B", "text": "Aquella cuyo eje es perpendicular al eje de rotación terrestre"},
-        {"option_id": "C", "text": "Una proyección mal hecha"},
-        {"option_id": "D", "text": "Solo sirve para ver el mar"}
+        {
+          "option_id": "A",
+          "text": "Solo sirve para ver el mar"
+        },
+        {
+          "option_id": "B",
+          "text": "Una proyección mal hecha"
+        },
+        {
+          "option_id": "C",
+          "text": "Aquella cuyo eje es perpendicular al eje de rotación terrestre"
+        },
+        {
+          "option_id": "D",
+          "text": "La que corta los polos"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Opuesta a la directa.",
       "explanation": "Es un tipo de proyección por desarrollo (cilíndrica o cónica).",
-      "tags": ["proyecciones"]
+      "tags": [
+        "proyecciones"
+      ]
     },
     {
       "question_id": "MOD6_090",
@@ -1432,15 +2735,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Los colores son muy bonitos"},
-        {"option_id": "B", "text": "La ruta ortodrómica es casi una línea recta"},
-        {"option_id": "C", "text": "No tiene escala gráfica"},
-        {"option_id": "D", "text": "Muestra las nubes en 3D"}
+        {
+          "option_id": "A",
+          "text": "La ruta ortodrómica es casi una línea recta"
+        },
+        {
+          "option_id": "B",
+          "text": "Muestra las nubes en 3D"
+        },
+        {
+          "option_id": "C",
+          "text": "No tiene escala gráfica"
+        },
+        {
+          "option_id": "D",
+          "text": "Los colores son muy bonitos"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Facilita el trazado de la trayectoria mínima.",
       "explanation": "Une puntos con una recta que coincide casi con el círculo máximo.",
-      "tags": ["proyecciones", "navegacion"]
+      "tags": [
+        "proyecciones",
+        "navegacion"
+      ]
     },
     {
       "question_id": "MOD6_091",
@@ -1448,15 +2766,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "IAC"},
-        {"option_id": "B", "text": "Carta de Luces aeronáuticas de superficie"},
-        {"option_id": "C", "text": "Plano de Aeródromo"},
-        {"option_id": "D", "text": "SID"}
+        {
+          "option_id": "A",
+          "text": "SID"
+        },
+        {
+          "option_id": "B",
+          "text": "Carta de Luces aeronáuticas de superficie"
+        },
+        {
+          "option_id": "C",
+          "text": "IAC"
+        },
+        {
+          "option_id": "D",
+          "text": "Plano de Aeródromo"
+        }
       ],
       "correct_answer": "B",
       "hint": "Información sobre faros y balizamiento visual.",
       "explanation": "Es una carta específica del AIP-España parte ENR.",
-      "tags": ["cartografia", "españa"]
+      "tags": [
+        "cartografia",
+        "españa"
+      ]
     },
     {
       "question_id": "MOD6_092",
@@ -1464,15 +2797,29 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Que todas las montañas miden lo mismo"},
-        {"option_id": "B", "text": "Que guarda la proporcionalidad entre las distancias"},
-        {"option_id": "C", "text": "Que tiene muchos colores"},
-        {"option_id": "D", "text": "Que no tiene meridianos"}
+        {
+          "option_id": "A",
+          "text": "Que todas las montañas miden lo mismo"
+        },
+        {
+          "option_id": "B",
+          "text": "Que guarda la proporcionalidad entre las distancias"
+        },
+        {
+          "option_id": "C",
+          "text": "Que tiene muchos colores"
+        },
+        {
+          "option_id": "D",
+          "text": "Que no tiene meridianos"
+        }
       ],
       "correct_answer": "B",
       "hint": "Solo se cumple en ciertas líneas.",
       "explanation": "Conserva la escala de distancias en determinadas direcciones.",
-      "tags": ["proyecciones"]
+      "tags": [
+        "proyecciones"
+      ]
     },
     {
       "question_id": "MOD6_093",
@@ -1480,15 +2827,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Un tipo de avión"},
-        {"option_id": "B", "text": "Sistema de tres ejes perpendiculares (X, Y, Z) con una orientación específica"},
-        {"option_id": "C", "text": "Un error de la brújula"},
-        {"option_id": "D", "text": "Una carta de tres páginas"}
+        {
+          "option_id": "A",
+          "text": "Sistema de tres ejes perpendiculares (X, Y, Z) con una orientación específica"
+        },
+        {
+          "option_id": "B",
+          "text": "Una carta de tres páginas"
+        },
+        {
+          "option_id": "C",
+          "text": "Un tipo de avión"
+        },
+        {
+          "option_id": "D",
+          "text": "Un error de la brújula"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Define el sistema de coordenadas cartesianas terrestre.",
       "explanation": "Es la base geométrica tridimensional del sistema WGS84.",
-      "tags": ["geodesia"]
+      "tags": [
+        "geodesia"
+      ]
     },
     {
       "question_id": "MOD6_094",
@@ -1496,15 +2857,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Kilómetros"},
-        {"option_id": "B", "text": "Millas Náuticas (NM)"},
-        {"option_id": "C", "text": "Millas terrestres"},
-        {"option_id": "D", "text": "Pies"}
+        {
+          "option_id": "A",
+          "text": "Millas terrestres"
+        },
+        {
+          "option_id": "B",
+          "text": "Kilómetros"
+        },
+        {
+          "option_id": "C",
+          "text": "Pies"
+        },
+        {
+          "option_id": "D",
+          "text": "Millas Náuticas (NM)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "1 NM = 1.852 m.",
       "explanation": "La milla náutica es el estándar internacional para navegación.",
-      "tags": ["unidades"]
+      "tags": [
+        "unidades"
+      ]
     },
     {
       "question_id": "MOD6_095",
@@ -1512,15 +2887,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Carta de en Ruta"},
-        {"option_id": "B", "text": "Carta de áreas prioritarias a evitar"},
-        {"option_id": "C", "text": "IAC"},
-        {"option_id": "D", "text": "Plano de Obstáculos"}
+        {
+          "option_id": "A",
+          "text": "Plano de Obstáculos"
+        },
+        {
+          "option_id": "B",
+          "text": "Carta de áreas prioritarias a evitar"
+        },
+        {
+          "option_id": "C",
+          "text": "IAC"
+        },
+        {
+          "option_id": "D",
+          "text": "Carta de en Ruta"
+        }
       ],
       "correct_answer": "B",
       "hint": "Basada en datos de Agricultura y Pesca.",
       "explanation": "Protege espacios naturales sensibles del ruido y sobrevuelo de baja cota.",
-      "tags": ["españa", "medio_ambiente"]
+      "tags": [
+        "españa",
+        "medio_ambiente"
+      ]
     },
     {
       "question_id": "MOD6_096",
@@ -1528,15 +2918,29 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Línea ideal que atraviesa la Tierra pasando por su centro sobre la cual gira"},
-        {"option_id": "B", "text": "El Ecuador"},
-        {"option_id": "C", "text": "La órbita alrededor del sol"},
-        {"option_id": "D", "text": "Un meridiano cualquiera"}
+        {
+          "option_id": "A",
+          "text": "La órbita alrededor del sol"
+        },
+        {
+          "option_id": "B",
+          "text": "Línea ideal que atraviesa la Tierra pasando por su centro sobre la cual gira"
+        },
+        {
+          "option_id": "C",
+          "text": "El Ecuador"
+        },
+        {
+          "option_id": "D",
+          "text": "Un meridiano cualquiera"
+        }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "hint": "Une los polos geográficos.",
       "explanation": "Es el eje sobre el cual se produce el día y la noche.",
-      "tags": ["geodesia"]
+      "tags": [
+        "geodesia"
+      ]
     },
     {
       "question_id": "MOD6_097",
@@ -1544,15 +2948,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "6.371 km"},
-        {"option_id": "B", "text": "40.076 km"},
-        {"option_id": "C", "text": "12.742 km"},
-        {"option_id": "D", "text": "510 millones km"}
+        {
+          "option_id": "A",
+          "text": "12.742 km"
+        },
+        {
+          "option_id": "B",
+          "text": "510 millones km"
+        },
+        {
+          "option_id": "C",
+          "text": "6.371 km"
+        },
+        {
+          "option_id": "D",
+          "text": "40.076 km"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Círculo máximo terrestre.",
       "explanation": "Es el perímetro de la Tierra medido en su parte más ancha.",
-      "tags": ["geodesia", "cifras"]
+      "tags": [
+        "geodesia",
+        "cifras"
+      ]
     },
     {
       "question_id": "MOD6_098",
@@ -1560,15 +2979,29 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "La que no tiene errores"},
-        {"option_id": "B", "text": "Aquella cuyo eje de superficie es paralelo al eje de rotación terrestre"},
-        {"option_id": "C", "text": "Dibujar a mano"},
-        {"option_id": "D", "text": "Ver desde el espacio"}
+        {
+          "option_id": "A",
+          "text": "Ver desde el espacio"
+        },
+        {
+          "option_id": "B",
+          "text": "Aquella cuyo eje de superficie es paralelo al eje de rotación terrestre"
+        },
+        {
+          "option_id": "C",
+          "text": "Dibujar a mano"
+        },
+        {
+          "option_id": "D",
+          "text": "La que no tiene errores"
+        }
       ],
       "correct_answer": "B",
       "hint": "Orientación estándar del cilindro o cono.",
       "explanation": "Es la posición de referencia para las proyecciones cilíndricas y cónicas.",
-      "tags": ["proyecciones"]
+      "tags": [
+        "proyecciones"
+      ]
     },
     {
       "question_id": "MOD6_099",
@@ -1576,15 +3009,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "AIC"},
-        {"option_id": "B", "text": "Carta específica del AIP-España"},
-        {"option_id": "C", "text": "Carta de Área"},
-        {"option_id": "D", "text": "NOTAM mensual"}
+        {
+          "option_id": "A",
+          "text": "NOTAM mensual"
+        },
+        {
+          "option_id": "B",
+          "text": "Carta específica del AIP-España"
+        },
+        {
+          "option_id": "C",
+          "text": "Carta de Área"
+        },
+        {
+          "option_id": "D",
+          "text": "AIC"
+        }
       ],
       "correct_answer": "B",
       "hint": "Representada por separado de otras aves por su relevancia.",
       "explanation": "Debido al tamaño de estas aves, suponen un riesgo especial para la navegación.",
-      "tags": ["españa", "seguridad"]
+      "tags": [
+        "españa",
+        "seguridad"
+      ]
     },
     {
       "question_id": "MOD6_100",
@@ -1592,15 +3040,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Volar en formación"},
-        {"option_id": "B", "text": "Facilitar el movimiento de aeronaves en tierra (calles de rodaje) en aeropuertos complejos"},
-        {"option_id": "C", "text": "Medir la pista"},
-        {"option_id": "D", "text": "Controlar las luces de aproximación"}
+        {
+          "option_id": "A",
+          "text": "Controlar las luces de aproximación"
+        },
+        {
+          "option_id": "B",
+          "text": "Facilitar el movimiento de aeronaves en tierra (calles de rodaje) en aeropuertos complejos"
+        },
+        {
+          "option_id": "C",
+          "text": "Medir la pista"
+        },
+        {
+          "option_id": "D",
+          "text": "Volar en formación"
+        }
       ],
       "correct_answer": "B",
       "hint": "Complementa al plano general de aeródromo.",
       "explanation": "Se usa cuando la red de calles de rodaje es tan densa que requiere una carta detallada.",
-      "tags": ["cartografia", "aerodromos"]
+      "tags": [
+        "cartografia",
+        "aerodromos"
+      ]
     }
   ],
   "metadata": {

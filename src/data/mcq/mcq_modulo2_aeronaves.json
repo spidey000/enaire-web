@@ -8,15 +8,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "AMS (Servicio Móvil Aeronáutico)"},
-        {"option_id": "B", "text": "AFS (Servicio Fijo Aeronáutico)"},
-        {"option_id": "C", "text": "ATS"},
-        {"option_id": "D", "text": "MET"}
+        {
+          "option_id": "A",
+          "text": "MET"
+        },
+        {
+          "option_id": "B",
+          "text": "ATS"
+        },
+        {
+          "option_id": "C",
+          "text": "AFS (Servicio Fijo Aeronáutico)"
+        },
+        {
+          "option_id": "D",
+          "text": "AMS (Servicio Móvil Aeronáutico)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Comunicaciones punto a punto en tierra.",
       "explanation": "El Servicio Fijo Aeronáutico (AFS) se encarga de las comunicaciones entre estaciones terrestres fijas.",
-      "tags": ["comunicaciones", "afs"]
+      "tags": [
+        "comunicaciones",
+        "afs"
+      ]
     },
     {
       "question_id": "MOD2_002",
@@ -24,15 +39,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Internet público"},
-        {"option_id": "B", "text": "AFTN (Red de Telecomunicaciones Fijas Aeronáuticas)"},
-        {"option_id": "C", "text": "ACARS"},
-        {"option_id": "D", "text": "Red telefónica básica"}
+        {
+          "option_id": "A",
+          "text": "Internet público"
+        },
+        {
+          "option_id": "B",
+          "text": "Red telefónica básica"
+        },
+        {
+          "option_id": "C",
+          "text": "ACARS"
+        },
+        {
+          "option_id": "D",
+          "text": "AFTN (Red de Telecomunicaciones Fijas Aeronáuticas)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Es un sistema completo y mundial de circuitos fijos.",
       "explanation": "La AFTN es el soporte para el intercambio de mensajes y datos entre estaciones fijas aeronáuticas.",
-      "tags": ["comunicaciones", "aftn"]
+      "tags": [
+        "comunicaciones",
+        "aftn"
+      ]
     },
     {
       "question_id": "MOD2_003",
@@ -40,15 +70,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Estructura de estrella"},
-        {"option_id": "B", "text": "Estructura de malla"},
-        {"option_id": "C", "text": "Estructura lineal"},
-        {"option_id": "D", "text": "Estructura jerárquica piramidal"}
+        {
+          "option_id": "A",
+          "text": "Estructura de malla"
+        },
+        {
+          "option_id": "B",
+          "text": "Estructura lineal"
+        },
+        {
+          "option_id": "C",
+          "text": "Estructura de estrella"
+        },
+        {
+          "option_id": "D",
+          "text": "Estructura jerárquica piramidal"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Cualquier centro tiene comunicación con todos los demás de la red.",
       "explanation": "AFTN tiene estructura de malla, permitiendo que los mensajes lleguen a todos los centros conectados.",
-      "tags": ["comunicaciones", "aftn"]
+      "tags": [
+        "comunicaciones",
+        "aftn"
+      ]
     },
     {
       "question_id": "MOD2_004",
@@ -56,15 +101,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "3 letras"},
-        {"option_id": "B", "text": "4 letras"},
-        {"option_id": "C", "text": "5 letras"},
-        {"option_id": "D", "text": "2 letras y 2 números"}
+        {
+          "option_id": "A",
+          "text": "4 letras"
+        },
+        {
+          "option_id": "B",
+          "text": "2 letras y 2 números"
+        },
+        {
+          "option_id": "C",
+          "text": "5 letras"
+        },
+        {
+          "option_id": "D",
+          "text": "3 letras"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Ejemplo: LEMD, LEBL.",
       "explanation": "El indicador de lugar OACI es un grupo de cuatro letras que identifica localizaciones geográficas.",
-      "tags": ["codigos", "oaci"]
+      "tags": [
+        "codigos",
+        "oaci"
+      ]
     },
     {
       "question_id": "MOD2_005",
@@ -72,15 +132,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Doc 4444"},
-        {"option_id": "B", "text": "Doc 7910"},
-        {"option_id": "C", "text": "Doc 8585"},
-        {"option_id": "D", "text": "Anexo 17"}
+        {
+          "option_id": "A",
+          "text": "Doc 4444"
+        },
+        {
+          "option_id": "B",
+          "text": "Doc 8585"
+        },
+        {
+          "option_id": "C",
+          "text": "Doc 7910"
+        },
+        {
+          "option_id": "D",
+          "text": "Anexo 17"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Se titula 'Indicadores de lugar'.",
       "explanation": "El documento 7910 de OACI contiene los indicadores de lugar y sus normas de asignación.",
-      "tags": ["oaci", "documentacion"]
+      "tags": [
+        "oaci",
+        "documentacion"
+      ]
     },
     {
       "question_id": "MOD2_006",
@@ -88,15 +163,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "1 mes"},
-        {"option_id": "B", "text": "6 meses"},
-        {"option_id": "C", "text": "1 año"},
-        {"option_id": "D", "text": "24 horas"}
+        {
+          "option_id": "A",
+          "text": "24 horas"
+        },
+        {
+          "option_id": "B",
+          "text": "1 mes"
+        },
+        {
+          "option_id": "C",
+          "text": "6 meses"
+        },
+        {
+          "option_id": "D",
+          "text": "1 año"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Medio año.",
       "explanation": "No debería volverse a asignar un indicador de lugar durante un periodo de seis meses como mínimo tras su anulación previa.",
-      "tags": ["codigos", "normativa"]
+      "tags": [
+        "codigos",
+        "normativa"
+      ]
     },
     {
       "question_id": "MOD2_007",
@@ -104,15 +194,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Con una almohadilla (#)"},
-        {"option_id": "B", "text": "Con un asterisco (*)"},
-        {"option_id": "C", "text": "En color rojo"},
-        {"option_id": "D", "text": "Con la letra X al final"}
+        {
+          "option_id": "A",
+          "text": "En color rojo"
+        },
+        {
+          "option_id": "B",
+          "text": "Con un asterisco (*)"
+        },
+        {
+          "option_id": "C",
+          "text": "Con la letra X al final"
+        },
+        {
+          "option_id": "D",
+          "text": "Con una almohadilla (#)"
+        }
       ],
       "correct_answer": "B",
       "hint": "Marca especial para lugares sin cursado de mensajes AFTN.",
       "explanation": "Se identifican con un asterisco (*) para indicar que no es posible cursar mensajes por la red fija.",
-      "tags": ["codigos", "aftn"]
+      "tags": [
+        "codigos",
+        "aftn"
+      ]
     },
     {
       "question_id": "MOD2_008",
@@ -120,15 +225,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Sí, siempre que sea más corto"},
-        {"option_id": "B", "text": "No, se debe usar el distintivo de llamada (ej. Canarias Control)"},
-        {"option_id": "C", "text": "Solo en emergencias"},
-        {"option_id": "D", "text": "Solo para vuelos militares"}
+        {
+          "option_id": "A",
+          "text": "Solo para vuelos militares"
+        },
+        {
+          "option_id": "B",
+          "text": "No, se debe usar el distintivo de llamada (ej. Canarias Control)"
+        },
+        {
+          "option_id": "C",
+          "text": "Solo en emergencias"
+        },
+        {
+          "option_id": "D",
+          "text": "Sí, siempre que sea más corto"
+        }
       ],
       "correct_answer": "B",
       "hint": "No se puede decir 'GCCC' en vez de 'Canarias Control'.",
       "explanation": "Los indicadores de lugar de la OACI no deben utilizarse para la identificación de las transmisiones de radio en vez de los distintivos de llamada.",
-      "tags": ["comunicaciones", "radio"]
+      "tags": [
+        "comunicaciones",
+        "radio"
+      ]
     },
     {
       "question_id": "MOD2_009",
@@ -136,15 +256,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "El Estado"},
-        {"option_id": "B", "text": "El área de encaminamiento del AFS (zona geográfica mundial)"},
-        {"option_id": "C", "text": "El nombre del aeropuerto"},
-        {"option_id": "D": "La altitud del aeródromo"}
+        {
+          "option_id": "A",
+          "text": "La altitud del aeródromo"
+        },
+        {
+          "option_id": "B",
+          "text": "El nombre del aeropuerto"
+        },
+        {
+          "option_id": "C",
+          "text": "El Estado"
+        },
+        {
+          "option_id": "D",
+          "text": "El área de encaminamiento del AFS (zona geográfica mundial)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Divide el mundo en grandes zonas de comunicaciones.",
       "explanation": "La primera letra identifica el área de encaminamiento del Servicio Fijo Aeronáutico.",
-      "tags": ["codigos", "oaci"]
+      "tags": [
+        "codigos",
+        "oaci"
+      ]
     },
     {
       "question_id": "MOD2_010",
@@ -152,15 +287,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "G"},
-        {"option_id": "B", "text": "L"},
-        {"option_id": "C", "text": "E"},
-        {"option_id": "D", "text": "S"}
+        {
+          "option_id": "A",
+          "text": "G"
+        },
+        {
+          "option_id": "B",
+          "text": "E"
+        },
+        {
+          "option_id": "C",
+          "text": "S"
+        },
+        {
+          "option_id": "D",
+          "text": "L"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Muchos códigos empiezan por LE...",
       "explanation": "A España peninsular le corresponde la letra L como primera letra del indicador.",
-      "tags": ["españa", "codigos"]
+      "tags": [
+        "españa",
+        "codigos"
+      ]
     },
     {
       "question_id": "MOD2_011",
@@ -168,15 +318,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "L"},
-        {"option_id": "B", "text": "G"},
-        {"option_id": "C", "text": "C"},
-        {"option_id": "D", "text": "A"}
+        {
+          "option_id": "A",
+          "text": "G"
+        },
+        {
+          "option_id": "B",
+          "text": "A"
+        },
+        {
+          "option_id": "C",
+          "text": "L"
+        },
+        {
+          "option_id": "D",
+          "text": "C"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Ejemplo: GCCC, GEML.",
       "explanation": "A Canarias y las ciudades autónomas les corresponde la letra G.",
-      "tags": ["españa", "codigos"]
+      "tags": [
+        "españa",
+        "codigos"
+      ]
     },
     {
       "question_id": "MOD2_012",
@@ -184,15 +349,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "La región"},
-        {"option_id": "B", "text": "El Estado o territorio dentro de la zona de encaminamiento"},
-        {"option_id": "C", "text": "El tipo de pista"},
-        {"option_id": "D", "text": "La categoría de estela turbulenta"}
+        {
+          "option_id": "A",
+          "text": "La categoría de estela turbulenta"
+        },
+        {
+          "option_id": "B",
+          "text": "El tipo de pista"
+        },
+        {
+          "option_id": "C",
+          "text": "El Estado o territorio dentro de la zona de encaminamiento"
+        },
+        {
+          "option_id": "D",
+          "text": "La región"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "En la península es la E (LE...), en Canarias la C (GC...).",
       "explanation": "La segunda letra identifica al Estado o territorio dentro de su área de encaminamiento.",
-      "tags": ["codigos", "oaci"]
+      "tags": [
+        "codigos",
+        "oaci"
+      ]
     },
     {
       "question_id": "MOD2_013",
@@ -200,15 +380,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "GCLP"},
-        {"option_id": "B", "text": "GCCC"},
-        {"option_id": "C", "text": "LECM"},
-        {"option_id": "D", "text": "GCCR"}
+        {
+          "option_id": "A",
+          "text": "GCCC"
+        },
+        {
+          "option_id": "B",
+          "text": "GCLP"
+        },
+        {
+          "option_id": "C",
+          "text": "LECM"
+        },
+        {
+          "option_id": "D",
+          "text": "GCCR"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Área de encaminamiento G, Estado C.",
       "explanation": "GCCC es el indicador de Canarias FIC/ACC.",
-      "tags": ["españa", "centros_control"]
+      "tags": [
+        "españa",
+        "centros_control"
+      ]
     },
     {
       "question_id": "MOD2_014",
@@ -216,15 +411,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LEMD"},
-        {"option_id": "B", "text": "LECM"},
-        {"option_id": "C", "text": "LECS"},
-        {"option_id": "D", "text": "LECB"}
+        {
+          "option_id": "A",
+          "text": "LECM"
+        },
+        {
+          "option_id": "B",
+          "text": "LEMD"
+        },
+        {
+          "option_id": "C",
+          "text": "LECS"
+        },
+        {
+          "option_id": "D",
+          "text": "LECB"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "C de Centro, M de Madrid.",
       "explanation": "LECM identifica al Centro de Control de Área de Madrid.",
-      "tags": ["españa", "centros_control"]
+      "tags": [
+        "españa",
+        "centros_control"
+      ]
     },
     {
       "question_id": "MOD2_015",
@@ -232,15 +442,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Aeropuerto de Barcelona"},
-        {"option_id": "B", "text": "Barcelona FIC/ACC"},
-        {"option_id": "C", "text": "Centro de Control de Burdeos"},
-        {"option_id": "D", "text": "Torre de Sabadell"}
+        {
+          "option_id": "A",
+          "text": "Aeropuerto de Barcelona"
+        },
+        {
+          "option_id": "B",
+          "text": "Torre de Sabadell"
+        },
+        {
+          "option_id": "C",
+          "text": "Barcelona FIC/ACC"
+        },
+        {
+          "option_id": "D",
+          "text": "Centro de Control de Burdeos"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "C de Centro, B de Barcelona.",
       "explanation": "LECB identifica al Centro de Control de Área de Barcelona.",
-      "tags": ["españa", "centros_control"]
+      "tags": [
+        "españa",
+        "centros_control"
+      ]
     },
     {
       "question_id": "MOD2_016",
@@ -248,15 +473,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LECM"},
-        {"option_id": "B", "text": "LECP (Palma)"},
-        {"option_id": "C", "text": "LECS"},
-        {"option_id": "D", "text": "GCCC"}
+        {
+          "option_id": "A",
+          "text": "LECS"
+        },
+        {
+          "option_id": "B",
+          "text": "GCCC"
+        },
+        {
+          "option_id": "C",
+          "text": "LECM"
+        },
+        {
+          "option_id": "D",
+          "text": "LECP (Palma)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Palma, Santiago y Valencia tienen TACC.",
       "explanation": "LECP es el TACC de Palma de Mallorca.",
-      "tags": ["españa", "centros_control"]
+      "tags": [
+        "españa",
+        "centros_control"
+      ]
     },
     {
       "question_id": "MOD2_017",
@@ -264,15 +504,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LECM"},
-        {"option_id": "B", "text": "LEMD"},
-        {"option_id": "C", "text": "LETO"},
-        {"option_id": "D", "text": "LECU"}
+        {
+          "option_id": "A",
+          "text": "LECM"
+        },
+        {
+          "option_id": "B",
+          "text": "LEMD"
+        },
+        {
+          "option_id": "C",
+          "text": "LECU"
+        },
+        {
+          "option_id": "D",
+          "text": "LETO"
+        }
       ],
       "correct_answer": "B",
       "hint": "MD = Madrid.",
       "explanation": "LEMD es el indicador del aeropuerto principal de Madrid.",
-      "tags": ["españa", "aerodromos"]
+      "tags": [
+        "españa",
+        "aerodromos"
+      ]
     },
     {
       "question_id": "MOD2_018",
@@ -280,15 +535,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LECB"},
-        {"option_id": "B", "text": "LEBL"},
-        {"option_id": "C", "text": "LEGE"},
-        {"option_id": "D", "text": "LERS"}
+        {
+          "option_id": "A",
+          "text": "LEGE"
+        },
+        {
+          "option_id": "B",
+          "text": "LERS"
+        },
+        {
+          "option_id": "C",
+          "text": "LEBL"
+        },
+        {
+          "option_id": "D",
+          "text": "LECB"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Barcelona L...",
       "explanation": "LEBL es el indicador del aeropuerto de Barcelona - El Prat.",
-      "tags": ["españa", "aerodromos"]
+      "tags": [
+        "españa",
+        "aerodromos"
+      ]
     },
     {
       "question_id": "MOD2_019",
@@ -296,15 +566,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LEZL"},
-        {"option_id": "B", "text": "LEMG"},
-        {"option_id": "C", "text": "LEAM"},
-        {"option_id": "D", "text": "LEAL"}
+        {
+          "option_id": "A",
+          "text": "LEAL"
+        },
+        {
+          "option_id": "B",
+          "text": "LEZL"
+        },
+        {
+          "option_id": "C",
+          "text": "LEMG"
+        },
+        {
+          "option_id": "D",
+          "text": "LEAM"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "MG = Málaga.",
       "explanation": "LEMG identifica al aeropuerto de Málaga.",
-      "tags": ["españa", "aerodromos"]
+      "tags": [
+        "españa",
+        "aerodromos"
+      ]
     },
     {
       "question_id": "MOD2_020",
@@ -312,15 +597,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LECP"},
-        {"option_id": "B", "text": "LEPA"},
-        {"option_id": "C", "text": "LEMH"},
-        {"option_id": "D", "text": "LEIB"}
+        {
+          "option_id": "A",
+          "text": "LEPA"
+        },
+        {
+          "option_id": "B",
+          "text": "LEIB"
+        },
+        {
+          "option_id": "C",
+          "text": "LECP"
+        },
+        {
+          "option_id": "D",
+          "text": "LEMH"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "PA = Palma.",
       "explanation": "LEPA es el indicador del aeropuerto de Palma de Mallorca.",
-      "tags": ["españa", "aerodromos"]
+      "tags": [
+        "españa",
+        "aerodromos"
+      ]
     },
     {
       "question_id": "MOD2_021",
@@ -328,15 +628,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "GCCC"},
-        {"option_id": "B", "text": "GCLP"},
-        {"option_id": "C", "text": "GCTS"},
-        {"option_id": "D", "text": "GCXO"}
+        {
+          "option_id": "A",
+          "text": "GCCC"
+        },
+        {
+          "option_id": "B",
+          "text": "GCTS"
+        },
+        {
+          "option_id": "C",
+          "text": "GCXO"
+        },
+        {
+          "option_id": "D",
+          "text": "GCLP"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Empieza por G (Canarias).",
       "explanation": "GCLP identifica al aeropuerto de Gran Canaria (Las Palmas).",
-      "tags": ["españa", "aerodromos"]
+      "tags": [
+        "españa",
+        "aerodromos"
+      ]
     },
     {
       "question_id": "MOD2_022",
@@ -344,15 +659,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "GCXO"},
-        {"option_id": "B", "text": "GCTS"},
-        {"option_id": "C", "text": "GCLA"},
-        {"option_id": "D", "text": "GCGM"}
+        {
+          "option_id": "A",
+          "text": "GCTS"
+        },
+        {
+          "option_id": "B",
+          "text": "GCLA"
+        },
+        {
+          "option_id": "C",
+          "text": "GCGM"
+        },
+        {
+          "option_id": "D",
+          "text": "GCXO"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "TS = Tenerife Sur.",
       "explanation": "GCTS identifica al aeropuerto de Tenerife Sur - Reina Sofía.",
-      "tags": ["españa", "aerodromos"]
+      "tags": [
+        "españa",
+        "aerodromos"
+      ]
     },
     {
       "question_id": "MOD2_023",
@@ -360,15 +690,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "GCTS"},
-        {"option_id": "B", "text": "GCXO"},
-        {"option_id": "C", "text": "GCXM"},
-        {"option_id": "D", "text": "GCLA"}
+        {
+          "option_id": "A",
+          "text": "GCLA"
+        },
+        {
+          "option_id": "B",
+          "text": "GCXM"
+        },
+        {
+          "option_id": "C",
+          "text": "GCTS"
+        },
+        {
+          "option_id": "D",
+          "text": "GCXO"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Anteriormente Los Rodeos.",
       "explanation": "GCXO es el indicador de Tenerife Norte.",
-      "tags": ["españa", "aerodromos"]
+      "tags": [
+        "españa",
+        "aerodromos"
+      ]
     },
     {
       "question_id": "MOD2_024",
@@ -376,15 +721,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Zaragoza"},
-        {"option_id": "B", "text": "Sevilla"},
-        {"option_id": "C", "text": "Jerez"},
-        {"option_id": "D", "text": "Albacete"}
+        {
+          "option_id": "A",
+          "text": "Jerez"
+        },
+        {
+          "option_id": "B",
+          "text": "Albacete"
+        },
+        {
+          "option_id": "C",
+          "text": "Sevilla"
+        },
+        {
+          "option_id": "D",
+          "text": "Zaragoza"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Z... L... de Sevilla.",
       "explanation": "LEZL identifica al aeropuerto de Sevilla.",
-      "tags": ["españa", "aerodromos"]
+      "tags": [
+        "españa",
+        "aerodromos"
+      ]
     },
     {
       "question_id": "MOD2_025",
@@ -392,15 +752,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LECL"},
-        {"option_id": "B", "text": "LEVC"},
-        {"option_id": "C", "text": "LEAL"},
-        {"option_id": "D", "text": "LEIB"}
+        {
+          "option_id": "A",
+          "text": "LECL"
+        },
+        {
+          "option_id": "B",
+          "text": "LEVC"
+        },
+        {
+          "option_id": "C",
+          "text": "LEIB"
+        },
+        {
+          "option_id": "D",
+          "text": "LEAL"
+        }
       ],
       "correct_answer": "B",
       "hint": "VC = Valencia.",
       "explanation": "LEVC identifica al aeropuerto de Valencia.",
-      "tags": ["españa", "aerodromos"]
+      "tags": [
+        "españa",
+        "aerodromos"
+      ]
     },
     {
       "question_id": "MOD2_026",
@@ -408,15 +783,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LECG"},
-        {"option_id": "B", "text": "LEST"},
-        {"option_id": "C", "text": "LECO"},
-        {"option_id": "D", "text": "LEVX"}
+        {
+          "option_id": "A",
+          "text": "LEVX"
+        },
+        {
+          "option_id": "B",
+          "text": "LEST"
+        },
+        {
+          "option_id": "C",
+          "text": "LECO"
+        },
+        {
+          "option_id": "D",
+          "text": "LECG"
+        }
       ],
       "correct_answer": "B",
       "hint": "ST = Santiago.",
       "explanation": "LEST identifica al aeropuerto de Santiago.",
-      "tags": ["españa", "aerodromos"]
+      "tags": [
+        "españa",
+        "aerodromos"
+      ]
     },
     {
       "question_id": "MOD2_027",
@@ -424,15 +814,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LEBB"},
-        {"option_id": "B", "text": "LESO"},
-        {"option_id": "C", "text": "LEVT"},
-        {"option_id": "D", "text": "LEBG"}
+        {
+          "option_id": "A",
+          "text": "LEVT"
+        },
+        {
+          "option_id": "B",
+          "text": "LEBG"
+        },
+        {
+          "option_id": "C",
+          "text": "LESO"
+        },
+        {
+          "option_id": "D",
+          "text": "LEBB"
+        }
       ],
-      "correct_answer": "A",
+      "correct_answer": "D",
       "hint": "Bilbao B...",
       "explanation": "LEBB es el indicador del aeropuerto de Bilbao.",
-      "tags": ["españa", "aerodromos"]
+      "tags": [
+        "españa",
+        "aerodromos"
+      ]
     },
     {
       "question_id": "MOD2_028",
@@ -440,15 +845,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LEMD"},
-        {"option_id": "B", "text": "LETO"},
-        {"option_id": "C", "text": "LEGT"},
-        {"option_id": "D", "text": "LECU"}
+        {
+          "option_id": "A",
+          "text": "LEMD"
+        },
+        {
+          "option_id": "B",
+          "text": "LECU"
+        },
+        {
+          "option_id": "C",
+          "text": "LETO"
+        },
+        {
+          "option_id": "D",
+          "text": "LEGT"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "TO = Torrejón.",
       "explanation": "LETO identifica a la Base Aérea de Torrejón de Ardoz.",
-      "tags": ["españa", "aerodromos"]
+      "tags": [
+        "españa",
+        "aerodromos"
+      ]
     },
     {
       "question_id": "MOD2_029",
@@ -456,15 +876,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LEAM"},
-        {"option_id": "B", "text": "LEAL"},
-        {"option_id": "C", "text": "LEMI"},
-        {"option_id": "D", "text": "LELC"}
+        {
+          "option_id": "A",
+          "text": "LEAM"
+        },
+        {
+          "option_id": "B",
+          "text": "LEAL"
+        },
+        {
+          "option_id": "C",
+          "text": "LEMI"
+        },
+        {
+          "option_id": "D",
+          "text": "LELC"
+        }
       ],
       "correct_answer": "B",
       "hint": "AL = Alicante.",
       "explanation": "LEAL identifica al aeropuerto de Alicante.",
-      "tags": ["españa", "aerodromos"]
+      "tags": [
+        "españa",
+        "aerodromos"
+      ]
     },
     {
       "question_id": "MOD2_030",
@@ -472,15 +907,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LEIB"},
-        {"option_id": "B", "text": "LEMH"},
-        {"option_id": "C", "text": "LEPA"},
-        {"option_id": "D", "text": "LEPO"}
+        {
+          "option_id": "A",
+          "text": "LEMH"
+        },
+        {
+          "option_id": "B",
+          "text": "LEPA"
+        },
+        {
+          "option_id": "C",
+          "text": "LEIB"
+        },
+        {
+          "option_id": "D",
+          "text": "LEPO"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "MH = Menorca Mahón.",
       "explanation": "LEMH identifica al aeropuerto de Menorca.",
-      "tags": ["españa", "aerodromos"]
+      "tags": [
+        "españa",
+        "aerodromos"
+      ]
     },
     {
       "question_id": "MOD2_031",
@@ -488,15 +938,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LEPA"},
-        {"option_id": "B", "text": "LEIB"},
-        {"option_id": "C", "text": "LEMH"},
-        {"option_id": "D", "text": "LEPO"}
+        {
+          "option_id": "A",
+          "text": "LEPA"
+        },
+        {
+          "option_id": "B",
+          "text": "LEMH"
+        },
+        {
+          "option_id": "C",
+          "text": "LEPO"
+        },
+        {
+          "option_id": "D",
+          "text": "LEIB"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "IB = Ibiza.",
       "explanation": "LEIB identifica al aeropuerto de Ibiza.",
-      "tags": ["españa", "aerodromos"]
+      "tags": [
+        "españa",
+        "aerodromos"
+      ]
     },
     {
       "question_id": "MOD2_032",
@@ -504,15 +969,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Aeropuerto de Gran Canaria"},
-        {"option_id": "B", "text": "Centro de Control de Canarias (FIC/ACC)"},
-        {"option_id": "C", "text": "Torre de Control de Lanzarote"},
-        {"option_id": "D", "text": "Base Aérea de Gando"}
+        {
+          "option_id": "A",
+          "text": "Base Aérea de Gando"
+        },
+        {
+          "option_id": "B",
+          "text": "Torre de Control de Lanzarote"
+        },
+        {
+          "option_id": "C",
+          "text": "Aeropuerto de Gran Canaria"
+        },
+        {
+          "option_id": "D",
+          "text": "Centro de Control de Canarias (FIC/ACC)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Es un centro de control.",
       "explanation": "GCCC identifica al FIC/ACC de Canarias.",
-      "tags": ["españa", "centros_control"]
+      "tags": [
+        "españa",
+        "centros_control"
+      ]
     },
     {
       "question_id": "MOD2_033",
@@ -520,15 +1000,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LPPO"},
-        {"option_id": "B", "text": "LPPC"},
-        {"option_id": "C", "text": "LFRR"},
-        {"option_id": "D", "text": "GMMM"}
+        {
+          "option_id": "A",
+          "text": "LFRR"
+        },
+        {
+          "option_id": "B",
+          "text": "LPPC"
+        },
+        {
+          "option_id": "C",
+          "text": "LPPO"
+        },
+        {
+          "option_id": "D",
+          "text": "GMMM"
+        }
       ],
       "correct_answer": "B",
       "hint": "LP = Portugal.",
       "explanation": "LPPC identifica al Centro de Control de Lisboa.",
-      "tags": ["colaterales", "codigos"]
+      "tags": [
+        "colaterales",
+        "codigos"
+      ]
     },
     {
       "question_id": "MOD2_034",
@@ -536,15 +1031,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LFRR"},
-        {"option_id": "B", "text": "LFBB"},
-        {"option_id": "C", "text": "LFMM"},
-        {"option_id": "D", "text": "DAAA"}
+        {
+          "option_id": "A",
+          "text": "LFMM"
+        },
+        {
+          "option_id": "B",
+          "text": "LFRR"
+        },
+        {
+          "option_id": "C",
+          "text": "LFBB"
+        },
+        {
+          "option_id": "D",
+          "text": "DAAA"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "LF = Francia, BB = Burdeos.",
       "explanation": "LFBB identifica al Centro de Control de Burdeos.",
-      "tags": ["colaterales", "codigos"]
+      "tags": [
+        "colaterales",
+        "codigos"
+      ]
     },
     {
       "question_id": "MOD2_035",
@@ -552,15 +1062,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Lisboa"},
-        {"option_id": "B", "text": "Gibraltar"},
-        {"option_id": "C", "text": "Tánger"},
-        {"option_id": "D", "text": "Biarritz"}
+        {
+          "option_id": "A",
+          "text": "Gibraltar"
+        },
+        {
+          "option_id": "B",
+          "text": "Biarritz"
+        },
+        {
+          "option_id": "C",
+          "text": "Tánger"
+        },
+        {
+          "option_id": "D",
+          "text": "Lisboa"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "GB = Gibraltar.",
       "explanation": "LXGB es el indicador de Gibraltar.",
-      "tags": ["colaterales", "codigos"]
+      "tags": [
+        "colaterales",
+        "codigos"
+      ]
     },
     {
       "question_id": "MOD2_036",
@@ -568,15 +1093,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LEML"},
-        {"option_id": "B", "text": "GEML"},
-        {"option_id": "C", "text": "GEHM"},
-        {"option_id": "D", "text": "GSAI"}
+        {
+          "option_id": "A",
+          "text": "LEML"
+        },
+        {
+          "option_id": "B",
+          "text": "GSAI"
+        },
+        {
+          "option_id": "C",
+          "text": "GEHM"
+        },
+        {
+          "option_id": "D",
+          "text": "GEML"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Empieza por G (Área G).",
       "explanation": "GEML identifica al aeropuerto de Melilla.",
-      "tags": ["españa", "aerodromos"]
+      "tags": [
+        "españa",
+        "aerodromos"
+      ]
     },
     {
       "question_id": "MOD2_037",
@@ -584,15 +1124,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Oficina Meteorológica"},
-        {"option_id": "B", "text": "Torre de Control de Aeródromo"},
-        {"option_id": "C", "text": "Oficina AIS de Aeródromo"},
-        {"option_id": "D", "text": "Director General"}
+        {
+          "option_id": "A",
+          "text": "Oficina Meteorológica"
+        },
+        {
+          "option_id": "B",
+          "text": "Director General"
+        },
+        {
+          "option_id": "C",
+          "text": "Torre de Control de Aeródromo"
+        },
+        {
+          "option_id": "D",
+          "text": "Oficina AIS de Aeródromo"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Ejemplo: LEALZTZX.",
       "explanation": "ZTZ identifica a la Torre de Control en los mensajes AFTN.",
-      "tags": ["codigos", "servicios"]
+      "tags": [
+        "codigos",
+        "servicios"
+      ]
     },
     {
       "question_id": "MOD2_038",
@@ -600,15 +1155,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Torre de Control"},
-        {"option_id": "B", "text": "Oficina AIS de Aeródromo"},
-        {"option_id": "C", "text": "Oficina Meteorológica"},
-        {"option_id": "D", "text": "Centro de Control de Área"}
+        {
+          "option_id": "A",
+          "text": "Oficina Meteorológica"
+        },
+        {
+          "option_id": "B",
+          "text": "Oficina AIS de Aeródromo"
+        },
+        {
+          "option_id": "C",
+          "text": "Centro de Control de Área"
+        },
+        {
+          "option_id": "D",
+          "text": "Torre de Control"
+        }
       ],
       "correct_answer": "B",
       "hint": "Relacionado con la información aeronáutica.",
       "explanation": "YOY identifica a la oficina del Servicio de Información Aeronáutica de aeródromo.",
-      "tags": ["codigos", "servicios"]
+      "tags": [
+        "codigos",
+        "servicios"
+      ]
     },
     {
       "question_id": "MOD2_039",
@@ -616,15 +1186,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "YOY"},
-        {"option_id": "B", "text": "YMY"},
-        {"option_id": "C", "text": "ZTZ"},
-        {"option_id": "D", "text": "YNY"}
+        {
+          "option_id": "A",
+          "text": "YMY"
+        },
+        {
+          "option_id": "B",
+          "text": "YOY"
+        },
+        {
+          "option_id": "C",
+          "text": "YNY"
+        },
+        {
+          "option_id": "D",
+          "text": "ZTZ"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "M de Meteo.",
       "explanation": "YMY identifica a la oficina meteorológica (ej. GCHIYMYX para El Hierro).",
-      "tags": ["codigos", "servicios"]
+      "tags": [
+        "codigos",
+        "servicios"
+      ]
     },
     {
       "question_id": "MOD2_040",
@@ -632,15 +1217,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Doc 7910"},
-        {"option_id": "B", "text": "Doc 8585"},
-        {"option_id": "C", "text": "Doc 8643"},
-        {"option_id": "D", "text": "Doc 4444"}
+        {
+          "option_id": "A",
+          "text": "Doc 8585"
+        },
+        {
+          "option_id": "B",
+          "text": "Doc 4444"
+        },
+        {
+          "option_id": "C",
+          "text": "Doc 8643"
+        },
+        {
+          "option_id": "D",
+          "text": "Doc 7910"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Contiene códigos de 3 letras para compañías.",
       "explanation": "El Doc 8585 contiene los designadores telegráficos y telefónicos de aerolíneas y entidades.",
-      "tags": ["oaci", "documentacion"]
+      "tags": [
+        "oaci",
+        "documentacion"
+      ]
     },
     {
       "question_id": "MOD2_041",
@@ -648,15 +1248,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "2 letras"},
-        {"option_id": "B", "text": "3 letras"},
-        {"option_id": "C", "text": "4 letras"},
-        {"option_id": "D", "text": "1 letra y 2 números"}
+        {
+          "option_id": "A",
+          "text": "3 letras"
+        },
+        {
+          "option_id": "B",
+          "text": "1 letra y 2 números"
+        },
+        {
+          "option_id": "C",
+          "text": "2 letras"
+        },
+        {
+          "option_id": "D",
+          "text": "4 letras"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Ejemplo: IBE, RYR.",
       "explanation": "Los designadores telegráficos OACI para compañías aéreas son grupos de tres letras.",
-      "tags": ["compañias", "codigos"]
+      "tags": [
+        "compañias",
+        "codigos"
+      ]
     },
     {
       "question_id": "MOD2_042",
@@ -664,15 +1279,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "BRITISH"},
-        {"option_id": "B", "text": "SPEEDBIRD"},
-        {"option_id": "C", "text": "BEALINE"},
-        {"option_id": "D", "text": "SHUTTLE"}
+        {
+          "option_id": "A",
+          "text": "SHUTTLE"
+        },
+        {
+          "option_id": "B",
+          "text": "SPEEDBIRD"
+        },
+        {
+          "option_id": "C",
+          "text": "BRITISH"
+        },
+        {
+          "option_id": "D",
+          "text": "BEALINE"
+        }
       ],
       "correct_answer": "B",
       "hint": "Pájaro veloz.",
       "explanation": "El designador telefónico (callsign) de British Airways es SPEEDBIRD.",
-      "tags": ["compañias", "callsign"]
+      "tags": [
+        "compañias",
+        "callsign"
+      ]
     },
     {
       "question_id": "MOD2_043",
@@ -680,15 +1310,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "AIF"},
-        {"option_id": "B", "text": "AFR"},
-        {"option_id": "C", "text": "FAF"},
-        {"option_id": "D", "text": "FRA"}
+        {
+          "option_id": "A",
+          "text": "AFR"
+        },
+        {
+          "option_id": "B",
+          "text": "FAF"
+        },
+        {
+          "option_id": "C",
+          "text": "AIF"
+        },
+        {
+          "option_id": "D",
+          "text": "FRA"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Empieza por AF...",
       "explanation": "El designador telegráfico de Air France es AFR.",
-      "tags": ["compañias", "codigos"]
+      "tags": [
+        "compañias",
+        "codigos"
+      ]
     },
     {
       "question_id": "MOD2_044",
@@ -696,15 +1341,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "IBR"},
-        {"option_id": "B", "text": "IBE"},
-        {"option_id": "C", "text": "ANS"},
-        {"option_id": "D", "text": "IBA"}
+        {
+          "option_id": "A",
+          "text": "IBR"
+        },
+        {
+          "option_id": "B",
+          "text": "ANS"
+        },
+        {
+          "option_id": "C",
+          "text": "IBE"
+        },
+        {
+          "option_id": "D",
+          "text": "IBA"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Tres letras, empieza por IB.",
       "explanation": "IBE es el designador telegráfico OACI de Iberia.",
-      "tags": ["compañias", "codigos"]
+      "tags": [
+        "compañias",
+        "codigos"
+      ]
     },
     {
       "question_id": "MOD2_045",
@@ -712,15 +1372,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Anexo 1"},
-        {"option_id": "B", "text": "Anexo 7"},
-        {"option_id": "C", "text": "Anexo 8"},
-        {"option_id": "D", "text": "Anexo 10"}
+        {
+          "option_id": "A",
+          "text": "Anexo 7"
+        },
+        {
+          "option_id": "B",
+          "text": "Anexo 1"
+        },
+        {
+          "option_id": "C",
+          "text": "Anexo 8"
+        },
+        {
+          "option_id": "D",
+          "text": "Anexo 10"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Siete de matrícula.",
       "explanation": "El Anexo 7 establece las normas para marcas de nacionalidad y matrículas.",
-      "tags": ["oaci", "anexos"]
+      "tags": [
+        "oaci",
+        "anexos"
+      ]
     },
     {
       "question_id": "MOD2_046",
@@ -728,15 +1403,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "E"},
-        {"option_id": "B", "text": "EC"},
-        {"option_id": "C", "text": "ES"},
-        {"option_id": "D", "text": "SP"}
+        {
+          "option_id": "A",
+          "text": "E"
+        },
+        {
+          "option_id": "B",
+          "text": "ES"
+        },
+        {
+          "option_id": "C",
+          "text": "EC"
+        },
+        {
+          "option_id": "D",
+          "text": "SP"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "España Civil.",
       "explanation": "EC es la marca de nacionalidad asignada a España por OACI.",
-      "tags": ["españa", "matriculas"]
+      "tags": [
+        "españa",
+        "matriculas"
+      ]
     },
     {
       "question_id": "MOD2_047",
@@ -744,15 +1434,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "A"},
-        {"option_id": "B", "text": "D"},
-        {"option_id": "C", "text": "G"},
-        {"option_id": "D", "text": "OE"}
+        {
+          "option_id": "A",
+          "text": "A"
+        },
+        {
+          "option_id": "B",
+          "text": "G"
+        },
+        {
+          "option_id": "C",
+          "text": "D"
+        },
+        {
+          "option_id": "D",
+          "text": "OE"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Deutschland.",
       "explanation": "D es la marca de nacionalidad de Alemania.",
-      "tags": ["matriculas"]
+      "tags": [
+        "matriculas"
+      ]
     },
     {
       "question_id": "MOD2_048",
@@ -760,15 +1464,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Noruega"},
-        {"option_id": "B", "text": "EE.UU."},
-        {"option_id": "C", "text": "Países Bajos"},
-        {"option_id": "D", "text": "Nicaragua"}
+        {
+          "option_id": "A",
+          "text": "EE.UU."
+        },
+        {
+          "option_id": "B",
+          "text": "Países Bajos"
+        },
+        {
+          "option_id": "C",
+          "text": "Noruega"
+        },
+        {
+          "option_id": "D",
+          "text": "Nicaragua"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "November...",
       "explanation": "N es la marca de nacionalidad de los Estados Unidos de América.",
-      "tags": ["matriculas"]
+      "tags": [
+        "matriculas"
+      ]
     },
     {
       "question_id": "MOD2_049",
@@ -776,15 +1494,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "FR"},
-        {"option_id": "B", "text": "F"},
-        {"option_id": "C", "text": "FA"},
-        {"option_id": "D", "text": "OO"}
+        {
+          "option_id": "A",
+          "text": "FR"
+        },
+        {
+          "option_id": "B",
+          "text": "OO"
+        },
+        {
+          "option_id": "C",
+          "text": "FA"
+        },
+        {
+          "option_id": "D",
+          "text": "F"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Una sola letra.",
       "explanation": "F es la marca de nacionalidad de Francia.",
-      "tags": ["matriculas"]
+      "tags": [
+        "matriculas"
+      ]
     },
     {
       "question_id": "MOD2_050",
@@ -792,15 +1524,29 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "UK"},
-        {"option_id": "B", "text": "G"},
-        {"option_id": "C", "text": "GB"},
-        {"option_id": "D", "text": "BR"}
+        {
+          "option_id": "A",
+          "text": "G"
+        },
+        {
+          "option_id": "B",
+          "text": "UK"
+        },
+        {
+          "option_id": "C",
+          "text": "GB"
+        },
+        {
+          "option_id": "D",
+          "text": "BR"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Golf.",
       "explanation": "G es la marca de nacionalidad del Reino Unido.",
-      "tags": ["matriculas"]
+      "tags": [
+        "matriculas"
+      ]
     },
     {
       "question_id": "MOD2_051",
@@ -808,15 +1554,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "La que usan todos los aviones de una aerolínea"},
-        {"option_id": "B", "text": "La asignada a un organismo internacional de explotación (ej. ONU)"},
-        {"option_id": "C", "text": "La marca de nacionalidad estándar"},
-        {"option_id": "D", "text": "Un adhesivo publicitario"}
+        {
+          "option_id": "A",
+          "text": "La asignada a un organismo internacional de explotación (ej. ONU)"
+        },
+        {
+          "option_id": "B",
+          "text": "La marca de nacionalidad estándar"
+        },
+        {
+          "option_id": "C",
+          "text": "Un adhesivo publicitario"
+        },
+        {
+          "option_id": "D",
+          "text": "La que usan todos los aviones de una aerolínea"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Ejemplo: Naciones Unidas usa 4U.",
       "explanation": "La marca común se usa cuando la aeronave pertenece a un organismo internacional no nacional.",
-      "tags": ["matriculas", "oaci"]
+      "tags": [
+        "matriculas",
+        "oaci"
+      ]
     },
     {
       "question_id": "MOD2_052",
@@ -824,15 +1585,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "4 letras"},
-        {"option_id": "B", "text": "3 letras"},
-        {"option_id": "C": "2 letras y 1 número"},
-        {"option_id": "D", "text": "5 letras"}
+        {
+          "option_id": "A",
+          "text": "3 letras"
+        },
+        {
+          "option_id": "B",
+          "text": "2 letras y 1 número"
+        },
+        {
+          "option_id": "C",
+          "text": "4 letras"
+        },
+        {
+          "option_id": "D",
+          "text": "5 letras"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Ejemplo: MAD, BCN.",
       "explanation": "Los indicadores de lugar IATA están formados por tres letras.",
-      "tags": ["codigos", "iata"]
+      "tags": [
+        "codigos",
+        "iata"
+      ]
     },
     {
       "question_id": "MOD2_053",
@@ -840,15 +1616,31 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "BAR"},
-        {"option_id": "B", "text": "MAD"},
-        {"option_id": "C", "text": "LEMD"},
-        {"option_id": "D", "text": "MSB"}
+        {
+          "option_id": "A",
+          "text": "MSB"
+        },
+        {
+          "option_id": "B",
+          "text": "MAD"
+        },
+        {
+          "option_id": "C",
+          "text": "BAR"
+        },
+        {
+          "option_id": "D",
+          "text": "LEMD"
+        }
       ],
       "correct_answer": "B",
       "hint": "Abreviatura de Madrid.",
       "explanation": "MAD es el código IATA de Madrid-Barajas.",
-      "tags": ["españa", "aerodromos", "iata"]
+      "tags": [
+        "españa",
+        "aerodromos",
+        "iata"
+      ]
     },
     {
       "question_id": "MOD2_054",
@@ -856,15 +1648,31 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "MAL"},
-        {"option_id": "B", "text": "AGP"},
-        {"option_id": "C", "text": "MLG"},
-        {"option_id": "D", "text": "CDS"}
+        {
+          "option_id": "A",
+          "text": "MAL"
+        },
+        {
+          "option_id": "B",
+          "text": "AGP"
+        },
+        {
+          "option_id": "C",
+          "text": "CDS"
+        },
+        {
+          "option_id": "D",
+          "text": "MLG"
+        }
       ],
       "correct_answer": "B",
       "hint": "Aeropuerto García-Pola (curiosidad histórica).",
       "explanation": "AGP identifica al aeropuerto de Málaga.",
-      "tags": ["españa", "aerodromos", "iata"]
+      "tags": [
+        "españa",
+        "aerodromos",
+        "iata"
+      ]
     },
     {
       "question_id": "MOD2_055",
@@ -872,15 +1680,31 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "GCLP"},
-        {"option_id": "B", "text": "LPA"},
-        {"option_id": "C", "text": "GCA"},
-        {"option_id": "D", "text": "CAN"}
+        {
+          "option_id": "A",
+          "text": "GCA"
+        },
+        {
+          "option_id": "B",
+          "text": "CAN"
+        },
+        {
+          "option_id": "C",
+          "text": "GCLP"
+        },
+        {
+          "option_id": "D",
+          "text": "LPA"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Las Palmas.",
       "explanation": "LPA es el código IATA de Gran Canaria.",
-      "tags": ["españa", "aerodromos", "iata"]
+      "tags": [
+        "españa",
+        "aerodromos",
+        "iata"
+      ]
     },
     {
       "question_id": "MOD2_056",
@@ -888,15 +1712,31 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "SAN"},
-        {"option_id": "B", "text": "SCQ"},
-        {"option_id": "C", "text": "SNT"},
-        {"option_id": "D", "text": "LEST"}
+        {
+          "option_id": "A",
+          "text": "SNT"
+        },
+        {
+          "option_id": "B",
+          "text": "SAN"
+        },
+        {
+          "option_id": "C",
+          "text": "SCQ"
+        },
+        {
+          "option_id": "D",
+          "text": "LEST"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Santiago Cu... (apodo local).",
       "explanation": "SCQ es el código IATA de Santiago.",
-      "tags": ["españa", "aerodromos", "iata"]
+      "tags": [
+        "españa",
+        "aerodromos",
+        "iata"
+      ]
     },
     {
       "question_id": "MOD2_057",
@@ -904,15 +1744,31 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Valladolid"},
-        {"option_id": "B", "text": "Valencia"},
-        {"option_id": "C", "text": "Vigo"},
-        {"option_id": "D", "text": "Vitoria"}
+        {
+          "option_id": "A",
+          "text": "Valladolid"
+        },
+        {
+          "option_id": "B",
+          "text": "Valencia"
+        },
+        {
+          "option_id": "C",
+          "text": "Vigo"
+        },
+        {
+          "option_id": "D",
+          "text": "Vitoria"
+        }
       ],
       "correct_answer": "B",
       "hint": "V... Valencia.",
       "explanation": "VLC es el código IATA de Valencia.",
-      "tags": ["españa", "aerodromos", "iata"]
+      "tags": [
+        "españa",
+        "aerodromos",
+        "iata"
+      ]
     },
     {
       "question_id": "MOD2_058",
@@ -920,15 +1776,31 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "HIE"},
-        {"option_id": "B", "text": "VDE"},
-        {"option_id": "C", "text": "GCHI"},
-        {"option_id": "D", "text": "HER"}
+        {
+          "option_id": "A",
+          "text": "GCHI"
+        },
+        {
+          "option_id": "B",
+          "text": "HIE"
+        },
+        {
+          "option_id": "C",
+          "text": "VDE"
+        },
+        {
+          "option_id": "D",
+          "text": "HER"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Valverde.",
       "explanation": "VDE (Valverde) es el código IATA de El Hierro.",
-      "tags": ["españa", "aerodromos", "iata"]
+      "tags": [
+        "españa",
+        "aerodromos",
+        "iata"
+      ]
     },
     {
       "question_id": "MOD2_059",
@@ -936,15 +1808,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "IBE"},
-        {"option_id": "B", "text": "IB"},
-        {"option_id": "C", "text": "IA"},
-        {"option_id": "D", "text": "EA"}
+        {
+          "option_id": "A",
+          "text": "IBE"
+        },
+        {
+          "option_id": "B",
+          "text": "IB"
+        },
+        {
+          "option_id": "C",
+          "text": "IA"
+        },
+        {
+          "option_id": "D",
+          "text": "EA"
+        }
       ],
       "correct_answer": "B",
       "hint": "Dos letras.",
       "explanation": "El código IATA de Iberia es IB.",
-      "tags": ["compañias", "iata"]
+      "tags": [
+        "compañias",
+        "iata"
+      ]
     },
     {
       "question_id": "MOD2_060",
@@ -952,15 +1839,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "VLG"},
-        {"option_id": "B", "text": "VY"},
-        {"option_id": "C", "text": "VU"},
-        {"option_id": "D", "text": "VL"}
+        {
+          "option_id": "A",
+          "text": "VY"
+        },
+        {
+          "option_id": "B",
+          "text": "VLG"
+        },
+        {
+          "option_id": "C",
+          "text": "VU"
+        },
+        {
+          "option_id": "D",
+          "text": "VL"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "V... Y...",
       "explanation": "El código IATA de Vueling es VY.",
-      "tags": ["compañias", "iata"]
+      "tags": [
+        "compañias",
+        "iata"
+      ]
     },
     {
       "question_id": "MOD2_061",
@@ -968,15 +1870,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Fuselaje"},
-        {"option_id": "B", "text": "Alas"},
-        {"option_id": "C", "text": "Hélice"},
-        {"option_id": "D", "text": "Empenaje"}
+        {
+          "option_id": "A",
+          "text": "Empenaje"
+        },
+        {
+          "option_id": "B",
+          "text": "Hélice"
+        },
+        {
+          "option_id": "C",
+          "text": "Alas"
+        },
+        {
+          "option_id": "D",
+          "text": "Fuselaje"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Componente principal sustentador.",
       "explanation": "Las alas generan la sustentación necesaria en todas las fases del vuelo.",
-      "tags": ["aeronaves", "partes"]
+      "tags": [
+        "aeronaves",
+        "partes"
+      ]
     },
     {
       "question_id": "MOD2_062",
@@ -984,15 +1901,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Empenaje"},
-        {"option_id": "B", "text": "Fuselaje"},
-        {"option_id": "C", "text": "Bodega"},
-        {"option_id": "D", "text": "Deriva"}
+        {
+          "option_id": "A",
+          "text": "Fuselaje"
+        },
+        {
+          "option_id": "B",
+          "text": "Bodega"
+        },
+        {
+          "option_id": "C",
+          "text": "Deriva"
+        },
+        {
+          "option_id": "D",
+          "text": "Empenaje"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Estructura central.",
       "explanation": "El fuselaje es el cuerpo del avión que alberga tripulación, pasaje y carga.",
-      "tags": ["aeronaves", "partes"]
+      "tags": [
+        "aeronaves",
+        "partes"
+      ]
     },
     {
       "question_id": "MOD2_063",
@@ -1000,15 +1932,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Timón de dirección"},
-        {"option_id": "B", "text": "Alerón"},
-        {"option_id": "C", "text": "Flap"},
-        {"option_id": "D", "text": "Hélice"}
+        {
+          "option_id": "A",
+          "text": "Flap"
+        },
+        {
+          "option_id": "B",
+          "text": "Alerón"
+        },
+        {
+          "option_id": "C",
+          "text": "Hélice"
+        },
+        {
+          "option_id": "D",
+          "text": "Timón de dirección"
+        }
       ],
       "correct_answer": "B",
       "hint": "Situado en las alas.",
       "explanation": "Los alerones permiten el alabeo haciendo que una ala suba y la otra baje.",
-      "tags": ["aeronaves", "partes"]
+      "tags": [
+        "aeronaves",
+        "partes"
+      ]
     },
     {
       "question_id": "MOD2_064",
@@ -1016,15 +1963,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Fuselaje"},
-        {"option_id": "B", "text": "Empenaje"},
-        {"option_id": "C", "text": "Nariz"},
-        {"option_id": "D", "text": "Tren de aterrizaje"}
+        {
+          "option_id": "A",
+          "text": "Empenaje"
+        },
+        {
+          "option_id": "B",
+          "text": "Nariz"
+        },
+        {
+          "option_id": "C",
+          "text": "Fuselaje"
+        },
+        {
+          "option_id": "D",
+          "text": "Tren de aterrizaje"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Contiene los estabilizadores.",
       "explanation": "El empenaje es la cola del avión.",
-      "tags": ["aeronaves", "partes"]
+      "tags": [
+        "aeronaves",
+        "partes"
+      ]
     },
     {
       "question_id": "MOD2_065",
@@ -1032,15 +1994,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Alerón"},
-        {"option_id": "B", "text": "Timón de profundidad (o elevador)"},
-        {"option_id": "C", "text": "Timón de dirección"},
-        {"option_id": "D", "text": "Spoiler"}
+        {
+          "option_id": "A",
+          "text": "Spoiler"
+        },
+        {
+          "option_id": "B",
+          "text": "Alerón"
+        },
+        {
+          "option_id": "C",
+          "text": "Timón de dirección"
+        },
+        {
+          "option_id": "D",
+          "text": "Timón de profundidad (o elevador)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Situado en el estabilizador horizontal.",
       "explanation": "El timón de profundidad permite el movimiento de cabeceo.",
-      "tags": ["aeronaves", "partes"]
+      "tags": [
+        "aeronaves",
+        "partes"
+      ]
     },
     {
       "question_id": "MOD2_066",
@@ -1048,15 +2025,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Alerón"},
-        {"option_id": "B", "text": "Timón de dirección (o de cola)"},
-        {"option_id": "C", "text": "Elevador"},
-        {"option_id": "D", "text": "Flap"}
+        {
+          "option_id": "A",
+          "text": "Flap"
+        },
+        {
+          "option_id": "B",
+          "text": "Timón de dirección (o de cola)"
+        },
+        {
+          "option_id": "C",
+          "text": "Alerón"
+        },
+        {
+          "option_id": "D",
+          "text": "Elevador"
+        }
       ],
       "correct_answer": "B",
       "hint": "Situado en el estabilizador vertical.",
       "explanation": "El timón de dirección controla la guiñada sobre el eje vertical.",
-      "tags": ["aeronaves", "partes"]
+      "tags": [
+        "aeronaves",
+        "partes"
+      ]
     },
     {
       "question_id": "MOD2_067",
@@ -1064,15 +2056,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Estructura alar"},
-        {"option_id": "B", "text": "Tren de aterrizaje"},
-        {"option_id": "C", "text": "Fuselaje"},
-        {"option_id": "D", "text": "Patines de cola"}
+        {
+          "option_id": "A",
+          "text": "Estructura alar"
+        },
+        {
+          "option_id": "B",
+          "text": "Patines de cola"
+        },
+        {
+          "option_id": "C",
+          "text": "Fuselaje"
+        },
+        {
+          "option_id": "D",
+          "text": "Tren de aterrizaje"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Compuesto por ruedas y amortiguadores.",
       "explanation": "El tren de aterrizaje sirve de soporte, permite el rodaje y absorbe el impacto de la toma.",
-      "tags": ["aeronaves", "partes"]
+      "tags": [
+        "aeronaves",
+        "partes"
+      ]
     },
     {
       "question_id": "MOD2_068",
@@ -1080,15 +2087,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Ala alta"},
-        {"option_id": "B", "text": "Doble ala"},
-        {"option_id": "C", "text": "Ala baja"},
-        {"option_id": "D", "text": "Ala en parasol"}
+        {
+          "option_id": "A",
+          "text": "Ala alta"
+        },
+        {
+          "option_id": "B",
+          "text": "Doble ala"
+        },
+        {
+          "option_id": "C",
+          "text": "Ala baja"
+        },
+        {
+          "option_id": "D",
+          "text": "Ala en parasol"
+        }
       ],
       "correct_answer": "B",
       "hint": "Típico de aviones antiguos.",
       "explanation": "Un biplano tiene dos alas superpuestas (doble ala).",
-      "tags": ["reconocimiento", "ala"]
+      "tags": [
+        "reconocimiento",
+        "ala"
+      ]
     },
     {
       "question_id": "MOD2_069",
@@ -1096,15 +2118,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Flecha progresiva"},
-        {"option_id": "B", "text": "Flecha regresiva (o positiva)"},
-        {"option_id": "C", "text": "Flecha recta"},
-        {"option_id": "D", "text": "Flecha invertida"}
+        {
+          "option_id": "A",
+          "text": "Flecha progresiva"
+        },
+        {
+          "option_id": "B",
+          "text": "Flecha invertida"
+        },
+        {
+          "option_id": "C",
+          "text": "Flecha regresiva (o positiva)"
+        },
+        {
+          "option_id": "D",
+          "text": "Flecha recta"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Es la más común en aviones comerciales.",
       "explanation": "La flecha regresiva o positiva tiene las puntas de las alas más atrás que el encastre.",
-      "tags": ["reconocimiento", "ala"]
+      "tags": [
+        "reconocimiento",
+        "ala"
+      ]
     },
     {
       "question_id": "MOD2_070",
@@ -1112,15 +2149,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Cola en cruz"},
-        {"option_id": "B", "text": "Cola en T"},
-        {"option_id": "C", "text": "Cola doble"},
-        {"option_id": "D", "text": "Cola fuselada"}
+        {
+          "option_id": "A",
+          "text": "Cola fuselada"
+        },
+        {
+          "option_id": "B",
+          "text": "Cola doble"
+        },
+        {
+          "option_id": "C",
+          "text": "Cola en cruz"
+        },
+        {
+          "option_id": "D",
+          "text": "Cola en T"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Forma la letra T.",
       "explanation": "La cola en T sitúa el estabilizador horizontal arriba del todo.",
-      "tags": ["reconocimiento", "cola"]
+      "tags": [
+        "reconocimiento",
+        "cola"
+      ]
     },
     {
       "question_id": "MOD2_071",
@@ -1128,15 +2180,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Motor de pistón"},
-        {"option_id": "B", "text": "Turbohélice"},
-        {"option_id": "C", "text": "Turborreactor"},
-        {"option_id": "D", "text": "Motor eléctrico"}
+        {
+          "option_id": "A",
+          "text": "Turborreactor"
+        },
+        {
+          "option_id": "B",
+          "text": "Motor de pistón"
+        },
+        {
+          "option_id": "C",
+          "text": "Motor eléctrico"
+        },
+        {
+          "option_id": "D",
+          "text": "Turbohélice"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Hélice + turbina.",
       "explanation": "El turbohélice utiliza la potencia de una turbina de gas para mover la hélice.",
-      "tags": ["reconocimiento", "motor"]
+      "tags": [
+        "reconocimiento",
+        "motor"
+      ]
     },
     {
       "question_id": "MOD2_072",
@@ -1144,15 +2211,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Bimotor"},
-        {"option_id": "B", "text": "Cuatrimotor"},
-        {"option_id": "C", "text": "Polimotor"},
-        {"option_id": "D", "text": "Trimotor"}
+        {
+          "option_id": "A",
+          "text": "Cuatrimotor"
+        },
+        {
+          "option_id": "B",
+          "text": "Trimotor"
+        },
+        {
+          "option_id": "C",
+          "text": "Polimotor"
+        },
+        {
+          "option_id": "D",
+          "text": "Bimotor"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Cuatro motores.",
       "explanation": "Se denomina cuatrimotor a la aeronave de cuatro plantas de potencia.",
-      "tags": ["reconocimiento", "motor"]
+      "tags": [
+        "reconocimiento",
+        "motor"
+      ]
     },
     {
       "question_id": "MOD2_073",
@@ -1160,15 +2242,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Tren fijo"},
-        {"option_id": "B", "text": "Tren retráctil"},
-        {"option_id": "C", "text": "Tren carenado"},
-        {"option_id": "D", "text": "Patines"}
+        {
+          "option_id": "A",
+          "text": "Patines"
+        },
+        {
+          "option_id": "B",
+          "text": "Tren retráctil"
+        },
+        {
+          "option_id": "C",
+          "text": "Tren fijo"
+        },
+        {
+          "option_id": "D",
+          "text": "Tren carenado"
+        }
       ],
       "correct_answer": "B",
       "hint": "Se retrae.",
       "explanation": "El tren retráctil mejora la aerodinámica al guardarse tras el despegue.",
-      "tags": ["reconocimiento", "tren"]
+      "tags": [
+        "reconocimiento",
+        "tren"
+      ]
     },
     {
       "question_id": "MOD2_074",
@@ -1176,15 +2273,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Uno (principal) y uno de cola"},
-        {"option_id": "B", "text": "Dos principales"},
-        {"option_id": "C", "text": "Cuatro"},
-        {"option_id": "D", "text": "Solo uno"}
+        {
+          "option_id": "A",
+          "text": "Cuatro"
+        },
+        {
+          "option_id": "B",
+          "text": "Dos principales"
+        },
+        {
+          "option_id": "C",
+          "text": "Uno (principal) y uno de cola"
+        },
+        {
+          "option_id": "D",
+          "text": "Solo uno"
+        }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "hint": "Rotor principal y rotor antipar.",
       "explanation": "La mayoría tienen un rotor principal y otro pequeño en la cola.",
-      "tags": ["helicópteros", "rotores"]
+      "tags": [
+        "helicópteros",
+        "rotores"
+      ]
     },
     {
       "question_id": "MOD2_075",
@@ -1192,15 +2304,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "A320"},
-        {"option_id": "B", "text": "A320"},
-        {"option_id": "C", "text": "A321"},
-        {"option_id": "D", "text": "A319"}
+        {
+          "option_id": "A",
+          "text": "A321"
+        },
+        {
+          "option_id": "B",
+          "text": "A320"
+        },
+        {
+          "option_id": "C",
+          "text": "A320"
+        },
+        {
+          "option_id": "D",
+          "text": "A319"
+        }
       ],
       "correct_answer": "B",
       "hint": "Coincide con el modelo.",
       "explanation": "El designador OACI para el A320 es A320.",
-      "tags": ["reconocimiento", "aeronaves"]
+      "tags": [
+        "reconocimiento",
+        "aeronaves"
+      ]
     },
     {
       "question_id": "MOD2_076",
@@ -1208,15 +2335,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "B747"},
-        {"option_id": "B", "text": "B744"},
-        {"option_id": "C", "text": "B748"},
-        {"option_id": "D", "text": "B741"}
+        {
+          "option_id": "A",
+          "text": "B747"
+        },
+        {
+          "option_id": "B",
+          "text": "B741"
+        },
+        {
+          "option_id": "C",
+          "text": "B748"
+        },
+        {
+          "option_id": "D",
+          "text": "B744"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Serie 400.",
       "explanation": "El designador para el B747-400 es B744.",
-      "tags": ["reconocimiento", "aeronaves"]
+      "tags": [
+        "reconocimiento",
+        "aeronaves"
+      ]
     },
     {
       "question_id": "MOD2_077",
@@ -1224,15 +2366,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Para todos los aviones pesados"},
-        {"option_id": "B", "text": "Exclusiva para el AIRBUS A380-800"},
-        {"option_id": "C", "text": "Para el Antonov 225"},
-        {"option_id": "D", "text": "Para aviones rápidos"}
+        {
+          "option_id": "A",
+          "text": "Para todos los aviones pesados"
+        },
+        {
+          "option_id": "B",
+          "text": "Para el Antonov 225"
+        },
+        {
+          "option_id": "C",
+          "text": "Para aviones rápidos"
+        },
+        {
+          "option_id": "D",
+          "text": "Exclusiva para el AIRBUS A380-800"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Super-Heavy.",
       "explanation": "La categoría J es exclusiva para el A388 en la clasificación OACI.",
-      "tags": ["estela_turbulenta", "oaci"]
+      "tags": [
+        "estela_turbulenta",
+        "oaci"
+      ]
     },
     {
       "question_id": "MOD2_078",
@@ -1240,15 +2397,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "7.000 kg"},
-        {"option_id": "B", "text": "136.000 kg"},
-        {"option_id": "C", "text": "560.000 kg"},
-        {"option_id": "D", "text": "100.000 kg"}
+        {
+          "option_id": "A",
+          "text": "560.000 kg"
+        },
+        {
+          "option_id": "B",
+          "text": "7.000 kg"
+        },
+        {
+          "option_id": "C",
+          "text": "100.000 kg"
+        },
+        {
+          "option_id": "D",
+          "text": "136.000 kg"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Límite superior de la categoría Media.",
       "explanation": "Aeronaves de 136.000 kg o más se consideran pesadas (Heavy).",
-      "tags": ["estela_turbulenta", "mtow"]
+      "tags": [
+        "estela_turbulenta",
+        "mtow"
+      ]
     },
     {
       "question_id": "MOD2_079",
@@ -1256,15 +2428,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "2.000 kg"},
-        {"option_id": "B", "text": "7.000 kg"},
-        {"option_id": "C", "text": "15.000 kg"},
-        {"option_id": "D", "text": "5.700 kg"}
+        {
+          "option_id": "A",
+          "text": "15.000 kg"
+        },
+        {
+          "option_id": "B",
+          "text": "5.700 kg"
+        },
+        {
+          "option_id": "C",
+          "text": "2.000 kg"
+        },
+        {
+          "option_id": "D",
+          "text": "7.000 kg"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Aeronaves ligeras.",
       "explanation": "Aeronaves de 7.000 kg o menos se consideran ligeras (Light).",
-      "tags": ["estela_turbulenta", "mtow"]
+      "tags": [
+        "estela_turbulenta",
+        "mtow"
+      ]
     },
     {
       "question_id": "MOD2_080",
@@ -1272,15 +2459,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Pesado (Heavy)"},
-        {"option_id": "B", "text": "Medio (Medium)"},
-        {"option_id": "C", "text": "Ligero"},
-        {"option_id": "D", "text": "Súper"}
+        {
+          "option_id": "A",
+          "text": "Medio (Medium)"
+        },
+        {
+          "option_id": "B",
+          "text": "Súper"
+        },
+        {
+          "option_id": "C",
+          "text": "Ligero"
+        },
+        {
+          "option_id": "D",
+          "text": "Pesado (Heavy)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Caso especial del B757.",
       "explanation": "El B757 es Pesado cuando va delante, pero Medio cuando sigue a otro avión.",
-      "tags": ["estela_turbulenta", "atc"]
+      "tags": [
+        "estela_turbulenta",
+        "atc"
+      ]
     },
     {
       "question_id": "MOD2_081",
@@ -1288,15 +2490,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Recuperación de aeronaves en la UE"},
-        {"option_id": "B", "text": "Nueva clasificación de estela turbulenta con 6 categorías en Europa"},
-        {"option_id": "C", "text": "Registro de compañías aéreas europeas"},
-        {"option_id": "D", "text": "Reglamento de catering a bordo"}
+        {
+          "option_id": "A",
+          "text": "Recuperación de aeronaves en la UE"
+        },
+        {
+          "option_id": "B",
+          "text": "Reglamento de catering a bordo"
+        },
+        {
+          "option_id": "C",
+          "text": "Registro de compañías aéreas europeas"
+        },
+        {
+          "option_id": "D",
+          "text": "Nueva clasificación de estela turbulenta con 6 categorías en Europa"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Mejora los mínimos de separación.",
       "explanation": "RECAT-EU introduce 6 categorías (J, H+, H-, M+, M-, L+) para optimizar separaciones.",
-      "tags": ["estela_turbulenta", "ue"]
+      "tags": [
+        "estela_turbulenta",
+        "ue"
+      ]
     },
     {
       "question_id": "MOD2_082",
@@ -1304,15 +2521,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Heavy"},
-        {"option_id": "B", "text": "Helicóptero"},
-        {"option_id": "C", "text": "High wing"},
-        {"option_id": "D", "text": "Hidroavión"}
+        {
+          "option_id": "A",
+          "text": "Hidroavión"
+        },
+        {
+          "option_id": "B",
+          "text": "High wing"
+        },
+        {
+          "option_id": "C",
+          "text": "Heavy"
+        },
+        {
+          "option_id": "D",
+          "text": "Helicóptero"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Tipo de aeronave.",
       "explanation": "H indica helicóptero en la descripción técnica de OACI.",
-      "tags": ["reconocimiento", "oaci"]
+      "tags": [
+        "reconocimiento",
+        "oaci"
+      ]
     },
     {
       "question_id": "MOD2_083",
@@ -1320,15 +2552,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Junior"},
-        {"option_id": "B", "text": "Jet engine (motor a reacción)"},
-        {"option_id": "C", "text": "Joint propulsion"},
-        {"option_id": "D", "text": "Japan built"}
+        {
+          "option_id": "A",
+          "text": "Junior"
+        },
+        {
+          "option_id": "B",
+          "text": "Jet engine (motor a reacción)"
+        },
+        {
+          "option_id": "C",
+          "text": "Japan built"
+        },
+        {
+          "option_id": "D",
+          "text": "Joint propulsion"
+        }
       ],
       "correct_answer": "B",
       "hint": "Tipo de motor.",
       "explanation": "J identifica a los motores a reacción (turborreactores/turbofanes).",
-      "tags": ["reconocimiento", "motor"]
+      "tags": [
+        "reconocimiento",
+        "motor"
+      ]
     },
     {
       "question_id": "MOD2_084",
@@ -1336,15 +2583,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Cero motores (planeador)"},
-        {"option_id": "B", "text": "Dos motores acoplados para accionar una sola hélice"},
-        {"option_id": "C", "text": "Cuatro motores en línea"},
-        {"option_id": "D", "text": "Configuración especial"}
+        {
+          "option_id": "A",
+          "text": "Cuatro motores en línea"
+        },
+        {
+          "option_id": "B",
+          "text": "Cero motores (planeador)"
+        },
+        {
+          "option_id": "C",
+          "text": "Configuración especial"
+        },
+        {
+          "option_id": "D",
+          "text": "Dos motores acoplados para accionar una sola hélice"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Caso poco frecuente.",
       "explanation": "C indica dos motores acoplados para un solo sistema de hélice.",
-      "tags": ["reconocimiento", "motor"]
+      "tags": [
+        "reconocimiento",
+        "motor"
+      ]
     },
     {
       "question_id": "MOD2_085",
@@ -1352,15 +2614,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Minimum Take-Off Weight"},
-        {"option_id": "B", "text": "Maximum Take-Off Weight (Peso máximo al despegue)"},
-        {"option_id": "C", "text": "Most Typical Operating Weight"},
-        {"option_id": "D", "text": "Maximum Total Operating Width"}
+        {
+          "option_id": "A",
+          "text": "Most Typical Operating Weight"
+        },
+        {
+          "option_id": "B",
+          "text": "Maximum Total Operating Width"
+        },
+        {
+          "option_id": "C",
+          "text": "Maximum Take-Off Weight (Peso máximo al despegue)"
+        },
+        {
+          "option_id": "D",
+          "text": "Minimum Take-Off Weight"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Peso crítico para certificación.",
       "explanation": "MTOW es la masa máxima certificada con la que el avión puede despegar.",
-      "tags": ["aeronaves", "siglas"]
+      "tags": [
+        "aeronaves",
+        "siglas"
+      ]
     },
     {
       "question_id": "MOD2_086",
@@ -1368,15 +2645,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Velocidad de avance"},
-        {"option_id": "B", "text": "Velocidad vertical de subida (ft/min)"},
-        {"option_id": "C", "text": "Velocidad en pista"},
-        {"option_id": "D", "text": "Velocidad de giro"}
+        {
+          "option_id": "A",
+          "text": "Velocidad vertical de subida (ft/min)"
+        },
+        {
+          "option_id": "B",
+          "text": "Velocidad de avance"
+        },
+        {
+          "option_id": "C",
+          "text": "Velocidad de giro"
+        },
+        {
+          "option_id": "D",
+          "text": "Velocidad en pista"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Vertical speed.",
       "explanation": "El régimen de ascenso mide la rapidez con la que el avión gana altitud.",
-      "tags": ["aeronaves", "performance"]
+      "tags": [
+        "aeronaves",
+        "performance"
+      ]
     },
     {
       "question_id": "MOD2_087",
@@ -1384,15 +2676,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "La altura de la cabina"},
-        {"option_id": "B", "text": "La altitud máxima que puede alcanzar una aeronave"},
-        {"option_id": "C", "text": "El límite del espacio aéreo controlado"},
-        {"option_id": "D", "text": "La base de las nubes"}
+        {
+          "option_id": "A",
+          "text": "La base de las nubes"
+        },
+        {
+          "option_id": "B",
+          "text": "La altura de la cabina"
+        },
+        {
+          "option_id": "C",
+          "text": "La altitud máxima que puede alcanzar una aeronave"
+        },
+        {
+          "option_id": "D",
+          "text": "El límite del espacio aéreo controlado"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Límite superior operativo.",
       "explanation": "El techo de vuelo es la altitud máxima alcanzable en unas condiciones dadas.",
-      "tags": ["aeronaves", "performance"]
+      "tags": [
+        "aeronaves",
+        "performance"
+      ]
     },
     {
       "question_id": "MOD2_088",
@@ -1400,15 +2707,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Altimeter"},
-        {"option_id": "B", "text": "Airspeed indicator"},
-        {"option_id": "C", "text": "Wind meter"},
-        {"option_id": "D", "text": "Tachometer"}
+        {
+          "option_id": "A",
+          "text": "Tachometer"
+        },
+        {
+          "option_id": "B",
+          "text": "Wind meter"
+        },
+        {
+          "option_id": "C",
+          "text": "Altimeter"
+        },
+        {
+          "option_id": "D",
+          "text": "Airspeed indicator"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Indicador de velocidad del aire.",
       "explanation": "Airspeed indicator es el término técnico para el anemómetro.",
-      "tags": ["vocabulario", "instrumentos"]
+      "tags": [
+        "vocabulario",
+        "instrumentos"
+      ]
     },
     {
       "question_id": "MOD2_089",
@@ -1416,15 +2738,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Equipo de aterrizaje (Tren de aterrizaje)"},
-        {"option_id": "B", "text": "Pista de aterrizaje"},
-        {"option_id": "C", "text": "Luces de toma"},
-        {"option_id": "D", "text": "Frenos de aire"}
+        {
+          "option_id": "A",
+          "text": "Pista de aterrizaje"
+        },
+        {
+          "option_id": "B",
+          "text": "Luces de toma"
+        },
+        {
+          "option_id": "C",
+          "text": "Equipo de aterrizaje (Tren de aterrizaje)"
+        },
+        {
+          "option_id": "D",
+          "text": "Frenos de aire"
+        }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "hint": "Ruedas y soportes.",
       "explanation": "Landing gear es el tren de aterrizaje.",
-      "tags": ["vocabulario", "partes"]
+      "tags": [
+        "vocabulario",
+        "partes"
+      ]
     },
     {
       "question_id": "MOD2_090",
@@ -1432,15 +2769,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Ascensor de personal"},
-        {"option_id": "B", "text": "Timón de profundidad"},
-        {"option_id": "C", "text": "Alerón"},
-        {"option_id": "D", "text": "Flap"}
+        {
+          "option_id": "A",
+          "text": "Flap"
+        },
+        {
+          "option_id": "B",
+          "text": "Alerón"
+        },
+        {
+          "option_id": "C",
+          "text": "Ascensor de personal"
+        },
+        {
+          "option_id": "D",
+          "text": "Timón de profundidad"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "Controla el ascenso/descenso del morro.",
       "explanation": "Elevator es el timón de profundidad.",
-      "tags": ["vocabulario", "partes"]
+      "tags": [
+        "vocabulario",
+        "partes"
+      ]
     },
     {
       "question_id": "MOD2_091",
@@ -1448,15 +2800,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Timón de dirección"},
-        {"option_id": "B", "text": "Rueda de morro"},
-        {"option_id": "C", "text": "Hélice"},
-        {"option_id": "D", "text": "Asiento del piloto"}
+        {
+          "option_id": "A",
+          "text": "Hélice"
+        },
+        {
+          "option_id": "B",
+          "text": "Timón de dirección"
+        },
+        {
+          "option_id": "C",
+          "text": "Asiento del piloto"
+        },
+        {
+          "option_id": "D",
+          "text": "Rueda de morro"
+        }
       ],
-      "correct_answer": "A",
+      "correct_answer": "B",
       "hint": "Controla la guiñada.",
       "explanation": "Rudder es el timón de dirección.",
-      "tags": ["vocabulario", "partes"]
+      "tags": [
+        "vocabulario",
+        "partes"
+      ]
     },
     {
       "question_id": "MOD2_092",
@@ -1464,15 +2831,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Spoilers"},
-        {"option_id": "B", "text": "High lift devices (Hipersustentadores)"},
-        {"option_id": "C", "text": "Stabilizers"},
-        {"option_id": "D", "text": "Propellers"}
+        {
+          "option_id": "A",
+          "text": "High lift devices (Hipersustentadores)"
+        },
+        {
+          "option_id": "B",
+          "text": "Stabilizers"
+        },
+        {
+          "option_id": "C",
+          "text": "Spoilers"
+        },
+        {
+          "option_id": "D",
+          "text": "Propellers"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Aumentan la curva del perfil.",
       "explanation": "Los flaps son dispositivos hipersustentadores.",
-      "tags": ["vocabulario", "aerodinamica"]
+      "tags": [
+        "vocabulario",
+        "aerodinamica"
+      ]
     },
     {
       "question_id": "MOD2_093",
@@ -1480,15 +2862,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Aterrizaje en aeropuerto pequeño"},
-        {"option_id": "B", "text": "Aterrizaje con el tren plegado (de panza)"},
-        {"option_id": "C", "text": "Aterrizaje con mucho viento"},
-        {"option_id": "D", "text": "Aterrizaje suave"}
+        {
+          "option_id": "A",
+          "text": "Aterrizaje con mucho viento"
+        },
+        {
+          "option_id": "B",
+          "text": "Aterrizaje suave"
+        },
+        {
+          "option_id": "C",
+          "text": "Aterrizaje con el tren plegado (de panza)"
+        },
+        {
+          "option_id": "D",
+          "text": "Aterrizaje en aeropuerto pequeño"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Sin ruedas.",
       "explanation": "Belly landing es un aterrizaje de emergencia sobre el fuselaje.",
-      "tags": ["vocabulario", "emergencias"]
+      "tags": [
+        "vocabulario",
+        "emergencias"
+      ]
     },
     {
       "question_id": "MOD2_094",
@@ -1496,15 +2893,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Superficie alar"},
-        {"option_id": "B", "text": "Envergadura"},
-        {"option_id": "C", "text": "Punta de ala"},
-        {"option_id": "D", "text": "Cuerda alar"}
+        {
+          "option_id": "A",
+          "text": "Envergadura"
+        },
+        {
+          "option_id": "B",
+          "text": "Cuerda alar"
+        },
+        {
+          "option_id": "C",
+          "text": "Punta de ala"
+        },
+        {
+          "option_id": "D",
+          "text": "Superficie alar"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Distancia de punta a punta.",
       "explanation": "Wing span es la envergadura del ala.",
-      "tags": ["vocabulario", "aeronaves"]
+      "tags": [
+        "vocabulario",
+        "aeronaves"
+      ]
     },
     {
       "question_id": "MOD2_095",
@@ -1512,15 +2924,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Cabina de pasaje"},
-        {"option_id": "B", "text": "Cabina de pilotaje (o de mando)"},
-        {"option_id": "C", "text": "Zona de bodegas"},
-        {"option_id": "D", "text": "Tren de aterrizaje"}
+        {
+          "option_id": "A",
+          "text": "Tren de aterrizaje"
+        },
+        {
+          "option_id": "B",
+          "text": "Cabina de pasaje"
+        },
+        {
+          "option_id": "C",
+          "text": "Cabina de pilotaje (o de mando)"
+        },
+        {
+          "option_id": "D",
+          "text": "Zona de bodegas"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "C",
       "hint": "Donde están los pilotos.",
       "explanation": "Cockpit o flight deck es la cabina de mando.",
-      "tags": ["vocabulario", "partes"]
+      "tags": [
+        "vocabulario",
+        "partes"
+      ]
     },
     {
       "question_id": "MOD2_096",
@@ -1528,15 +2955,30 @@
       "difficulty": 1,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "La Palma"},
-        {"option_id": "B", "text": "Gran Canaria (Las Palmas)"},
-        {"option_id": "C", "text": "Lanzarote"},
-        {"option_id": "D", "text": "Alicante"}
+        {
+          "option_id": "A",
+          "text": "La Palma"
+        },
+        {
+          "option_id": "B",
+          "text": "Lanzarote"
+        },
+        {
+          "option_id": "C",
+          "text": "Alicante"
+        },
+        {
+          "option_id": "D",
+          "text": "Gran Canaria (Las Palmas)"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "D",
       "hint": "No confundir con SPC.",
       "explanation": "LPA identifica a Gran Canaria.",
-      "tags": ["españa", "iata"]
+      "tags": [
+        "españa",
+        "iata"
+      ]
     },
     {
       "question_id": "MOD2_097",
@@ -1544,15 +2986,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LPA"},
-        {"option_id": "B", "text": "SPC (Santa Cruz de la Palma)"},
-        {"option_id": "C", "text": "PLM"},
-        {"option_id": "D", "text": "GCLA"}
+        {
+          "option_id": "A",
+          "text": "SPC (Santa Cruz de la Palma)"
+        },
+        {
+          "option_id": "B",
+          "text": "GCLA"
+        },
+        {
+          "option_id": "C",
+          "text": "PLM"
+        },
+        {
+          "option_id": "D",
+          "text": "LPA"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Santa Cruz...",
       "explanation": "SPC identifica al aeropuerto de La Palma.",
-      "tags": ["españa", "iata"]
+      "tags": [
+        "españa",
+        "iata"
+      ]
     },
     {
       "question_id": "MOD2_098",
@@ -1560,15 +3017,30 @@
       "difficulty": 2,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "LEIB"},
-        {"option_id": "B", "text": "LEMH"},
-        {"option_id": "C", "text": "LEPA"},
-        {"option_id": "D", "text": "LEMH"}
+        {
+          "option_id": "A",
+          "text": "LEIB"
+        },
+        {
+          "option_id": "B",
+          "text": "LEMH"
+        },
+        {
+          "option_id": "C",
+          "text": "LEMH"
+        },
+        {
+          "option_id": "D",
+          "text": "LEPA"
+        }
       ],
       "correct_answer": "B",
       "hint": "Mahón.",
       "explanation": "LEMH es el indicador de Menorca.",
-      "tags": ["españa", "oaci"]
+      "tags": [
+        "españa",
+        "oaci"
+      ]
     },
     {
       "question_id": "MOD2_099",
@@ -1576,15 +3048,30 @@
       "difficulty": 3,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Estructura de malla de la red de comunicaciones fijas"},
-        {"option_id": "B", "text": "Estructura de las alas"},
-        {"option_id": "C", "text": "Fuselaje trasero"},
-        {"option_id": "D", "text": "Cola del avión"}
+        {
+          "option_id": "A",
+          "text": "Estructura de las alas"
+        },
+        {
+          "option_id": "B",
+          "text": "Fuselaje trasero"
+        },
+        {
+          "option_id": "C",
+          "text": "Estructura de malla de la red de comunicaciones fijas"
+        },
+        {
+          "option_id": "D",
+          "text": "Cola del avión"
+        }
       ],
-      "correct_answer": "A",
+      "correct_answer": "C",
       "hint": "Red de datos.",
       "explanation": "Se refiere a la topología de la red de telecomunicaciones fijas aeronáuticas.",
-      "tags": ["comunicaciones", "aftn"]
+      "tags": [
+        "comunicaciones",
+        "aftn"
+      ]
     },
     {
       "question_id": "MOD2_100",
@@ -1592,15 +3079,30 @@
       "difficulty": 4,
       "type": "multiple_choice",
       "options": [
-        {"option_id": "A", "text": "Edición 100"},
-        {"option_id": "B", "text": "Edición 193 (Sep 2024)"},
-        {"option_id": "C", "text": "Edición 2020"},
-        {"option_id": "D", "text": "Edición 150"}
+        {
+          "option_id": "A",
+          "text": "Edición 193 (Sep 2024)"
+        },
+        {
+          "option_id": "B",
+          "text": "Edición 150"
+        },
+        {
+          "option_id": "C",
+          "text": "Edición 100"
+        },
+        {
+          "option_id": "D",
+          "text": "Edición 2020"
+        }
       ],
-      "correct_answer": "B",
+      "correct_answer": "A",
       "hint": "Dato muy reciente.",
       "explanation": "El manual cita la 193ª edición de septiembre de 2024.",
-      "tags": ["oaci", "documentacion"]
+      "tags": [
+        "oaci",
+        "documentacion"
+      ]
     }
   ],
   "metadata": {
