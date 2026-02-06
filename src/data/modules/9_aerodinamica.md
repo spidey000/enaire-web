@@ -1,8 +1,6 @@
 ## 
 ## Vuelo
 
-Elaborado: agosto 2023
-
 ## Índice
 1 Acrónimos  3 2 Introducción  3 3 Principios básicos  3
 ## 3.1 Teorema de Bernoulli  3
@@ -27,8 +25,6 @@ Elaborado: agosto 2023
 ## 11.4 Requisitos de aterrizaje  23
 ## 11.5 Hidroplaneo  23
 
-Elaborado: agosto 2023
-
 ## 1 Acrónimos
 ASI: Air Speed Indicator.
 CAS: Calibrated Airspeed.
@@ -52,8 +48,6 @@ Por otra parte, la mecánica de vuelo puede definirse como la ciencia aplicada q
 ## ퟐ
 ## =풄풕풆
 
-Elaborado: agosto 2023
-
 Para  que  se  mantenga  esta  constante  k,  si  una  partícula  aumenta  su  velocidad  v  será  a costa de disminuir su presión p, y a la inversa.
 Una aplicación práctica del Principio de Bernoulli es el tubo Venturi:
 
@@ -73,13 +67,9 @@ Su función es proporcionar un marco de referencia invariante para la  aérea y 
 OACI  definió  la  atmosfera  estándar  internacional  como  aquella  que  tiene  15ºC  de temperatura y 1013 hectopascales de presión al nivel del mar.
 La   temperatura   disminuye   2º   cada   1000   pies   de   altitud   (6,5ºC   por   km),   lo   que denominamos gradiente de temperatura, hasta 36000 pies. Por encima de este punto, la temperatura se considera constante, -56ºC, hasta los 80.000 pies.
 
-Elaborado: agosto 2023
-
 Las columnas 4, 6 y 7 muestran los datos de la densidad, presión y temperatura relativa.
 Debido a que las performances de las aeronaves se comparan y evalúan con respecto a la atmósfera estándar, todos los instrumentos están calibrados para la atmósfera estándar.
 ## 3.3 Altitud de presión Altitud  de  presión  es  la  altura  sobre  un  plano  de referencia  estándar,  que  es  un  nivel teórico,  donde  el peso  de  la  atmósfera  es  de 1013  hectopascales, medido  por  el barómetro. Un altímetro es básicamente un barómetro sensible calibrado para indicar la altitud en la atmósfera estándar. Si el altímetro está ajustado para 1013 hectopascales, la altitud indicada es la altitud de presión.
-
-Elaborado: agosto 2023
 
 A medida que la presión atmosférica cambia, el nivel de referencia puede estar por debajo, en o sobre el nivel del mar. La altitud de presión es importante como base para determinar la performance del avión, así como para la asignación de niveles de vuelo a los aviones que operan por encima de un determinado nivel (nivel de transición).
 ## 3.4 Altitud Densidad
@@ -98,8 +88,6 @@ Una  combinación  de  alta  temperatura,  alta  altitud  y  alta  humedad  hace
 ➢ Velocidad equivalente (EAS): es la velocidad que marca el anemómetro (ASI) una vez corregidos los errores de instrumento, posición y compresibilidad. (EAS es igual al CAS a nivel del mar en atmósfera estándar).
 ➢ Velocidad sobre el suelo (GS): es la velocidad del avión respecto al suelo resultado de la suma vectorial de la velocidad verdadera y la velocidad del viento.
 
-Elaborado: agosto 2023
-
 ➢ Número de Mach: El Número de Mach es la relación entre la velocidad verdadera del avión (TAS) y la velocidad del sonido (c).
 ## 푀푁=
 ## 푇퐴푆
@@ -115,8 +103,6 @@ Elaborado: agosto 2023
 ➢ Y la sustentación o “lift”.
 
 Figura 1: Fuerzas s.
-
-Elaborado: agosto 2023
 
 ## Sustentación
 La sustentación es la componente perpendicular a la corriente de aire:
@@ -158,8 +144,6 @@ es el coeficiente de resistencia
 
 El  coeficiente  de  resistencia  es  la  suma  del  coeficiente  de  resistencia  parasita  y  el coeficiente de resistencia inducida.
 
-Elaborado: agosto 2023
-
 ## 4.3 Empuje
 El  empuje  (T)  es  la  fuerza  de  avance  producida  por  el  motor/hélice  o  rotor.  Se  opone  o supera  la  fuerza  de  resistencia  (D).  Como  regla  general,  actúa  en  paralelo  al  eje longitudinal.
 Si las fuerzas L, W, T y D se encuentran en equilibrio el avión mantiene una velocidad uniforme y un nivel de vuelo uniforme. Si alguna de ellas varía, las características del vuelo cambian.
@@ -170,15 +154,11 @@ El origen de la sustentación se debe a la diferencia de presión entre el intra
 Es el resultado de la sustentación. Cuando un perfil se vuela a un ángulo de ataque positivo, existe  una  diferencia  de presión  entre  las  superficies  superior  e  inferior  de  dicho perfil.  La presión sobre el ala es menor que la presión atmosférica y la presión debajo del ala es igual o mayor que la presión atmosférica. Dado que el aire siempre se mueve desde alta presión hacia baja presión, y el camino de menor resistencia es hacia la punta alar, hay un movimiento de aire en la parte inferior del ala hacia el exterior del fuselaje alrededor de las puntas. Este flujo de  aire  se traduce  en  un  "derrame"  sobre  las puntas,  creando un remolino  de  aire  llamado
 ## "vórtice".
 
-Elaborado: agosto 2023
-
 Figura 2: Vórtices de punta alar.
 La intensidad o fuerza de los vórtices es directamente proporcional al peso de la aeronave e inversamente proporcional a la envergadura y la velocidad de la aeronave. Es especialmente violento en los reactores de gran tamaño.
 El  peligro  más  grave  para  una  aeronave  que  penetre  en  la  zona  de  estela  turbulenta  lo constituye el balanceo inducido, cuando su violencia sobrepasa la eficacia de sus mandos para contrarrestarlo.
 
 El vórtice empieza a formarse en el momento de la rotación, cuando las ruedas de proa dejan de hacer contacto con la pista, y termina cuando dichas ruedas de proa hacen contacto con el suelo en el momento del aterrizaje.
-
-Elaborado: agosto 2023
 
 Figura 3: Inicio y fin de los vórtices de ala.
 
@@ -189,8 +169,6 @@ En la Figura 4 se puede apreciar la situación extrema que se produce cuando la 
 
 ## 5.1 Efecto suelo Cuando un avión vuela próximo al suelo sus características s se ven afectadas experimentando  una  disminución  de  la  resistencia  al  avance  y  un  aumento  de  la sustentación. Se vio anteriormente que los torbellinos/vórtices de punta de ala se creaban a partir del momento que el avión se levanta del suelo desapareciendo al aterrizar.
 
-Elaborado: agosto 2023
-
 Hay  una  zona muy  próxima  al  suelo  en  la que  el vórtice se  destruye  contra  la  superficie (poco antes de contactar con la pista). A este fenómeno lo denominamos efecto suelo.
 Tiene  un  efecto  mayor  cuanto  más  cercano  está  el  avión  al  suelo  y  mayor  sea  su envergadura.
 6 Factor de carga En , el factor de carga máximo (a un cierto ángulo de ataque) es una proporción entre la sustentación y el peso y tiene una relación trigonométrica. El factor de carga se mide en  Gs (aceleración  de  la  gravedad),  una  unidad  de  fuerza  igual a  la  fuerza  ejercida  por  la gravedad sobre un cuerpo en reposo e indica la fuerza a la que se somete un cuerpo cuando se acelera.
@@ -199,8 +177,6 @@ En viraje, la componente vertical de la sustentación es la que equilibra el pes
 La siguiente figura muestra las fuerzas que actúan sobre un avión en un viraje coordinado y a altura constante.
 
 Figura 5: Dos fuerzas producen el factor de carga en un viraje.
-
-Elaborado: agosto 2023
 
 7 Entrada en pérdida de perfiles La pérdida en una aeronave resulta de una rápida disminución en la sustentación causada por la separación del flujo de aire de la superficie superior del ala provocada por exceder el ángulo de ataque crítico.
 El coeficiente de sustentación C
@@ -232,8 +208,6 @@ La velocidad de pérdida es la velocidad mínima de vuelo a la que se puede tene
 ## 1
 El bataneo es una fuerte vibración que se produce antes de entrar en pérdida. Es debido a que no todas las zonas del ala entran en pérdida a la vez.
 
-Elaborado: agosto 2023
-
 A  altas  velocidades,  Mach  0.82  y  superiores  que  se  dan,  en  algunos  casos,  en  reactores comerciales, podría suceder que en algún punto del extradós se alcanzara la velocidad del sonido.
 El  número de  Mach que  hace que  en un punto del  extradós  se alcance Mach  1  se  llama Mach crítico y dará lugar a una onda de choque. Este fenómeno provoca a la aparición de una  nueva  resistencia  que  es  tanto  mayor  cuanto  mayor  es  el  Numero  de  Mach.  Esto puede provocar la entrada en pérdida de alta velocidad. Lo mejor para evitarlo es reducir el número de Mach si es posible.
 Los reactores comerciales volando a gran altura y en función de su peso pueden tener un margen  muy  pequeño  entre  las  velocidades  de  perdida  por  alta  velocidad  y  por  baja velocidad. El punto donde coinciden ambas velocidades es conocido como Coffin Corner.
@@ -242,8 +216,6 @@ El piloto debe descender para ampliar el margen entre las velocidades de perdida
 Existen numerosos diseños de alas, tamaños y formas utilizadas por los distintos fabricantes.
 Cada uno responde a una necesidad determinada por el desempeño esperado para un avión en particular.
 El perfil alar es el corte del ala por un plano vertical paralelo al eje longitudinal. Es la forma del área  de  un  elemento  que  al  avanzar  a  través  del  aire  es  capaz  de  crear  a  su alrededor  una distribución de presiones que genera sustentación.
-
-Elaborado: agosto 2023
 
 Figura 6: Perfil alar.
 - El extradós es la parte superior del ala y el intradós la parte inferior.
@@ -258,8 +230,6 @@ En el caso de un perfil asimétrico autosustentador, la línea de curvatura medi
 Del orden de 3-4 en aviones muy rápidos a 25-30 en los planeadores.
 - Flecha. La flecha del ala es el ángulo que forman las alas respecto del eje transversal del avión. La flecha puede ser positiva/progresiva (extremos de las alas orientados hacia  atrás),  neutra,  o  negativa/regresiva (extremos  adelantados), en  función  de que la punta del ala este por delante o por detrás del ala en el encastre.
 
-Elaborado: agosto 2023
-
 Figura 7: Tipos de flecha de ala.
 - El diedro, visto el avión de frente, es el ángulo en forma de “V” que forman las alas con el eje lateral. El ángulo diedro puede ser positivo, neutro, o negativo.
 
@@ -270,15 +240,11 @@ Figura 9: Ángulo de ataque.
 ## 9 Ejes
 Los ejes de un avión son tres líneas imaginarias que pasan a través del centro de gravedad de la aeronave. La figura muestra los tres ejes de referencia perpendiculares entre sí.
 
-Elaborado: agosto 2023
-
 Figura 10: Ejes de una aeronave.
 ➢ Eje longitudinal: El origen está en el centro de gravedad y está situado en el plano de simetría del avión y hacia el morro. Alrededor de este eje se produce un movimiento de balanceo o alabeo (roll).
 ➢ Eje  lateral: El  origen  está  en  el  centro  de  gravedad  y  es  perpendicular  al  plano  de simetría del avión, siendo su sentido positivo hacia el ala derecha. Alrededor de este eje se produce un movimiento de cabeceo (pitch).
 ➢ Eje  vertical: El  origen  está  en  el  centro  de  gravedad,  está  situado  en  el  plano  de simetría del avión y su sentido positivo es hacia abajo. Alrededor de este eje se produce un movimiento de dirección o guiñada (yaw).
 Los  tres  movimientos  de  los  aviones  convencionales  (alabeo,  cabeceo,  y  dirección)  están controlados  por  tres  superficies  de  control.  El  alabeo  es  controlado  por  los  alerones;  el cabeceo  está  controlado  por  los  elevadores  o  timones  de  profundidad;  la  dirección  está controlada por el timón de dirección.
-
-Elaborado: agosto 2023
 
 10 Mandos de vuelo
 
@@ -288,8 +254,6 @@ Las superficies de control primarias con las que el piloto consigue el equilibri
 ▪ Alerones.  Los alerones controlan el movimiento de balanceo/alabeo alrededor del eje longitudinal. Están localizados en el borde de salida de las alas y se activan girando la palanca o mando a izquierda y derecha.
 ▪ Timón de dirección (rudder). El timón de dirección controla el movimiento de guiñada alrededor  del  eje  vertical.  El  timón  de  dirección  está  localizado  en  el  estabilizador vertical en la sección de cola y cerca del borde de salida. El accionamiento del timón de dirección se efectúa pisando los pedales del timón a derecha e izquierda.
 Además  de  los  alerones (control  del  balanceo),  timón  de dirección  (control  de  guiñada) y timón  de  profundidad (control  de  cabeceo) existen  otros dispositivos  que se  engloban también en el grupo de mandos de vuelo:
-
-Elaborado: agosto 2023
 
 ▪ Slats   y   los   flaps   son   dispositivos   hipersustentadores   que varían la   curvatura aumentándola,  consiguiendo un  aumento  del  valor  de  C
 ## Lmax.
@@ -303,8 +267,6 @@ Eje de charnela es el eje de rotación del mando primario (p.e. el timón de pro
 De este modo el esfuerzo en la palanca para mover el timón viene ayudado por el tab.
 El Trim tab o tab de compensación se utiliza para anular el momento de charnela en el eje y, por tanto, la fuerza en palanca o mando de vuelo.
 11 Actuaciones en despegue y aterrizaje Muchos  factores  influyen  en  las  actuaciones  del  avión,  el  empuje  de  los  motores  la temperatura, la altitud de presión, la posición de los flaps, el peso, el viento, la posición del centro de gravedad y la velocidad. Podemos actuar sobre alguno de estos factores, escogiendo la posición de flaps más adecuada, limitando el peso y llevando una determinada velocidad en cada momento.
-
-Elaborado: agosto 2023
 
 ## 11.1 Despegue
 En el despegue la velocidad varía continuamente y esto hace que haya un gran número de velocidades interesantes que deben cumplir:
@@ -354,8 +316,6 @@ a una altura de35 pies al final de la pista.
 ## LOF
 : velocidad de despegue. La velocidad a la que, inicialmente, el avión se va al aire.
 
-Elaborado: agosto 2023
-
 ## ➢ V
 ## 2
 : velocidad de seguridad al despegue que se debe alcanzar a una altura 35 pies al  final  de  la  distancia  de  pista  requerida.  Esta  es  esencialmente  la  velocidad  de mejor  ángulo  de  ascenso  con  un  motor  de  operativo  y  se  debe  mantener  hasta después de franquear los obstáculos al despegue, o hasta por lo menos 400 pies por encima del suelo.
@@ -377,8 +337,6 @@ y continuar el despegue con el motor restante. La pista requerida incluye la dis
 ## 2
 ## .
 
-Elaborado: agosto 2023
-
 - Distancia de aceleración-parada: distancia requerida para acelerar a V1 con todos los  motores  a  potencia  de  despegue,  experimentar  de  un  fallo  de  motor  a  V1,  y abortar el despegue y detener el avión utilizando sólo la acción de los frenos (no se considera el uso de la inversión de empuje).
 - Distancia de despegue: distancia requerida para completar un despegue hasta 35 pies  de  altura  con  todos  los  motores  operativos.  Debe  ser  por  lo  menos  15  por ciento   menos   que   la   distancia   requerida   para   un   despegue   con   un   motor inoperativo.  Esta  distancia  no  es  normalmente  un  factor  limitante  ya  que  es generalmente menor que la distancia de despegue con un motor inoperativo.
 Las velocidades de despegue varían con el peso del avión. Antes de que las velocidades de despegue  puedan  ser  calculadas,  el  piloto  primero  debe  determinar  el  peso  máximo permitido al despegue.
@@ -397,8 +355,6 @@ Al igual que en la planificación del despegue, ciertas velocidades deben ser co
 ## TD:
 velocidad  de  toma  (touchdown)  1,15  veces  la  velocidad  de  pérdida  en configuración de aterrizaje.
 - Ascenso en aproximación: la velocidad que proporciona el mejor rendimiento de ascenso  en  configuración  de  aproximación  con  un  motor  inoperativo,  y  con  la máxima potencia de despegue en el motor operativo(s).
-
-Elaborado: agosto 2023
 
 - Ascenso en aterrizaje: la velocidad que da la mejor performance en configuración de aterrizaje con máxima potencia de despegue en todos los motores.
 

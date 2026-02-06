@@ -20,6 +20,7 @@ export class RSVPUI {
     this.currentWPM = 300;
     this.isStarted = false;
     this.bookmarks = [];
+    this.wakeLock = null; // Screen Wake Lock for mobile fullscreen
 
     // Bind methods to maintain context
     this._handleKeyboard = this._handleKeyboard.bind(this);
@@ -245,8 +246,19 @@ export class RSVPUI {
       const banner = document.getElementById('spritzBanner');
       if (document.fullscreenElement === banner) {
         banner.classList.add('fullscreen');
+        // Acquire wake lock to keep screen on during fullscreen reading
+        this._acquireWakeLock();
       } else if (!document.fullscreenElement) {
         banner.classList.remove('fullscreen');
+        // Release wake lock when exiting fullscreen
+        this._releaseWakeLock();
+      }
+    });
+
+    // Re-acquire wake lock if released due to visibility change
+    document.addEventListener('visibilitychange', () => {
+      if (document.visibilityState === 'visible' && document.fullscreenElement) {
+        this._acquireWakeLock();
       }
     });
   }
@@ -292,6 +304,47 @@ export class RSVPUI {
       });
     } else {
       document.exitFullscreen();
+    }
+  }
+
+  /**
+   * Acquire a screen wake lock to prevent the screen from turning off
+   * Used during fullscreen reading on mobile devices
+   * @private
+   */
+  async _acquireWakeLock() {
+    // Check if Wake Lock API is supported
+    if ('wakeLock' in navigator) {
+      try {
+        this.wakeLock = await navigator.wakeLock.request('screen');
+        console.log('Wake Lock acquired - screen will stay on');
+        
+        // Listen for wake lock release
+        this.wakeLock.addEventListener('release', () => {
+          console.log('Wake Lock released');
+        });
+      } catch (err) {
+        // Wake lock request failed - usually due to low battery or system policy
+        console.warn(`Wake Lock request failed: ${err.message}`);
+      }
+    } else {
+      console.log('Wake Lock API not supported on this browser');
+    }
+  }
+
+  /**
+   * Release the screen wake lock
+   * @private
+   */
+  async _releaseWakeLock() {
+    if (this.wakeLock !== null) {
+      try {
+        await this.wakeLock.release();
+        this.wakeLock = null;
+        console.log('Wake Lock released manually');
+      } catch (err) {
+        console.warn(`Error releasing Wake Lock: ${err.message}`);
+      }
     }
   }
 
@@ -615,6 +668,14 @@ export class RSVPUI {
 
     if (this.isPlaying) {
       this._togglePlay();
+    }
+
+    // Release wake lock when closing
+    this._releaseWakeLock();
+
+    // Exit fullscreen if active
+    if (document.fullscreenElement) {
+      document.exitFullscreen();
     }
 
     this.isStarted = false;
