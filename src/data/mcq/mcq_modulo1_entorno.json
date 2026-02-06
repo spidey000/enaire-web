@@ -3136,6 +3136,1406 @@
         "españa",
         "legislacion"
       ]
+    },
+    {
+      "question_id": "MOD1_101",
+      "question_text": "¿En qué fecha exacta pasó la PICAO a denominarse oficialmente OACI tras obtenerse el número suficiente de ratificaciones?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "4 de abril de 1947",
+        "7 de diciembre de 1944",
+        "1 de mayo de 1947",
+        "5 de marzo de 1946"
+      ],
+      "correct_option": 0,
+      "explanation": "El 4 de abril de 1947, al obtenerse el número suficiente de ratificaciones, los aspectos provisionales de la PICAO dejaron de ser pertinentes y pasó a denominarse oficialmente OACI."
+    },
+    {
+      "question_id": "MOD1_102",
+      "question_text": "¿Cuántos estados habían firmado el Convenio sobre Aviación Civil Internacional el día de la clausura de la Conferencia de Chicago?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "52",
+        "54",
+        "50",
+        "48"
+      ],
+      "correct_option": 0,
+      "explanation": "Para el día de su clausura, 52 de los 54 representantes habían firmado el nuevo Convenio."
+    },
+    {
+      "question_id": "MOD1_103",
+      "question_text": "¿Por cuántos Estados contratantes está integrado el Consejo de la OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "36",
+        "33",
+        "27",
+        "193"
+      ],
+      "correct_option": 0,
+      "explanation": "El Consejo está integrado por representantes de 36 Estados contratantes, elegidos por la Asamblea."
+    },
+    {
+      "question_id": "MOD1_104",
+      "question_text": "¿Cuál es la duración del mandato de los miembros del Consejo de la OACI?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Tres años",
+        "Cuatro años",
+        "Dos años",
+        "Cinco años"
+      ],
+      "correct_option": 0,
+      "explanation": "Los miembros del Consejo son elegidos por la Asamblea para un mandato de tres años."
+    },
+    {
+      "question_id": "MOD1_105",
+      "question_text": "¿Quién nombra al Secretario General de la OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "El Consejo",
+        "La Asamblea",
+        "El Presidente de la OACI",
+        "El Secretario General de la ONU"
+      ],
+      "correct_option": 0,
+      "explanation": "La Secretaría General lleva a cabo las funciones que le asigna el Consejo. Aunque el texto no especifica explícitamente 'nombra', es el Consejo quien dirige la Secretaría (responsable ante él)."
+    },
+    {
+      "question_id": "MOD1_106",
+      "question_text": "¿Dónde se encuentra la Oficina Regional de Europa y Atlántico Norte de la OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "París",
+        "Bruselas",
+        "Londres",
+        "Ginebra"
+      ],
+      "correct_option": 0,
+      "explanation": "La Oficina Europa y Atlántico Norte está en París, Francia."
+    },
+    {
+      "question_id": "MOD1_107",
+      "question_text": "¿De qué trata el Anexo 1 de la OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Licencias al personal",
+        "Reglamento del aire",
+        "Operación de aeronaves",
+        "Aeronavegabilidad"
+      ],
+      "correct_option": 0,
+      "explanation": "El Anexo 1 es 'Licencias al personal'."
+    },
+    {
+      "question_id": "MOD1_108",
+      "question_text": "¿Qué Anexo de la OACI regula los Servicios de tránsito aéreo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Anexo 11",
+        "Anexo 2",
+        "Anexo 6",
+        "Anexo 15"
+      ],
+      "correct_option": 0,
+      "explanation": "El Anexo 11 regula los Servicios de tránsito aéreo."
+    },
+    {
+      "question_id": "MOD1_109",
+      "question_text": "¿A qué se refiere el Anexo 19 de la OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Gestión de la seguridad operacional",
+        "Seguridad (Security)",
+        "Medio ambiente",
+        "Investigación de accidentes"
+      ],
+      "correct_option": 0,
+      "explanation": "El Anexo 19 es Gestión de la seguridad operacional."
+    },
+    {
+      "question_id": "MOD1_110",
+      "question_text": "¿Qué documento de la OACI corresponde a los PANS-ATM?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Doc. 4444",
+        "Doc. 8168",
+        "Doc. 7030",
+        "Doc. 9750"
+      ],
+      "correct_option": 0,
+      "explanation": "El Doc. 4444 es Gestión del tránsito aéreo (PANS–ATM)."
+    },
+    {
+      "question_id": "MOD1_111",
+      "question_text": "¿Qué documento de la OACI es el Plan mundial de navegación aérea (GANP)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Doc. 9750",
+        "Doc. 4444",
+        "Doc. 8126",
+        "Doc. 8168"
+      ],
+      "correct_option": 0,
+      "explanation": "El Doc. 9750 es el Plan mundial de navegación aérea (GANP)."
+    },
+    {
+      "question_id": "MOD1_112",
+      "question_text": "¿Cuál de los siguientes NO es uno de los Objetivos Estratégicos de la OACI?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Rentabilidad de las aerolíneas",
+        "Seguridad operacional",
+        "Capacidad y eficiencia",
+        "Protección del medio ambiente"
+      ],
+      "correct_option": 0,
+      "explanation": "Los objetivos son Seguridad operacional, Capacidad y eficiencia, Seguridad y Facilitación, Desarrollo económico y Protección del medio ambiente. Rentabilidad de aerolíneas no es un objetivo directo de OACI."
+    },
+    {
+      "question_id": "MOD1_113",
+      "question_text": "¿En qué año se creó EUROCONTROL?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "1960",
+        "1957",
+        "1997",
+        "2002"
+      ],
+      "correct_option": 0,
+      "explanation": "EUROCONTROL fue creada en 1960."
+    },
+    {
+      "question_id": "MOD1_114",
+      "question_text": "¿Qué países NO miembros de pleno derecho tienen Acuerdo Global con Eurocontrol?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Israel y Marruecos",
+        "EEUU y Canadá",
+        "Turquía y Ucrania",
+        "Noruega y Suiza"
+      ],
+      "correct_option": 0,
+      "explanation": "Cuenta con 42 Estados Miembros más 2 Estados del Acuerdo Global (Israel y Marruecos)."
+    },
+    {
+      "question_id": "MOD1_115",
+      "question_text": "¿Qué norma ESARR trata sobre 'Safety Oversight in ATM'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "ESARR 1",
+        "ESARR 2",
+        "ESARR 3",
+        "ESARR 4"
+      ],
+      "correct_option": 0,
+      "explanation": "ESARR 1 es Safety Oversight in ATM."
+    },
+    {
+      "question_id": "MOD1_116",
+      "question_text": "¿A qué se refiere la norma ESARR 5?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Personal de servicios ATM",
+        "Software en sistemas ATM",
+        "Evaluación de riesgos",
+        "Sistemas de gestión de seguridad"
+      ],
+      "correct_option": 0,
+      "explanation": "ESARR 5 es ATM Services’ Personnel."
+    },
+    {
+      "question_id": "MOD1_117",
+      "question_text": "¿Qué órgano de Eurocontrol está compuesto por representantes a nivel ministerial?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Comisión Permanente",
+        "Consejo Provisional",
+        "La Agencia",
+        "Junta de Servicios de Navegación Aérea"
+      ],
+      "correct_option": 0,
+      "explanation": "La Comisión Permanente está compuesta por representantes de los estados a nivel ministerial."
+    },
+    {
+      "question_id": "MOD1_118",
+      "question_text": "¿Qué órgano de Eurocontrol aprueba el presupuesto anual y nombra al Director General?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Comisión Permanente",
+        "Consejo Provisional",
+        "Audit Board",
+        "Performance Review Commission"
+      ],
+      "correct_option": 0,
+      "explanation": "La Comisión Permanente aprueba el presupuesto y es responsable del nombramiento del Director General."
+    },
+    {
+      "question_id": "MOD1_119",
+      "question_text": "¿Qué espacio aéreo controla el MUAC (Maastricht Upper Area Control Centre)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Superior de Bélgica, Luxemburgo, Países Bajos y noroeste de Alemania",
+        "Superior de Francia, Alemania y Benelux",
+        "Todo el espacio aéreo de Benelux",
+        "Espacio aéreo inferior de Alemania y Países Bajos"
+      ],
+      "correct_option": 0,
+      "explanation": "Proporciona servicios en el espacio aéreo superior de Bélgica, Luxemburgo, Países Bajos y el noroeste de Alemania."
+    },
+    {
+      "question_id": "MOD1_120",
+      "question_text": "¿En qué año se firmó el protocolo de adhesión de la UE a Eurocontrol?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "2002",
+        "1997",
+        "2016",
+        "2004"
+      ],
+      "correct_option": 0,
+      "explanation": "El 8 de octubre de 2002, se firmó el protocolo de adhesión de la Unión Europea."
+    },
+    {
+      "question_id": "MOD1_121",
+      "question_text": "¿Cuál es la misión principal del Cielo Único Europeo (SES)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Reestructurar el espacio aéreo europeo sin perjuicio de fronteras nacionales",
+        "Crear una única aerolínea europea",
+        "Eliminar todas las tasas de navegación",
+        "Unificar todos los idiomas en aviación"
+      ],
+      "correct_option": 0,
+      "explanation": "Reestructurar el espacio aéreo europeo en función de los flujos de tráfico aéreo, sin perjuicio de las fronteras nacionales, para aumentar capacidad y eficiencia."
+    },
+    {
+      "question_id": "MOD1_122",
+      "question_text": "¿Cuándo entraron en vigor los cuatro reglamentos pilares del Cielo Único Europeo I?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Abril de 2004",
+        "Marzo de 1996",
+        "Enero de 2000",
+        "Diciembre de 2009"
+      ],
+      "correct_option": 0,
+      "explanation": "En abril de 2004 entraron en vigor los cuatro reglamentos comunitarios."
+    },
+    {
+      "question_id": "MOD1_123",
+      "question_text": "¿Qué Reglamento del SES I es el 'Reglamento marco'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Reglamento (CE) 549/2004",
+        "Reglamento (CE) 550/2004",
+        "Reglamento (CE) 551/2004",
+        "Reglamento (CE) 552/2004"
+      ],
+      "correct_option": 0,
+      "explanation": "El Reglamento (CE) 549/2004 es el que fija el marco para la creación de SES."
+    },
+    {
+      "question_id": "MOD1_124",
+      "question_text": "¿Quién ejerce la función de Gestor de Red Europeo (Network Manager)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "EUROCONTROL",
+        "EASA",
+        "La Comisión Europea",
+        "IATA"
+      ],
+      "correct_option": 0,
+      "explanation": "La Comisión Europea creó el Gestor de Red Europeo (NM) y Eurocontrol fue designado para ejecutar esta función (implícito en el contexto de Eurocontrol y NM)."
+    },
+    {
+      "question_id": "MOD1_125",
+      "question_text": "¿Qué es SESAR?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Pilar tecnológico del Cielo Único Europeo",
+        "Agencia de seguridad europea",
+        "Sistema de facturación de equipajes",
+        "Nuevo tipo de radar"
+      ],
+      "correct_option": 0,
+      "explanation": "El objetivo del Programa SESAR es ser el pilar tecnológico del Cielo Único Europeo."
+    },
+    {
+      "question_id": "MOD1_126",
+      "question_text": "¿Qué son los FABs (Bloques Funcionales de Espacio Aéreo)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Bloques de espacio aéreo basados en exigencias operativas independientemente de fronteras",
+        "Zonas prohibidas al vuelo militar",
+        "Áreas de entrenamiento para pilotos",
+        "Sectores de control exclusivos de un país"
+      ],
+      "correct_option": 0,
+      "explanation": "Son bloques de espacio aéreo basados en exigencias operativas que reflejan la necesidad de garantizar una gestión más integrada del espacio aéreo con independencia de las fronteras nacionales."
+    },
+    {
+      "question_id": "MOD1_127",
+      "question_text": "¿Qué entidad ha designado España como Autoridad Nacional de Supervisión (ANS) para servicios civiles (excluyendo meteo)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "AESA",
+        "DGAC",
+        "ENAIRE",
+        "Aena"
+      ],
+      "correct_option": 0,
+      "explanation": "España ha designado como ANS a la Agencia Estatal de Seguridad Aérea (AESA)."
+    },
+    {
+      "question_id": "MOD1_128",
+      "question_text": "¿Qué reglamento crea la Agencia de la Unión Europea para la Seguridad Aérea (EASA)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Reglamento (UE) 2018/1139",
+        "Reglamento (CE) 216/2008",
+        "Reglamento (UE) 376/2014",
+        "Reglamento (CE) 549/2004"
+      ],
+      "correct_option": 0,
+      "explanation": "Actualmente se rige por el Reglamento UE 2018/1139 (el 216/2008 fue derogado)."
+    },
+    {
+      "question_id": "MOD1_129",
+      "question_text": "¿En qué año se creó EASA?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "2002",
+        "2004",
+        "2008",
+        "1999"
+      ],
+      "correct_option": 0,
+      "explanation": "La Agencia de seguridad aérea de la Unión Europea se creó en 2002."
+    },
+    {
+      "question_id": "MOD1_130",
+      "question_text": "¿Quién compone el Consejo de Administración de EASA?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Un representante de cada Estado miembro y uno de la Comisión",
+        "Solo representantes de la Comisión",
+        "Directores de Aviación Civil y aerolíneas",
+        "Expertos independientes"
+      ],
+      "correct_option": 0,
+      "explanation": "Cuenta con un representante de cada Estado miembro y de un representante de la Comisión."
+    },
+    {
+      "question_id": "MOD1_131",
+      "question_text": "¿Qué es la NPA en el proceso de elaboración de normas de EASA?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Notice of Proposed Amendment",
+        "National Public Audit",
+        "New Procedure Authorization",
+        "Non-Punitive Action"
+      ],
+      "correct_option": 0,
+      "explanation": "NPA significa Notice of Proposed Amendment (avisos de modificación propuesta)."
+    },
+    {
+      "question_id": "MOD1_132",
+      "question_text": "¿Qué organización coordina el programa SAFA?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "EASA",
+        "Eurocontrol",
+        "OACI",
+        "IATA"
+      ],
+      "correct_option": 0,
+      "explanation": "EASA coordina el programa de la Comunidad Europea SAFA."
+    },
+    {
+      "question_id": "MOD1_133",
+      "question_text": "¿Qué es EUROCAE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Organización Europea para el Equipamiento en la Aviación Civil",
+        "Comisión Europea de Aerolíneas",
+        "Asociación de Controladores Europeos",
+        "Ente regulador de carga aérea"
+      ],
+      "correct_option": 0,
+      "explanation": "EUROCAE es la Organización Europea para el Equipamiento en la Aviación Civil."
+    },
+    {
+      "question_id": "MOD1_134",
+      "question_text": "¿Dónde tiene su sede la RTCA (Comisión Radiotécnica para la aeronáutica)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Washington D.C.",
+        "Bruselas",
+        "París",
+        "Montreal"
+      ],
+      "correct_option": 0,
+      "explanation": "Es una organización estadounidense con sede en Washington D.C."
+    },
+    {
+      "question_id": "MOD1_135",
+      "question_text": "¿A quién representa CANSO?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Proveedores de servicios de navegación aérea (ANSP)",
+        "Aerolíneas",
+        "Aeropuertos",
+        "Pilotos"
+      ],
+      "correct_option": 0,
+      "explanation": "Fundada para representar los intereses de los proveedores de servicio de navegación aérea (ANSP)."
+    },
+    {
+      "question_id": "MOD1_136",
+      "question_text": "¿Qué organismo nacional es responsable de la investigación técnica de accidentes?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "CIAIAC",
+        "AESA",
+        "DGAC",
+        "ENAIRE"
+      ],
+      "correct_option": 0,
+      "explanation": "La CIAIAC es el organismo oficial encargado de realizar la investigación de los accidentes e incidentes."
+    },
+    {
+      "question_id": "MOD1_137",
+      "question_text": "¿A qué órgano está adscrita la CIAIAC?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Subsecretaría del Ministerio",
+        "Secretaría de Estado de Transporte",
+        "DGAC",
+        "AESA"
+      ],
+      "correct_option": 0,
+      "explanation": "Adscrita a la Subsecretaría del Ministerio de Transportes y Movilidad Sostenible."
+    },
+    {
+      "question_id": "MOD1_138",
+      "question_text": "¿Cuál es la función principal de la DGAC?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Diseñar la estrategia y política aeronáutica",
+        "Inspeccionar aeronaves",
+        "Gestionar el tráfico aéreo",
+        "Gestionar aeropuertos"
+      ],
+      "correct_option": 0,
+      "explanation": "La DGAC diseña la estrategia, dirige la política aeronáutica y ejerce de regulador."
+    },
+    {
+      "question_id": "MOD1_139",
+      "question_text": "¿Qué Real Decreto aprueba el Estatuto de AESA?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Real Decreto 184/2008",
+        "Real Decreto 160/2023",
+        "Real Decreto 57/2002",
+        "Real Decreto 905/1991"
+      ],
+      "correct_option": 0,
+      "explanation": "El Real Decreto 184/2008 lleva a cabo el desdoblamiento y aprueba el Estatuto de AESA."
+    },
+    {
+      "question_id": "MOD1_140",
+      "question_text": "¿Qué entidad gestiona el Registro de matrícula de aeronaves en España?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "AESA",
+        "DGAC",
+        "ENAIRE",
+        "Aena"
+      ],
+      "correct_option": 0,
+      "explanation": "AESA es competente para la gestión del Registro de matrícula de aeronaves."
+    },
+    {
+      "question_id": "MOD1_141",
+      "question_text": "¿Qué dirección de AESA tiene las competencias sobre licencias de personal de vuelo y medicina aeronáutica?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Dirección de gestión de la seguridad y personal de vuelo",
+        "Dirección de seguridad de aeronaves",
+        "Dirección de navegación aérea",
+        "Dirección de aeropuertos"
+      ],
+      "correct_option": 0,
+      "explanation": "La Dirección de gestión de la seguridad y personal de vuelo tiene competencias en relación con el personal de vuelo y medicina aeronáutica."
+    },
+    {
+      "question_id": "MOD1_142",
+      "question_text": "¿Qué porcentaje de capital privado tiene Aena S.M.E., S.A. desde su privatización parcial?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "49%",
+        "51%",
+        "40%",
+        "100%"
+      ],
+      "correct_option": 0,
+      "explanation": "Se creó Aena Aeropuertos, S.A. con un 49% de capital privado."
+    },
+    {
+      "question_id": "MOD1_143",
+      "question_text": "¿Qué es el DORA?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Documento de Regulación Aeroportuaria",
+        "Directiva de Operaciones de Ruta Aérea",
+        "Departamento de Organización de Recursos Aéreos",
+        "Documento Oficial de Registro Aeronáutico"
+      ],
+      "correct_option": 0,
+      "explanation": "Documento de Regulación Aeroportuaria (DORA)."
+    },
+    {
+      "question_id": "MOD1_144",
+      "question_text": "¿Cuál es la naturaleza jurídica de ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Entidad Pública Empresarial (E.P.E.)",
+        "Sociedad Anónima",
+        "Organismo Autónomo",
+        "Agencia Estatal"
+      ],
+      "correct_option": 0,
+      "explanation": "La entidad pública empresarial ENAIRE."
+    },
+    {
+      "question_id": "MOD1_145",
+      "question_text": "¿Cuántos centros de control de área (ACC) tiene ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "5",
+        "2",
+        "7",
+        "21"
+      ],
+      "correct_option": 0,
+      "explanation": "Cinco direcciones regionales con sedes en los centros de control (ACC) de Madrid, Barcelona, Canarias, Sevilla y Palma."
+    },
+    {
+      "question_id": "MOD1_146",
+      "question_text": "¿Qué comisión coordina la aeronáutica civil y militar en España?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "CIDETRA",
+        "CIPAI",
+        "SCA",
+        "ANSB"
+      ],
+      "correct_option": 0,
+      "explanation": "CIDETRA (Comisión Interministerial entre Defensa y Transportes)."
+    },
+    {
+      "question_id": "MOD1_147",
+      "question_text": "¿Qué libertad del aire permite el 'Sobrevuelo' sin aterrizar?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Primera libertad",
+        "Segunda libertad",
+        "Tercera libertad",
+        "Cuarta libertad"
+      ],
+      "correct_option": 0,
+      "explanation": "Primera libertad: Llamada Libertad de Sobrevuelo."
+    },
+    {
+      "question_id": "MOD1_148",
+      "question_text": "¿En qué consiste la Quinta Libertad del aire?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Transporte Externo Consecutivo (A-B-C)",
+        "Transporte al Exterior",
+        "Escala Técnica",
+        "Cabotaje"
+      ],
+      "correct_option": 0,
+      "explanation": "Llamada Libertad de Transporte Externo Consecutivo. Embarcar en B y llevar a C, siendo continuación de A."
+    },
+    {
+      "question_id": "MOD1_149",
+      "question_text": "¿Qué libertad es el 'Cabotaje autónomo'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Novena libertad",
+        "Octava libertad",
+        "Séptima libertad",
+        "Sexta libertad"
+      ],
+      "correct_option": 0,
+      "explanation": "Novena libertad: Llamada Libertad de Cabotaje autónomo."
+    },
+    {
+      "question_id": "MOD1_150",
+      "question_text": "¿Qué Convenio internacional trata sobre infracciones y actos cometidos a bordo de aeronaves (1963)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Convenio de Tokio",
+        "Convenio de La Haya",
+        "Convenio de Montreal",
+        "Convenio de Roma"
+      ],
+      "correct_option": 0,
+      "explanation": "Convenio de Tokio sobre infracciones y ciertos actos cometidos a bordo de aeronaves de 1963."
+    },
+    {
+      "question_id": "MOD1_151",
+      "question_text": "¿Qué efecto tiene un Reglamento Comunitario?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Eficacia directa en todo el territorio de la Unión",
+        "Necesita transposición nacional",
+        "Vincula solo a los destinatarios",
+        "Es una recomendación"
+      ],
+      "correct_option": 0,
+      "explanation": "Eficacia directa: directamente aplicable en todo el territorio de la Unión."
+    },
+    {
+      "question_id": "MOD1_152",
+      "question_text": "¿Qué norma es la Ley 48/1960?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Ley de Navegación Aérea",
+        "Ley de Seguridad Aérea",
+        "Ley del Ruido",
+        "Ley de Prestación ATS"
+      ],
+      "correct_option": 0,
+      "explanation": "Ley 48/1960 de Navegación Aérea."
+    },
+    {
+      "question_id": "MOD1_153",
+      "question_text": "¿Qué ley regula la investigación técnica de accidentes e incidentes aéreos civiles?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Ley 21/2003 de Seguridad Aérea",
+        "Ley 48/1960 de Navegación Aérea",
+        "Ley 9/2010",
+        "Ley 39/2015"
+      ],
+      "correct_option": 0,
+      "explanation": "Ley 21/2003 de Seguridad Aérea regula la investigación técnica."
+    },
+    {
+      "question_id": "MOD1_154",
+      "question_text": "¿Qué Real Decreto aprueba el Reglamento de Circulación Aérea actual?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Real Decreto 57/2002",
+        "Real Decreto 1180/2018",
+        "Real Decreto 184/2008",
+        "Real Decreto 905/1991"
+      ],
+      "correct_option": 0,
+      "explanation": "Real Decreto 57/2002 que aprueba el Reglamento de Circulación Aérea."
+    },
+    {
+      "question_id": "MOD1_155",
+      "question_text": "¿Qué regula el Reglamento (UE) 376/2014?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Notificación de sucesos en la aviación civil",
+        "Licencias de controladores",
+        "Investigación de accidentes",
+        "Tasas de ruta"
+      ],
+      "correct_option": 0,
+      "explanation": "Reglamento (UE) 376/2014 relativo a la notificación de sucesos."
+    },
+    {
+      "question_id": "MOD1_156",
+      "question_text": "¿Qué regula el Reglamento (UE) 923/2012?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Reglamento del aire y disposiciones SERA",
+        "Gestión de afluencia (ATFM)",
+        "Diseño de aeródromos",
+        "Licencias de pilotos"
+      ],
+      "correct_option": 0,
+      "explanation": "Reglamento (UE) 923/2012 que establece el reglamento del aire (SERA)."
+    },
+    {
+      "question_id": "MOD1_157",
+      "question_text": "¿Cuál es la función del CIPAI?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Asesoramiento en política aérea y espacial internacional",
+        "Investigación de accidentes militares",
+        "Coordinación operativa de aerolíneas",
+        "Regulación de drones"
+      ],
+      "correct_option": 0,
+      "explanation": "Finalidad el asesoramiento a la AGE en cuestiones de política aérea y espacial internacional."
+    },
+    {
+      "question_id": "MOD1_158",
+      "question_text": "¿Qué asociación agrupa a la mayoría de Compañías Aéreas Regulares que operan en España?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "ALA",
+        "AECA",
+        "ACETA",
+        "AOC"
+      ],
+      "correct_option": 0,
+      "explanation": "ALA (Asociación de Líneas Aéreas)."
+    },
+    {
+      "question_id": "MOD1_159",
+      "question_text": "¿Qué es la OACI Provisional (PICAO)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Órgano asesor temporal creado en Chicago hasta la ratificación del Convenio",
+        "Una división de la ONU para el Pacífico",
+        "La organización predecesora de 1919",
+        "Un comité de la IATA"
+      ],
+      "correct_option": 0,
+      "explanation": "Acuerdo Interino que preveía la creación de una OACI Provisional (PICAO) que serviría como órgano asesor y coordinador temporal."
+    },
+    {
+      "question_id": "MOD1_160",
+      "question_text": "¿En qué ciudad se firmó el Convenio de 1944?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Chicago",
+        "Montreal",
+        "París",
+        "Varsovia"
+      ],
+      "correct_option": 0,
+      "explanation": "Conferencia de Chicago, Convenio de Chicago."
+    },
+    {
+      "question_id": "MOD1_161",
+      "question_text": "¿Qué es el 'Desdoblamiento de la autoridad aeronáutica' en España (RD 184/2008)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Separación de funciones entre DGAC (política) y AESA (supervisión)",
+        "Separación entre civil y militar",
+        "División de Aena y Enaire",
+        "Creación de ministerios separados"
+      ],
+      "correct_option": 0,
+      "explanation": "Nuevo modelo de gestión, que se caracteriza por un desdoblamiento de la autoridad aeronáutica entre DGAC y AESA."
+    },
+    {
+      "question_id": "MOD1_162",
+      "question_text": "¿Cuál es la función de la Dirección de Seguridad de Aeronaves (DSA) de AESA?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Seguridad de operación, mantenimiento y registro de matrícula",
+        "Gestión de licencias de pilotos",
+        "Seguridad de aeropuertos",
+        "Navegación aérea"
+      ],
+      "correct_option": 0,
+      "explanation": "DSA: Responsable en ámbitos de seguridad de la operación y el mantenimiento, gestión del Registro de matrícula."
+    },
+    {
+      "question_id": "MOD1_163",
+      "question_text": "¿Qué es el GANP?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Plan mundial de navegación aérea",
+        "Grupo de Acción de Navegación Panamericano",
+        "Gestión Aérea de Nuevos Proyectos",
+        "General Aviation National Plan"
+      ],
+      "correct_option": 0,
+      "explanation": "Plan mundial de navegación aérea (GANP)."
+    },
+    {
+      "question_id": "MOD1_164",
+      "question_text": "¿Qué documento de OACI desarrolla las Cartas Aeronáuticas?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Doc. 8697",
+        "Doc. 4444",
+        "Doc. 8168",
+        "Doc. 7030"
+      ],
+      "correct_option": 0,
+      "explanation": "Doc. 8697 Manual de cartas aeronáuticas."
+    },
+    {
+      "question_id": "MOD1_165",
+      "question_text": "¿Qué es la ESARR 6?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Software in ATM Functional Systems",
+        "Personnel",
+        "Risk Assessment",
+        "Safety Management System"
+      ],
+      "correct_option": 0,
+      "explanation": "ESARR 6 Software in ATM Functional Systems."
+    },
+    {
+      "question_id": "MOD1_166",
+      "question_text": "¿Cuál es el órgano soberano de la OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "La Asamblea",
+        "El Consejo",
+        "La Secretaría General",
+        "El Comité de Navegación"
+      ],
+      "correct_option": 0,
+      "explanation": "La Asamblea es el órgano soberano de la Organización."
+    },
+    {
+      "question_id": "MOD1_167",
+      "question_text": "¿Quién preside la CIDETRA?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "La DGAC",
+        "El JEMA",
+        "El Ministro de Defensa",
+        "El Director de ENAIRE"
+      ],
+      "correct_option": 0,
+      "explanation": "DGAC asume la Presidencia de la Comisión Interministerial entre Defensa y Transportes (CIDETRA)."
+    },
+    {
+      "question_id": "MOD1_168",
+      "question_text": "¿Qué reglamento regula los requisitos comunes para proveedores ATM/ANS (UE)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Reglamento (UE) 2017/373",
+        "Reglamento (UE) 923/2012",
+        "Reglamento (UE) 139/2014",
+        "Reglamento (UE) 2015/340"
+      ],
+      "correct_option": 0,
+      "explanation": "Reglamento (UE) 2017/373 establece requisitos comunes para los proveedores ATM/ANS."
+    },
+    {
+      "question_id": "MOD1_169",
+      "question_text": "¿Qué libertad del aire es necesaria para hacer una escala para repostar sin bajar pasajeros?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Segunda libertad",
+        "Primera libertad",
+        "Tercera libertad",
+        "Cuarta libertad"
+      ],
+      "correct_option": 0,
+      "explanation": "Segunda Libertad: Escala Técnica (no comercial)."
+    },
+    {
+      "question_id": "MOD1_170",
+      "question_text": "¿Qué organismo europeo es una organización intergubernamental civil y militar?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "EUROCONTROL",
+        "EASA",
+        "OACI",
+        "IATA"
+      ],
+      "correct_option": 0,
+      "explanation": "EUROCONTROL es una organización intergubernamental civil y militar."
+    },
+    {
+      "question_id": "MOD1_171",
+      "question_text": "¿Qué es el Anexo 17 de la OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Seguridad (Security) - Protección contra actos de interferencia ilícita",
+        "Medio ambiente",
+        "Mercancías peligrosas",
+        "Búsqueda y salvamento"
+      ],
+      "correct_option": 0,
+      "explanation": "Anexo 17 Seguridad — Protección de la aviación civil internacional contra actos de interferencia ilícita."
+    },
+    {
+      "question_id": "MOD1_172",
+      "question_text": "¿Qué es el Anexo 13 de la OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Investigación de accidentes e incidentes",
+        "Aeródromos",
+        "Telecomunicaciones",
+        "Operación de aeronaves"
+      ],
+      "correct_option": 0,
+      "explanation": "Anexo 13 Investigación de accidentes e incidentes de aviación."
+    },
+    {
+      "question_id": "MOD1_173",
+      "question_text": "¿Cuál es la función principal de la Comisión de Evaluación de Resultados (PRC) de Eurocontrol?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Analizar y revisar el rendimiento del sistema ATM",
+        "Auditar cuentas",
+        "Regular la seguridad",
+        "Nombrar personal"
+      ],
+      "correct_option": 0,
+      "explanation": "PRC - Performance Review Commission."
+    },
+    {
+      "question_id": "MOD1_174",
+      "question_text": "¿Qué reglamento estableció el marco para el Cielo Único Europeo (Reglamento marco)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Reglamento (CE) 549/2004",
+        "Reglamento (CE) 2096/2005",
+        "Reglamento (UE) 2018/1139",
+        "Reglamento (CE) 1008/2008"
+      ],
+      "correct_option": 0,
+      "explanation": "Reglamento (CE) 549/2004."
+    },
+    {
+      "question_id": "MOD1_175",
+      "question_text": "¿Qué función cumple el Network Manager (NM) respecto a los códigos SSR?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Coordina la mejora del proceso de atribución",
+        "Asigna códigos a cada vuelo individualmente",
+        "Fabrica los transpondedores",
+        "No tiene función en SSR"
+      ],
+      "correct_option": 0,
+      "explanation": "Coordinar la mejora del proceso de atribución de códigos de transpondedor SSR."
+    },
+    {
+      "question_id": "MOD1_176",
+      "question_text": "¿Qué es el PANS-OPS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Doc 8168 Operación de aeronaves",
+        "Doc 4444 Gestión de tráfico",
+        "Anexo 6",
+        "Reglamento del aire"
+      ],
+      "correct_option": 0,
+      "explanation": "Doc. 8168 Operación de aeronaves (PANS – OPS)."
+    },
+    {
+      "question_id": "MOD1_177",
+      "question_text": "¿Qué es la Circular 247 de OACI?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Factores humanos, gestión y organización",
+        "Operaciones simultáneas en pistas paralelas",
+        "Aspectos económicos",
+        "Navegación por satélite"
+      ],
+      "correct_option": 0,
+      "explanation": "Circular 247, Factores humanos, gestión y organización."
+    },
+    {
+      "question_id": "MOD1_178",
+      "question_text": "¿En qué región de OACI está la oficina de Lima?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Sudamérica (SAM)",
+        "Norteamérica (NAM)",
+        "Caribe (CAR)",
+        "Pacífico (PAC)"
+      ],
+      "correct_option": 0,
+      "explanation": "Región de América del Sur (SAM), oficina en Lima, Perú."
+    },
+    {
+      "question_id": "MOD1_179",
+      "question_text": "¿Qué tratado de la UE estableció la libre circulación de mercancías, personas y servicios (base del transporte)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Tratado de Roma (1957)",
+        "Tratado de Maastricht",
+        "Tratado de Lisboa",
+        "Tratado de Ámsterdam"
+      ],
+      "correct_option": 0,
+      "explanation": "El Tratado de la Comunidad Económica Europea de 1957 (Roma)."
+    },
+    {
+      "question_id": "MOD1_180",
+      "question_text": "¿Qué organismo de la UE representa a los gobiernos de los Estados miembros?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Consejo de la Unión Europea",
+        "Parlamento Europeo",
+        "Comisión Europea",
+        "Tribunal de Justicia"
+      ],
+      "correct_option": 0,
+      "explanation": "Consejo de la Unión Europea: Representar a los Gobiernos de los Estados miembros."
+    },
+    {
+      "question_id": "MOD1_181",
+      "question_text": "¿Qué es el SEAE?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Servicio Europeo de Acción Exterior",
+        "Sistema Europeo de Aeronaves Estatales",
+        "Servicio Especial de Atención a la Emergencia",
+        "Sociedad Europea de Aeropuertos Españoles"
+      ],
+      "correct_option": 0,
+      "explanation": "Servicio Europeo de Acción Exterior (SEAE)."
+    },
+    {
+      "question_id": "MOD1_182",
+      "question_text": "¿Qué paquete legislativo introdujo los Bloques Funcionales de Espacio Aéreo (FABs)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Cielo Único Europeo II",
+        "Cielo Único Europeo I",
+        "Convenio de Chicago",
+        "Acuerdo de Schengen"
+      ],
+      "correct_option": 0,
+      "explanation": "Paquete legislativo Cielo Único Europeo II: Establecimiento de Bloques Funcionales de Espacio Aéreo (FABs)."
+    },
+    {
+      "question_id": "MOD1_183",
+      "question_text": "¿Qué fase de SESAR comenzó formalmente en 2014?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Fase de Despliegue",
+        "Fase de Definición",
+        "Fase de Desarrollo",
+        "Fase de Investigación"
+      ],
+      "correct_option": 0,
+      "explanation": "Fase de Despliegue: se inició formalmente en 2014."
+    },
+    {
+      "question_id": "MOD1_184",
+      "question_text": "¿Qué es ACETA?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Asociación de Compañías Españolas de Transporte Aéreo",
+        "Asociación de Controladores Españoles de Tránsito Aéreo",
+        "Agencia Central Europea de Transporte Aéreo",
+        "Asociación de Carga y Envíos a Tiempo Aéreo"
+      ],
+      "correct_option": 0,
+      "explanation": "Asociación de Compañías Españolas de Transporte Aéreo."
+    },
+    {
+      "question_id": "MOD1_185",
+      "question_text": "¿Qué regula la Ley 37/2003?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Ley del Ruido",
+        "Seguridad Aérea",
+        "Navegación Aérea",
+        "Tasas"
+      ],
+      "correct_option": 0,
+      "explanation": "Ley 37/2003 del Ruido."
+    },
+    {
+      "question_id": "MOD1_186",
+      "question_text": "¿Qué regula el RD 1180/2018?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Desarrolla el Reglamento del aire y disposiciones operativas comunes para ANS",
+        "Regula el servicio SDP",
+        "Regula las servidumbres aeronáuticas",
+        "Estatuto de ENAIRE"
+      ],
+      "correct_option": 0,
+      "explanation": "Real Decreto 1180/2018: Desarrolla el Reglamento del aire."
+    },
+    {
+      "question_id": "MOD1_187",
+      "question_text": "¿Qué es el Anexo 10 de OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Telecomunicaciones aeronáuticas",
+        "Servicios de tránsito aéreo",
+        "Búsqueda y salvamento",
+        "Aeródromos"
+      ],
+      "correct_option": 0,
+      "explanation": "Anexo 10 Telecomunicaciones aeronáuticas."
+    },
+    {
+      "question_id": "MOD1_188",
+      "question_text": "¿Qué es la Sexta Libertad del aire?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Transporte Externo-Interno (A-B-C pasando por A)",
+        "Transporte Externo (A-B-C sin pasar por A)",
+        "Cabotaje",
+        "Escala técnica"
+      ],
+      "correct_option": 0,
+      "explanation": "Sexta Libertad: Transporte Externo-Interno. Transporte entre B y C haciendo escala en territorio propio A."
+    },
+    {
+      "question_id": "MOD1_189",
+      "question_text": "¿Qué regula el Convenio de Roma de 1933/1952?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Daños a terceros en la superficie",
+        "Infracciones a bordo",
+        "Responsabilidad del transportista",
+        "Marcas de nacionalidad"
+      ],
+      "correct_option": 0,
+      "explanation": "Convenio de Roma de 1933 sobre regulación de daños a terceros."
+    },
+    {
+      "question_id": "MOD1_190",
+      "question_text": "¿Qué es el Anexo 5 de OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Unidades de medida",
+        "Cartas aeronáuticas",
+        "Marcas de nacionalidad",
+        "Operación de aeronaves"
+      ],
+      "correct_option": 0,
+      "explanation": "Anexo 5 Unidades de medida."
+    },
+    {
+      "question_id": "MOD1_191",
+      "question_text": "¿Qué oficina de OACI está en El Cairo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Oriente Medio (MID)",
+        "África (AFI)",
+        "Asia (ASIA)",
+        "Europa (EUR)"
+      ],
+      "correct_option": 0,
+      "explanation": "Oficina Oriente Medio (MID), en El Cairo."
+    },
+    {
+      "question_id": "MOD1_192",
+      "question_text": "¿Cuál es la función del AAB (Agency Advisory Body) en Eurocontrol?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Asesorar al Director General de la Agencia",
+        "Aprobar el presupuesto",
+        "Nombrar al Director General",
+        "Regular la seguridad"
+      ],
+      "correct_option": 0,
+      "explanation": "AAB: es el Órgano Asesor del Director General de la Agencia."
+    },
+    {
+      "question_id": "MOD1_193",
+      "question_text": "¿Qué regula el Reglamento (UE) 2019/317?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Sistema de evaluación del rendimiento y tarificación en SES",
+        "Licencias de controladores",
+        "Seguridad de aeropuertos",
+        "Drones"
+      ],
+      "correct_option": 0,
+      "explanation": "Reglamento (UE) 2019/317 que establece un sistema de evaluación del rendimiento y de tarificación."
+    },
+    {
+      "question_id": "MOD1_194",
+      "question_text": "¿Qué regula el Reglamento (UE) 2015/340?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Licencias y certificados de controladores (ATCOs)",
+        "Aeródromos",
+        "SERA",
+        "Notificación de sucesos"
+      ],
+      "correct_option": 0,
+      "explanation": "Reglamento (UE) 2015/340... relativos a las licencias y los certificados de los controladores."
+    },
+    {
+      "question_id": "MOD1_195",
+      "question_text": "¿Qué norma regula la protección de infraestructuras críticas en España?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Ley 8/2011",
+        "Ley 21/2003",
+        "Ley 48/1960",
+        "RD 1238/2011"
+      ],
+      "correct_option": 0,
+      "explanation": "Ley 8/2011 que establece medidas para la protección de infraestructuras críticas."
+    },
+    {
+      "question_id": "MOD1_196",
+      "question_text": "¿Qué es la AOC?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Asociaciones de Operadores de Compañías Locales",
+        "Air Operator Certificate",
+        "Airline Operations Center",
+        "Area of Control"
+      ],
+      "correct_option": 0,
+      "explanation": "En el contexto de asociaciones (3.7): Asociaciones de Operadores de Compañías (AOC) locales."
+    },
+    {
+      "question_id": "MOD1_197",
+      "question_text": "¿Qué organismo de la UE defiende los intereses de la Unión y propone legislación?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Comisión Europea",
+        "Parlamento Europeo",
+        "Consejo de la UE",
+        "Tribunal de Cuentas"
+      ],
+      "correct_option": 0,
+      "explanation": "Comisión Europea: Velar por los intereses generales de la UE proponiendo... legislación."
+    },
+    {
+      "question_id": "MOD1_198",
+      "question_text": "¿Qué es la ESA?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Agencia Espacial Europea",
+        "European Safety Agency",
+        "European Security Authority",
+        "European Skies Association"
+      ],
+      "correct_option": 0,
+      "explanation": "ESA (Agencia Espacial Europea)."
+    },
+    {
+      "question_id": "MOD1_199",
+      "question_text": "¿Cuál es el objetivo principal del GANP (Doc 9750)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Aumentar la capacidad y mejorar la eficiencia del sistema mundial",
+        "Reducir costes de personal",
+        "Crear una aerolínea mundial",
+        "Eliminar el control manual"
+      ],
+      "correct_option": 0,
+      "explanation": "El objetivo del GANP es aumentar la capacidad y mejorar la eficiencia del sistema mundial."
+    },
+    {
+      "question_id": "MOD1_200",
+      "question_text": "¿Quién gestiona la navegación aérea en el espacio aéreo superior de Bélgica, Países Bajos, Luxemburgo y NO de Alemania?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "MUAC (Eurocontrol)",
+        "ENAIRE",
+        "DFS",
+        "Belgocontrol"
+      ],
+      "correct_option": 0,
+      "explanation": "MUAC (Maastricht Upper Area Control Centre) es el centro de control de tráfico aéreo de EUROCONTROL."
     }
   ],
   "metadata": {

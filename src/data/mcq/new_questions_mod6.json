@@ -1,0 +1,1122 @@
+[
+  {
+    "question_id": "MOD6_101",
+    "question_text": "¿Qué ciencia estudia la forma y dimensiones de la Tierra y su campo de gravedad?",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "options": [
+      "Geodesia",
+      "Topografía",
+      "Cartografía",
+      "Geología"
+    ],
+    "correct_option": 0,
+    "explanation": "La Geodesia es una ciencia que estudia la forma y dimensiones de la Tierra."
+  },
+  {
+    "question_id": "MOD6_102",
+    "question_text": "¿Qué superficie equipotencial del campo de gravedad coincide aproximadamente con el nivel medio del mar?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Geoide",
+      "Elipsoide",
+      "Esfera",
+      "Plano"
+    ],
+    "correct_option": 0,
+    "explanation": "El geoide se define como la superficie equipotencial... coincidente, aproximadamente, con el nivel promedio del mar."
+  },
+  {
+    "question_id": "MOD6_103",
+    "question_text": "¿Qué es un Círculo Máximo?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Círculo definido por un plano que pasa por el centro de la Tierra (divide en dos hemisferios)",
+      "Círculo paralelo al ecuador",
+      "Círculo que no pasa por el centro",
+      "Cualquier meridiano"
+    ],
+    "correct_option": 0,
+    "explanation": "Círculos máximos: son unos círculos ideales definidos por planos que pasan por el centro de la Tierra."
+  },
+  {
+    "question_id": "MOD6_104",
+    "question_text": "¿Qué movimiento de la Tierra causa el ciclo de día y noche?",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "options": [
+      "Rotación",
+      "Traslación",
+      "Precesión",
+      "Nutación"
+    ],
+    "correct_option": 0,
+    "explanation": "El principal efecto del movimiento de rotación de la Tierra es el día y la noche."
+  },
+  {
+    "question_id": "MOD6_105",
+    "question_text": "¿Qué movimiento es responsable de que la Estrella Polar cambie de posición con los siglos?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Precesión",
+      "Nutación",
+      "Rotación",
+      "Traslación"
+    ],
+    "correct_option": 0,
+    "explanation": "Precesión... Este movimiento es el causante de que las estrellas cambien de posición."
+  },
+  {
+    "question_id": "MOD6_106",
+    "question_text": "¿Qué es la Declinación Magnética?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Ángulo entre el norte magnético y el norte geográfico",
+      "Ángulo entre el rumbo y la ruta",
+      "Inclinación de la Tierra",
+      "Variación diaria del campo magnético"
+    ],
+    "correct_option": 0,
+    "explanation": "Ángulo comprendido entre el norte magnético local y el geográfico."
+  },
+  {
+    "question_id": "MOD6_107",
+    "question_text": "¿Qué es una Ruta Ortodrómica?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "La distancia más corta entre dos puntos (arco de círculo máximo)",
+      "Una línea de rumbo constante",
+      "Una línea recta en un mapa Mercator",
+      "Una ruta que sigue los paralelos"
+    ],
+    "correct_option": 0,
+    "explanation": "Ruta Ortodrómica: Es arco de círculo máximo que une dos puntos... Ruta más corta."
+  },
+  {
+    "question_id": "MOD6_108",
+    "question_text": "¿Qué es una Ruta Loxodrómica?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Línea que corta a todos los meridianos con el mismo ángulo (rumbo constante)",
+      "La distancia más corta",
+      "Un círculo máximo",
+      "Una línea que pasa por los polos"
+    ],
+    "correct_option": 0,
+    "explanation": "Ruta Loxodrómica: ... manteniendo un rumbo constante en la brújula. Forma el mismo ángulo con todos los meridianos."
+  },
+  {
+    "question_id": "MOD6_109",
+    "question_text": "¿Qué Datum se utiliza como referencia oficial en AIP-España (y OACI)?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "WGS84",
+      "ETRS89",
+      "ED50",
+      "REGCAN95"
+    ],
+    "correct_option": 0,
+    "explanation": "Las coordenadas aeronáuticas publicadas en el AIP-ESPAÑA están referidas al sistema geodésico WGS84."
+  },
+  {
+    "question_id": "MOD6_110",
+    "question_text": "¿Qué es la Escala Numérica?",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "options": [
+      "Relación matemática entre longitud en el plano y en el terreno (ej. 1:50.000)",
+      "Una barra graduada dibujada en el mapa",
+      "El tamaño del papel",
+      "La distancia entre curvas de nivel"
+    ],
+    "correct_option": 0,
+    "explanation": "Se formula mediante una fracción... E= Longitud en el plano/ Longitud en el terreno."
+  },
+  {
+    "question_id": "MOD6_111",
+    "question_text": "¿Qué propiedad tiene una Proyección Conforme?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Conserva los ángulos",
+      "Conserva las áreas",
+      "Conserva las distancias",
+      "No distorsiona nada"
+    ],
+    "correct_option": 0,
+    "explanation": "Proyecciones conformes: Conserva el ángulo entre dos puntos."
+  },
+  {
+    "question_id": "MOD6_112",
+    "question_text": "¿Qué proyección es comúnmente usada para cartas de navegación en ruta (ej. 1:1.000.000)?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Cónica Conforme de Lambert",
+      "Mercator",
+      "Estereográfica Polar",
+      "Gnomónica"
+    ],
+    "correct_option": 0,
+    "explanation": "La proyección cónica conforme de Lambert resulta de enorme utilidad para la navegación aérea... (estándar para cartas OACI de escala media/media-pequeña)."
+  },
+  {
+    "question_id": "MOD6_113",
+    "question_text": "¿Cómo se representa una línea Ortodrómica en una carta Lambert?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Aproximadamente como una recta",
+      "Como una curva cóncava al polo",
+      "Como una curva convexa al polo",
+      "Como una espiral"
+    ],
+    "correct_option": 0,
+    "explanation": "La ortodrómica se representa -con gran aproximación- por una recta."
+  },
+  {
+    "question_id": "MOD6_114",
+    "question_text": "¿Qué son las 'Curvas de Nivel' (Isohipsas)?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Líneas que unen puntos de igual altitud",
+      "Líneas de igual presión",
+      "Líneas de igual profundidad",
+      "Líneas de igual temperatura"
+    ],
+    "correct_option": 0,
+    "explanation": "Formando las denominadas curvas de nivel o isohipsas (igual cota)."
+  },
+  {
+    "question_id": "MOD6_115",
+    "question_text": "¿Qué carta aeronáutica es OBLIGATORIA según OACI (Anexo 4)?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Carta de Navegación en Ruta - OACI",
+      "Carta de Área",
+      "Carta de Salida Normalizada (SID)",
+      "Carta de Llegada Normalizada (STAR)"
+    ],
+    "correct_option": 0,
+    "explanation": "Cartas obligatorias: Carta de Navegación en Ruta – OACI."
+  },
+  {
+    "question_id": "MOD6_116",
+    "question_text": "¿Qué carta proporciona información detallada sobre obstáculos que limitan la carga útil de despegue?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Plano de Obstáculos de Aeródromo - OACI Tipo A",
+      "Plano de Obstáculos Tipo B",
+      "Carta Topográfica de Precisión",
+      "Carta de Aproximación Visual"
+    ],
+    "correct_option": 0,
+    "explanation": "Plano de obstáculos de Tipo A... información sobre los obstáculos que limitan la carga útil de despegue."
+  },
+  {
+    "question_id": "MOD6_117",
+    "question_text": "¿Qué es la Equidistancia en un mapa topográfico?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "La diferencia de altitud constante entre dos curvas de nivel consecutivas",
+      "La distancia horizontal entre curvas",
+      "La escala del mapa",
+      "La altura máxima del mapa"
+    ],
+    "correct_option": 0,
+    "explanation": "Dichos planos se encuentran separados por una misma distancia vertical denominada equidistancia."
+  },
+  {
+    "question_id": "MOD6_118",
+    "question_text": "¿Qué información contiene la Carta de Aproximación por Instrumentos (IAC)?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Procedimiento de aproximación, frustrada y aterrizaje",
+      "Rutas de salida",
+      "Estacionamiento en plataforma",
+      "Rutas en ruta"
+    ],
+    "correct_option": 0,
+    "explanation": "Proporciona la información necesaria para realizar una aproximación por instrumentos y el aterrizaje."
+  },
+  {
+    "question_id": "MOD6_119",
+    "question_text": "¿Cuál es la latitud del Trópico de Cáncer?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "23º27' N",
+      "23º27' S",
+      "66º33' N",
+      "0º"
+    ],
+    "correct_option": 0,
+    "explanation": "Trópico de Cáncer: paralelo situado a una distancia angular de 23º27´ al norte del Ecuador."
+  },
+  {
+    "question_id": "MOD6_120",
+    "question_text": "¿Qué es una Proyección Equivalente?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Conserva la proporción de las áreas",
+      "Conserva los ángulos",
+      "Conserva las distancias",
+      "Conserva la forma"
+    ],
+    "correct_option": 0,
+    "explanation": "Proyecciones equivalentes: Conserva la proporcionalidad entre las áreas."
+  },
+  {
+    "question_id": "MOD6_121",
+    "question_text": "¿Qué carta es 'Condicionalmente necesaria' (solo si hay rutas complejas)?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Carta de Área - OACI",
+      "Plano de Aeródromo",
+      "Carta de Navegación en Ruta",
+      "Carta Mundial"
+    ],
+    "correct_option": 0,
+    "explanation": "Carta de Área - OACI: sólo si las rutas... son complicados."
+  },
+  {
+    "question_id": "MOD6_122",
+    "question_text": "¿Qué proyección utiliza un cono secante a la esfera terrestre?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Cónica Conforme de Lambert",
+      "Mercator",
+      "Gnomónica",
+      "Ortográfica"
+    ],
+    "correct_option": 0,
+    "explanation": "La proyección cónica conforme de Lambert... sustituye el cono tangente por uno secante."
+  },
+  {
+    "question_id": "MOD6_123",
+    "question_text": "¿Qué carta se utiliza para el movimiento en tierra si el Plano de Aeródromo no es suficiente?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Plano de Aeródromo para Movimientos en Tierra - OACI",
+      "Plano de Estacionamiento",
+      "Carta de Área",
+      "Carta Visual"
+    ],
+    "correct_option": 0,
+    "explanation": "Plano de Aeródromo para Movimientos en Tierra... cuando el Plano de Aeródromo no puede mostrar con suficiente claridad."
+  },
+  {
+    "question_id": "MOD6_124",
+    "question_text": "¿Qué sistema de referencia geodésico (Datum) se usa en Canarias según RD 1071/2007?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "REGCAN95",
+      "ETRS89",
+      "ED50",
+      "WGS72"
+    ],
+    "correct_option": 0,
+    "explanation": "En el caso de las islas Canarias, se adopta el sistema REGCAN95."
+  },
+  {
+    "question_id": "MOD6_125",
+    "question_text": "¿Qué es la 'Derrota' en navegación?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Proyección sobre el suelo de la trayectoria real seguida",
+      "Rumbo deseado",
+      "Dirección del viento",
+      "Ángulo de deriva"
+    ],
+    "correct_option": 0,
+    "explanation": "Derrota como la proyección sobre el suelo de la trayectoria que ha seguido la aeronave."
+  },
+  {
+    "question_id": "MOD6_126",
+    "question_text": "¿Qué es la 'Deriva'?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Ángulo entre la ruta deseada (o eje longitudinal) y la trayectoria real debido al viento",
+      "Ángulo de ataque",
+      "Velocidad del viento",
+      "Desviación magnética"
+    ],
+    "correct_option": 0,
+    "explanation": "El ángulo existente entre la ruta deseada... y la dirección del movimiento... se denomina deriva."
+  },
+  {
+    "question_id": "MOD6_127",
+    "question_text": "¿Qué carta debe producirse si se han establecido procedimientos de salida instrumental?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Carta de Salida Normalizada - Vuelo por Instrumentos (SID)",
+      "Carta de Área",
+      "Carta de Aproximación",
+      "Plano de Aeródromo"
+    ],
+    "correct_option": 0,
+    "explanation": "Carta de Salida Normalizada... (SID) - OACI: debe producirse siempre que se haya establecido una ruta de salida normalizada."
+  },
+  {
+    "question_id": "MOD6_128",
+    "question_text": "¿Qué es el 'Achatamiento' de la Tierra?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Deformación en los polos debido a la rotación",
+      "Deformación en el ecuador",
+      "Irregularidad del geoide",
+      "Efecto de la marea"
+    ],
+    "correct_option": 0,
+    "explanation": "La Tierra está ligeramente achatada en los polos... debido a... fuerzas centrífugas."
+  },
+  {
+    "question_id": "MOD6_129",
+    "question_text": "¿Qué carta muestra las altitudes mínimas de guía vectorial por radar?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Carta de altitud mínima de vigilancia ATC - OACI",
+      "Carta de Área",
+      "Carta de Ruta",
+      "Carta Visual"
+    ],
+    "correct_option": 0,
+    "explanation": "Carta de altitud mínima de vigilancia ATC - OACI: debe prepararse cuando se ha establecido procedimientos de guía vectorial."
+  },
+  {
+    "question_id": "MOD6_130",
+    "question_text": "¿Qué es una Escala Grande?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Denominador pequeño (ej. 1:5.000), abarca poco terreno con mucho detalle",
+      "Denominador grande (ej. 1:1.000.000)",
+      "Mapa de un continente",
+      "Mapa mundi"
+    ],
+    "correct_option": 0,
+    "explanation": "Una escala es grande, cuando el denominador es pequeño... abarcan poco terreno."
+  },
+  {
+    "question_id": "MOD6_131",
+    "question_text": "¿Cuál es la longitud del Meridiano de Greenwich?",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "options": [
+      "0º",
+      "90º",
+      "180º",
+      "45º"
+    ],
+    "correct_option": 0,
+    "explanation": "Meridiano de origen o de Greenwich... tienen como longitud 0º."
+  },
+  {
+    "question_id": "MOD6_132",
+    "question_text": "¿Qué es el WGS84?",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "options": [
+      "Sistema Geodésico Mundial 1984 (Referencia GPS y Aeronáutica)",
+      "Sistema de coordenadas local",
+      "Proyección cartográfica",
+      "Modelo de gravedad"
+    ],
+    "correct_option": 0,
+    "explanation": "World Geodetic System 1984 (WGS84), un sistema de referencia geodésico universal."
+  },
+  {
+    "question_id": "MOD6_133",
+    "question_text": "¿Qué tipo de proyección es la Gnomónica?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Proyección plana con foco en el centro de la Tierra (Ortodrómicas son rectas)",
+      "Proyección cilíndrica",
+      "Proyección cónica",
+      "Proyección estereográfica"
+    ],
+    "correct_option": 0,
+    "explanation": "Gnomónicas: el foco de proyección se encuentra en el centro de la superficie terrestre. (Característica: ortodrómicas rectas)."
+  },
+  {
+    "question_id": "MOD6_134",
+    "question_text": "¿Qué información proporciona la Carta de Llegada Normalizada (STAR)?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Rutas de llegada desde la fase de ruta hasta el inicio de la aproximación",
+      "Procedimiento de aterrizaje final",
+      "Salida del aeropuerto",
+      "Rutas en ruta"
+    ],
+    "correct_option": 0,
+    "explanation": "Rutas de llegada designadas desde la fase en ruta hasta el punto de inicio de la aproximación."
+  },
+  {
+    "question_id": "MOD6_135",
+    "question_text": "¿Qué ciclo se utiliza para la actualización de cartas aeronáuticas?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Ciclo AIRAC",
+      "Ciclo lunar",
+      "Ciclo anual",
+      "Ciclo semestral"
+    ],
+    "correct_option": 0,
+    "explanation": "Los cambios se notifican a través del ciclo AIRAC."
+  },
+  {
+    "question_id": "MOD6_136",
+    "question_text": "¿Qué es el 'Semieje mayor' del elipsoide WGS84?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "6.378.137 metros",
+      "6.356.752 metros",
+      "6.371.000 metros",
+      "40.000.000 metros"
+    ],
+    "correct_option": 0,
+    "explanation": "Semieje mayor (a) = 6 378 137 m."
+  },
+  {
+    "question_id": "MOD6_137",
+    "question_text": "¿Qué carta se utiliza para planificar vuelos visuales a baja velocidad?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Carta Aeronáutica - OACI 1:500.000",
+      "Carta de Navegación en Ruta",
+      "Carta de Área",
+      "Carta de Precisión"
+    ],
+    "correct_option": 0,
+    "explanation": "Carta Aeronáutica - OACI 1:500.000... para la navegación visual."
+  },
+  {
+    "question_id": "MOD6_138",
+    "question_text": "¿Qué es una 'Línea Agónica'?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Línea que une puntos de declinación magnética cero",
+      "Línea de igual declinación",
+      "Línea de igual presión",
+      "Línea de igual temperatura"
+    ],
+    "correct_option": 0,
+    "explanation": "Agonic line (Línea agónica). (Concepto de magnetismo)."
+  },
+  {
+    "question_id": "MOD6_139",
+    "question_text": "¿Qué es una 'Cota' en un mapa topográfico?",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "options": [
+      "Distancia vertical de un punto al plano de referencia (altitud)",
+      "Distancia horizontal",
+      "Pendiente",
+      "Coordenada X"
+    ],
+    "correct_option": 0,
+    "explanation": "Distancia vertical al mismo (cota)."
+  },
+  {
+    "question_id": "MOD6_140",
+    "question_text": "¿Qué es la 'Navegación Loxodrómica'?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Navegar manteniendo un rumbo constante",
+      "Navegar por la distancia más corta",
+      "Navegar por estima",
+      "Navegar visualmente"
+    ],
+    "correct_option": 0,
+    "explanation": "Desplazamos de un punto a otro manteniendo un rumbo constante."
+  },
+  {
+    "question_id": "MOD6_141",
+    "question_text": "¿Qué es el 'Eje Terrestre'?",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "options": [
+      "Línea imaginaria alrededor de la cual gira la Tierra",
+      "El ecuador",
+      "El meridiano de Greenwich",
+      "La órbita"
+    ],
+    "correct_option": 0,
+    "explanation": "El eje de rotación, cuya prolongación pasa por... estrella polar."
+  },
+  {
+    "question_id": "MOD6_142",
+    "question_text": "¿Qué es el 'Perihelio'?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Punto de la órbita más cercano al Sol (Enero)",
+      "Punto más lejano al Sol",
+      "Equinoccio de primavera",
+      "Solsticio de verano"
+    ],
+    "correct_option": 0,
+    "explanation": "Punto más cercano el perihelio (4 de enero)."
+  },
+  {
+    "question_id": "MOD6_143",
+    "question_text": "¿Qué es el 'Afelio'?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Punto de la órbita más alejado del Sol (Julio)",
+      "Punto más cercano",
+      "Equinoccio de otoño",
+      "Solsticio de invierno"
+    ],
+    "correct_option": 0,
+    "explanation": "Punto más alejado el afelio (en torno al 4 de julio)."
+  },
+  {
+    "question_id": "MOD6_144",
+    "question_text": "¿Qué es la 'Proyección Mercator'?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Proyección cilíndrica conforme (Loxodrómicas son rectas)",
+      "Proyección cónica",
+      "Proyección plana",
+      "Proyección equivalente"
+    ],
+    "correct_option": 0,
+    "explanation": "Mercator... (Es cilíndrica y conforme, loxodrómicas rectas - conocimiento general asociado)."
+  },
+  {
+    "question_id": "MOD6_145",
+    "question_text": "¿Qué es un 'Plano Acotado'?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Sistema de representación con proyección cilíndrica ortogonal sobre un plano de referencia, indicando cotas",
+      "Mapa sin alturas",
+      "Mapa en 3D",
+      "Fotografía aérea"
+    ],
+    "correct_option": 0,
+    "explanation": "Sistema de planos acotados... emplea un único plano de proyección... proyección cilíndrica y ortogonal."
+  },
+  {
+    "question_id": "MOD6_146",
+    "question_text": "¿Qué es el 'Norte Geográfico'?",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "options": [
+      "Punto donde el eje de rotación corta la superficie (Polo Norte verdadero)",
+      "Donde apunta la brújula",
+      "El norte de la cuadrícula",
+      "La estrella polar"
+    ],
+    "correct_option": 0,
+    "explanation": "Polo Norte Geográfico... puntos en los que el eje de rotación... corta."
+  },
+  {
+    "question_id": "MOD6_147",
+    "question_text": "¿Qué es la 'Latitud'?",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "options": [
+      "Distancia angular desde el Ecuador (0-90º)",
+      "Distancia angular desde Greenwich",
+      "Altura sobre el mar",
+      "Distancia al polo"
+    ],
+    "correct_option": 0,
+    "explanation": "Latitud... distancia angular... entre dicho punto y el Ecuador."
+  },
+  {
+    "question_id": "MOD6_148",
+    "question_text": "¿Qué es la 'Longitud'?",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "options": [
+      "Distancia angular desde el Meridiano de Greenwich (0-180º)",
+      "Distancia angular desde el Ecuador",
+      "Distancia en kilómetros",
+      "Largo del mapa"
+    ],
+    "correct_option": 0,
+    "explanation": "Longitud... distancia angular... entre el meridiano del lugar y el meridiano de origen."
+  },
+  {
+    "question_id": "MOD6_149",
+    "question_text": "¿Qué es una carta 'Afiláctica'?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "No conserva ni ángulos, ni áreas, ni distancias (no tiene propiedades métricas perfectas)",
+      "Conserva todo",
+      "Es conforme y equivalente",
+      "Es equidistante"
+    ],
+    "correct_option": 0,
+    "explanation": "Proyecciones afilácticas: No poseen ninguna de las tres propiedades señaladas."
+  },
+  {
+    "question_id": "MOD6_150",
+    "question_text": "¿Qué es el 'Plano de Estacionamiento y Atraque'?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Detalle de posiciones de estacionamiento y maniobras en plataforma",
+      "Plano de pistas",
+      "Plano de hangares",
+      "Mapa de la terminal"
+    ],
+    "correct_option": 0,
+    "explanation": "Proporciona información detallada sobre las posiciones de estacionamiento."
+  },
+  {
+    "question_id": "MOD6_151",
+    "question_text": "¿Qué es una Carta de Transición (TRAN)?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Transición desde la fase de llegada (STAR) hasta la aproximación final",
+      "Transición de nivel de vuelo",
+      "Carta de cambio de frecuencia",
+      "Carta de rodaje"
+    ],
+    "correct_option": 0,
+    "explanation": "Carta de Transición a la Aproximación Final... transición desde la fase de llegada hasta la aproximación final."
+  },
+  {
+    "question_id": "MOD6_152",
+    "question_text": "¿Qué es la 'Equivalencia' en una proyección?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Conservación de la proporción de las áreas",
+      "Conservación de los ángulos",
+      "Conservación de las distancias",
+      "Conservación de la escala"
+    ],
+    "correct_option": 0,
+    "explanation": "Proyecciones equivalentes: Conserva la proporcionalidad entre las áreas."
+  },
+  {
+    "question_id": "MOD6_153",
+    "question_text": "¿Qué es el 'Elipsoide de Revolución'?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Superficie geométrica generada al girar una elipse sobre su eje menor (aproximación matemática de la Tierra)",
+      "La forma real de la Tierra (geoide)",
+      "Una esfera perfecta",
+      "Un plano"
+    ],
+    "correct_option": 0,
+    "explanation": "Elipsoide de revolución (superficie que se obtiene al girar una elipse alrededor de uno de sus ejes)."
+  },
+  {
+    "question_id": "MOD6_154",
+    "question_text": "¿Qué es un 'Paralelo Estándar' o 'Automecoico'?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Línea en la proyección donde la escala es exacta (sin deformación)",
+      "El ecuador",
+      "El meridiano de Greenwich",
+      "El borde del mapa"
+    ],
+    "correct_option": 0,
+    "explanation": "Paralelo estándar (único automecoico, es decir, sin deformación lineal)."
+  },
+  {
+    "question_id": "MOD6_155",
+    "question_text": "¿Qué tipo de carta es el 'Plano de Obstáculos Tipo B'?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Carta opcional",
+      "Carta obligatoria",
+      "Carta condicional",
+      "No existe"
+    ],
+    "correct_option": 0,
+    "explanation": "Cartas opcionales: Plano de Obstáculos de Aeródromo - OACI Tipo B."
+  },
+  {
+    "question_id": "MOD6_156",
+    "question_text": "¿Qué es el 'Efecto Coriolis'?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Desviación de la trayectoria de objetos en movimiento debido a la rotación terrestre",
+      "Atracción gravitatoria",
+      "Viento solar",
+      "Marea"
+    ],
+    "correct_option": 0,
+    "explanation": "Fuerza que se produce debido a la rotación... desvía la trayectoria."
+  },
+  {
+    "question_id": "MOD6_157",
+    "question_text": "¿Qué es la 'Carta de Descenso Continuo' (CDA)?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Carta para operaciones de llegada con perfil de descenso continuo (ahorro/ruido)",
+      "Carta de aproximación frustrada",
+      "Carta de emergencia",
+      "Carta de planeo"
+    ],
+    "correct_option": 0,
+    "explanation": "Carta de Llegada Vuelo por Instrumentos - Descenso Continuo (CDA)."
+  },
+  {
+    "question_id": "MOD6_158",
+    "question_text": "¿Qué es la 'Simbología' cartográfica?",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "options": [
+      "Figuras gráficas para identificar objetos en el mapa",
+      "El texto del mapa",
+      "Los colores del mapa",
+      "La escala"
+    ],
+    "correct_option": 0,
+    "explanation": "Símbolos son figuras gráficas diseñadas para identificar... objetos."
+  },
+  {
+    "question_id": "MOD6_159",
+    "question_text": "¿Qué documento de OACI contiene el Manual de Cartas Aeronáuticas?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Doc 8697",
+      "Doc 4444",
+      "Doc 8168",
+      "Anexo 10"
+    ],
+    "correct_option": 0,
+    "explanation": "Doc. 8697 Manual de Cartas Aeronáuticas."
+  },
+  {
+    "question_id": "MOD6_160",
+    "question_text": "¿Qué es una proyección 'Gnomónica Directa'?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Proyección plana tangente en un punto (ortodrómicas rectas)",
+      "Proyección cónica tangente",
+      "Proyección cilíndrica",
+      "Proyección modificada"
+    ],
+    "correct_option": 0,
+    "explanation": "Gnomónicas: el foco de proyección se encuentra en el centro... (Cónica gnomónica directa tangente)."
+  },
+  {
+    "question_id": "MOD6_161",
+    "question_text": "¿Qué es un 'Huso Horario'?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Franja de 15º de longitud con la misma hora legal",
+      "Una línea de tiempo",
+      "Un reloj",
+      "Una estación"
+    ],
+    "correct_option": 0,
+    "explanation": "Concepto implícito en rotación y meridianos (15 grados/hora)."
+  },
+  {
+    "question_id": "MOD6_162",
+    "question_text": "¿Qué es el 'Solsticio de Verano' en el Hemisferio Norte?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Día con más horas de luz, el Sol incide en el Trópico de Cáncer",
+      "Día más corto",
+      "Día igual a la noche",
+      "Día más frío"
+    ],
+    "correct_option": 0,
+    "explanation": "Solsticio de Verano, éste será el día del año con más horas de luz solar en el hemisferio norte."
+  },
+  {
+    "question_id": "MOD6_163",
+    "question_text": "¿Qué es el 'Equinoccio'?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Día y noche de igual duración, el Sol incide en el Ecuador",
+      "Día más largo",
+      "Día más corto",
+      "Sol en los trópicos"
+    ],
+    "correct_option": 0,
+    "explanation": "Rayos solares inciden perpendicularmente sobre el Ecuador... equivalencia en el número de horas nocturnas y diurnas."
+  },
+  {
+    "question_id": "MOD6_164",
+    "question_text": "¿Qué es la 'Nutación'?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Ligera oscilación del eje terrestre superpuesta a la precesión (ciclo 18 años)",
+      "Movimiento alrededor del Sol",
+      "Giro sobre sí mismo",
+      "Cambio de órbita"
+    ],
+    "correct_option": 0,
+    "explanation": "Ligera oscilación del eje terrestre producida sobre la trayectoria del movimiento de precesión."
+  },
+  {
+    "question_id": "MOD6_165",
+    "question_text": "¿Qué es la 'Carta de área de cobertura radar'?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Carta específica de España que muestra la cobertura radar",
+      "Carta OACI obligatoria",
+      "Carta de meteorología",
+      "Carta de comunicaciones"
+    ],
+    "correct_option": 0,
+    "explanation": "En España se producen otras cartas... Carta de área de cobertura radar."
+  },
+  {
+    "question_id": "MOD6_166",
+    "question_text": "¿Qué es un 'Perfil Topográfico'?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Representación vertical del relieve a lo largo de una línea (corte)",
+      "Mapa plano",
+      "Foto aérea",
+      "Lista de coordenadas"
+    ],
+    "correct_option": 0,
+    "explanation": "Alzado del perfil topográfico de la zona."
+  },
+  {
+    "question_id": "MOD6_167",
+    "question_text": "¿Qué es la 'Escala Gráfica'?",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "options": [
+      "Línea graduada con equivalencia en magnitud real",
+      "Número fraccionario",
+      "Texto explicativo",
+      "Símbolo de norte"
+    ],
+    "correct_option": 0,
+    "explanation": "Se expresa a través de una línea graduada en distintas divisiones."
+  },
+  {
+    "question_id": "MOD6_168",
+    "question_text": "¿Qué es la 'Proyección Polica'?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Proyección plana tangente en el Polo",
+      "Proyección cónica",
+      "Proyección cilíndrica",
+      "Proyección ecuatorial"
+    ],
+    "correct_option": 0,
+    "explanation": "Polares: el plano el cuadro es tangente a la superficie terrestre en uno de sus Polos."
+  },
+  {
+    "question_id": "MOD6_169",
+    "question_text": "¿Qué es la 'Proyección Transversal'?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Eje de superficie de proyección perpendicular al eje terrestre",
+      "Eje paralelo",
+      "Eje oblicuo",
+      "Eje coincidente"
+    ],
+    "correct_option": 0,
+    "explanation": "Transversal: el eje de la superficie de proyección es perpendicular al eje de rotación."
+  },
+  {
+    "question_id": "MOD6_170",
+    "question_text": "¿Qué es la 'Proyección Oblicua'?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Eje forma ángulo entre 0 y 90º con eje terrestre",
+      "Eje paralelo",
+      "Eje perpendicular",
+      "Eje tangente"
+    ],
+    "correct_option": 0,
+    "explanation": "Oblicua: el eje... forma un ángulo comprendido entre 0º y 90º."
+  },
+  {
+    "question_id": "MOD6_171",
+    "question_text": "¿Qué es el 'Servicio de Información Aeronáutica' (AIS)?",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "options": [
+      "Servicio responsable de la producción de cartografía aeronáutica (Anexo 15)",
+      "Servicio de control",
+      "Servicio meteorológico",
+      "Servicio de rescate"
+    ],
+    "correct_option": 0,
+    "explanation": "Servicio de Información Aeronáutica (AIS) responsable de la producción de la cartografía."
+  },
+  {
+    "question_id": "MOD6_172",
+    "question_text": "¿Qué es la 'Proyección Cilíndrica'?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Superficie de proyección es un cilindro tangente o secante",
+      "Superficie es un cono",
+      "Superficie es un plano",
+      "Superficie es una esfera"
+    ],
+    "correct_option": 0,
+    "explanation": "Cilíndricas: aquéllas en las que la superficie de proyección es un cilindro."
+  },
+  {
+    "question_id": "MOD6_173",
+    "question_text": "¿Qué es la 'Proyección Cónica'?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Superficie de proyección es un cono tangente o secante",
+      "Superficie es un cilindro",
+      "Superficie es un plano",
+      "Superficie es un cubo"
+    ],
+    "correct_option": 0,
+    "explanation": "Cónicas: aquéllas en las que la superficie de proyección es un cono."
+  },
+  {
+    "question_id": "MOD6_174",
+    "question_text": "¿Qué es una 'Proyección Pura'?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Resulta de la proyección geométrica directa sin artificios",
+      "Proyección modificada matemáticamente",
+      "Proyección digital",
+      "Proyección artística"
+    ],
+    "correct_option": 0,
+    "explanation": "Resultan de la verdadera proyección geométrica... (Proyecciones puras)."
+  },
+  {
+    "question_id": "MOD6_175",
+    "question_text": "¿Qué es una 'Proyección Modificada'?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Usa artificios matemáticos para mejorar propiedades (ej. Lambert, Mercator)",
+      "Proyección pura",
+      "Proyección manual",
+      "Proyección antigua"
+    ],
+    "correct_option": 0,
+    "explanation": "Recurren a distintos artificios geométricos y analíticos... Proyecciones modificadas."
+  },
+  {
+    "question_id": "MOD6_176",
+    "question_text": "¿Qué es el 'AIP España'?",
+    "difficulty": 1,
+    "type": "multiple_choice",
+    "options": [
+      "Publicación de Información Aeronáutica de España",
+      "Asociación de Pilotos",
+      "Agencia de Inspección",
+      "Aeropuerto Internacional"
+    ],
+    "correct_option": 0,
+    "explanation": "Publicación de Información Aeronáutica (AIP)."
+  },
+  {
+    "question_id": "MOD6_177",
+    "question_text": "¿Qué es el 'Datum ETRS89'?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Sistema de Referencia Terrestre Europeo 1989 (Oficial en Europa)",
+      "Datum de EE.UU.",
+      "Datum de Canarias",
+      "Datum mundial"
+    ],
+    "correct_option": 0,
+    "explanation": "ETRS89 (European Terrestrial Reference System 1989)... sistema de referencia geodésico oficial en España."
+  },
+  {
+    "question_id": "MOD6_178",
+    "question_text": "¿Qué es el 'Datum REGCAN95'?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Sistema de referencia para Canarias",
+      "Sistema para la Península",
+      "Sistema para Baleares",
+      "Sistema para Ceuta"
+    ],
+    "correct_option": 0,
+    "explanation": "En el caso de las islas Canarias, se adopta el sistema REGCAN95."
+  },
+  {
+    "question_id": "MOD6_179",
+    "question_text": "¿Qué es la 'Carta de áreas prioritarias a evitar en vuelos particulares'?",
+    "difficulty": 3,
+    "type": "multiple_choice",
+    "options": [
+      "Carta específica española sobre áreas sensibles",
+      "Carta OACI obligatoria",
+      "Carta de zonas peligrosas",
+      "Carta de zonas prohibidas"
+    ],
+    "correct_option": 0,
+    "explanation": "Carta de áreas prioritarias a evitar... (Carta específica española)."
+  },
+  {
+    "question_id": "MOD6_180",
+    "question_text": "¿Qué es la 'Carta de concentración de aves'?",
+    "difficulty": 2,
+    "type": "multiple_choice",
+    "options": [
+      "Carta que muestra zonas de riesgo de impacto con aves",
+      "Carta de parques naturales",
+      "Carta de zoológicos",
+      "Carta de migración"
+    ],
+    "correct_option": 0,
+    "explanation": "Carta de concentración de aves (Riesgo de impacto)."
+  }
+]

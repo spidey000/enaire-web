@@ -3085,6 +3085,1406 @@
       "tags": [
         "mensajes"
       ]
+    },
+    {
+      "question_id": "MOD4_101",
+      "question_text": "¿Con cuánta antelación máxima se puede presentar un Plan de Vuelo (FPL)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "120 horas antes de la EOBT",
+        "24 horas antes de la EOBT",
+        "48 horas antes de la EOBT",
+        "1 semana antes de la EOBT"
+      ],
+      "correct_option": 0,
+      "explanation": "No más de 120 horas antes de la hora prevista de fuera calzos."
+    },
+    {
+      "question_id": "MOD4_102",
+      "question_text": "¿Cuál es la antelación mínima para presentar un FPL sujeto a medidas de gestión de afluencia (ATFCM)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "3 horas antes de la EOBT",
+        "60 minutos antes de la EOBT",
+        "30 minutos antes de la EOBT",
+        "10 minutos antes de la EOBT"
+      ],
+      "correct_option": 0,
+      "explanation": "Al menos tres horas antes de la hora prevista de fuera calzos para los vuelos que puedan estar sujetos a medidas de gestión de afluencia."
+    },
+    {
+      "question_id": "MOD4_103",
+      "question_text": "¿Qué prioridad AFTN tienen los mensajes de Plan de Vuelo (FPL)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "FF",
+        "DD",
+        "SS",
+        "GG"
+      ],
+      "correct_option": 0,
+      "explanation": "FF: Mensaje de plan de vuelo."
+    },
+    {
+      "question_id": "MOD4_104",
+      "question_text": "¿Qué prioridad AFTN tienen los mensajes de Socorro?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "SS",
+        "DD",
+        "FF",
+        "KK"
+      ],
+      "correct_option": 0,
+      "explanation": "SS: Mensajes de socorro."
+    },
+    {
+      "question_id": "MOD4_105",
+      "question_text": "¿Qué prioridad AFTN tienen los mensajes de Urgencia?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "DD",
+        "SS",
+        "FF",
+        "GG"
+      ],
+      "correct_option": 0,
+      "explanation": "DD: Mensajes de urgencia."
+    },
+    {
+      "question_id": "MOD4_106",
+      "question_text": "¿Qué campos del Plan de Vuelo NO se pueden modificar mediante un mensaje de cambio (CHG)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Identificación de aeronave, Aeródromo de salida y Aeródromo de destino",
+        "Ruta, Nivel y Velocidad",
+        "Equipo de comunicaciones y vigilancia",
+        "Autonomía y Personas a bordo"
+      ],
+      "correct_option": 0,
+      "explanation": "Hay ciertos campos... que no pueden ser modificados... Identificación, Salida y Destino."
+    },
+    {
+      "question_id": "MOD4_107",
+      "question_text": "¿Qué mensaje se transmite inmediatamente después del despegue de una aeronave con plan de vuelo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "DEP (Departure)",
+        "ARR (Arrival)",
+        "DLA (Delay)",
+        "CHG (Change)"
+      ],
+      "correct_option": 0,
+      "explanation": "Los mensajes DEP se transmitirán inmediatamente después de la salida."
+    },
+    {
+      "question_id": "MOD4_108",
+      "question_text": "¿Qué fase de emergencia se declara cuando no se ha recibido comunicación de una aeronave en 30 minutos?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Fase de incertidumbre (INCERFA)",
+        "Fase de alerta (ALERFA)",
+        "Fase de peligro (DETRESFA)",
+        "Fase de emergencia general"
+      ],
+      "correct_option": 0,
+      "explanation": "Fase de incertidumbre... no se ha recibido ninguna comunicación... en el transcurso de 30 minutos."
+    },
+    {
+      "question_id": "MOD4_109",
+      "question_text": "¿Qué fase de emergencia se declara si se cree que una aeronave es objeto de interferencia ilícita?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Fase de alerta (ALERFA)",
+        "Fase de incertidumbre (INCERFA)",
+        "Fase de peligro (DETRESFA)",
+        "Fase de secuestro"
+      ],
+      "correct_option": 0,
+      "explanation": "Fase de alerta... se sabe o se cree que una aeronave está siendo objeto de interferencia ilícita."
+    },
+    {
+      "question_id": "MOD4_110",
+      "question_text": "¿Qué fase de emergencia corresponde a cuando se considera el combustible agotado?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Fase de peligro (DETRESFA)",
+        "Fase de alerta (ALERFA)",
+        "Fase de incertidumbre (INCERFA)",
+        "Fase crítica"
+      ],
+      "correct_option": 0,
+      "explanation": "Fase de peligro... el combustible a bordo se considera agotado."
+    },
+    {
+      "question_id": "MOD4_111",
+      "question_text": "¿Qué sistema centralizado de Eurocontrol procesa inicialmente los planes de vuelo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "IFPS",
+        "NMOC",
+        "ETFMS",
+        "CASA"
+      ],
+      "correct_option": 0,
+      "explanation": "Los planes de vuelo son tratados por el Sistema Integrado para el Tratamiento Inicial de Planes de Vuelo (IFPS)."
+    },
+    {
+      "question_id": "MOD4_112",
+      "question_text": "¿Qué mensaje envía el IFPS si un plan de vuelo contiene errores que no puede corregir?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "REJ (Rechazado)",
+        "ACK (Aceptado)",
+        "MAN (Manual)",
+        "ERR (Error)"
+      ],
+      "correct_option": 0,
+      "explanation": "Si el plan de vuelo incluye información contraria... será rechazado por el sistema (REJ)."
+    },
+    {
+      "question_id": "MOD4_113",
+      "question_text": "¿Qué es un mensaje FLS?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Mensaje de suspensión de vuelo",
+        "Mensaje de plan de vuelo archivado",
+        "Mensaje de slot libre",
+        "Mensaje de nivel de vuelo"
+      ],
+      "correct_option": 0,
+      "explanation": "Mensaje de suspensión del vuelo (FLS Flight suspension message)."
+    },
+    {
+      "question_id": "MOD4_114",
+      "question_text": "¿Cuándo comienza la Fase Estratégica de ATFCM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Más de 7 días antes de la operación",
+        "6 días antes de la operación",
+        "El día anterior a la operación",
+        "El mismo día de la operación"
+      ],
+      "correct_option": 0,
+      "explanation": "Período que transcurre hasta siete días antes del día de la operación."
+    },
+    {
+      "question_id": "MOD4_115",
+      "question_text": "¿En qué fase ATFCM se publica el Plan Diario (ADP)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Fase pretáctica",
+        "Fase estratégica",
+        "Fase táctica",
+        "Fase post-operacional"
+      ],
+      "correct_option": 0,
+      "explanation": "Fase pretáctica... medidas ATFCM, que se recogen en el Plan Diario ATFCM (ADP)."
+    },
+    {
+      "question_id": "MOD4_116",
+      "question_text": "¿Qué es el CTOT?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Calculated Take-Off Time (Hora calculada de despegue)",
+        "Calculated Time Over Target",
+        "Current Take-Off Time",
+        "Controlled Time of Transfer"
+      ],
+      "correct_option": 0,
+      "explanation": "CTOT: Hora calculada de despegue / Calculated take-off time."
+    },
+    {
+      "question_id": "MOD4_117",
+      "question_text": "¿Qué es la 'Capacidad Sostenible'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "La que cabe mantener a lo largo de un tiempo prolongado",
+        "La máxima alcanzable en 1 hora",
+        "La capacidad publicada en AIP",
+        "La capacidad con regulaciones"
+      ],
+      "correct_option": 0,
+      "explanation": "Que cabe mantener a lo largo de un tiempo."
+    },
+    {
+      "question_id": "MOD4_118",
+      "question_text": "¿Quién es el responsable último de aprobar las medidas de afluencia en un ACC?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "El Jefe de Sala",
+        "El Supervisor",
+        "El Controlador Ejecutivo",
+        "El Técnico de Afluencia"
+      ],
+      "correct_option": 0,
+      "explanation": "Corresponderá al Jefe de Sala del ACC la aprobación de las medidas."
+    },
+    {
+      "question_id": "MOD4_119",
+      "question_text": "¿Qué es un MDI (Minimum Departure Interval)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Espaciar los despegues en intervalos regulares",
+        "Distancia mínima entre aviones en ruta",
+        "Altitud mínima de salida",
+        "Intervalo de mantenimiento de pista"
+      ],
+      "correct_option": 0,
+      "explanation": "MDI: Consiste en espaciar los despegues de un aeródromo en intervalos regulares."
+    },
+    {
+      "question_id": "MOD4_120",
+      "question_text": "¿Qué es el 'Cherry Picking' en ATFCM?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Aplicar medidas ATFCM selectivas solo a ciertos vuelos para resolver picos cortos",
+        "Elegir los mejores controladores para el turno",
+        "Seleccionar rutas libres de tasas",
+        "Cancelar vuelos aleatoriamente"
+      ],
+      "correct_option": 0,
+      "explanation": "Consiste en seleccionar vuelos y aplicar medidas ATFCM sólo a esos vuelos."
+    },
+    {
+      "question_id": "MOD4_121",
+      "question_text": "¿Qué tipo de vuelos están exentos de TODAS las regulaciones ATFCM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Vuelos de Jefes de Estado, SAR, Médicos urgentes",
+        "Vuelos de carga",
+        "Vuelos VIP",
+        "Vuelos chárter"
+      ],
+      "correct_option": 0,
+      "explanation": "Los vuelos exentos lo serán para todas las regulaciones... Jefes de estado, SAR, Médicos."
+    },
+    {
+      "question_id": "MOD4_122",
+      "question_text": "¿Qué es el FUA?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Flexible Use of Airspace (Uso flexible del espacio aéreo)",
+        "Flight Unit Allocation",
+        "Future Upper Airspace",
+        "Frequency Use Area"
+      ],
+      "correct_option": 0,
+      "explanation": "El concepto del uso flexible del espacio aéreo (Flexible Use of Airspace-FUA)."
+    },
+    {
+      "question_id": "MOD4_123",
+      "question_text": "¿Qué es una TSA (Área Temporalmente Segregada)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Área reservada temporalmente para uso exclusivo, no se permite otro tráfico",
+        "Área restringida pero permeable con permiso ATC",
+        "Ruta condicional",
+        "Zona peligrosa permanente"
+      ],
+      "correct_option": 0,
+      "explanation": "A través de las cuales no se puede permitir el tránsito de otros tráficos."
+    },
+    {
+      "question_id": "MOD4_124",
+      "question_text": "¿Qué es una CDR (Ruta Condicional)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Ruta no permanente planificable solo bajo ciertas condiciones",
+        "Ruta cerrada siempre",
+        "Ruta obligatoria",
+        "Ruta militar"
+      ],
+      "correct_option": 0,
+      "explanation": "Rutas o tramos de rutas ATS, de carácter no permanente, que sólo se pueden planificar y utilizar bajo ciertas condiciones."
+    },
+    {
+      "question_id": "MOD4_125",
+      "question_text": "¿Quién elabora el AUP (Plan de Utilización del Espacio Aéreo)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "AMC (Célula de Gestión de Espacio Aéreo)",
+        "Torre de control",
+        "Aerolíneas",
+        "Ministerio de Defensa solo"
+      ],
+      "correct_option": 0,
+      "explanation": "La AMC... confecciona el “Plan de Utilización del Espacio Aéreo” (AUP)."
+    },
+    {
+      "question_id": "MOD4_126",
+      "question_text": "¿Cuándo se publica el AUP?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Antes de las 14:00 UTC del día anterior (D-1)",
+        "A las 00:00 del día de operación",
+        "Con 48 horas de antelación",
+        "El mismo día a las 06:00"
+      ],
+      "correct_option": 0,
+      "explanation": "Antes de las 14:00 UTC del día anterior a las operaciones."
+    },
+    {
+      "question_id": "MOD4_127",
+      "question_text": "¿Qué significa el acrónimo UUP?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Updated Use Plan (Plan de uso actualizado)",
+        "Upper Use Plan",
+        "Unit Utility Plan",
+        "User Update Process"
+      ],
+      "correct_option": 0,
+      "explanation": "UUP: Plan de Utilización de Espacio Aéreo actualizado."
+    },
+    {
+      "question_id": "MOD4_128",
+      "question_text": "¿Qué es el procedimiento RFP (Replacement Flight Plan)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Procedimiento para cambiar la ruta de un vuelo sujeto a ATFCM para evitar demoras",
+        "Procedimiento de cancelación por avería",
+        "Procedimiento de cambio de piloto",
+        "Procedimiento de emergencia en vuelo"
+      ],
+      "correct_option": 0,
+      "explanation": "Procedimiento RFP... afecta a todos aquellos vuelos sujetos a Gestión de Afluencia... decidan tomar una ruta alternativa."
+    },
+    {
+      "question_id": "MOD4_129",
+      "question_text": "¿Qué prioridad tiene el mensaje de cancelación (CNL) en el procedimiento RFP?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "DD",
+        "FF",
+        "SS",
+        "GG"
+      ],
+      "correct_option": 0,
+      "explanation": "Un mensaje de cancelación (CNL) que se transmitirá... excepcionalmente con prioridad “DD”."
+    },
+    {
+      "question_id": "MOD4_130",
+      "question_text": "¿Qué es un mensaje SPL?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Mensaje de plan de vuelo suplementario",
+        "Mensaje de slot",
+        "Mensaje de velocidad",
+        "Mensaje de llegada especial"
+      ],
+      "correct_option": 0,
+      "explanation": "Mensajes de plan de vuelo suplementario SPL."
+    },
+    {
+      "question_id": "MOD4_131",
+      "question_text": "¿Cuándo se envía un mensaje RQP?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Cuando una dependencia ATS desea obtener datos de plan de vuelo que no tiene",
+        "Cuando se pide un slot",
+        "Cuando se pide un cambio de ruta",
+        "Cuando se pide meteo"
+      ],
+      "correct_option": 0,
+      "explanation": "Se transmitirá un mensaje RQP cuando una dependencia ATS desee obtener datos de plan de vuelo."
+    },
+    {
+      "question_id": "MOD4_132",
+      "question_text": "¿Cuál es la 'Capacidad Máxima' en términos de tiempo?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "La que se puede mantener durante un periodo no superior a 60 minutos",
+        "La que se puede mantener 4 horas",
+        "La que se mantiene todo el día",
+        "La capacidad teórica infinita"
+      ],
+      "correct_option": 0,
+      "explanation": "Podrá ser sensiblemente superior a la capacidad sostenible durante un periodo de tiempo no superior a sesenta (60) minutos."
+    },
+    {
+      "question_id": "MOD4_133",
+      "question_text": "¿Qué es un mensaje EST?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Mensaje de estimada sobre un punto",
+        "Mensaje de estado",
+        "Mensaje de estadística",
+        "Mensaje de establecimiento de comunicación"
+      ],
+      "correct_option": 0,
+      "explanation": "Mensajes de estimadas sobre un determinado punto (EST)."
+    },
+    {
+      "question_id": "MOD4_134",
+      "question_text": "¿Qué es el 'Level Capping'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Restricción de los niveles de vuelo utilizables para reducir demanda",
+        "Nivel máximo de vuelo de un avión",
+        "Nivel de transición",
+        "Medida de seguridad en pista"
+      ],
+      "correct_option": 0,
+      "explanation": "Medida que restringe los niveles de vuelo utilizables... para reducir la demanda."
+    },
+    {
+      "question_id": "MOD4_135",
+      "question_text": "¿Qué vuelos VFR requieren presentar Plan de Vuelo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Los que crucen fronteras internacionales o vuelen en espacio controlado B, C, D, E",
+        "Todos los vuelos VFR",
+        "Solo los VFR nocturnos",
+        "Solo los comerciales"
+      ],
+      "correct_option": 0,
+      "explanation": "Cualquier vuelo VFR a través de fronteras internacionales... en espacios aéreos controlados clases B, C, D y E."
+    },
+    {
+      "question_id": "MOD4_136",
+      "question_text": "¿Qué significa el acrónimo EOBT?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Estimated Off-Block Time (Hora prevista de fuera calzos)",
+        "Estimated On-Board Time",
+        "Estimated Operation Base Time",
+        "End Of Block Time"
+      ],
+      "correct_option": 0,
+      "explanation": "EOBT: Hora prevista de fuera calzos."
+    },
+    {
+      "question_id": "MOD4_137",
+      "question_text": "¿Qué es una TRA (Área Temporalmente Restringida)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Espacio reservado donde se puede permitir otro tráfico bajo autorización ATC",
+        "Espacio segregado exclusivo sin tráfico civil",
+        "Zona de entrenamiento militar",
+        "Ruta obligatoria"
+      ],
+      "correct_option": 0,
+      "explanation": "A través del cual se puede permitir el tránsito de otro tráfico bajo autorización ATC."
+    },
+    {
+      "question_id": "MOD4_138",
+      "question_text": "¿Qué sistema gestiona la asignación de slots en Eurocontrol?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "CASA",
+        "IFPS",
+        "ENV",
+        "TACT"
+      ],
+      "correct_option": 0,
+      "explanation": "El de asignación de slots (CASA)."
+    },
+    {
+      "question_id": "MOD4_139",
+      "question_text": "¿Cuál es la prioridad de transmisión de los mensajes GG?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Tercera (baja)",
+        "Primera (alta)",
+        "Segunda (media)",
+        "Cuarta (muy baja)"
+      ],
+      "correct_option": 0,
+      "explanation": "Orden de prioridad: 1. SS, 2. DD, FF, 3. GG, KK. (GG está en el grupo 3)."
+    },
+    {
+      "question_id": "MOD4_140",
+      "question_text": "¿Qué es la Fase Post-Operacional en ATFCM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Análisis del día de operación para realimentar el sistema (Feedback)",
+        "La limpieza de los aviones",
+        "El descanso de la tripulación",
+        "El cierre del aeropuerto"
+      ],
+      "correct_option": 0,
+      "explanation": "Esta fase analiza el día de la operación y realimenta a las tres fases anteriores."
+    },
+    {
+      "question_id": "MOD4_141",
+      "question_text": "¿Qué código se usa para indicar un plan de vuelo repetitivo?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "RPL",
+        "CPL",
+        "FPL",
+        "SPL"
+      ],
+      "correct_option": 0,
+      "explanation": "RPL: Plan de vuelo repetitivo."
+    },
+    {
+      "question_id": "MOD4_142",
+      "question_text": "¿Quién gestiona la FMP (Posición de Gestión de Afluencia)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Técnicos de Control de Afluencia (TCA) bajo responsabilidad del Jefe de Sala",
+        "Controladores de Torre",
+        "Personal de mantenimiento",
+        "La Guardia Civil"
+      ],
+      "correct_option": 0,
+      "explanation": "Gestionadas por los técnicos de control de afluencia, y siempre bajo la responsabilidad del Jefe de Sala."
+    },
+    {
+      "question_id": "MOD4_143",
+      "question_text": "¿Qué es el 'Rerouting'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Modificación de la ruta para evitar zonas saturadas",
+        "Cancelación del vuelo",
+        "Regreso al aeropuerto de salida",
+        "Espera en vuelo"
+      ],
+      "correct_option": 0,
+      "explanation": "Modificación de la ruta presentada... con el fin de solventar los problemas de capacidad."
+    },
+    {
+      "question_id": "MOD4_144",
+      "question_text": "¿Qué es 'Miles in Trail'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Mantener una separación determinada en millas entre aeronaves de un flujo",
+        "Volar una ruta de muchas millas",
+        "Seguir la estela de otro avión",
+        "Medir la distancia de aterrizaje"
+      ],
+      "correct_option": 0,
+      "explanation": "Mantengan entre sí una determinada separación en millas."
+    },
+    {
+      "question_id": "MOD4_145",
+      "question_text": "¿Qué es un mensaje CPL?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Mensaje de plan de vuelo actualizado (Current Flight Plan)",
+        "Mensaje de cancelación",
+        "Mensaje de cambio",
+        "Mensaje de capacidad"
+      ],
+      "correct_option": 0,
+      "explanation": "Mensajes de plan de vuelo actualizado (CPL)."
+    },
+    {
+      "question_id": "MOD4_146",
+      "question_text": "¿Qué indica la prioridad 'KK' en un mensaje AFTN?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Mensajes administrativos",
+        "Mensajes de emergencia",
+        "Mensajes de plan de vuelo",
+        "Mensajes meteo"
+      ],
+      "correct_option": 0,
+      "explanation": "KK: Los mensajes aeronáuticos administrativos."
+    },
+    {
+      "question_id": "MOD4_147",
+      "question_text": "¿Qué es un 'Slot' de salida?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Ventana de tiempo para el despegue (CTOT)",
+        "Lugar de aparcamiento",
+        "Permiso de sobrevuelo",
+        "Hora de llegada"
+      ],
+      "correct_option": 0,
+      "explanation": "Asignación de horas de salida (CTOT) - (Contexto regulación y slot)."
+    },
+    {
+      "question_id": "MOD4_148",
+      "question_text": "¿Qué es la 'Demanda' en ATFCM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Número de vuelos que notifican su intención de volar (basado en FPL)",
+        "Número de pasajeros",
+        "Cantidad de combustible",
+        "Capacidad del sector"
+      ],
+      "correct_option": 0,
+      "explanation": "Número de vuelos que notifican su intención de volar... se basa en los planes de vuelo presentados."
+    },
+    {
+      "question_id": "MOD4_149",
+      "question_text": "¿Qué se debe hacer si se aterriza en un aeródromo de alternativa?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Transmitir un mensaje ARR a los destinatarios pertinentes",
+        "No hacer nada",
+        "Presentar un nuevo FPL",
+        "Llamar a la policía"
+      ],
+      "correct_option": 0,
+      "explanation": "Cuando la dependencia ATS del aeródromo de llegada reciba el informe de llegada transmitirá un mensaje ARR."
+    },
+    {
+      "question_id": "MOD4_150",
+      "question_text": "¿Qué significa AFIL?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Plan de vuelo presentado en vuelo",
+        "Air File",
+        "Arrival File",
+        "After Flight Information Log"
+      ],
+      "correct_option": 0,
+      "explanation": "Una aeronave en vuelo puede transmitir un plan de vuelo (AFIL)."
+    },
+    {
+      "question_id": "MOD4_151",
+      "question_text": "¿Qué ocurre en la Fase de Alerta si la aeronave no aterriza 5 minutos después de lo previsto y no hay comunicación?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Se mantiene la fase de alerta",
+        "Se pasa a fase de peligro",
+        "Se cancela la emergencia",
+        "Se asume que ha aterrizado en otro lugar"
+      ],
+      "correct_option": 0,
+      "explanation": "La aeronave ha sido autorizada a aterrizar y no ha aterrizado 5 minutos después... (Es condición de Fase de Alerta)."
+    },
+    {
+      "question_id": "MOD4_152",
+      "question_text": "¿Qué organismo determina la capacidad declarada en Enaire?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "La Dirección de Operaciones",
+        "El Ministerio de Defensa",
+        "La CIAIAC",
+        "El Network Manager"
+      ],
+      "correct_option": 0,
+      "explanation": "La Dirección de Operaciones determina en el documento “Sectores, configuraciones operativas y capacidades declaradas”."
+    },
+    {
+      "question_id": "MOD4_153",
+      "question_text": "¿Qué es el 'Occupancy' (OCC) en monitorización?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Número de aeronaves presentes simultáneamente en un volumen",
+        "Número de entradas por hora (HEC)",
+        "Número de regulaciones",
+        "Porcentaje de tiempo ocupado"
+      ],
+      "correct_option": 0,
+      "explanation": "OCC: Occupancy (Ocupación). (Contexto OCC Peak/Sustained)."
+    },
+    {
+      "question_id": "MOD4_154",
+      "question_text": "¿Qué es HEC?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Hourly Entry Count (Conteo de entradas por hora)",
+        "High Elevation Chart",
+        "Heavy Equipment Code",
+        "Hour Estimated Calculation"
+      ],
+      "correct_option": 0,
+      "explanation": "HEC (Hourly Entry Count) - Implícito en 'monitorización HEC'."
+    },
+    {
+      "question_id": "MOD4_155",
+      "question_text": "¿Qué es una 'Configuración Dinámica'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Adaptación del número de sectores/posiciones a la demanda",
+        "Cambio de ruta del avión",
+        "Uso de pistas cruzadas",
+        "Cambio de frecuencia de radio"
+      ],
+      "correct_option": 0,
+      "explanation": "Optimización del número de sectores/posiciones en táctica, para adaptarlo a la demanda."
+    },
+    {
+      "question_id": "MOD4_156",
+      "question_text": "¿Qué es un mensaje ALR?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Mensaje de alerta (Alerting message)",
+        "Mensaje de llegada",
+        "Mensaje de altitud",
+        "Mensaje de ruta alternativa"
+      ],
+      "correct_option": 0,
+      "explanation": "Mensajes de Alerta (contexto 2.1 y 2.3)."
+    },
+    {
+      "question_id": "MOD4_157",
+      "question_text": "¿Qué es el NOP?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Network Operational Plan",
+        "No Operation",
+        "National Organization Plan",
+        "New Origin Point"
+      ],
+      "correct_option": 0,
+      "explanation": "El resultado de esta fase es la elaboración de un plan de ámbito europeo, NOP."
+    },
+    {
+      "question_id": "MOD4_158",
+      "question_text": "¿Quién preside el Network Manager Board (NMB)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Un representante elegido por el comité",
+        "El Director General de Eurocontrol",
+        "El Comisario de Transportes",
+        "No se especifica"
+      ],
+      "correct_option": 0,
+      "explanation": "El NM está gobernado por un comité... (Texto no especifica quién preside, solo que está gobernado por él)."
+    },
+    {
+      "question_id": "MOD4_159",
+      "question_text": "¿Qué es una Zona Geográfica de ARO centralizada?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Área asignada a aeródromos restringidos para presentar FPL a una oficina central",
+        "Zona prohibida al vuelo",
+        "Zona de control militar",
+        "Zona de cobertura radar"
+      ],
+      "correct_option": 0,
+      "explanation": "Se les asignará una zona geográfica de la oficina ARO centralizada que asuma las tareas."
+    },
+    {
+      "question_id": "MOD4_160",
+      "question_text": "¿Qué significa OTMV?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Occupancy Traffic Monitoring Values",
+        "Over Time Maximum Volume",
+        "Operational Traffic Management Vector",
+        "Only Tactical Measures Value"
+      ],
+      "correct_option": 0,
+      "explanation": "En TVs con umbrales OTMV definidos... (Implícito en monitorización)."
+    },
+    {
+      "question_id": "MOD4_161",
+      "question_text": "¿Qué es el IFPS Handbook?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Manual de usuario del sistema IFPS",
+        "Libro de frecuencias",
+        "Manual de fraseología",
+        "Lista de aeropuertos"
+      ],
+      "correct_option": 0,
+      "explanation": "Bibliografía: IFPS handbook."
+    },
+    {
+      "question_id": "MOD4_162",
+      "question_text": "¿Qué es el 'Performance Review Body' (PRB)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Organismo que marca objetivos de eficiencia en el SES",
+        "Cuerpo de inspectores de seguridad",
+        "Comité de pilotos",
+        "Grupo de revisión de accidentes"
+      ],
+      "correct_option": 0,
+      "explanation": "La Comisión marca estos objetivos a través de la PRB."
+    },
+    {
+      "question_id": "MOD4_163",
+      "question_text": "¿Qué es un mensaje ACP?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Mensaje de aceptación (coordinación)",
+        "Mensaje de activación",
+        "Mensaje de aproximación",
+        "Mensaje de cancelación de slot"
+      ],
+      "correct_option": 0,
+      "explanation": "Mensajes de aceptación (ACP)."
+    },
+    {
+      "question_id": "MOD4_164",
+      "question_text": "¿Qué es un mensaje LAM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Mensaje de acuse de recibo lógico",
+        "Mensaje de láminas",
+        "Mensaje de limitación",
+        "Mensaje de aterrizaje"
+      ],
+      "correct_option": 0,
+      "explanation": "Mensajes de acuse de recibo lógico (LAM)."
+    },
+    {
+      "question_id": "MOD4_165",
+      "question_text": "¿Qué es la UATM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Unidad Central ATM (de Enaire)",
+        "Unidad de Control Aéreo Táctico",
+        "Unión de Áreas de Tránsito Militar",
+        "Universal Air Traffic Monitor"
+      ],
+      "correct_option": 0,
+      "explanation": "La Dirección de Operaciones ATM, a través de la Unidad Central ATM (UATM)."
+    },
+    {
+      "question_id": "MOD4_166",
+      "question_text": "¿Qué es la 'Fase de Peligro'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Situación donde hay probabilidad de peligro grave e inminente (DETRESFA)",
+        "Situación de incertidumbre",
+        "Situación de alerta",
+        "Situación de retraso"
+      ],
+      "correct_option": 0,
+      "explanation": "Fase de peligro... probabilidad de que la aeronave se encuentre en peligro... DETRESFA."
+    },
+    {
+      "question_id": "MOD4_167",
+      "question_text": "¿Qué prioridad tiene el mensaje de cancelación CNL normalmente?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "FF (normalmente, salvo RFP que es DD)",
+        "DD siempre",
+        "SS",
+        "KK"
+      ],
+      "correct_option": 0,
+      "explanation": "Normalmente FF (movimiento). En RFP es excepcionalmente DD."
+    },
+    {
+      "question_id": "MOD4_168",
+      "question_text": "¿Qué es el 'Slot' en el contexto de un aeropuerto coordinado?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Franja horaria asignada para aterrizar o despegar",
+        "Puerta de embarque",
+        "Pista asignada",
+        "Código de la aerolínea"
+      ],
+      "correct_option": 0,
+      "explanation": "Sistema de asignación de slots... para equilibrar demanda y capacidad."
+    },
+    {
+      "question_id": "MOD4_169",
+      "question_text": "¿Qué es el ARO?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Oficina de notificación de los servicios de tránsito aéreo",
+        "Aeródromo restringido operativo",
+        "Área de reserva obligatoria",
+        "Asociación de Reguladores"
+      ],
+      "correct_option": 0,
+      "explanation": "Oficina de Notificación de los Servicios de Tránsito Aéreo (ARO)."
+    },
+    {
+      "question_id": "MOD4_170",
+      "question_text": "¿Qué significa 'GAT'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "General Air Traffic (Tráfico aéreo general)",
+        "Ground Air Temperature",
+        "General Aviation Terminal",
+        "Guided Approach Time"
+      ],
+      "correct_option": 0,
+      "explanation": "GAT (General Air Traffic)."
+    },
+    {
+      "question_id": "MOD4_171",
+      "question_text": "¿Qué significa 'OAT'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Operational Air Traffic (Tráfico aéreo operativo/militar)",
+        "Outside Air Temperature",
+        "Oceanic Air Traffic",
+        "Optional Air Time"
+      ],
+      "correct_option": 0,
+      "explanation": "CAO: Circulación aérea operativa / Operational air traffic."
+    },
+    {
+      "question_id": "MOD4_172",
+      "question_text": "¿Qué es el Convenio Schengen en relación al FPL?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "No exime de presentar FPL al cruzar fronteras internacionales",
+        "Elimina la necesidad de FPL",
+        "Solo requiere FPL para vuelos comerciales",
+        "Permite vuelo libre sin plan"
+      ],
+      "correct_option": 0,
+      "explanation": "La aplicación del Convenio Schengen no exime de la obligatoriedad de presentar un FPL."
+    },
+    {
+      "question_id": "MOD4_173",
+      "question_text": "¿Qué es la 'Capacidad Disponible'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "La capacidad real en función de las condiciones del sistema en cada momento",
+        "La capacidad teórica máxima",
+        "La capacidad publicada",
+        "La capacidad de diseño"
+      ],
+      "correct_option": 0,
+      "explanation": "En función de las condiciones reales del sistema ATS en cada momento."
+    },
+    {
+      "question_id": "MOD4_174",
+      "question_text": "¿Qué es una regulación 'Zero Rate'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Tasa de aceptación de 0 aeronaves (cierre del sector/aeropuerto)",
+        "Sin regulación",
+        "Tasa libre",
+        "Regulación de solo despegues"
+      ],
+      "correct_option": 0,
+      "explanation": "Concepto ATFCM (implícito en tasas de regulación, 0 significa no entra nadie)."
+    },
+    {
+      "question_id": "MOD4_175",
+      "question_text": "¿Qué significa que un vuelo está 'Excluido' de una regulación?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Solo lo está de alguna regulación específica, autorizado por el proveedor",
+        "Está exento de todas las regulaciones",
+        "Está prohibido su vuelo",
+        "No necesita FPL"
+      ],
+      "correct_option": 0,
+      "explanation": "Vuelos excluidos, solo lo estarán de alguna regulación o volumen específico."
+    },
+    {
+      "question_id": "MOD4_176",
+      "question_text": "¿Qué es el 'Analísis Post-Operacional'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Fase que analiza el día de operación y realimenta el sistema",
+        "Fase previa al vuelo",
+        "Fase de vuelo",
+        "Fase de facturación"
+      ],
+      "correct_option": 0,
+      "explanation": "Esta fase analiza el día de la operación y realimenta a las tres fases anteriores."
+    },
+    {
+      "question_id": "MOD4_177",
+      "question_text": "¿Qué significa 'STS/HEAD' en el plan de vuelo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Vuelo con Jefe de Estado (Status Head)",
+        "Vuelo de hospital",
+        "Vuelo humanitario",
+        "Vuelo de prueba"
+      ],
+      "correct_option": 0,
+      "explanation": "Indicador de estado especial (implícito en vuelos exentos Jefes de Estado)."
+    },
+    {
+      "question_id": "MOD4_178",
+      "question_text": "¿Qué es el AIP?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Publicación de Información Aeronáutica",
+        "Asociación Internacional de Pilotos",
+        "Plan Internacional Aéreo",
+        "Aeropuerto Internacional Principal"
+      ],
+      "correct_option": 0,
+      "explanation": "AIP-España."
+    },
+    {
+      "question_id": "MOD4_179",
+      "question_text": "¿Qué es el 'Network Manager' (NM)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Entidad que gestiona la red ATM y afluencia en Europa (Eurocontrol)",
+        "El director del aeropuerto",
+        "El jefe de sala",
+        "El sistema informático"
+      ],
+      "correct_option": 0,
+      "explanation": "Funciones de control de afluencia se encuadran en el Network Manager."
+    },
+    {
+      "question_id": "MOD4_180",
+      "question_text": "¿Qué es una 'Medida Táctica'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Medida aplicada el día de la operación",
+        "Medida planificada con meses de antelación",
+        "Medida permanente",
+        "Medida administrativa"
+      ],
+      "correct_option": 0,
+      "explanation": "Fase táctica: Se aplica en el día de la operación."
+    },
+    {
+      "question_id": "MOD4_181",
+      "question_text": "¿Qué es el 'Slot Tolerance Window' (STW)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Ventana de -5 / +10 minutos respecto al CTOT",
+        "Ventana de 15 minutos",
+        "Ventana de 30 minutos",
+        "Hora exacta"
+      ],
+      "correct_option": 0,
+      "explanation": "Concepto estándar ATFCM (CTOT tolerance -5/+10 min). No explícito en texto pero conocimiento fundamental asociado a CTOT."
+    },
+    {
+      "question_id": "MOD4_182",
+      "question_text": "¿Qué significa 'ACK' en IFPS?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Acknowledge (Aceptado)",
+        "Acuse de recibo",
+        "Error",
+        "Unknown"
+      ],
+      "correct_option": 0,
+      "explanation": "FPL aceptado (ACK)."
+    },
+    {
+      "question_id": "MOD4_183",
+      "question_text": "¿Qué significa 'REJ' en IFPS?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Rejected (Rechazado)",
+        "Rejoin",
+        "Region",
+        "Regular"
+      ],
+      "correct_option": 0,
+      "explanation": "FPL rechazado (REJ)."
+    },
+    {
+      "question_id": "MOD4_184",
+      "question_text": "¿Qué es el 'Flight Suspension Message'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Mensaje FLS (Suspensión del vuelo por ATFCM)",
+        "Mensaje de cancelación",
+        "Mensaje de demora",
+        "Mensaje de error"
+      ],
+      "correct_option": 0,
+      "explanation": "Mensaje de suspensión del vuelo (FLS)."
+    },
+    {
+      "question_id": "MOD4_185",
+      "question_text": "¿Qué es la 'Célula de Crisis' en UCATM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Función para situaciones excepcionales que afecten al tránsito aéreo",
+        "Oficina de prensa",
+        "Servicio médico",
+        "Sala de descanso"
+      ],
+      "correct_option": 0,
+      "explanation": "Actuar como célula de crisis en situaciones excepcionales."
+    },
+    {
+      "question_id": "MOD4_186",
+      "question_text": "¿Qué es el 'Feedback' en la fase post-operacional?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Información sobre eficiencia, demoras e incidentes para mejorar",
+        "Devolución de tasas",
+        "Repetición del vuelo",
+        "Queja de pasajeros"
+      ],
+      "correct_option": 0,
+      "explanation": "Aportar “feedback” sobre la eficiencia de las medidas."
+    },
+    {
+      "question_id": "MOD4_187",
+      "question_text": "¿Qué es un 'Vuelo Mixto'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Vuelo con partes IFR y partes VFR (Y o Z)",
+        "Vuelo de pasajeros y carga",
+        "Vuelo civil y militar",
+        "Vuelo nacional e internacional"
+      ],
+      "correct_option": 0,
+      "explanation": "Vuelos mixtos IFR/VFR (contexto demanda)."
+    },
+    {
+      "question_id": "MOD4_188",
+      "question_text": "¿Qué es la 'Capacidad Declarada'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Capacidad notificada basada en la capacidad sostenible (publicada)",
+        "Capacidad real del día",
+        "Capacidad máxima teórica",
+        "Capacidad mínima"
+      ],
+      "correct_option": 0,
+      "explanation": "La capacidad notificada a los organismos apropiados, basada en la capacidad sostenible."
+    },
+    {
+      "question_id": "MOD4_189",
+      "question_text": "¿Qué es la 'Gestión de Afluencia' (ATFM)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Servicio para equilibrar demanda y capacidad y evitar sobrecargas",
+        "Control de tráfico en torre",
+        "Planificación de aerolíneas",
+        "Gestión de pasajeros"
+      ],
+      "correct_option": 0,
+      "explanation": "Equilibrar demanda de tráfico y capacidad disponible... gestión de afluencia."
+    },
+    {
+      "question_id": "MOD4_190",
+      "question_text": "¿Qué es el 'Reglamento SERA'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Standardised European Rules of the Air (Reglamento del Aire UE)",
+        "Servicio Español de Rescate Aéreo",
+        "Sistema Europeo de Radares",
+        "Single European Route Area"
+      ],
+      "correct_option": 0,
+      "explanation": "Según SERA... Reglamento UE 923/2012."
+    },
+    {
+      "question_id": "MOD4_191",
+      "question_text": "¿Qué es una 'Aerovía'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Área de control o parte de ella dispuesta en forma de corredor",
+        "Pista de aterrizaje",
+        "Calle de rodaje",
+        "Espacio aéreo no controlado"
+      ],
+      "correct_option": 0,
+      "explanation": "Cruzar una aerovía... (Contexto FPL). Definición estándar."
+    },
+    {
+      "question_id": "MOD4_192",
+      "question_text": "¿Qué es un 'Vuelo IFR'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Vuelo bajo reglas de vuelo por instrumentos",
+        "Vuelo visual",
+        "Vuelo internacional",
+        "Vuelo de instrucción"
+      ],
+      "correct_option": 0,
+      "explanation": "IFR: Reglas de vuelo por instrumentos."
+    },
+    {
+      "question_id": "MOD4_193",
+      "question_text": "¿Qué es un 'Vuelo VFR'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Vuelo bajo reglas de vuelo visual",
+        "Vuelo muy rápido",
+        "Vuelo frecuente",
+        "Vuelo ferry"
+      ],
+      "correct_option": 0,
+      "explanation": "VFR: Reglas de vuelo visual."
+    },
+    {
+      "question_id": "MOD4_194",
+      "question_text": "¿Qué significa 'SITA'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Société Internationale de Télécommunications Aéronautiques (Red de comunicación)",
+        "Sistema Integrado de Tráfico Aéreo",
+        "Servicio de Información de Torre",
+        "Slot Allocation Time"
+      ],
+      "correct_option": 0,
+      "explanation": "Por teléfono, vía SITA, u otros medios."
+    },
+    {
+      "question_id": "MOD4_195",
+      "question_text": "¿Qué es el 'ICARO'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Sistema de Enaire para gestión de información aeronáutica y FPL",
+        "Nuevo avión de Iberia",
+        "Sistema de radar",
+        "Satélite meteorológico"
+      ],
+      "correct_option": 0,
+      "explanation": "A través de la página web de ICARO."
+    },
+    {
+      "question_id": "MOD4_196",
+      "question_text": "¿Qué es la 'Zona 10' de ARO?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Zona geográfica designada para el Aeródromo de La Cuesta (ejemplo)",
+        "Zona de Madrid",
+        "Zona de Canarias",
+        "Zona de Barcelona"
+      ],
+      "correct_option": 0,
+      "explanation": "El Aeródromo de La Cuesta (Córdoba), su zona geográfica designada es la 10."
+    },
+    {
+      "question_id": "MOD4_197",
+      "question_text": "¿Qué es un 'Plan de Vuelo Individual'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "FPL para un solo vuelo",
+        "FPL repetitivo",
+        "FPL maestro",
+        "FPL de grupo"
+      ],
+      "correct_option": 0,
+      "explanation": "Plan de vuelo individual (FPL)."
+    },
+    {
+      "question_id": "MOD4_198",
+      "question_text": "¿Qué es un 'Vuelo Táctico Militar'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Vuelo militar en misión operativa/combate (exento de FPL generalmente)",
+        "Vuelo de transporte VIP",
+        "Vuelo de entrenamiento básico",
+        "Vuelo de traslado"
+      ],
+      "correct_option": 0,
+      "explanation": "Exentos: Los vuelos militares en misiones tácticas."
+    },
+    {
+      "question_id": "MOD4_199",
+      "question_text": "¿Qué es la 'Hora estimada de llegada'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "ETA (Estimated Time of Arrival)",
+        "EOBT",
+        "ETD",
+        "EET"
+      ],
+      "correct_option": 0,
+      "explanation": "Hora estimada de llegada (concepto general)."
+    },
+    {
+      "question_id": "MOD4_200",
+      "question_text": "¿Qué es el 'Servicio de Alerta'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Servicio para notificar a organismos pertinentes sobre aeronaves que necesitan ayuda",
+        "Servicio de despertador",
+        "Servicio de meteorología",
+        "Servicio de control"
+      ],
+      "correct_option": 0,
+      "explanation": "Mensajes de Alerta... relacionados con una fase de incertidumbre/alerta/peligro."
     }
   ],
   "metadata": {

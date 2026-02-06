@@ -3051,6 +3051,1406 @@
         "meteorologia",
         "fisica"
       ]
+    },
+    {
+      "question_id": "MOD3_101",
+      "question_text": "¿Cuál es la tasa aproximada de descenso de la presión con la altitud en las capas bajas de la atmósfera?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "1 hPa por cada 9 metros (30 ft)",
+        "1 hPa por cada 100 metros",
+        "2 hPa por cada 1000 ft",
+        "1 hPa por cada 50 metros"
+      ],
+      "correct_option": 0,
+      "explanation": "En los primeros metros la presión disminuye a razón de 1mb (hPa) por cada 9 metros (30 ft) de altitud."
+    },
+    {
+      "question_id": "MOD3_102",
+      "question_text": "¿Cuál es el valor de la presión estándar a nivel del mar en la Atmósfera Estándar Internacional (ISA)?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "1013,25 hPa",
+        "1000 hPa",
+        "760 hPa",
+        "29,92 hPa"
+      ],
+      "correct_option": 0,
+      "explanation": "1013,25 hPa (que equivale a 760 mm Hg)."
+    },
+    {
+      "question_id": "MOD3_103",
+      "question_text": "¿Qué instrumento se utiliza para medir la altitud basándose en la presión atmosférica?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Altímetro",
+        "Anemómetro",
+        "Variómetro",
+        "Horizonte artificial"
+      ],
+      "correct_option": 0,
+      "explanation": "Los altímetros son barómetros aneroides graduados para leer altitudes."
+    },
+    {
+      "question_id": "MOD3_104",
+      "question_text": "¿Qué definición corresponde a la 'Altitud'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Distancia vertical entre un punto y el nivel medio del mar (MSL)",
+        "Distancia vertical entre un punto y el suelo",
+        "Distancia vertical entre un punto y la superficie isobárica de 1013,25 hPa",
+        "Altura del terreno sobre el nivel del mar"
+      ],
+      "correct_option": 0,
+      "explanation": "La altitud es la distancia vertical entre un punto... y el nivel medio del mar (MSL)."
+    },
+    {
+      "question_id": "MOD3_105",
+      "question_text": "¿Qué indica un altímetro calado con QNH cuando la aeronave está en tierra?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "La elevación del aeródromo",
+        "Cero",
+        "La altitud de presión",
+        "La altura sobre el nivel del mar estándar"
+      ],
+      "correct_option": 0,
+      "explanation": "Con QNH... el altímetro indicará la altitud del aeródromo (elevación)."
+    },
+    {
+      "question_id": "MOD3_106",
+      "question_text": "¿Qué indica un altímetro calado con QFE cuando la aeronave está en tierra en ese aeródromo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Cero",
+        "La elevación del aeródromo",
+        "La altitud de presión",
+        "1013 hPa"
+      ],
+      "correct_option": 0,
+      "explanation": "Con QFE... el altímetro indicará cero."
+    },
+    {
+      "question_id": "MOD3_107",
+      "question_text": "¿Cuál es la Altitud de Transición establecida para el TMA de Madrid?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "13.000 ft",
+        "6.000 ft",
+        "7.000 ft",
+        "10.000 ft"
+      ],
+      "correct_option": 0,
+      "explanation": "Para Madrid TMA: 13000 ft."
+    },
+    {
+      "question_id": "MOD3_108",
+      "question_text": "¿Qué gradiente térmico vertical estándar (ISA) se asume en la troposfera?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "-2ºC por cada 1.000 ft (-6,5ºC/1000m)",
+        "-1ºC por cada 1.000 ft",
+        "-3ºC por cada 1.000 ft",
+        "Constante hasta la tropopausa"
+      ],
+      "correct_option": 0,
+      "explanation": "El gradiente térmico en la troposfera es de 2ºC por cada 1.000 ft de elevación (descenso)."
+    },
+    {
+      "question_id": "MOD3_109",
+      "question_text": "¿A qué temperatura se encuentra la tropopausa en la atmósfera estándar ISA?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "-56,5ºC",
+        "-40ºC",
+        "-70ºC",
+        "0ºC"
+      ],
+      "correct_option": 0,
+      "explanation": "La temperatura se encuentra alrededor de los – 56,5ºC."
+    },
+    {
+      "question_id": "MOD3_110",
+      "question_text": "¿Qué capa de la atmósfera contiene la mayor parte de la masa y el vapor de agua?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Troposfera",
+        "Estratosfera",
+        "Mesosfera",
+        "Termosfera"
+      ],
+      "correct_option": 0,
+      "explanation": "Troposfera: Contiene casi todo el vapor de agua y la mayor parte de la masa."
+    },
+    {
+      "question_id": "MOD3_111",
+      "question_text": "¿En qué capa de la atmósfera aumenta la temperatura con la altura debido a la absorción de UV por el ozono?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Estratosfera",
+        "Troposfera",
+        "Mesosfera",
+        "Exosfera"
+      ],
+      "correct_option": 0,
+      "explanation": "Estratosfera: La temperatura asciende... fundamentalmente a la abundancia de ozono."
+    },
+    {
+      "question_id": "MOD3_112",
+      "question_text": "¿Qué es la 'Homosfera'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Zona donde la composición de gases es homogénea (hasta la mesopausa)",
+        "La capa más baja de la troposfera",
+        "La zona donde la temperatura es constante",
+        "La capa donde orbitan los satélites"
+      ],
+      "correct_option": 0,
+      "explanation": "Esta zona donde la atmósfera es homogénea y comprende la troposfera, la estratosfera y la mesosfera recibe el nombre de homosfera."
+    },
+    {
+      "question_id": "MOD3_113",
+      "question_text": "¿Qué fuerza desvía los vientos hacia la derecha en el hemisferio norte?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Fuerza de Coriolis",
+        "Fuerza centrífuga",
+        "Fuerza de rozamiento",
+        "Fuerza de gravedad"
+      ],
+      "correct_option": 0,
+      "explanation": "Fuerza de Coriolis... desvía la trayectoria... Hacia la derecha... en el hemisferio norte."
+    },
+    {
+      "question_id": "MOD3_114",
+      "question_text": "¿Qué son los Vientos Alisios?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Vientos que soplan desde las altas presiones subtropicales hacia el ecuador",
+        "Vientos del oeste en latitudes medias",
+        "Vientos polares del este",
+        "Brisas marinas"
+      ],
+      "correct_option": 0,
+      "explanation": "Vientos que surgen entre la vaguada ecuatorial y la zona de alta presión subtropical."
+    },
+    {
+      "question_id": "MOD3_115",
+      "question_text": "¿Qué define una situación de 'Inestabilidad' atmosférica?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Una burbuja de aire es más caliente que el entorno y asciende",
+        "Una burbuja de aire es más fría que el entorno y desciende",
+        "No hay movimientos verticales",
+        "Formación de nubes estratiformes"
+      ],
+      "correct_option": 0,
+      "explanation": "La inestabilidad se origina cuando una burbuja de aire está más caliente (es menos densa) que el aire que la rodea, y asciende."
+    },
+    {
+      "question_id": "MOD3_116",
+      "question_text": "¿Qué tipo de nubes se asocian típicamente con aire estable?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Nubes estratiformes y nieblas",
+        "Cumulonimbos y tormentas",
+        "Nubes de desarrollo vertical",
+        "Chubascos intensos"
+      ],
+      "correct_option": 0,
+      "explanation": "Aire estable: Cielo despejado o con nubes estratiformes... nieblas."
+    },
+    {
+      "question_id": "MOD3_117",
+      "question_text": "¿Qué es la 'Corriente en chorro' (Jet Stream)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Fuerte corriente de aire en la alta troposfera con cizalladura y gran velocidad",
+        "Corriente marina cálida",
+        "Viento superficial en el ecuador",
+        "Flujo de aire en la capa de fricción"
+      ],
+      "correct_option": 0,
+      "explanation": "Fuerte y estrecha corriente concentrada... en la alta troposfera."
+    },
+    {
+      "question_id": "MOD3_118",
+      "question_text": "¿Qué dirección general tienen las corrientes en chorro?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Oeste a Este",
+        "Este a Oeste",
+        "Norte a Sur",
+        "Sur a Norte"
+      ],
+      "correct_option": 0,
+      "explanation": "Circulando... de oeste a este."
+    },
+    {
+      "question_id": "MOD3_119",
+      "question_text": "¿Qué es una DANA?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Depresión Aislada en Niveles Altos",
+        "Depresión Atmosférica del Norte Atlántico",
+        "Divergencia Aérea No Asociada",
+        "Descenso Adiabático No Adiabático"
+      ],
+      "correct_option": 0,
+      "explanation": "D. aislada en niveles altos (DANA)."
+    },
+    {
+      "question_id": "MOD3_120",
+      "question_text": "¿Qué tipo de frente se produce cuando una masa de aire frío desplaza a una caliente obligándola a ascender?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Frente frío",
+        "Frente cálido",
+        "Frente ocluido",
+        "Frente estacionario"
+      ],
+      "correct_option": 0,
+      "explanation": "Frente frío: Cuando una masa de aire frío desplaza a una caliente."
+    },
+    {
+      "question_id": "MOD3_121",
+      "question_text": "¿Qué nube produce halos alrededor del Sol o la Luna?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Cirrostratos (Cs)",
+        "Cirrocúmulos (Cc)",
+        "Altoestratos (As)",
+        "Cúmulos (Cu)"
+      ],
+      "correct_option": 0,
+      "explanation": "Cirrostratos (Cs)... El Sol o la Luna pueden brillar atravesándolo, produciendo halos."
+    },
+    {
+      "question_id": "MOD3_122",
+      "question_text": "¿Qué familia de nubes se encuentra en el piso medio?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Altocúmulos, Altoestratos y Nimbostratos",
+        "Cirros, Cirrostratos y Cirrocúmulos",
+        "Estratos y Estratocúmulos",
+        "Cúmulos y Cumulonimbos"
+      ],
+      "correct_option": 0,
+      "explanation": "Nubes medias: Altocúmulos (Ac), Nimbostratos (Ns), Altoestratos (As)."
+    },
+    {
+      "question_id": "MOD3_123",
+      "question_text": "¿Qué significa el código CAVOK?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Visibilidad > 10 km, sin nubes de importancia, sin fenómenos significativos",
+        "Cielo claro y visibilidad ilimitada",
+        "Cielo cubierto a 5000 pies",
+        "Visibilidad reducida por niebla"
+      ],
+      "correct_option": 0,
+      "explanation": "CAVOK: Sin nubes, sin fenómenos significativos y con visibilidad mayor que 10 kilómetros."
+    },
+    {
+      "question_id": "MOD3_124",
+      "question_text": "¿Cuál es la definición de 'Techo de nubes'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Altura de la base de la capa de nubes más baja que cubre más de la mitad del cielo (BKN/OVC) por debajo de 20.000 ft",
+        "Altura de la nube más alta visible",
+        "Cualquier capa de nubes que cubra el cielo",
+        "Altura donde la visibilidad vertical es nula"
+      ],
+      "correct_option": 0,
+      "explanation": "Altura... de la base de la capa de nubes más baja, siempre que ésta cubra más de la mitad del cielo... inferior a 20.000 ft."
+    },
+    {
+      "question_id": "MOD3_125",
+      "question_text": "¿Qué es el RVR?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Runway Visual Range (Alcance visual en pista)",
+        "Radar Vector Range",
+        "Radio Visual Reference",
+        "Runway Vertical Reading"
+      ],
+      "correct_option": 0,
+      "explanation": "Alcance visual en pista, RVR (Runway Visual Range)."
+    },
+    {
+      "question_id": "MOD3_126",
+      "question_text": "¿Cuál es el límite de visibilidad para definir 'Niebla' (Fog) frente a 'Neblina' (Mist)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "1.000 metros",
+        "5.000 metros",
+        "3.000 metros",
+        "500 metros"
+      ],
+      "correct_option": 0,
+      "explanation": "Niebla... restringe la visibilidad a valores inferiores a 1.000 metros."
+    },
+    {
+      "question_id": "MOD3_127",
+      "question_text": "¿Qué tipo de hielo es 'Clear Icing' (Hielo claro)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Transparente, duro, difícil de romper, adherencia fuerte",
+        "Blanco, opaco, granular, mala adherencia",
+        "Mezcla de nieve y agua",
+        "Escarcha ligera"
+      ],
+      "correct_option": 0,
+      "explanation": "Hielo claro... casi transparente, de aspecto vidrioso... Gran adherencia."
+    },
+    {
+      "question_id": "MOD3_128",
+      "question_text": "¿En qué rango de temperaturas es más probable la formación de hielo claro?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Entre 0ºC y -10ºC",
+        "Entre -10ºC y -20ºC",
+        "Entre -20ºC y -40ºC",
+        "Por debajo de -40ºC"
+      ],
+      "correct_option": 0,
+      "explanation": "Condiciones más favorables: Temperatura del aire entre 0ºC y -10ºC."
+    },
+    {
+      "question_id": "MOD3_129",
+      "question_text": "¿Qué es un 'Microrreventón' (Microburst)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Fuerte corriente descendente de aire frío desde una nube convectiva",
+        "Pequeña explosión de un motor",
+        "Racha de viento horizontal suave",
+        "Tipo de nube pequeña"
+      ],
+      "correct_option": 0,
+      "explanation": "Fuerte corriente de aire descendente de aire frío y denso que se origina desde una nube convectiva."
+    },
+    {
+      "question_id": "MOD3_130",
+      "question_text": "¿Qué condiciones favorecen la formación de Ondas de Montaña?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Viento > 15kt perpendicular a la montaña y capa estable por encima",
+        "Viento flojo y aire inestable",
+        "Aire muy húmedo y cálido sin viento",
+        "Tormentas convectivas sobre la montaña"
+      ],
+      "correct_option": 0,
+      "explanation": "Intensidad > 15 nudos... dirección < 30º respecto a la perpendicular... existencia de capa estable."
+    },
+    {
+      "question_id": "MOD3_131",
+      "question_text": "¿Qué es el Efecto Foehn?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Calentamiento y resecamiento del aire en el lado de sotavento de una montaña",
+        "Enfriamiento del aire al subir una montaña",
+        "Formación de niebla en los valles",
+        "Viento frío que baja de la montaña"
+      ],
+      "correct_option": 0,
+      "explanation": "Fenómeno de recalentamiento y resecamiento... en el lado de sotavento."
+    },
+    {
+      "question_id": "MOD3_132",
+      "question_text": "¿Cuándo sopla la brisa de mar (virazón)?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Durante el día",
+        "Durante la noche",
+        "Al amanecer solamente",
+        "Solo en invierno"
+      ],
+      "correct_option": 0,
+      "explanation": "Soplan de día del mar hacia tierra (brisa de mar)."
+    },
+    {
+      "question_id": "MOD3_133",
+      "question_text": "¿Qué es la cizalladura del viento (Wind Shear)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Cambio brusco en la velocidad y/o dirección del viento en una distancia corta",
+        "Viento constante y laminar",
+        "Viento suave en altura",
+        "Rotación del viento por Coriolis"
+      ],
+      "correct_option": 0,
+      "explanation": "Cambio en la velocidad y/ o la dirección del viento entre dos puntos próximos."
+    },
+    {
+      "question_id": "MOD3_134",
+      "question_text": "¿Qué son las nubes noctilucentes?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Nubes en la mesosfera formadas por cristales y polvo de meteorito",
+        "Nubes bajas de niebla nocturna",
+        "Nubes de tormenta iluminadas por rayos",
+        "Nubes estratosféricas polares"
+      ],
+      "correct_option": 0,
+      "explanation": "En la mesosfera... se pueden observar nubes noctilucentes."
+    },
+    {
+      "question_id": "MOD3_135",
+      "question_text": "¿Qué es la presión QNE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Presión estándar a nivel del mar (1013,25 hPa)",
+        "Presión al nivel del aeródromo",
+        "Presión QNH corregida por temperatura",
+        "Presión en la cabina"
+      ],
+      "correct_option": 0,
+      "explanation": "QNE: Es la presión estándar a nivel del mar (1.013,25 hPa)."
+    },
+    {
+      "question_id": "MOD3_136",
+      "question_text": "¿Qué son las líneas de turbonada?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Líneas de tormentas muy activas",
+        "Líneas de isobaras juntas",
+        "Líneas de niebla costera",
+        "Rutas de vuelo con turbulencia"
+      ],
+      "correct_option": 0,
+      "explanation": "Una línea de turbonada es una línea de tormentas muy activas."
+    },
+    {
+      "question_id": "MOD3_137",
+      "question_text": "¿A qué velocidad de viento un ciclón tropical pasa a denominarse Huracán/Tifón?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Más de 64 kt",
+        "Más de 33 kt",
+        "Más de 50 kt",
+        "Más de 100 kt"
+      ],
+      "correct_option": 0,
+      "explanation": "Huracán, Ciclón o Tifón, con vientos máximos en superficie mayores a 64 kt."
+    },
+    {
+      "question_id": "MOD3_138",
+      "question_text": "¿Qué es la Virga?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Precipitación que se evapora antes de llegar al suelo",
+        "Nube en forma de gancho",
+        "Hielo en el parabrisas",
+        "Viento racheado"
+      ],
+      "correct_option": 0,
+      "explanation": "Precipitaciones se evaporan antes de llegar al suelo creando estructuras filamentosas... virgas."
+    },
+    {
+      "question_id": "MOD3_139",
+      "question_text": "¿Qué es el punto de rocío?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Temperatura a la que hay que enfriar el aire para saturarlo",
+        "Temperatura de congelación del agua",
+        "Temperatura de la superficie al amanecer",
+        "Temperatura de ebullición del agua"
+      ],
+      "correct_option": 0,
+      "explanation": "Temperatura a la cual hay que enfriar un volumen de aire para saturarlo."
+    },
+    {
+      "question_id": "MOD3_140",
+      "question_text": "¿Qué tipo de nubes son los 'Lenticulares'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Nubes estacionarias con forma de lenteja asociadas a ondas de montaña (normalmente Altocúmulos)",
+        "Nubes de tormenta en formación",
+        "Nubes bajas de lluvia",
+        "Nubes altas fibrosas"
+      ],
+      "correct_option": 0,
+      "explanation": "Asociadas a ondas de montaña... comportamiento ondulatorio. (Contexto implícito en meteorología general, aunque el texto no define 'lenticular' explícitamente en la sección de nubes, se asocia a ondas de montaña)."
+    },
+    {
+      "question_id": "MOD3_141",
+      "question_text": "¿Qué instrumento mide la presión atmosférica?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Barómetro",
+        "Termómetro",
+        "Higrómetro",
+        "Anemómetro"
+      ],
+      "correct_option": 0,
+      "explanation": "Los altímetros son barómetros aneroides."
+    },
+    {
+      "question_id": "MOD3_142",
+      "question_text": "¿Cuál es la densidad del aire en la atmósfera estándar a nivel del mar?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "1,225 kg/m3",
+        "1,000 kg/m3",
+        "0,500 kg/m3",
+        "1013,25 kg/m3"
+      ],
+      "correct_option": 0,
+      "explanation": "Densidad de 1,2250 kg/m3."
+    },
+    {
+      "question_id": "MOD3_143",
+      "question_text": "¿Qué son las isobaras?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Líneas que unen puntos de igual presión",
+        "Líneas de igual temperatura",
+        "Líneas de igual altitud",
+        "Líneas de igual viento"
+      ],
+      "correct_option": 0,
+      "explanation": "Concepto implícito en mapas de presión (no explícito en texto, pero básico)."
+    },
+    {
+      "question_id": "MOD3_144",
+      "question_text": "¿Qué es la 'Capa de transición'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Capa entre la Altitud de Transición y el Nivel de Transición",
+        "Capa entre la troposfera y la estratosfera",
+        "Capa de fricción cerca del suelo",
+        "Capa de nubes medias"
+      ],
+      "correct_option": 0,
+      "explanation": "Capa situada entre el nivel de transición y la altitud de transición."
+    },
+    {
+      "question_id": "MOD3_145",
+      "question_text": "¿Qué espesor mínimo tiene la capa de transición?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "1000 ft",
+        "500 ft",
+        "2000 ft",
+        "Variable sin mínimo"
+      ],
+      "correct_option": 0,
+      "explanation": "Espesor variable y siempre mayor o igual a 1000 ft."
+    },
+    {
+      "question_id": "MOD3_146",
+      "question_text": "¿Qué es la Advección?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Transmisión de calor por movimiento horizontal de masas de aire",
+        "Movimiento vertical del aire",
+        "Contacto directo entre cuerpos",
+        "Radiación electromagnética"
+      ],
+      "correct_option": 0,
+      "explanation": "Transmisión de calor que se realiza por medio de movimientos horizontales de masas de aire."
+    },
+    {
+      "question_id": "MOD3_147",
+      "question_text": "¿Qué porcentaje de radiación solar es absorbido por la corteza terrestre?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "40%",
+        "20%",
+        "36%",
+        "50%"
+      ],
+      "correct_option": 0,
+      "explanation": "Sólo un 40% es absorbido por la corteza terrestre."
+    },
+    {
+      "question_id": "MOD3_148",
+      "question_text": "¿Qué gases absorben principalmente la radiación solar en la atmósfera?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Ozono y Dióxido de carbono",
+        "Nitrógeno y Oxígeno",
+        "Argón y Helio",
+        "Metano y CFCs"
+      ],
+      "correct_option": 0,
+      "explanation": "20% es absorbido por los gases atmosféricos (5% ozono, 15% dióxido de carbono)."
+    },
+    {
+      "question_id": "MOD3_149",
+      "question_text": "¿Qué es la Célula de Hadley?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Célula de circulación entre el ecuador y 30º de latitud",
+        "Célula entre 30º y 60º",
+        "Célula polar",
+        "Célula de tormenta"
+      ],
+      "correct_option": 0,
+      "explanation": "Célula de Hadley (entre el ecuador y 30º de latitud)."
+    },
+    {
+      "question_id": "MOD3_150",
+      "question_text": "¿Dónde se sitúa la zona de baja presión subpolar?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Hacia los 60º de latitud",
+        "En el ecuador",
+        "En los 30º de latitud",
+        "En los polos"
+      ],
+      "correct_option": 0,
+      "explanation": "Un cinturón de bajas presiones hacia los 60º denominado zona de baja presión subpolar."
+    },
+    {
+      "question_id": "MOD3_151",
+      "question_text": "¿Qué es la Subsidencia?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Descenso del aire hacia el suelo (típicamente en anticiclones)",
+        "Ascenso del aire caliente",
+        "Movimiento horizontal del viento",
+        "Formación de nubes"
+      ],
+      "correct_option": 0,
+      "explanation": "Se puede definir como el descenso del aire hacia el suelo."
+    },
+    {
+      "question_id": "MOD3_152",
+      "question_text": "¿Qué característica define a un Anticiclón Cálido?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Naturaleza dinámica, subsidencia, cálido en altura",
+        "Naturaleza térmica, frío en superficie",
+        "Asociado a frentes fríos",
+        "Produce lluvias intensas"
+      ],
+      "correct_option": 0,
+      "explanation": "Cálidos: De naturaleza dinámica... subsidencia."
+    },
+    {
+      "question_id": "MOD3_153",
+      "question_text": "¿Qué es una Oclusión de tipo frío?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "El aire detrás de la oclusión es más frío que el de delante",
+        "El aire detrás es más caliente que el de delante",
+        "No hay diferencia de temperatura",
+        "Se forma hielo en el frente"
+      ],
+      "correct_option": 0,
+      "explanation": "Oclusión de tipo frío... si el aire que se encuentra detrás de la oclusión es más frío."
+    },
+    {
+      "question_id": "MOD3_154",
+      "question_text": "¿Qué nubes son 'Cirros'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Nubes altas, filamentos blancos de hielo",
+        "Nubes bajas grises de lluvia",
+        "Nubes de algodón bajas",
+        "Nubes medias en capas"
+      ],
+      "correct_option": 0,
+      "explanation": "Cirros (Ci): Se componen de largos, finos y etéreos filamentos blancos... cristales de hielo."
+    },
+    {
+      "question_id": "MOD3_155",
+      "question_text": "¿Qué nubes son 'Nimbostratos'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Capa nubosa gris de lluvia continua (nube media/baja)",
+        "Nubes altas transparentes",
+        "Nubes de tormenta con rayos",
+        "Niebla alta"
+      ],
+      "correct_option": 0,
+      "explanation": "Nimbostratos (Ns): Capa nubosa gris... aspecto velado por la precipitación."
+    },
+    {
+      "question_id": "MOD3_156",
+      "question_text": "¿Qué código se usa para 'Cielo cubierto' (8 octas)?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "OVC",
+        "BKN",
+        "SCT",
+        "FEW"
+      ],
+      "correct_option": 0,
+      "explanation": "OVC: cielo cubierto."
+    },
+    {
+      "question_id": "MOD3_157",
+      "question_text": "¿Qué código se usa para 3 a 4 octas de nubes?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "SCT (Scattered)",
+        "BKN (Broken)",
+        "FEW (Few)",
+        "OVC (Overcast)"
+      ],
+      "correct_option": 0,
+      "explanation": "SCT: nubosidad dispersa (de 3 a 4 octas)."
+    },
+    {
+      "question_id": "MOD3_158",
+      "question_text": "¿Qué instrumento mide el RVR?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Transmisómetro",
+        "Anemómetro",
+        "Barómetro",
+        "Termómetro"
+      ],
+      "correct_option": 0,
+      "explanation": "Este parámetro se obtiene de transmisómetros."
+    },
+    {
+      "question_id": "MOD3_159",
+      "question_text": "¿Qué es la 'Turbulencia en aire claro' (TAC/CAT)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Turbulencia en alta cota fuera de nubes, asociada al chorro",
+        "Turbulencia por edificios",
+        "Turbulencia térmica en verano",
+        "Turbulencia en nubes cúmulos"
+      ],
+      "correct_option": 0,
+      "explanation": "Aparece en vuelos de alta cota y muchas veces, fuera de nubes... cercanos a la corriente en chorro."
+    },
+    {
+      "question_id": "MOD3_160",
+      "question_text": "¿Qué efecto tienen las temperaturas elevadas en el despegue?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Disminuye la densidad, aumenta la distancia de despegue",
+        "Aumenta la densidad, disminuye la distancia",
+        "No afecta al rendimiento",
+        "Mejora la sustentación"
+      ],
+      "correct_option": 0,
+      "explanation": "Disminución de la densidad del aire que puede condicionar el recorrido de despegue (necesario pistas más largas)."
+    },
+    {
+      "question_id": "MOD3_161",
+      "question_text": "¿Qué es una 'Tromba marina'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Un tornado sobre el mar",
+        "Una lluvia muy intensa",
+        "Una ola gigante",
+        "Un tipo de nube"
+      ],
+      "correct_option": 0,
+      "explanation": "Si la formación del tornado tiene lugar sobre el mar, se forma la llamada tromba marina."
+    },
+    {
+      "question_id": "MOD3_162",
+      "question_text": "¿A qué latitud aproximada se encuentran los cinturones de alta presión subtropical?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "30º",
+        "60º",
+        "0º (Ecuador)",
+        "90º (Polos)"
+      ],
+      "correct_option": 0,
+      "explanation": "Un cinturón de altas presiones en los 30º denominado zona de alta presión subtropical."
+    },
+    {
+      "question_id": "MOD3_163",
+      "question_text": "¿Qué tipo de frente suele moverse más rápido?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Frente frío",
+        "Frente cálido",
+        "Frente estacionario",
+        "Se mueven igual"
+      ],
+      "correct_option": 0,
+      "explanation": "Un frente frío, que por regla general se mueve más rápido que uno caliente."
+    },
+    {
+      "question_id": "MOD3_164",
+      "question_text": "¿Qué es la 'Exosfera'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "La última capa de la atmósfera",
+        "La capa de ozono",
+        "La capa de lluvia",
+        "La capa donde vuelan los aviones comerciales"
+      ],
+      "correct_option": 0,
+      "explanation": "Esta capa es la última capa de la atmósfera."
+    },
+    {
+      "question_id": "MOD3_165",
+      "question_text": "¿Qué altura alcanza la tropopausa en el ecuador?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "18 km",
+        "8 km",
+        "11 km",
+        "50 km"
+      ],
+      "correct_option": 0,
+      "explanation": "En latitudes bajas se extiende desde la superficie hasta una altura promedio de 18 Km."
+    },
+    {
+      "question_id": "MOD3_166",
+      "question_text": "¿Qué es el 'Calor latente'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Calor absorbido o liberado durante un cambio de fase sin cambio de temperatura",
+        "Calor que se siente al tacto",
+        "Temperatura del aire",
+        "Radiación solar"
+      ],
+      "correct_option": 0,
+      "explanation": "Concepto físico implícito en los cambios de estado (condensación, evaporación) mencionados."
+    },
+    {
+      "question_id": "MOD3_167",
+      "question_text": "¿Qué es la 'Inercia térmica' en la temperatura diaria?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "El retraso en el calentamiento/enfriamiento respecto al pico de radiación solar",
+        "La resistencia del aire a moverse",
+        "La estabilidad atmosférica",
+        "El efecto del viento"
+      ],
+      "correct_option": 0,
+      "explanation": "Lleva un tiempo el que el aire se caliente o enfríe... (inercia térmica)."
+    },
+    {
+      "question_id": "MOD3_168",
+      "question_text": "¿Qué es una 'Inversión térmica'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Aumento de la temperatura con la altura (gradiente negativo)",
+        "Disminución rápida de temperatura",
+        "Cambio de viento",
+        "Niebla espesa"
+      ],
+      "correct_option": 0,
+      "explanation": "Gradiente térmico negativo: la temperatura aumenta con la altura (definición de inversión implícita en tipos de gradiente)."
+    },
+    {
+      "question_id": "MOD3_169",
+      "question_text": "¿Qué tipo de niebla se forma por el enfriamiento nocturno del suelo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Niebla de radiación",
+        "Niebla de advección",
+        "Niebla frontal",
+        "Niebla de ladera"
+      ],
+      "correct_option": 0,
+      "explanation": "La masa de aire entre en contacto con una superficie muy fría (casos de... radiación)."
+    },
+    {
+      "question_id": "MOD3_170",
+      "question_text": "¿Qué es la 'Turbulencia mecánica'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Formada por obstáculos físicos al viento (edificios, montañas)",
+        "Formada por calor",
+        "Formada por aviones",
+        "Formada por frentes"
+      ],
+      "correct_option": 0,
+      "explanation": "Se forma por la presencia de algún obstáculo material en la marcha del viento."
+    },
+    {
+      "question_id": "MOD3_171",
+      "question_text": "¿Qué fase de la tormenta es la más peligrosa (corrientes ascendentes y descendentes)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Madurez",
+        "Formación",
+        "Disipación",
+        "Nucleación"
+      ],
+      "correct_option": 0,
+      "explanation": "Madurez... corrientes descendentes coexisten con corrientes ascendentes, que alcanzan su máxima intensidad."
+    },
+    {
+      "question_id": "MOD3_172",
+      "question_text": "¿Qué es el 'Frente de racha'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Borde de ataque del aire frío descendente de una tormenta al expandirse por el suelo",
+        "Frente frío rápido",
+        "Línea de turbonada",
+        "Brisa marina fuerte"
+      ],
+      "correct_option": 0,
+      "explanation": "La caída de precipitación genera unas corrientes descendentes de aire que, al llegar al suelo, forman el frente de racha."
+    },
+    {
+      "question_id": "MOD3_173",
+      "question_text": "¿Qué es una 'Tuba' (Funnel cloud)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Un tornado que no alcanza el suelo",
+        "Una tromba marina",
+        "Una nube lenticular",
+        "Un tipo de engelamiento"
+      ],
+      "correct_option": 0,
+      "explanation": "Cuando el torbellino no alcanza la superficie terrestre se llama tuba."
+    },
+    {
+      "question_id": "MOD3_174",
+      "question_text": "¿Cuál es la dirección del viento en una Depresión (Borrasca) en el Hemisferio Norte?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Anti-horaria",
+        "Horaria",
+        "Recta hacia el centro",
+        "Recta hacia fuera"
+      ],
+      "correct_option": 0,
+      "explanation": "Sentido anti-horario en el hemisferio norte."
+    },
+    {
+      "question_id": "MOD3_175",
+      "question_text": "¿Qué es la 'Amplitud térmica'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Diferencia entre temperatura máxima y mínima",
+        "Temperatura media del día",
+        "Calor específico del aire",
+        "Gradiente vertical"
+      ],
+      "correct_option": 0,
+      "explanation": "Diferencia entre la temperatura máxima y mínima (amplitud térmica)."
+    },
+    {
+      "question_id": "MOD3_176",
+      "question_text": "¿Qué es la 'Visibilidad Oblicua'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Distancia desde la cual un piloto en aproximación ve la pista",
+        "Visibilidad horizontal en el suelo",
+        "Visibilidad vertical hacia arriba",
+        "RVR"
+      ],
+      "correct_option": 0,
+      "explanation": "Distancia desde la cual un piloto, mirando a lo largo de la senda de planeo, puede ver la pista."
+    },
+    {
+      "question_id": "MOD3_177",
+      "question_text": "¿Qué significa el término 'Higroscópico' en los núcleos de condensación?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Que atrae o absorbe agua (facilita condensación)",
+        "Que repele el agua",
+        "Que se congela rápido",
+        "Que es radiactivo"
+      ],
+      "correct_option": 0,
+      "explanation": "Partículas higroscópicas que facilitan el proceso de condensación."
+    },
+    {
+      "question_id": "MOD3_178",
+      "question_text": "¿A qué altitud aproximada se encuentra la superficie de 500 hPa (mitad de la atmósfera por peso)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "5.500 m (18.000 ft)",
+        "3.000 m (10.000 ft)",
+        "1.500 m (5.000 ft)",
+        "10.000 m (30.000 ft)"
+      ],
+      "correct_option": 0,
+      "explanation": "Dato estándar meteorológico (aprox 5.5km). No explícito en texto pero deducible de gradientes o conocimiento general de meteorología aeronáutica básica."
+    },
+    {
+      "question_id": "MOD3_179",
+      "question_text": "¿Qué nubes son 'Estratocúmulos'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Nubes bajas en bancos o capas, grises/blanquecinas",
+        "Nubes altas",
+        "Nubes de lluvia continua",
+        "Nubes de tormenta"
+      ],
+      "correct_option": 0,
+      "explanation": "Estratocúmulos (Sc): Nubes en forma de banco, manto o capa... nubes bajas."
+    },
+    {
+      "question_id": "MOD3_180",
+      "question_text": "¿Qué instrumento se usa para medir la humedad relativa?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Higrómetro (o Psicrómetro)",
+        "Barómetro",
+        "Anemómetro",
+        "Termómetro"
+      ],
+      "correct_option": 0,
+      "explanation": "Conocimiento general de meteorología (instrumentos)."
+    },
+    {
+      "question_id": "MOD3_181",
+      "question_text": "¿Qué es el 'Punto de congelación' del agua en grados Fahrenheit?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "32ºF",
+        "0ºF",
+        "212ºF",
+        "100ºF"
+      ],
+      "correct_option": 0,
+      "explanation": "32ºF (Punto de fusión del hielo)."
+    },
+    {
+      "question_id": "MOD3_182",
+      "question_text": "¿Qué es la 'Presión atmosférica'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Peso de la columna de aire sobre un punto",
+        "Temperatura del aire",
+        "Humedad del aire",
+        "Velocidad del viento"
+      ],
+      "correct_option": 0,
+      "explanation": "Peso que ésta (columna de aire) ejerce."
+    },
+    {
+      "question_id": "MOD3_183",
+      "question_text": "¿Qué capa atmosférica refleja las ondas de radio?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Ionosfera (Termosfera)",
+        "Troposfera",
+        "Estratosfera",
+        "Exosfera"
+      ],
+      "correct_option": 0,
+      "explanation": "Iones presentes en esta capa (Termosfera/Ionosfera) pueden reflejar las ondas de radio."
+    },
+    {
+      "question_id": "MOD3_184",
+      "question_text": "¿Qué es la 'Convección'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Transferencia de calor por movimiento vertical de un fluido",
+        "Transferencia por contacto",
+        "Transferencia por radiación",
+        "Transferencia por advección horizontal"
+      ],
+      "correct_option": 0,
+      "explanation": "Transmisión de calor que se realiza por el medio de un fluido... origina frecuentemente los movimientos verticales."
+    },
+    {
+      "question_id": "MOD3_185",
+      "question_text": "¿Qué es el 'Viento geostrófico'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Viento teórico resultante del equilibrio entre fuerza de gradiente y Coriolis (paralelo a isobaras)",
+        "Viento en superficie con rozamiento",
+        "Viento de valle",
+        "Viento catabático"
+      ],
+      "correct_option": 0,
+      "explanation": "Concepto avanzado relacionado con Coriolis y Gradiente (implícito en la explicación de vientos en altura vs superficie)."
+    },
+    {
+      "question_id": "MOD3_186",
+      "question_text": "¿Qué nubes son indicio de turbulencia en aire claro (o cerca de chorro)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Cirros en forma de gancho o estelas de condensación deformadas",
+        "Cúmulos de buen tiempo",
+        "Estratos bajos",
+        "Niebla"
+      ],
+      "correct_option": 0,
+      "explanation": "Generalmente la TAC se presenta... en lugares cercanos a la corriente en chorro (asociado a cirros)."
+    },
+    {
+      "question_id": "MOD3_187",
+      "question_text": "¿Qué es una 'Isohipsas'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Líneas de igual altura geopotencial en mapas de altura",
+        "Líneas de igual presión en superficie",
+        "Líneas de igual temperatura",
+        "Líneas de igual humedad"
+      ],
+      "correct_option": 0,
+      "explanation": "Término técnico de mapas de altura (niveles de vuelo son superficies de presión constante, se representan con isohipsas)."
+    },
+    {
+      "question_id": "MOD3_188",
+      "question_text": "¿Qué es el 'Granizo'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Precipitación sólida de hielo (asociada a Cb)",
+        "Nieve fina",
+        "Lluvia helada",
+        "Escarcha"
+      ],
+      "correct_option": 0,
+      "explanation": "Precipitación sólida... granizo... asociada a tormentas (Cb)."
+    },
+    {
+      "question_id": "MOD3_189",
+      "question_text": "¿Qué es la 'Escarcha'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Depósito de hielo cristalino por sublimación inversa sobre superficies frías",
+        "Lluvia que se congela",
+        "Nieve granulada",
+        "Hielo claro"
+      ],
+      "correct_option": 0,
+      "explanation": "Depósito de nieve húmeda o escarcha... sobre aviones aparcados."
+    },
+    {
+      "question_id": "MOD3_190",
+      "question_text": "¿Qué efecto tiene el engelamiento en las superficies de control?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Reducción de maniobrabilidad por agarrotamiento",
+        "Mejora la estabilidad",
+        "Aumenta la velocidad",
+        "Reduce el consumo"
+      ],
+      "correct_option": 0,
+      "explanation": "Reducción de maniobrabilidad por el agarrotamiento de las superficies de control."
+    },
+    {
+      "question_id": "MOD3_191",
+      "question_text": "¿Qué es un METAR?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Informe meteorológico aeronáutico rutinario de aeródromo",
+        "Pronóstico de área",
+        "Mapa de vientos",
+        "Imagen de satélite"
+      ],
+      "correct_option": 0,
+      "explanation": "Informes meteorológicos aeronáuticos METAR."
+    },
+    {
+      "question_id": "MOD3_192",
+      "question_text": "¿Qué es un SPECI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Informe meteorológico especial de aeródromo (cambios significativos)",
+        "Informe rutinario",
+        "Pronóstico a largo plazo",
+        "Informe de climatología"
+      ],
+      "correct_option": 0,
+      "explanation": "Informes meteorológicos aeronáuticos METAR/SPECI."
+    },
+    {
+      "question_id": "MOD3_193",
+      "question_text": "¿Qué es la 'Visibilidad Reinante'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Valor máximo de visibilidad alcanzado en al menos la mitad del círculo del horizonte",
+        "La visibilidad mínima",
+        "La visibilidad media aritmética",
+        "La visibilidad en la dirección de aterrizaje"
+      ],
+      "correct_option": 0,
+      "explanation": "Valor máximo... al que se llega dentro de un círculo que cubre por lo menos la mitad del horizonte."
+    },
+    {
+      "question_id": "MOD3_194",
+      "question_text": "¿Qué es el 'Gradiente adiabático seco'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "3ºC/1000ft (aprox)",
+        "2ºC/1000ft",
+        "0.6ºC/1000ft",
+        "6ºC/1000ft"
+      ],
+      "correct_option": 0,
+      "explanation": "Valor estándar físico (aprox 3C/1000ft o 1C/100m). Mencionado como 'mayor que el saturado' en texto Foehn."
+    },
+    {
+      "question_id": "MOD3_195",
+      "question_text": "¿Qué es el 'Gradiente adiabático saturado'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Menor que el seco (aprox 1.8ºC/1000ft)",
+        "Mayor que el seco",
+        "Igual que el seco",
+        "Cero"
+      ],
+      "correct_option": 0,
+      "explanation": "Menor que el seco (debido a la liberación de calor latente)."
+    },
+    {
+      "question_id": "MOD3_196",
+      "question_text": "¿Qué ocurre con la presión en el centro de un tornado?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Cae bruscamente (succión)",
+        "Aumenta",
+        "Se mantiene constante",
+        "Fluctúa suavemente"
+      ],
+      "correct_option": 0,
+      "explanation": "Generando una caída de presión en el mismo."
+    },
+    {
+      "question_id": "MOD3_197",
+      "question_text": "¿Qué es una 'Perturbación tropical'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Primera etapa de ciclón tropical con vientos ligeros",
+        "Huracán fuerte",
+        "Tormenta extratropical",
+        "Frente frío"
+      ],
+      "correct_option": 0,
+      "explanation": "Perturbación tropical, con vientos en superficie ligeros."
+    },
+    {
+      "question_id": "MOD3_198",
+      "question_text": "¿Qué temperatura del mar se necesita para formar ciclones tropicales?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Por encima de 27ºC",
+        "Por encima de 20ºC",
+        "Por debajo de 15ºC",
+        "Cualquier temperatura"
+      ],
+      "correct_option": 0,
+      "explanation": "Cuando el agua del mar está muy caliente (aproximadamente por encima de 27ºC)."
+    },
+    {
+      "question_id": "MOD3_199",
+      "question_text": "¿Qué es la 'Capa de fricción'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Capa baja de la atmósfera donde el viento es afectado por el rozamiento con el suelo",
+        "Capa de ozono",
+        "Tropopausa",
+        "Capa de nubes"
+      ],
+      "correct_option": 0,
+      "explanation": "Especial importancia debajo de la capa de fricción (contexto cizalladura)."
+    },
+    {
+      "question_id": "MOD3_200",
+      "question_text": "¿Qué es el 'Efecto Invernadero'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Absorción de radiación terrestre (onda larga) por gases atmosféricos, calentando la superficie",
+        "Reflexión de la luz solar por las nubes",
+        "Enfriamiento de la atmósfera por contaminación",
+        "Calentamiento por la capa de ozono"
+      ],
+      "correct_option": 0,
+      "explanation": "Absorción selectiva de la radiación solar (y terrestre, onda larga) por parte de los gases de efecto invernadero."
     }
   ],
   "metadata": {

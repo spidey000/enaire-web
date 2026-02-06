@@ -3103,6 +3103,1406 @@
         "oaci",
         "documentacion"
       ]
+    },
+    {
+      "question_id": "MOD2_101",
+      "question_text": "¿Qué servicio es el encargado de las comunicaciones entre estaciones terrestres fijas aeronáuticas?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Servicio Fijo Aeronáutico (AFS)",
+        "Servicio Móvil Aeronáutico (AMS)",
+        "Servicio de Información de Vuelo (FIS)",
+        "Servicio de Alerta"
+      ],
+      "correct_option": 0,
+      "explanation": "El Servicio Fijo Aeronáutico (AFS) es el encargado de las comunicaciones entre estaciones terrestres fijas."
+    },
+    {
+      "question_id": "MOD2_102",
+      "question_text": "¿Qué documento de la OACI regula los Indicadores de lugar?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Doc. 7910",
+        "Doc. 8585",
+        "Doc. 8643",
+        "Doc. 4444"
+      ],
+      "correct_option": 0,
+      "explanation": "Documento 7910 “Indicadores de lugar”."
+    },
+    {
+      "question_id": "MOD2_103",
+      "question_text": "¿Cuál es el periodo mínimo antes de reasignar un indicador de lugar tras su anulación?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Seis meses",
+        "Tres meses",
+        "Un año",
+        "Un mes"
+      ],
+      "correct_option": 0,
+      "explanation": "No debería volverse a asignar un indicador de lugar a otro lugar durante un período de seis meses, como mínimo."
+    },
+    {
+      "question_id": "MOD2_104",
+      "question_text": "¿Qué indica la primera letra 'G' en los indicadores de lugar de España?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Canarias, Ceuta y Melilla",
+        "Península Ibérica",
+        "Europa del Sur",
+        "África del Norte"
+      ],
+      "correct_option": 0,
+      "explanation": "G para Canarias, Ceuta y Melilla."
+    },
+    {
+      "question_id": "MOD2_105",
+      "question_text": "¿Qué indica la segunda letra 'E' en los indicadores de lugar de España?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Península, Ceuta y Melilla",
+        "Canarias",
+        "Baleares",
+        "España entera"
+      ],
+      "correct_option": 0,
+      "explanation": "E para la Península, Ceuta y Melilla (LExx)."
+    },
+    {
+      "question_id": "MOD2_106",
+      "question_text": "¿Cuál es el indicador de lugar del Centro de Control de Área (ACC) de Madrid?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "LECM",
+        "LECB",
+        "LECS",
+        "GCCC"
+      ],
+      "correct_option": 0,
+      "explanation": "Madrid FIC/ACC es LECM."
+    },
+    {
+      "question_id": "MOD2_107",
+      "question_text": "¿Cuál es el indicador de lugar del aeropuerto de Barcelona-El Prat?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "LEBL",
+        "LEBB",
+        "LEBC",
+        "LEGE"
+      ],
+      "correct_option": 0,
+      "explanation": "BARCELONA/Josep Tarradellas Barcelona - El Prat es LEBL."
+    },
+    {
+      "question_id": "MOD2_108",
+      "question_text": "¿Cuál es el indicador de lugar del aeropuerto de Tenerife Sur?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "GCTS",
+        "GCXO",
+        "GCLP",
+        "GCRR"
+      ],
+      "correct_option": 0,
+      "explanation": "TENERIFE SUR es GCTS."
+    },
+    {
+      "question_id": "MOD2_109",
+      "question_text": "¿Qué designador de tres letras se utiliza para identificar una Torre de Control en mensajes AFTN?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "ZTZ",
+        "YMY",
+        "YOY",
+        "YNY"
+      ],
+      "correct_option": 0,
+      "explanation": "ZTZ: Torre de Control de Aeródromo."
+    },
+    {
+      "question_id": "MOD2_110",
+      "question_text": "¿Qué designador de tres letras identifica una Oficina Meteorológica?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "YMY",
+        "ZTZ",
+        "YOY",
+        "YAY"
+      ],
+      "correct_option": 0,
+      "explanation": "YMY: Oficina Meteorológica."
+    },
+    {
+      "question_id": "MOD2_111",
+      "question_text": "¿Cuál es el indicador de lugar de Casablanca ACC?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "GMMM",
+        "DAAA",
+        "GOOO",
+        "DTTC"
+      ],
+      "correct_option": 0,
+      "explanation": "Casablanca ACC/FIC es GMMM."
+    },
+    {
+      "question_id": "MOD2_112",
+      "question_text": "¿Qué documento de la OACI contiene los Designadores de empresas explotadoras de aeronaves (aerolíneas)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Doc. 8585",
+        "Doc. 7910",
+        "Doc. 8643",
+        "Anexo 7"
+      ],
+      "correct_option": 0,
+      "explanation": "Doc. 8585 — Designadores de empresas explotadoras de aeronaves."
+    },
+    {
+      "question_id": "MOD2_113",
+      "question_text": "¿Cuál es el designador telegráfico OACI de IBERIA?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "IBE",
+        "IBA",
+        "IBR",
+        "LIA"
+      ],
+      "correct_option": 0,
+      "explanation": "IBERIA es IBE."
+    },
+    {
+      "question_id": "MOD2_114",
+      "question_text": "¿Cuál es el designador telefónico (callsign) de BRITISH AIRWAYS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "SPEEDBIRD",
+        "BRITISH",
+        "AIRWAYS",
+        "UNITED KINGDOM"
+      ],
+      "correct_option": 0,
+      "explanation": "BRITISH AIRWAYS es SPEEDBIRD."
+    },
+    {
+      "question_id": "MOD2_115",
+      "question_text": "¿Qué marca de nacionalidad corresponde a Alemania?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "D",
+        "A",
+        "G",
+        "F"
+      ],
+      "correct_option": 0,
+      "explanation": "Alemania es D."
+    },
+    {
+      "question_id": "MOD2_116",
+      "question_text": "¿Qué marca de nacionalidad corresponde a Reino Unido?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "G",
+        "UK",
+        "R",
+        "GB"
+      ],
+      "correct_option": 0,
+      "explanation": "Reino Unido es G."
+    },
+    {
+      "question_id": "MOD2_117",
+      "question_text": "¿Qué Anexo de la OACI regula las Marcas de nacionalidad y de matrícula?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Anexo 7",
+        "Anexo 1",
+        "Anexo 6",
+        "Anexo 8"
+      ],
+      "correct_option": 0,
+      "explanation": "Anexo 7 al Convenio sobre Aviación Civil Internacional."
+    },
+    {
+      "question_id": "MOD2_118",
+      "question_text": "¿Cuál es el código IATA del aeropuerto de Málaga?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "AGP",
+        "MAL",
+        "MLG",
+        "MGA"
+      ],
+      "correct_option": 0,
+      "explanation": "MÁLAGA/Costa del Sol es AGP."
+    },
+    {
+      "question_id": "MOD2_119",
+      "question_text": "¿Cuál es el código IATA del aeropuerto de Alicante?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "ALC",
+        "ALI",
+        "ALT",
+        "ALN"
+      ],
+      "correct_option": 0,
+      "explanation": "ALICANTE-ELCHE Miguel Hernández es ALC."
+    },
+    {
+      "question_id": "MOD2_120",
+      "question_text": "¿Qué código IATA corresponde a Vueling Airlines?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "VY",
+        "VL",
+        "VG",
+        "VU"
+      ],
+      "correct_option": 0,
+      "explanation": "Vueling es VY."
+    },
+    {
+      "question_id": "MOD2_121",
+      "question_text": "¿Qué documento de la OACI contiene los Designadores de tipos de aeronave?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Doc. 8643",
+        "Doc. 8585",
+        "Doc. 7910",
+        "Doc. 4444"
+      ],
+      "correct_option": 0,
+      "explanation": "El documento 8643 de OACI permite conocer el designador y descripción de aeronave."
+    },
+    {
+      "question_id": "MOD2_122",
+      "question_text": "¿Qué categoría de estela turbulenta (WTC) OACI corresponde a una aeronave de 100.000 kg?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Medium (M)",
+        "Heavy (H)",
+        "Light (L)",
+        "Super (J)"
+      ],
+      "correct_option": 0,
+      "explanation": "Medium (M): Aeronaves de menos 136.000 kg y más de 7.000 kg."
+    },
+    {
+      "question_id": "MOD2_123",
+      "question_text": "¿A partir de qué peso se considera una aeronave 'Heavy' (Pesada) según OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "136.000 kg o más",
+        "100.000 kg o más",
+        "250.000 kg o más",
+        "5.700 kg o más"
+      ],
+      "correct_option": 0,
+      "explanation": "H (Heavy/Pesada): Aeronaves de 136.000 kg o más."
+    },
+    {
+      "question_id": "MOD2_124",
+      "question_text": "¿Qué categoría WTC OACI es exclusiva para el A380-800?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "J (Super)",
+        "H (Heavy)",
+        "S (Super Heavy)",
+        "M (Medium)"
+      ],
+      "correct_option": 0,
+      "explanation": "J (Súper): Exclusivo para la aeronave AIRBUS A380-800."
+    },
+    {
+      "question_id": "MOD2_125",
+      "question_text": "¿Cómo se considera el Boeing 757 a efectos de estela turbulenta cuando va seguido de otra aeronave?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "PESADA (Heavy)",
+        "MEDIA (Medium)",
+        "LIGERA (Light)",
+        "SÚPER (J)"
+      ],
+      "correct_option": 0,
+      "explanation": "El B757 se considera PESADA cuando vaya seguida de otra aeronave (es decir, como generadora de estela)."
+    },
+    {
+      "question_id": "MOD2_126",
+      "question_text": "¿Cuántas categorías introduce el esquema RECAT-EU?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Seis",
+        "Cuatro",
+        "Tres",
+        "Ocho"
+      ],
+      "correct_option": 0,
+      "explanation": "El esquema RECAT-EU introduce las seis categorías siguientes."
+    },
+    {
+      "question_id": "MOD2_127",
+      "question_text": "¿Qué significa el carácter 'L' en la descripción del tipo de aeronave (ej. L2J)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Landplane (avión terrestre)",
+        "Light (ligera)",
+        "Large (grande)",
+        "Low wing (ala baja)"
+      ],
+      "correct_option": 0,
+      "explanation": "L: Landplane (avión terrestre)."
+    },
+    {
+      "question_id": "MOD2_128",
+      "question_text": "¿Qué significa el carácter 'J' en la descripción del tipo de aeronave (ej. L2J)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Jet engine (motor a reacción)",
+        "Jumbo",
+        "Joint wing",
+        "Japan manufactured"
+      ],
+      "correct_option": 0,
+      "explanation": "J: Jet engine (motor a reacción)."
+    },
+    {
+      "question_id": "MOD2_129",
+      "question_text": "¿Qué función cumple el Alerón en una aeronave?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Permite el alabeo (roll)",
+        "Permite el cabeceo (pitch)",
+        "Permite la guiñada (yaw)",
+        "Genera sustentación"
+      ],
+      "correct_option": 0,
+      "explanation": "Alerón: Permite el alabeo."
+    },
+    {
+      "question_id": "MOD2_130",
+      "question_text": "¿Qué parte de la aeronave controla la guiñada (yaw)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Timón vertical o de dirección",
+        "Timón de profundidad",
+        "Alerones",
+        "Flaps"
+      ],
+      "correct_option": 0,
+      "explanation": "Timón vertical o de dirección: Controla el deslizamiento lateral... o guiñada."
+    },
+    {
+      "question_id": "MOD2_131",
+      "question_text": "¿Cuál es el indicador de lugar de Santiago TACC?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "LECG",
+        "LEST",
+        "LECS",
+        "LESO"
+      ],
+      "correct_option": 0,
+      "explanation": "Santiago TACC es LECG (LEST es el aeropuerto)."
+    },
+    {
+      "question_id": "MOD2_132",
+      "question_text": "¿Cuál es el indicador de lugar de Melilla?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "GEML",
+        "LEML",
+        "GCML",
+        "GECE"
+      ],
+      "correct_option": 0,
+      "explanation": "MELILLA es GEML (Zona G, España E... espera, Melilla es G, no E en segunda letra? Tabla dice GEML. Texto dice G para Canarias, Ceuta y Melilla en primera letra. Segunda letra para Ceuta/Melilla dice E en 2.3 pero en la tabla es GEML. La tabla manda)."
+    },
+    {
+      "question_id": "MOD2_133",
+      "question_text": "¿Cuál es el indicador de lugar de Ceuta (Helipuerto)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "GECE",
+        "LECE",
+        "GCCE",
+        "LECU"
+      ],
+      "correct_option": 0,
+      "explanation": "CEUTA es GECE."
+    },
+    {
+      "question_id": "MOD2_134",
+      "question_text": "¿Qué indicador de lugar corresponde a Gibraltar?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "LXGB",
+        "LEGB",
+        "GIBR",
+        "LEGT"
+      ],
+      "correct_option": 0,
+      "explanation": "GIBRALTAR es LXGB."
+    },
+    {
+      "question_id": "MOD2_135",
+      "question_text": "¿Qué indicador de lugar corresponde a Lisboa ACC?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "LPPC",
+        "LPPT",
+        "LPPP",
+        "LEPC"
+      ],
+      "correct_option": 0,
+      "explanation": "Lisboa ACC/FIC es LPPC."
+    },
+    {
+      "question_id": "MOD2_136",
+      "question_text": "¿Qué es la 'Marca común' en las matrículas de aeronaves?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Marca asignada a organismos internacionales (ej. ONU)",
+        "Marca compartida por países de la UE",
+        "Marca para aeronaves militares",
+        "Marca genérica para drones"
+      ],
+      "correct_option": 0,
+      "explanation": "La marca común se utiliza en vez de la marca de nacionalidad cuando la aeronave pertenezca a un organismo internacional."
+    },
+    {
+      "question_id": "MOD2_137",
+      "question_text": "¿Qué combinaciones de letras están prohibidas en las matrículas de aeronaves?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "SOS, XXX, PAN, TTT",
+        "ABC, DEF, GHI",
+        "USA, EUR, UNO",
+        "VIP, TOP, CEO"
+      ],
+      "correct_option": 0,
+      "explanation": "No deberán usarse combinaciones... SOS, XXX, PAN y TTT."
+    },
+    {
+      "question_id": "MOD2_138",
+      "question_text": "¿Cuál es el código IATA de Gran Canaria?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "LPA",
+        "GCL",
+        "GCA",
+        "LPS"
+      ],
+      "correct_option": 0,
+      "explanation": "GRAN CANARIA es LPA."
+    },
+    {
+      "question_id": "MOD2_139",
+      "question_text": "¿Cuál es el código IATA de Bilbao?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "BIO",
+        "BIL",
+        "BBK",
+        "BOO"
+      ],
+      "correct_option": 0,
+      "explanation": "BILBAO es BIO."
+    },
+    {
+      "question_id": "MOD2_140",
+      "question_text": "¿Cuál es el código IATA de San Sebastián?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "EAS",
+        "SSB",
+        "SAN",
+        "SST"
+      ],
+      "correct_option": 0,
+      "explanation": "SAN SEBASTIÁN es EAS."
+    },
+    {
+      "question_id": "MOD2_141",
+      "question_text": "¿Qué significa 'Empenaje'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Cola o parte posterior del avión",
+        "Tren de aterrizaje",
+        "Unión de las alas con el fuselaje",
+        "Cabina de mando"
+      ],
+      "correct_option": 0,
+      "explanation": "Empenaje: Cola o parte posterior del avión."
+    },
+    {
+      "question_id": "MOD2_142",
+      "question_text": "¿Qué es la 'guiñada'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Movimiento alrededor del eje vertical (deslizamiento lateral)",
+        "Movimiento alrededor del eje longitudinal (alabeo)",
+        "Movimiento alrededor del eje transversal (cabeceo)",
+        "Movimiento de ascenso vertical"
+      ],
+      "correct_option": 0,
+      "explanation": "Guiñada: Deslizamiento lateral sobre el eje vertical."
+    },
+    {
+      "question_id": "MOD2_143",
+      "question_text": "¿Qué tipo de motorización es 'Turboprop'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Motor turbohélice",
+        "Motor de pistón",
+        "Motor a reacción puro",
+        "Motor eléctrico"
+      ],
+      "correct_option": 0,
+      "explanation": "Turboprop/turboshaft engine (motor de turbohélice/turboeje)."
+    },
+    {
+      "question_id": "MOD2_144",
+      "question_text": "¿Qué es un avión 'Biplano'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Avión con doble ala (dos alas superpuestas)",
+        "Avión con dos motores",
+        "Avión con dos colas",
+        "Avión anfibio"
+      ],
+      "correct_option": 0,
+      "explanation": "Doble ala o Biplano."
+    },
+    {
+      "question_id": "MOD2_145",
+      "question_text": "¿Qué marca de nacionalidad corresponde a EE.UU.?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "N",
+        "U",
+        "US",
+        "A"
+      ],
+      "correct_option": 0,
+      "explanation": "EE.UU. es N."
+    },
+    {
+      "question_id": "MOD2_146",
+      "question_text": "¿Qué marca de nacionalidad corresponde a Francia?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "F",
+        "FR",
+        "C",
+        "E"
+      ],
+      "correct_option": 0,
+      "explanation": "Francia es F."
+    },
+    {
+      "question_id": "MOD2_147",
+      "question_text": "¿Qué marca de nacionalidad corresponde a Portugal?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "CR, CS",
+        "P",
+        "PO",
+        "PT"
+      ],
+      "correct_option": 0,
+      "explanation": "Portugal es CR,CS."
+    },
+    {
+      "question_id": "MOD2_148",
+      "question_text": "¿Qué significa el término 'Fuselage'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Fuselaje",
+        "Combustible",
+        "Fusible",
+        "Tren de aterrizaje"
+      ],
+      "correct_option": 0,
+      "explanation": "FUSELAGE (Fuselaje)."
+    },
+    {
+      "question_id": "MOD2_149",
+      "question_text": "¿Qué significa el término 'Rudder'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Timón de dirección (vertical)",
+        "Timón de profundidad",
+        "Alerón",
+        "Rueda"
+      ],
+      "correct_option": 0,
+      "explanation": "RUDDER (Timón vertical)."
+    },
+    {
+      "question_id": "MOD2_150",
+      "question_text": "¿Qué significa el término 'Undercarriage' o 'Landing Gear'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Tren de aterrizaje",
+        "Motor",
+        "Ala",
+        "Cabina"
+      ],
+      "correct_option": 0,
+      "explanation": "MAIN LANDING GEAR (Tren de aterrizaje principal)."
+    },
+    {
+      "question_id": "MOD2_151",
+      "question_text": "¿Qué es la 'Estela turbulenta' (Wake Turbulence)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Masa de aire en movimiento espiral y descendente generada por los planos",
+        "Humo del motor",
+        "Ruido de la aeronave",
+        "Viento meteorológico"
+      ],
+      "correct_option": 0,
+      "explanation": "Estela turbulenta: Masa de aire en movimiento espiral y descendente, que se genera en el extremo de los planos."
+    },
+    {
+      "question_id": "MOD2_152",
+      "question_text": "¿Cuál es la masa máxima de una aeronave 'Ligera' (Light) según OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "7.000 kg o menos",
+        "5.700 kg o menos",
+        "10.000 kg o menos",
+        "2.000 kg o menos"
+      ],
+      "correct_option": 0,
+      "explanation": "L (Light/Ligera): Aeronaves de 7.000 kg o menos."
+    },
+    {
+      "question_id": "MOD2_153",
+      "question_text": "¿Qué es MTOW?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Maximum Take-Off Weight",
+        "Maximum Taxi Operating Weight",
+        "Minimum Take-Off Weight",
+        "Mean Time Of Work"
+      ],
+      "correct_option": 0,
+      "explanation": "MTOW: Maximum take-off weight / Peso máximo al despegue."
+    },
+    {
+      "question_id": "MOD2_154",
+      "question_text": "¿Qué es TAS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "True Airspeed",
+        "Total Airspeed",
+        "Terminal Automation System",
+        "Traffic Alert System"
+      ],
+      "correct_option": 0,
+      "explanation": "TAS: True Airspeed / Velocidad verdadera."
+    },
+    {
+      "question_id": "MOD2_155",
+      "question_text": "¿Qué es un 'Commuter'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Avión regional para líneas de corto alcance",
+        "Avión de carga pesada",
+        "Helicóptero de rescate",
+        "Avión supersónico"
+      ],
+      "correct_option": 0,
+      "explanation": "Commuter + regional jet. para líneas de corto alcance."
+    },
+    {
+      "question_id": "MOD2_156",
+      "question_text": "¿Qué tipo de aeronave es un B744?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Boeing 747-400",
+        "Boeing 737-400",
+        "Airbus A340",
+        "Boeing 777"
+      ],
+      "correct_option": 0,
+      "explanation": "B744 es la designación OACI para el Boeing 747-400 (contexto listas aviones comerciales)."
+    },
+    {
+      "question_id": "MOD2_157",
+      "question_text": "¿Qué tipo de aeronave es un A320?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Airbus A320",
+        "Boeing 737",
+        "Embraer 190",
+        "Cessna 172"
+      ],
+      "correct_option": 0,
+      "explanation": "A320 es Airbus A320."
+    },
+    {
+      "question_id": "MOD2_158",
+      "question_text": "¿Qué es un AT72?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "ATR 72",
+        "Airbus A372",
+        "Antonov 72",
+        "Boeing 727"
+      ],
+      "correct_option": 0,
+      "explanation": "AT72 corresponde al ATR 72 (Commuter)."
+    },
+    {
+      "question_id": "MOD2_159",
+      "question_text": "¿Qué significa la 'H' en la descripción del tipo de aeronave (ej. H2T)?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Helicopter",
+        "Heavy",
+        "High wing",
+        "Hydroplane"
+      ],
+      "correct_option": 0,
+      "explanation": "H: Helicopter."
+    },
+    {
+      "question_id": "MOD2_160",
+      "question_text": "¿Qué significa la 'S' en la descripción del tipo de aeronave (ej. S1P)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Seaplane (hidroavión)",
+        "Super",
+        "Small",
+        "Swept wing"
+      ],
+      "correct_option": 0,
+      "explanation": "S: Seaplane (hidroavión)."
+    },
+    {
+      "question_id": "MOD2_161",
+      "question_text": "¿Cuál es el código IATA de Vitoria?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "VIT",
+        "VIA",
+        "VTR",
+        "VIO"
+      ],
+      "correct_option": 0,
+      "explanation": "VITORIA es VIT."
+    },
+    {
+      "question_id": "MOD2_162",
+      "question_text": "¿Cuál es el código IATA de Pamplona?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "PNA",
+        "PAM",
+        "PPL",
+        "PLN"
+      ],
+      "correct_option": 0,
+      "explanation": "PAMPLONA es PNA."
+    },
+    {
+      "question_id": "MOD2_163",
+      "question_text": "¿Cuál es el código IATA de Santiago de Compostela?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "SCQ",
+        "STG",
+        "SAN",
+        "SCO"
+      ],
+      "correct_option": 0,
+      "explanation": "SANTIAGO/Rosalía de Castro es SCQ."
+    },
+    {
+      "question_id": "MOD2_164",
+      "question_text": "¿Cuál es el código IATA de Asturias?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "OVD",
+        "AST",
+        "ASU",
+        "AVI"
+      ],
+      "correct_option": 0,
+      "explanation": "ASTURIAS es OVD."
+    },
+    {
+      "question_id": "MOD2_165",
+      "question_text": "¿Cuál es el código IATA de Santander?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "SDR",
+        "SAN",
+        "STD",
+        "SER"
+      ],
+      "correct_option": 0,
+      "explanation": "SANTANDER es SDR."
+    },
+    {
+      "question_id": "MOD2_166",
+      "question_text": "¿Cuál es el indicador de lugar de Palma de Mallorca (Aeropuerto)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "LEPA",
+        "LEPM",
+        "LEPL",
+        "LEPO"
+      ],
+      "correct_option": 0,
+      "explanation": "PALMA DE MALLORCA es LEPA."
+    },
+    {
+      "question_id": "MOD2_167",
+      "question_text": "¿Cuál es el indicador de lugar de Ibiza?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "LEIB",
+        "LEIZ",
+        "LEBA",
+        "LEBZ"
+      ],
+      "correct_option": 0,
+      "explanation": "IBIZA es LEIB."
+    },
+    {
+      "question_id": "MOD2_168",
+      "question_text": "¿Cuál es el indicador de lugar de Menorca?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "LEMH",
+        "LEME",
+        "LEMN",
+        "LEMA"
+      ],
+      "correct_option": 0,
+      "explanation": "MENORCA es LEMH."
+    },
+    {
+      "question_id": "MOD2_169",
+      "question_text": "¿Cuál es el indicador de lugar de Lanzarote?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "GCRR",
+        "GCLA",
+        "GCXO",
+        "GCLP"
+      ],
+      "correct_option": 0,
+      "explanation": "LANZAROTE/César Manrique es GCRR."
+    },
+    {
+      "question_id": "MOD2_170",
+      "question_text": "¿Cuál es el indicador de lugar de Fuerteventura?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "GCFV",
+        "GCFT",
+        "GCFU",
+        "GCFA"
+      ],
+      "correct_option": 0,
+      "explanation": "FUERTEVENTURA es GCFV."
+    },
+    {
+      "question_id": "MOD2_171",
+      "question_text": "¿Qué significa 'Swept wing'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Ala en flecha",
+        "Ala recta",
+        "Ala delta",
+        "Ala rotatoria"
+      ],
+      "correct_option": 0,
+      "explanation": "Swept wing: Ala en flecha."
+    },
+    {
+      "question_id": "MOD2_172",
+      "question_text": "¿Qué significa 'Cockpit'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Cabina de pilotaje",
+        "Cabina de pasaje",
+        "Cocina del avión",
+        "Cola"
+      ],
+      "correct_option": 0,
+      "explanation": "Cockpit: Cabina de pilotaje."
+    },
+    {
+      "question_id": "MOD2_173",
+      "question_text": "¿Qué significa 'Landing gear'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Tren de aterrizaje",
+        "Aterrizaje",
+        "Despegue",
+        "Pista"
+      ],
+      "correct_option": 0,
+      "explanation": "Landing gear: Tren de aterrizaje."
+    },
+    {
+      "question_id": "MOD2_174",
+      "question_text": "¿Qué significa 'Ailerons'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Alerones",
+        "Alas",
+        "Motores",
+        "Flaps"
+      ],
+      "correct_option": 0,
+      "explanation": "Ailerons: Alerones."
+    },
+    {
+      "question_id": "MOD2_175",
+      "question_text": "¿Qué es un 'Tail skid'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Patín de cola",
+        "Rueda de cola",
+        "Paracaídas de cola",
+        "Luz de cola"
+      ],
+      "correct_option": 0,
+      "explanation": "Tail skid: Patín de cola."
+    },
+    {
+      "question_id": "MOD2_176",
+      "question_text": "¿Qué es la 'Marca común' de Naciones Unidas?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "4U",
+        "UN",
+        "NU",
+        "1U"
+      ],
+      "correct_option": 0,
+      "explanation": "Naciones Unidas, que tiene asignada la marca 4U."
+    },
+    {
+      "question_id": "MOD2_177",
+      "question_text": "¿Qué significa 'Trim tabs'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Compensadores",
+        "Flaps",
+        "Slats",
+        "Spoilers"
+      ],
+      "correct_option": 0,
+      "explanation": "Trim tabs: Compensadores."
+    },
+    {
+      "question_id": "MOD2_178",
+      "question_text": "¿Qué es el 'Wing span'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Envergadura de ala",
+        "Superficie alar",
+        "Cuerda del ala",
+        "Punta de ala"
+      ],
+      "correct_option": 0,
+      "explanation": "Wing span: Envergadura de ala."
+    },
+    {
+      "question_id": "MOD2_179",
+      "question_text": "¿Qué significa 'Propeller'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Hélice",
+        "Motor",
+        "Propulsión",
+        "Pistón"
+      ],
+      "correct_option": 0,
+      "explanation": "PROPELLER (Hélice)."
+    },
+    {
+      "question_id": "MOD2_180",
+      "question_text": "¿Qué es 'Belly landing'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Aterrizaje con el tren plegado (de panza)",
+        "Aterrizaje suave",
+        "Aterrizaje en agua",
+        "Aterrizaje de emergencia con fuego"
+      ],
+      "correct_option": 0,
+      "explanation": "Belly landing: Aterrizaje con el tren plegado."
+    },
+    {
+      "question_id": "MOD2_181",
+      "question_text": "¿Qué indicador de lugar es LECU?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Madrid/Cuatro Vientos",
+        "Madrid/Torrejón",
+        "Madrid/Getafe",
+        "Madrid/Barajas"
+      ],
+      "correct_option": 0,
+      "explanation": "MADRID/Cuatro Vientos es LECU/LEVS."
+    },
+    {
+      "question_id": "MOD2_182",
+      "question_text": "¿Qué indicador de lugar es LEGT?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Madrid/Getafe",
+        "Madrid/Torrejón",
+        "Granada",
+        "Girona"
+      ],
+      "correct_option": 0,
+      "explanation": "MADRID/Getafe es LEGT."
+    },
+    {
+      "question_id": "MOD2_183",
+      "question_text": "¿Qué indicador de lugar es LETO?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Madrid/Torrejón",
+        "Teruel",
+        "Tenerife Norte",
+        "Toledo"
+      ],
+      "correct_option": 0,
+      "explanation": "MADRID/Torrejón es LETO."
+    },
+    {
+      "question_id": "MOD2_184",
+      "question_text": "¿Qué indicador de lugar es LEAS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Asturias",
+        "Albacete",
+        "Almería",
+        "Alicante"
+      ],
+      "correct_option": 0,
+      "explanation": "ASTURIAS es LEAS."
+    },
+    {
+      "question_id": "MOD2_185",
+      "question_text": "¿Qué indicador de lugar es LEBB?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Bilbao",
+        "Barcelona",
+        "Badajoz",
+        "Burgos"
+      ],
+      "correct_option": 0,
+      "explanation": "BILBAO es LEBB."
+    },
+    {
+      "question_id": "MOD2_186",
+      "question_text": "¿Qué indicador de lugar es LEVC?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Valencia",
+        "Valladolid",
+        "Vigo",
+        "Vitoria"
+      ],
+      "correct_option": 0,
+      "explanation": "VALENCIA es LEVC."
+    },
+    {
+      "question_id": "MOD2_187",
+      "question_text": "¿Qué indicador de lugar es LEZL?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Sevilla",
+        "Zaragoza",
+        "Salamanca",
+        "Santiago"
+      ],
+      "correct_option": 0,
+      "explanation": "SEVILLA es LEZL."
+    },
+    {
+      "question_id": "MOD2_188",
+      "question_text": "¿Qué indicador de lugar es LEMG?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Málaga",
+        "Madrid",
+        "Murcia",
+        "Menorca"
+      ],
+      "correct_option": 0,
+      "explanation": "MÁLAGA/Costa del Sol es LEMG."
+    },
+    {
+      "question_id": "MOD2_189",
+      "question_text": "¿Qué indicador de lugar es LEAM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Almería",
+        "Alicante",
+        "Albacete",
+        "Asturias"
+      ],
+      "correct_option": 0,
+      "explanation": "ALMERÍA es LEAM."
+    },
+    {
+      "question_id": "MOD2_190",
+      "question_text": "¿Qué indicador de lugar es LEJR?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Jerez",
+        "Jaén",
+        "Jaca",
+        "Logroño"
+      ],
+      "correct_option": 0,
+      "explanation": "JEREZ es LEJR."
+    },
+    {
+      "question_id": "MOD2_191",
+      "question_text": "¿Qué indicador de lugar es LERS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Reus",
+        "Rosalía",
+        "Rota",
+        "Sabadell"
+      ],
+      "correct_option": 0,
+      "explanation": "REUS es LERS."
+    },
+    {
+      "question_id": "MOD2_192",
+      "question_text": "¿Qué indicador de lugar es LEGE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Girona",
+        "Granada",
+        "Getafe",
+        "La Gomera"
+      ],
+      "correct_option": 0,
+      "explanation": "GIRONA es LEGE."
+    },
+    {
+      "question_id": "MOD2_193",
+      "question_text": "¿Qué indicador de lugar es LECO?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "A Coruña",
+        "Córdoba",
+        "Castellón",
+        "Colmenar"
+      ],
+      "correct_option": 0,
+      "explanation": "A CORUÑA es LECO."
+    },
+    {
+      "question_id": "MOD2_194",
+      "question_text": "¿Qué indicador de lugar es LEZG?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Zaragoza",
+        "Granada",
+        "Sevilla",
+        "Vigo"
+      ],
+      "correct_option": 0,
+      "explanation": "ZARAGOZA es LEZG."
+    },
+    {
+      "question_id": "MOD2_195",
+      "question_text": "¿Qué indicador de lugar es LEVX?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Vigo",
+        "Valencia",
+        "Valladolid",
+        "Vitoria"
+      ],
+      "correct_option": 0,
+      "explanation": "VIGO es LEVX."
+    },
+    {
+      "question_id": "MOD2_196",
+      "question_text": "¿Qué indicador de lugar es GCLP?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Gran Canaria",
+        "La Palma",
+        "Lanzarote",
+        "Las Palmas"
+      ],
+      "correct_option": 0,
+      "explanation": "GRAN CANARIA es GCLP."
+    },
+    {
+      "question_id": "MOD2_197",
+      "question_text": "¿Qué indicador de lugar es GCHI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "El Hierro",
+        "La Gomera",
+        "Huesca",
+        "Ceuta"
+      ],
+      "correct_option": 0,
+      "explanation": "EL HIERRO es GCHI."
+    },
+    {
+      "question_id": "MOD2_198",
+      "question_text": "¿Qué indicador de lugar es GCLA?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "La Palma",
+        "Lanzarote",
+        "Las Palmas",
+        "La Gomera"
+      ],
+      "correct_option": 0,
+      "explanation": "LA PALMA es GCLA."
+    },
+    {
+      "question_id": "MOD2_199",
+      "question_text": "¿Qué indicador de lugar es LEVT?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Vitoria",
+        "Valencia",
+        "Teruel",
+        "Valladolid"
+      ],
+      "correct_option": 0,
+      "explanation": "VITORIA es LEVT."
+    },
+    {
+      "question_id": "MOD2_200",
+      "question_text": "¿Qué designador OACI de aerolínea es BAW?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "British Airways",
+        "Binter Canarias",
+        "Brussels Airlines",
+        "Braathens"
+      ],
+      "correct_option": 0,
+      "explanation": "BRITISH AIRWAYS es BAW."
     }
   ],
   "metadata": {

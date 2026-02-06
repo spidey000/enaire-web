@@ -3056,6 +3056,1406 @@
         "sna",
         "objetivos"
       ]
+    },
+    {
+      "question_id": "MOD5_101",
+      "question_text": "¿Qué función de navegación permite al piloto conocer la situación de la aeronave respecto a la ruta establecida?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Función de posicionamiento",
+        "Función de guiado",
+        "Función de vigilancia",
+        "Función de comunicaciones"
+      ],
+      "correct_option": 0,
+      "explanation": "Función de posicionamiento: En la que el piloto debe conocer... la situación de la aeronave."
+    },
+    {
+      "question_id": "MOD5_102",
+      "question_text": "¿En qué se basa la 'Navegación a estima'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Uso de velocidad, tiempo y rumbo desde una posición conocida",
+        "Referencias visuales del terreno",
+        "Señales de radioayudas",
+        "Satélites GNSS"
+      ],
+      "correct_option": 0,
+      "explanation": "Es una técnica basada en el uso de tres parámetros: la velocidad, el tiempo y el rumbo."
+    },
+    {
+      "question_id": "MOD5_103",
+      "question_text": "¿Cuál es la principal limitación de la 'Navegación radioeléctrica convencional'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Obliga a volar por rutas fijas definidas por la posición de las radioayudas",
+        "Depende de la visibilidad",
+        "Requiere cálculos manuales complejos",
+        "Solo funciona de día"
+      ],
+      "correct_option": 0,
+      "explanation": "Determina una red de rutas fija supeditada a la configuración existente de radioayudas."
+    },
+    {
+      "question_id": "MOD5_104",
+      "question_text": "¿Qué técnica de navegación permite a la aeronave desplazarse por cualquier trayectoria deseada (definida por puntos geográficos)?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Navegación de Área (RNAV)",
+        "Navegación Visual",
+        "Navegación a Estima",
+        "Navegación Convencional"
+      ],
+      "correct_option": 0,
+      "explanation": "Navegación de área: permite a la aeronave desplazarse en cualquier trayectoria deseada."
+    },
+    {
+      "question_id": "MOD5_105",
+      "question_text": "¿Qué diferencia principal existe entre una especificación RNAV y una RNP?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "RNP requiere vigilancia y alerta de la performance a bordo, RNAV no",
+        "RNAV es más precisa que RNP",
+        "RNP es solo para aproximación",
+        "RNAV usa satélites y RNP usa radioayudas"
+      ],
+      "correct_option": 0,
+      "explanation": "RNP... incluye el requisito de vigilancia y alerta de la performance a bordo."
+    },
+    {
+      "question_id": "MOD5_106",
+      "question_text": "¿Qué significa el número '1' en la especificación RNAV 1?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Precisión lateral de 1 NM el 95% del tiempo de vuelo",
+        "Requiere 1 sistema de navegación",
+        "Es la primera versión de RNAV",
+        "Precisión de 1 metro"
+      ],
+      "correct_option": 0,
+      "explanation": "Se refiere a la precisión de navegación lateral... en millas náuticas (1 NM)."
+    },
+    {
+      "question_id": "MOD5_107",
+      "question_text": "¿Qué especificación PBN se utiliza para la fase de ruta en espacio aéreo continental europeo?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "RNAV 5 (B-RNAV)",
+        "RNAV 1",
+        "RNP 4",
+        "RNP 1"
+      ],
+      "correct_option": 0,
+      "explanation": "RNAV 5: Se utiliza para apoyar operaciones RNAV en la fase de vuelo en ruta para el espacio aéreo continental."
+    },
+    {
+      "question_id": "MOD5_108",
+      "question_text": "¿Qué parámetro PBN define la capacidad del sistema para advertir al usuario si no debe ser utilizado (alerta)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Integridad",
+        "Exactitud",
+        "Continuidad",
+        "Disponibilidad"
+      ],
+      "correct_option": 0,
+      "explanation": "Integridad: Se define como la capacidad del sistema para... advertir al usuario."
+    },
+    {
+      "question_id": "MOD5_109",
+      "question_text": "¿En qué banda de frecuencias opera un NDB?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "LF/MF (Baja y Media Frecuencia)",
+        "VHF (Muy Alta Frecuencia)",
+        "UHF (Ultra Alta Frecuencia)",
+        "SHF (Super Alta Frecuencia)"
+      ],
+      "correct_option": 0,
+      "explanation": "La banda de frecuencias en la que trabaja este sistema es LF-MF."
+    },
+    {
+      "question_id": "MOD5_110",
+      "question_text": "¿Qué equipo de a bordo se utiliza para recibir la señal de un NDB?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "ADF (Automatic Direction Finder)",
+        "VOR receiver",
+        "DME interrogator",
+        "ILS receiver"
+      ],
+      "correct_option": 0,
+      "explanation": "El ADF (Automatic Direction Finder)... es el componente de a bordo del sistema."
+    },
+    {
+      "question_id": "MOD5_111",
+      "question_text": "¿Qué información proporciona un VOR?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Radiales (Rumbos magnéticos desde la estación)",
+        "Distancia a la estación",
+        "Rumbos relativos a la proa",
+        "Senda de planeo"
+      ],
+      "correct_option": 0,
+      "explanation": "Proporcionar... información para el guiado horizontal (rumbos) respecto a una línea de situación magnética (radiales)."
+    },
+    {
+      "question_id": "MOD5_112",
+      "question_text": "¿Qué indica la bandera 'FROM' en un indicador VOR?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Que la aeronave está en el semiplano del radial seleccionado (alejamiento)",
+        "Que la aeronave vuela hacia la estación",
+        "Que la señal es débil",
+        "Que el equipo está apagado"
+      ],
+      "correct_option": 0,
+      "explanation": "El instrumento marcará FROM cuando la aeronave esté situada en el semiplano que contiene al radial seleccionado."
+    },
+    {
+      "question_id": "MOD5_113",
+      "question_text": "¿Cuál es la principal ventaja del VOR Doppler (DVOR) frente al VOR convencional?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Menor sensibilidad a obstáculos y reflexiones (mejora precisión)",
+        "Mayor alcance",
+        "Menor coste",
+        "Uso de frecuencias diferentes"
+      ],
+      "correct_option": 0,
+      "explanation": "Permitiendo mejorar la calidad de la señal de navegación aún en presencia de obstáculos."
+    },
+    {
+      "question_id": "MOD5_114",
+      "question_text": "¿Qué tipo de distancia mide el DME?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Distancia oblicua (Slant Range)",
+        "Distancia horizontal sobre el suelo",
+        "Distancia vertical",
+        "Distancia recorrida"
+      ],
+      "correct_option": 0,
+      "explanation": "Proporciona información de la distancia oblicua entre una aeronave y una estación."
+    },
+    {
+      "question_id": "MOD5_115",
+      "question_text": "¿En qué banda de frecuencias opera el DME?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "UHF",
+        "VHF",
+        "LF",
+        "HF"
+      ],
+      "correct_option": 0,
+      "explanation": "Contexto general de sistemas (UHF). El texto no lo especifica explícitamente en el apartado DME pero sí en el apartado ILS menciona que la senda es UHF, y el DME suele asociarse. (Conocimiento general: DME es UHF)."
+    },
+    {
+      "question_id": "MOD5_116",
+      "question_text": "¿Qué componentes forman el ILS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Localizador (LOC), Senda de descenso (GP) y Radiobalizas (o DME)",
+        "VOR y DME",
+        "Radar y Radio",
+        "Luces PAPI y Manga de viento"
+      ],
+      "correct_option": 0,
+      "explanation": "Localizador (LOC), Senda de descenso (GP), Radiobalizas."
+    },
+    {
+      "question_id": "MOD5_117",
+      "question_text": "¿Qué información proporciona el Localizador (LOC) del ILS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Guiado horizontal (eje de pista)",
+        "Guiado vertical (senda de planeo)",
+        "Distancia al umbral",
+        "Altitud de decisión"
+      ],
+      "correct_option": 0,
+      "explanation": "Permite a las aeronaves mantenerse alineadas con el eje de pista (guiado horizontal)."
+    },
+    {
+      "question_id": "MOD5_118",
+      "question_text": "¿Qué frecuencia utiliza el Localizador del ILS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "VHF",
+        "UHF",
+        "LF",
+        "SHF"
+      ],
+      "correct_option": 0,
+      "explanation": "El Localizador... es VHF."
+    },
+    {
+      "question_id": "MOD5_119",
+      "question_text": "¿Cuál es la Altura de Decisión (DH) mínima para una aproximación ILS Categoría I?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "200 ft (60 m)",
+        "100 ft (30 m)",
+        "50 ft (15 m)",
+        "0 ft"
+      ],
+      "correct_option": 0,
+      "explanation": "CAT I: DH > 60 m / 200 ft."
+    },
+    {
+      "question_id": "MOD5_120",
+      "question_text": "¿Qué sistema visual proporciona información de pendiente de aproximación mediante una barra de 4 luces?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "PAPI",
+        "APAPI",
+        "VASIS",
+        "ALS"
+      ],
+      "correct_option": 0,
+      "explanation": "El sistema PAPI... está compuesto por una barra de ala con 4 elementos luminosos."
+    },
+    {
+      "question_id": "MOD5_121",
+      "question_text": "¿Qué sistema de aumentación GNSS utiliza satélites geoestacionarios para enviar correcciones (cobertura regional)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "SBAS (ej. EGNOS)",
+        "GBAS",
+        "ABAS",
+        "INS"
+      ],
+      "correct_option": 0,
+      "explanation": "Sistemas de aumentación SBAS... envían a las aeronaves mediante satélites en órbita geoestacionaria."
+    },
+    {
+      "question_id": "MOD5_122",
+      "question_text": "¿Cuántos satélites GNSS se necesitan como mínimo para determinar la posición en 3D y sincronizar el tiempo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "5"
+      ],
+      "correct_option": 0,
+      "explanation": "Se requiere un cuarto satélite para sincronizar el reloj del receptor."
+    },
+    {
+      "question_id": "MOD5_123",
+      "question_text": "¿Qué es el sistema EGNOS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Sistema SBAS europeo",
+        "Sistema de navegación inercial",
+        "Sistema de aterrizaje por microondas",
+        "Constelación principal de satélites"
+      ],
+      "correct_option": 0,
+      "explanation": "Tipos SBAS: ... EGNOS (Unión Europea)."
+    },
+    {
+      "question_id": "MOD5_124",
+      "question_text": "¿Qué es un sistema INS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Sistema de Navegación Inercial (Autónomo)",
+        "Sistema de Navegación Integrado",
+        "Sistema de Aterrizaje Instrumental",
+        "Sistema de Notificación Internacional"
+      ],
+      "correct_option": 0,
+      "explanation": "Equipos inerciales (INS / Inertial Navigation Systems)."
+    },
+    {
+      "question_id": "MOD5_125",
+      "question_text": "¿Qué es el 'Cono de silencio' (o confusión) en un VOR?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Zona sobre la estación donde no se recibe señal fiable",
+        "Zona detrás de una montaña",
+        "Zona de alcance máximo",
+        "Zona de baja altitud"
+      ],
+      "correct_option": 0,
+      "explanation": "Implícito en funcionamiento VOR (sobre la vertical la señal es inestable)."
+    },
+    {
+      "question_id": "MOD5_126",
+      "question_text": "¿Qué indicación da el PAPI si el avión está 'Muy alto'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Todo blanco",
+        "Todo rojo",
+        "Dos blancas y dos rojas",
+        "Tres blancas y una roja"
+      ],
+      "correct_option": 0,
+      "explanation": "Todo blanco para indicar muy alto."
+    },
+    {
+      "question_id": "MOD5_127",
+      "question_text": "¿Qué indicación da el PAPI si el avión está 'Muy bajo'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Todo rojo",
+        "Todo blanco",
+        "Verde",
+        "Amarillo"
+      ],
+      "correct_option": 0,
+      "explanation": "Todo rojo para indicar muy cerca de pista o muy bajo."
+    },
+    {
+      "question_id": "MOD5_128",
+      "question_text": "¿Qué significa 'RMI'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Radio Magnetic Indicator",
+        "Relative Magnetic Instrument",
+        "Radio Modulation Index",
+        "Range Mileage Indicator"
+      ],
+      "correct_option": 0,
+      "explanation": "Indicador tipo RMI (Radio Magnetic Indicador)."
+    },
+    {
+      "question_id": "MOD5_129",
+      "question_text": "¿Qué es la 'Disponibilidad' en PBN?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Porcentaje de tiempo que el sistema está operativo al inicio de una operación",
+        "Capacidad de funcionar sin interrupción",
+        "Diferencia entre posición real e indicada",
+        "Capacidad de alerta"
+      ],
+      "correct_option": 0,
+      "explanation": "Disponibilidad: Se define como la capacidad del sistema para realizar sus funciones al inicio de una operación."
+    },
+    {
+      "question_id": "MOD5_130",
+      "question_text": "¿Qué es la 'Continuidad' en PBN?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Capacidad de realizar funciones sin interrupciones imprevistas durante la operación",
+        "Capacidad de iniciar la operación",
+        "Precisión de la señal",
+        "Integridad de los datos"
+      ],
+      "correct_option": 0,
+      "explanation": "Continuidad: Se define como la capacidad del sistema para realizar sus funciones... sin sufrir interrupciones."
+    },
+    {
+      "question_id": "MOD5_131",
+      "question_text": "¿Qué especificación PBN permite tramos curvos de radio fijo (RF legs) en aproximación?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "RNP AR APCH",
+        "RNAV 1",
+        "RNAV 5",
+        "RNP 4"
+      ],
+      "correct_option": 0,
+      "explanation": "RNP AR APCH... diseñada para tramos rectos y/o tramos curvos de radio fijo."
+    },
+    {
+      "question_id": "MOD5_132",
+      "question_text": "¿Qué es el 'GBAS'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Sistema de aumentación basado en tierra (Ground Based)",
+        "Sistema global básico",
+        "Sistema de gestión de a bordo",
+        "Sistema de guía de balizamiento"
+      ],
+      "correct_option": 0,
+      "explanation": "Sistemas de aumentación GBAS: Consisten en una estación terrestre situada en el aeropuerto."
+    },
+    {
+      "question_id": "MOD5_133",
+      "question_text": "¿Qué constelación GNSS pertenece a la Unión Europea?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Galileo",
+        "GPS",
+        "GLONASS",
+        "BeiDou"
+      ],
+      "correct_option": 0,
+      "explanation": "Galileo (Unión Europea)."
+    },
+    {
+      "question_id": "MOD5_134",
+      "question_text": "¿Qué radiobaliza ILS indica el punto de decisión en CAT I (aprox)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Radiobaliza Intermedia (MM)",
+        "Radiobaliza Exterior (OM)",
+        "Radiobaliza Interna (IM)",
+        "Ninguna"
+      ],
+      "correct_option": 0,
+      "explanation": "MM suele estar en la altura de decisión de CAT I (200ft). (Conocimiento técnico implícito en operaciones ILS)."
+    },
+    {
+      "question_id": "MOD5_135",
+      "question_text": "¿Qué color tiene la luz de la Radiobaliza Exterior (OM)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Azul",
+        "Ámbar",
+        "Blanca",
+        "Verde"
+      ],
+      "correct_option": 0,
+      "explanation": "Radiobaliza Exterior (OM)... una luz azul parpadeante."
+    },
+    {
+      "question_id": "MOD5_136",
+      "question_text": "¿Qué es la 'Navegación 4D'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Navegación en 3D (espacio) más Tiempo (previsión de llegada)",
+        "Navegación con 4 satélites",
+        "Navegación con 4 pilotos",
+        "Navegación en 4 dimensiones espaciales"
+      ],
+      "correct_option": 0,
+      "explanation": "RNAV 4D: Posicionamiento, Guiado en plano horizontal, Vertical y Previsiones de tiempo."
+    },
+    {
+      "question_id": "MOD5_137",
+      "question_text": "¿Qué sistema de navegación está basado en la medida de diferencias de fase o tiempo de señales de estaciones terrestres (Hiperbólico)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "LORAN-C",
+        "VOR",
+        "ILS",
+        "DME"
+      ],
+      "correct_option": 0,
+      "explanation": "Sistemas hiperbólicos... LORAN-C."
+    },
+    {
+      "question_id": "MOD5_138",
+      "question_text": "¿Qué es el 'QDM'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Rumbo magnético HACIA la estación",
+        "Rumbo magnético DESDE la estación",
+        "Rumbo verdadero",
+        "Rumbo relativo"
+      ],
+      "correct_option": 0,
+      "explanation": "Definición estándar de QDM (Magnetic Bearing TO Station). Relacionado con NDB/ADF."
+    },
+    {
+      "question_id": "MOD5_139",
+      "question_text": "¿Qué sistema se usa como 'Medio Suplementario'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Sistema que debe utilizarse juntamente con un medio único",
+        "Sistema principal",
+        "Sistema de emergencia",
+        "Sistema visual"
+      ],
+      "correct_option": 0,
+      "explanation": "Medio suplementario... debe utilizarse juntamente con un sistema considerado como medio único."
+    },
+    {
+      "question_id": "MOD5_140",
+      "question_text": "¿Cuál es la frecuencia de la Senda de Descenso (GP) del ILS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "UHF",
+        "VHF",
+        "LF",
+        "HF"
+      ],
+      "correct_option": 0,
+      "explanation": "La Senda de descenso lo hace en UHF."
+    },
+    {
+      "question_id": "MOD5_141",
+      "question_text": "¿Qué instrumento se utiliza para visualizar la información del NDB?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "RBI o RMI",
+        "CDI",
+        "HSI",
+        "Altimetro"
+      ],
+      "correct_option": 0,
+      "explanation": "El indicador tipo RBI... o RMI."
+    },
+    {
+      "question_id": "MOD5_142",
+      "question_text": "¿Qué error del NDB es causado por tormentas eléctricas?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Efecto de tormenta (la aguja señala al rayo)",
+        "Efecto nocturno",
+        "Efecto de costa",
+        "Efecto de montaña"
+      ],
+      "correct_option": 0,
+      "explanation": "La señal se ve fácilmente interferida por... corrientes estáticas."
+    },
+    {
+      "question_id": "MOD5_143",
+      "question_text": "¿Qué es el 'Homing' en navegación NDB?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Volar manteniendo la aguja del ADF en la proa (000º relativos) sin corregir deriva",
+        "Volar corrigiendo la deriva",
+        "Volar alejándose de la estación",
+        "Interceptar un radial"
+      ],
+      "correct_option": 0,
+      "explanation": "Para volar hacia la estación... hasta que la cabeza de la misma esté alineada con la proa."
+    },
+    {
+      "question_id": "MOD5_144",
+      "question_text": "¿Qué es el 'Efecto de Costa' en NDB?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Refracción de la onda al pasar de tierra a mar (cambio de velocidad)",
+        "Reflexión en el agua",
+        "Absorción por la arena",
+        "Interferencia con barcos"
+      ],
+      "correct_option": 0,
+      "explanation": "Fenómeno conocido de propagación de ondas de radio (no explícito en texto, pero es un error clásico NDB)."
+    },
+    {
+      "question_id": "MOD5_145",
+      "question_text": "¿Qué es el 'Efecto Nocturno' en NDB?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Interferencia por ondas celestes reflejadas en la ionosfera al anochecer/amanecer",
+        "Falta de visibilidad de la antena",
+        "Apagado de la estación por la noche",
+        "Aumento de potencia nocturna"
+      ],
+      "correct_option": 0,
+      "explanation": "Fenómeno de propagación en MF/LF."
+    },
+    {
+      "question_id": "MOD5_146",
+      "question_text": "¿Qué indica la aguja del ADF en un indicador de rumbo fijo (RBI)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "La demora relativa (Relative Bearing) respecto a la proa",
+        "El rumbo magnético a la estación (QDM)",
+        "El rumbo verdadero",
+        "El radial"
+      ],
+      "correct_option": 0,
+      "explanation": "Marcando la dirección de procedencia de la señal NDB respecto al eje longitudinal del avión."
+    },
+    {
+      "question_id": "MOD5_147",
+      "question_text": "¿Cuál es la precisión típica de un NDB?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "+/- 5º",
+        "+/- 1º",
+        "+/- 10º",
+        "+/- 0.5º"
+      ],
+      "correct_option": 0,
+      "explanation": "El margen de error del ADF no es superior a ± 5º."
+    },
+    {
+      "question_id": "MOD5_148",
+      "question_text": "¿Qué significa VOR?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "VHF Omnidirectional Range",
+        "Very Old Radio",
+        "Vertical Omnidirectional Radar",
+        "Variable Operation Radio"
+      ],
+      "correct_option": 0,
+      "explanation": "VOR (Very High Frequency Omnidireccional Range)."
+    },
+    {
+      "question_id": "MOD5_149",
+      "question_text": "¿Qué es un 'Radial' VOR?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Línea de situación magnética desde la estación",
+        "Línea de situación verdadera hacia la estación",
+        "Distancia a la estación",
+        "Círculo alrededor de la estación"
+      ],
+      "correct_option": 0,
+      "explanation": "Generan un haz de líneas de situación magnética (radiales)."
+    },
+    {
+      "question_id": "MOD5_150",
+      "question_text": "¿Qué principio utiliza el VOR para determinar el radial?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Diferencia de fase entre una señal de referencia y una variable",
+        "Medida de tiempo de ida y vuelta",
+        "Medida de amplitud",
+        "Conteo de pulsos"
+      ],
+      "correct_option": 0,
+      "explanation": "Principio técnico del VOR (Fase Ref vs Var 30Hz)."
+    },
+    {
+      "question_id": "MOD5_151",
+      "question_text": "¿Qué es el OBS en el equipo VOR?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Omni Bearing Selector (Selector de radiales)",
+        "Omni Bus System",
+        "Optical Bearing System",
+        "Outer Beacon Selector"
+      ],
+      "correct_option": 0,
+      "explanation": "Mediante el OBS (selector de radiales), el radial de vuelo deseado."
+    },
+    {
+      "question_id": "MOD5_152",
+      "question_text": "¿Qué indica el CDI (Course Deviation Indicator)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Desviación lateral respecto al radial seleccionado",
+        "Distancia a la estación",
+        "Rumbo de la aeronave",
+        "Velocidad sobre el suelo"
+      ],
+      "correct_option": 0,
+      "explanation": "Proporcionando la posición del radial seleccionado... con relación a la aeronave."
+    },
+    {
+      "question_id": "MOD5_153",
+      "question_text": "¿Qué significa la indicación 'TO' en el VOR?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "La aeronave está en el sector hacia la estación (recíproco del radial)",
+        "La aeronave se aleja de la estación",
+        "La aeronave ha pasado la estación",
+        "La señal es falsa"
+      ],
+      "correct_option": 0,
+      "explanation": "Aparecerá TO... cuando el receptor esté situado en cualquier punto del semiplano que contiene a la prolongación del radial."
+    },
+    {
+      "question_id": "MOD5_154",
+      "question_text": "¿Cuál es el alcance nominal típico de un VOR de ruta?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "200 NM (aprox, depende de altura)",
+        "500 NM",
+        "50 NM",
+        "1000 NM"
+      ],
+      "correct_option": 0,
+      "explanation": "Con valores nominales de unas 200 NM."
+    },
+    {
+      "question_id": "MOD5_155",
+      "question_text": "¿Qué es la 'Triangulación' en DME?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Determinación de posición usando distancias a múltiples estaciones DME (DME/DME)",
+        "Vuelo en forma de triángulo",
+        "Uso de tres VORs",
+        "Cálculo de velocidad"
+      ],
+      "correct_option": 0,
+      "explanation": "Realizar triangulación con ellas (equipos DME de forma individual para PBN)."
+    },
+    {
+      "question_id": "MOD5_156",
+      "question_text": "¿Cuántas estaciones DME se necesitan para una solución de posición 2D (DME/DME)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Al menos 2",
+        "1",
+        "3",
+        "4"
+      ],
+      "correct_option": 0,
+      "explanation": "Sintonizar simultáneamente dos o más estaciones."
+    },
+    {
+      "question_id": "MOD5_157",
+      "question_text": "¿Qué es un 'Transpondedor' en el contexto del DME?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "El equipo de tierra que recibe y retransmite la señal",
+        "El equipo de a bordo",
+        "El radar secundario",
+        "El sistema de comunicaciones"
+      ],
+      "correct_option": 0,
+      "explanation": "La estación ubicada en tierra (transpondedor)."
+    },
+    {
+      "question_id": "MOD5_158",
+      "question_text": "¿Qué error tiene el DME si se vuela muy alto cerca de la estación?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Error de distancia oblicua (indica la altitud en lugar de 0)",
+        "Error de polarización",
+        "Error de noche",
+        "Error de costa"
+      ],
+      "correct_option": 0,
+      "explanation": "El DME proporciona distancia oblicua. Sobre la vertical indica la altura, no cero."
+    },
+    {
+      "question_id": "MOD5_159",
+      "question_text": "¿Qué radiobaliza del ILS se ha eliminado en muchas instalaciones modernas?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Todas, sustituidas por DME",
+        "Solo la exterior",
+        "Solo la interior",
+        "El localizador"
+      ],
+      "correct_option": 0,
+      "explanation": "En la actualidad el sistema de radiobalizas está en desuso, sustituyéndose por un DME."
+    },
+    {
+      "question_id": "MOD5_160",
+      "question_text": "¿Qué indica el 'Glide Path' (GP)?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Senda de descenso vertical",
+        "Eje de pista",
+        "Distancia",
+        "Velocidad"
+      ],
+      "correct_option": 0,
+      "explanation": "Senda de descenso (GP)... materializan un plano oblicuo... descender hacia la pista."
+    },
+    {
+      "question_id": "MOD5_161",
+      "question_text": "¿Cuál es el ángulo típico de la senda de planeo ILS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "3 grados",
+        "5 grados",
+        "10 grados",
+        "1 grado"
+      ],
+      "correct_option": 0,
+      "explanation": "Descender hacia la pista con un ángulo aproximado de tres grados."
+    },
+    {
+      "question_id": "MOD5_162",
+      "question_text": "¿Qué categoría ILS permite aterrizar con 0 visibilidad (RVR 0)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "CAT III C",
+        "CAT III B",
+        "CAT III A",
+        "CAT II"
+      ],
+      "correct_option": 0,
+      "explanation": "CAT III C: RVR 0, DH 0."
+    },
+    {
+      "question_id": "MOD5_163",
+      "question_text": "¿Qué es la 'Altura de Decisión' (DH)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Altura especificada en aproximación de precisión a la cual debe iniciarse la frustrada si no hay referencia visual",
+        "Altura de crucero",
+        "Altura del aeropuerto",
+        "Altura de las nubes"
+      ],
+      "correct_option": 0,
+      "explanation": "Altura de la base del techo de nubes... (Definición operativa: punto de decisión)."
+    },
+    {
+      "question_id": "MOD5_164",
+      "question_text": "¿Qué sistema visual de aproximación consta de una sola luz blanca/roja o tricolor (no mencionado en texto, pero PAPI sí)? Pregunta sobre PAPI: ¿Cuántas luces tiene una barra de ala PAPI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "4 luces",
+        "2 luces (APAPI)",
+        "3 luces",
+        "5 luces"
+      ],
+      "correct_option": 0,
+      "explanation": "El sistema PAPI... está compuesto por una barra de ala con 4 elementos luminosos."
+    },
+    {
+      "question_id": "MOD5_165",
+      "question_text": "¿Qué es el 'APAPI'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "PAPI Abreviado (2 luces)",
+        "PAPI Avanzado",
+        "Approach PAPI",
+        "Automated PAPI"
+      ],
+      "correct_option": 0,
+      "explanation": "El sistema APAPI (Abbreviated PAPI) está compuesto por una barra de ala con dos elementos."
+    },
+    {
+      "question_id": "MOD5_166",
+      "question_text": "¿Qué indica '2 luces rojas y 2 blancas' en un PAPI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "En la senda correcta (3º)",
+        "Muy alto",
+        "Muy bajo",
+        "Ligeramente alto"
+      ],
+      "correct_option": 0,
+      "explanation": "Implícito en funcionamiento PAPI (Combinación correcta)."
+    },
+    {
+      "question_id": "MOD5_167",
+      "question_text": "¿Qué es un ALS de Categoría I?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Sistema de luces de aproximación de 900m con línea central y barra transversal a 300m",
+        "Sistema sencillo de 420m",
+        "Sistema con barretas rojas laterales",
+        "Sistema de luces de pista"
+      ],
+      "correct_option": 0,
+      "explanation": "CAT I: Como máximo 900 m... 1 barreta cada 300 m."
+    },
+    {
+      "question_id": "MOD5_168",
+      "question_text": "¿Qué segmento del GNSS incluye las estaciones de monitorización en tierra?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Segmento de Control (Terrestre)",
+        "Segmento Espacial",
+        "Segmento de Usuario",
+        "Segmento Aéreo"
+      ],
+      "correct_option": 0,
+      "explanation": "SEGMENTO TERRESTRE O DE CONTROL: formado por estaciones terrestres."
+    },
+    {
+      "question_id": "MOD5_169",
+      "question_text": "¿Qué sistema GNSS es propiedad de Rusia?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "GLONASS",
+        "GPS",
+        "Galileo",
+        "BeiDou"
+      ],
+      "correct_option": 0,
+      "explanation": "GLONASS (Rusia)."
+    },
+    {
+      "question_id": "MOD5_170",
+      "question_text": "¿Qué es 'WAAS'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Sistema SBAS de EE.UU.",
+        "Sistema SBAS europeo",
+        "Sistema GBAS",
+        "Sistema GPS"
+      ],
+      "correct_option": 0,
+      "explanation": "Tipos SBAS: WAAS (EE.UU.)."
+    },
+    {
+      "question_id": "MOD5_171",
+      "question_text": "¿Qué es 'BeiDou'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Sistema GNSS de China",
+        "Sistema GNSS de Japón",
+        "Sistema GNSS de India",
+        "Sistema de la UE"
+      ],
+      "correct_option": 0,
+      "explanation": "BeiDou / BDS (China)."
+    },
+    {
+      "question_id": "MOD5_172",
+      "question_text": "¿Qué es el 'Segmento de Usuario' en GNSS?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Receptores a bordo de las aeronaves",
+        "Satélites",
+        "Estaciones de control",
+        "Controladores aéreos"
+      ],
+      "correct_option": 0,
+      "explanation": "Formado por los receptores que captan y procesan las señales."
+    },
+    {
+      "question_id": "MOD5_173",
+      "question_text": "¿Qué técnica utiliza el GNSS para calcular la posición?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Medida de tiempos de propagación (Trilateración)",
+        "Medida de ángulos",
+        "Medida de fases hiperbólicas",
+        "Reconocimiento de terreno"
+      ],
+      "correct_option": 0,
+      "explanation": "Se basa en la medida del tiempo que tarda una señal en llegar... proporcionando la distancia."
+    },
+    {
+      "question_id": "MOD5_174",
+      "question_text": "¿Qué es el 'Radar Doppler' como sistema de navegación?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Sistema autónomo que mide la velocidad y deriva por efecto Doppler",
+        "Radar de vigilancia",
+        "Radar meteorológico",
+        "Radioaltímetro"
+      ],
+      "correct_option": 0,
+      "explanation": "Sistemas autónomos... Tipos: Radar Doppler."
+    },
+    {
+      "question_id": "MOD5_175",
+      "question_text": "¿Qué es la 'Navegación Inercial'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Sistema autónomo que calcula posición integrando aceleraciones",
+        "Sistema basado en satélites",
+        "Sistema basado en radioayudas",
+        "Sistema visual"
+      ],
+      "correct_option": 0,
+      "explanation": "Equipos inerciales... basándose en la medición directa de diferentes parámetros... (acelerómetros/giróscopos implícito)."
+    },
+    {
+      "question_id": "MOD5_176",
+      "question_text": "¿Qué es un sistema LORAN-C?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Sistema hiperbólico de baja frecuencia (en desuso)",
+        "Sistema de satélites",
+        "Sistema de aterrizaje",
+        "Sistema de comunicación"
+      ],
+      "correct_option": 0,
+      "explanation": "LORAN-C... LF... Sistema hiperbólico."
+    },
+    {
+      "question_id": "MOD5_177",
+      "question_text": "¿Qué es el 'Baro-VNAV'?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Guiado vertical basado en información barométrica (altímetro)",
+        "Guiado vertical por satélite",
+        "Guiado vertical por ILS",
+        "Guiado visual"
+      ],
+      "correct_option": 0,
+      "explanation": "Sistema que proporciona guiado vertical a través de información baroaltimétrica."
+    },
+    {
+      "question_id": "MOD5_178",
+      "question_text": "¿Qué especificación PBN se usa en aproximaciones con tramos curvos?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "RNP AR APCH",
+        "RNAV 1",
+        "RNP 1",
+        "RNAV 5"
+      ],
+      "correct_option": 0,
+      "explanation": "Diseñada para tramos rectos y/o tramos curvos de radio fijo (RNP AR APCH)."
+    },
+    {
+      "question_id": "MOD5_179",
+      "question_text": "¿Qué es el 'Concepto PBN'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Performance Based Navigation (Navegación Basada en Prestaciones)",
+        "Precision Based Navigation",
+        "Pilot Based Navigation",
+        "Position Based Navigation"
+      ],
+      "correct_option": 0,
+      "explanation": "Navegación Basada en Prestaciones PBN."
+    },
+    {
+      "question_id": "MOD5_180",
+      "question_text": "¿Qué es la 'Integridad' en el contexto PBN?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Garantía de que la información es correcta y alerta si no lo es",
+        "Precisión de la posición",
+        "Disponibilidad de la señal",
+        "Continuidad del servicio"
+      ],
+      "correct_option": 0,
+      "explanation": "Capacidad del sistema para desconectarse automáticamente, o advertir al usuario."
+    },
+    {
+      "question_id": "MOD5_181",
+      "question_text": "¿Qué es un 'Sistema de Aumentación' (ABAS, SBAS, GBAS)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Sistema que mejora la precisión, integridad y disponibilidad del GNSS básico",
+        "Sistema que aumenta la potencia del motor",
+        "Sistema que aumenta el alcance de la radio",
+        "Sistema de luces de pista"
+      ],
+      "correct_option": 0,
+      "explanation": "Sistemas de aumentación... (Definición general)."
+    },
+    {
+      "question_id": "MOD5_182",
+      "question_text": "¿Qué es GAGAN?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Sistema SBAS de India",
+        "Sistema SBAS de Japón",
+        "Sistema GNSS de Rusia",
+        "Sistema de aterrizaje"
+      ],
+      "correct_option": 0,
+      "explanation": "GAGAN (India)."
+    },
+    {
+      "question_id": "MOD5_183",
+      "question_text": "¿Qué es MSAS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Sistema SBAS de Japón",
+        "Sistema SBAS de China",
+        "Sistema SBAS de Malasia",
+        "Sistema de EEUU"
+      ],
+      "correct_option": 0,
+      "explanation": "MSAS (Japón)."
+    },
+    {
+      "question_id": "MOD5_184",
+      "question_text": "¿Qué es el 'Guiado' en navegación?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Dirigir la aeronave para mantener la ruta establecida",
+        "Conocer la posición",
+        "Vigilar el tráfico",
+        "Comunicar con la torre"
+      ],
+      "correct_option": 0,
+      "explanation": "Función de guiado: En la que el piloto debe dirigir convenientemente la aeronave."
+    },
+    {
+      "question_id": "MOD5_185",
+      "question_text": "¿Qué fase del vuelo es 'Ruta'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Fase estable y nivelada entre ascenso y descenso",
+        "Fase de despegue",
+        "Fase de aterrizaje",
+        "Fase de rodaje"
+      ],
+      "correct_option": 0,
+      "explanation": "Ruta: Es la fase donde la aeronave completa la mayor parte del trayecto, realizando el vuelo de manera estable y nivelada."
+    },
+    {
+      "question_id": "MOD5_186",
+      "question_text": "¿Qué es un 'Punto de recorrido' (Waypoint)?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Posición geográfica especificada utilizada para definir la ruta",
+        "Punto de aterrizaje",
+        "Punto de repostaje",
+        "Punto de espera"
+      ],
+      "correct_option": 0,
+      "explanation": "Ruta... se determina mediante una serie de puntos de recorrido."
+    },
+    {
+      "question_id": "MOD5_187",
+      "question_text": "¿Qué es la 'Navegación 2D'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Posicionamiento y guiado en el plano horizontal (Lat/Lon)",
+        "Navegación vertical",
+        "Navegación temporal",
+        "Navegación visual"
+      ],
+      "correct_option": 0,
+      "explanation": "RNAV 2D: Posicionamiento y Guiado en plano horizontal."
+    },
+    {
+      "question_id": "MOD5_188",
+      "question_text": "¿Qué es la 'Navegación 3D'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Horizontal + Vertical",
+        "Horizontal + Tiempo",
+        "Vertical + Tiempo",
+        "Solo horizontal"
+      ],
+      "correct_option": 0,
+      "explanation": "RNAV 3D: Posicionamiento, Guiado en plano horizontal y Guiado en plano Vertical."
+    },
+    {
+      "question_id": "MOD5_189",
+      "question_text": "¿Qué es la 'Exactitud' (Accuracy) en PBN?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Diferencia entre la posición estimada y la real",
+        "Capacidad de alerta",
+        "Tiempo de funcionamiento",
+        "Probabilidad de fallo"
+      ],
+      "correct_option": 0,
+      "explanation": "Exactitud: Se define como la diferencia entre la posición indicada... y la posición real."
+    },
+    {
+      "question_id": "MOD5_190",
+      "question_text": "¿Qué es el 'Servicio CNS'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Comunicaciones, Navegación y Vigilancia",
+        "Control, Navegación y Seguridad",
+        "Comunicaciones, Notificación y Servicio",
+        "Central Navigation System"
+      ],
+      "correct_option": 0,
+      "explanation": "Servicios de Comunicaciones, Navegación y Vigilancia (CNS)."
+    },
+    {
+      "question_id": "MOD5_191",
+      "question_text": "¿Qué es el 'ATM'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Air Traffic Management (Gestión del Tránsito Aéreo)",
+        "Automated Teller Machine",
+        "Air Traffic Monitor",
+        "Aircraft Technical Manual"
+      ],
+      "correct_option": 0,
+      "explanation": "Servicios de Gestión de Tránsito Aéreo (ATM)."
+    },
+    {
+      "question_id": "MOD5_192",
+      "question_text": "¿Qué es una 'Estación de referencia' en SBAS?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Estación terrestre que monitoriza satélites y calcula correcciones",
+        "Estación de radio comercial",
+        "Satélite geoestacionario",
+        "Receptor de usuario"
+      ],
+      "correct_option": 0,
+      "explanation": "Utilizan una red de estaciones de referencia terrestres para calcular correcciones."
+    },
+    {
+      "question_id": "MOD5_193",
+      "question_text": "¿Qué significa 'VDB' en GBAS?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "VHF Data Broadcast (Radiodifusión de datos en VHF)",
+        "Vertical Data Base",
+        "Visual Decision Beacon",
+        "Variable Doppler Beam"
+      ],
+      "correct_option": 0,
+      "explanation": "Transmite correcciones... mediante radiodifusión de datos en VHF (VDB)."
+    },
+    {
+      "question_id": "MOD5_194",
+      "question_text": "¿Qué sistema utiliza satélites en órbita GEO (Geoestacionaria) para enviar correcciones?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "SBAS",
+        "GBAS",
+        "ABAS",
+        "GPS"
+      ],
+      "correct_option": 0,
+      "explanation": "Se envían a las aeronaves mediante satélites en órbita geoestacionaria (GEO)."
+    },
+    {
+      "question_id": "MOD5_195",
+      "question_text": "¿Qué es el 'Error de trayectoría lateral' (TSE)?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        "Total System Error (Error total del sistema)",
+        "Track System Error",
+        "Time System Error",
+        "True System Error"
+      ],
+      "correct_option": 0,
+      "explanation": "Se refiere a la precisión de navegación lateral (TSE)."
+    },
+    {
+      "question_id": "MOD5_196",
+      "question_text": "¿Qué es una 'Aproximación de No Precisión' (NPA)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Aproximación con guiado lateral pero sin guiado vertical electrónico",
+        "Aproximación visual",
+        "Aproximación ILS",
+        "Aproximación PAR"
+      ],
+      "correct_option": 0,
+      "explanation": "Concepto implícito (NDB, VOR se usan para no precisión, ILS para precisión)."
+    },
+    {
+      "question_id": "MOD5_197",
+      "question_text": "¿Qué es la 'Frecuencia emparejada' en ILS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Al sintonizar el LOC (VHF) se sintoniza automáticamente el GP (UHF)",
+        "Usar dos radios",
+        "Usar la misma frecuencia para voz y datos",
+        "Usar dos VOR"
+      ],
+      "correct_option": 0,
+      "explanation": "Las frecuencias del localizador y la senda de planeo están emparejadas."
+    },
+    {
+      "question_id": "MOD5_198",
+      "question_text": "¿Qué es un 'Sistema No Autónomo'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "Requiere infraestructura externa (tierra o espacio)",
+        "Funciona solo con equipos de a bordo",
+        "Requiere piloto automático",
+        "No requiere electricidad"
+      ],
+      "correct_option": 0,
+      "explanation": "A partir de los datos suministrados por una infraestructura externa."
+    },
+    {
+      "question_id": "MOD5_199",
+      "question_text": "¿Qué es un 'Sistema Autónomo'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        "No requiere infraestructura externa (ej. INS, Doppler)",
+        "Requiere satélites",
+        "Requiere VOR",
+        "Requiere control terrestre"
+      ],
+      "correct_option": 0,
+      "explanation": "Al no requerir de una infraestructura externa a la aeronave."
+    },
+    {
+      "question_id": "MOD5_200",
+      "question_text": "¿Qué es la 'Navegación por Satélite'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        "Uso de señales GNSS para determinar posición y tiempo",
+        "Uso de mapas estelares",
+        "Uso de la Luna",
+        "Uso de satélites de comunicaciones"
+      ],
+      "correct_option": 0,
+      "explanation": "Los sistemas GNSS... proporcionan con mucha exactitud la posición."
     }
   ],
   "metadata": {
