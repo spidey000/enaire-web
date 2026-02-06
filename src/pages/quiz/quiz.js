@@ -201,44 +201,45 @@ function renderQuizInterface(content) {
       </div>
 
       <div class="quiz-actions">
-        <button id="submit-answer" class="btn btn-primary" disabled>Enviar Respuesta</button>
+        <button id="action-button" class="btn btn-primary" style="display: none;">Continuar</button>
       </div>
     </div>
   `;
 
   // Add event listeners
   const options = document.querySelectorAll('.question-option');
-  let selectedOption = null;
+  let isAnswered = false;
 
   options.forEach(option => {
     option.addEventListener('click', () => {
-      // Remove previous selection
+      if (isAnswered) return;
+      
+      // Visual selection
       options.forEach(opt => opt.classList.remove('selected'));
-
-      // Select this option
       option.classList.add('selected');
-      selectedOption = option.dataset.option;
+      
+      const selectedOption = option.dataset.option;
+      
+      // If practice mode, lock input. If exam, we proceed immediately
+      if (quizSession.mode === 'practice') {
+        isAnswered = true;
+      }
 
-      // Enable submit button
-      document.getElementById('submit-answer').disabled = false;
+      const result = quizSession.submitAnswer(selectedOption);
+
+      if (quizSession.mode === 'practice') {
+        showFeedback(result, question);
+        
+        // Show continue button
+        const actionBtn = document.getElementById('action-button');
+        actionBtn.style.display = 'inline-block';
+        actionBtn.onclick = () => nextQuestion();
+        actionBtn.focus();
+      } else {
+        // In exam mode, continue immediately
+        nextQuestion();
+      }
     });
-  });
-
-  document.getElementById('submit-answer').addEventListener('click', () => {
-    if (!selectedOption) return;
-
-    const result = quizSession.submitAnswer(selectedOption);
-    showFeedback(result, question);
-
-    if (quizSession.mode === 'practice') {
-      // In practice mode, change button to continue
-      const submitBtn = document.getElementById('submit-answer');
-      submitBtn.textContent = 'Continuar';
-      submitBtn.onclick = () => nextQuestion();
-    } else {
-      // In exam mode, continue immediately
-      nextQuestion();
-    }
   });
 }
 
