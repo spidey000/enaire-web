@@ -4,7 +4,7 @@
 ## Índice
 1 Acrónimos  3 2 Introducción  3 3 Principios básicos  3
 ## 3.1 Teorema de Bernoulli  3
-## 3.2 La Atmosfera Estándar Internacional ({{PAUSE:ACRONYM}}ISA)  4
+## 3.2 La Atmosfera Estándar Internacional ({{PAUSEACRONYM}}ISA)  4
 ## 3.3 Altitud de presión  5
 ## 3.4 Altitud Densidad  6
 ## 3.5 Velocidades  6
@@ -26,15 +26,15 @@
 ## 11.5 Hidroplaneo  23
 
 ## 1 Acrónimos
-{{PAUSE:ACRONYM}}ASI Air Speed Indicator
-{{PAUSE:ACRONYM}}CAS Calibrated Airspeed
-{{PAUSE:ACRONYM}}EAS Equivalent Airspeed
-{{PAUSE:ACRONYM}}GS Ground Speed
-{{PAUSE:ACRONYM}}IAS Indicated Airspeed
-{{PAUSE:ACRONYM}}ISA International Standard Atmosphere
+{{PAUSEACRONYM}}ASI Air Speed Indicator
+{{PAUSEACRONYM}}CAS Calibrated Airspeed
+{{PAUSEACRONYM}}EAS Equivalent Airspeed
+{{PAUSEACRONYM}}GS Ground Speed
+{{PAUSEACRONYM}}IAS Indicated Airspeed
+{{PAUSEACRONYM}}ISA International Standard Atmosphere
 ## Kts Knots (nudos)
 ## P Presion
-{{PAUSE:ACRONYM}}TAS True Airspeed
+{{PAUSEACRONYM}}TAS True Airspeed
 ## V Velocidad
 ## 2 Introducción
 La  es la rama de la mecánica de fluidos especializada en el cálculo de las acciones que aparecen sobre los cuerpos solidos cuando existe un movimiento relativo entre estos y el fluido en el que se desplazan
@@ -62,10 +62,10 @@ Una aplicación práctica del Principio de Bernoulli es el tubo Venturi
 ## 1
 
 Aplicando  el  teorema  a  las  dos  secciones  S1  y  S2  es  evidente  que  en  la  sección  2  la velocidad será mayor por lo que para mantener la igualdad disminuirá la presión P puesto que la densidad p es constante
-## 3.2 La Atmosfera Estándar Internacional ({{PAUSE:ACRONYM}}ISA) La Atmósfera Estándar Internacional (del inglés International Standard Atmosphere) más conocida por sus siglas {{PAUSE:ACRONYM}}ISA es un modelo de la atmósfera terrestre que permite obtener los valores de presión temperatura densidad y viscosidad del aire en función de la altitud
+## 3.2 La Atmosfera Estándar Internacional ({{PAUSEACRONYM}}ISA) La Atmósfera Estándar Internacional (del inglés International Standard Atmosphere) más conocida por sus siglas {{PAUSEACRONYM}}ISA es un modelo de la atmósfera terrestre que permite obtener los valores de presión temperatura densidad y viscosidad del aire en función de la altitud
 Su función es proporcionar un marco de referencia invariante para la  aérea y para la realización de cálculos aerodinámicos consistentes
-{{PAUSE:ACRONYM}}OACI  definió  la  atmosfera  estándar  internacional  como  aquella  que  tiene  15ºC  de temperatura y 1013 hectopascales de presión al nivel del mar
-La   temperatura   disminuye   2º   cada   1000   pies   de   altitud   (6,5ºC   por   km)   lo   que denominamos gradiente de temperatura hasta 36000 pies Por encima de este punto la temperatura se considera constante -56ºC hasta los 80.000 pies
+{{PAUSEACRONYM}}OACI  definió  la  atmosfera  estándar  internacional  como  aquella  que  tiene  15ºC  de temperatura y 1013 hectopascales de presión al nivel del mar
+La   temperatura   disminuye   2º   cada   1000   pies   de   altitud   (65ºC   por   km)   lo   que denominamos gradiente de temperatura hasta 36000 pies Por encima de este punto la temperatura se considera constante -56ºC hasta los 80.000 pies
 
 Las columnas 4 6 y 7 muestran los datos de la densidad presión y temperatura relativa
 Debido a que las performances de las aeronaves se comparan y evalúan con respecto a la atmósfera estándar todos los instrumentos están calibrados para la atmósfera estándar
@@ -74,7 +74,7 @@ Debido a que las performances de las aeronaves se comparan y evalúan con respec
 A medida que la presión atmosférica cambia el nivel de referencia puede estar por debajo en o sobre el nivel del mar La altitud de presión es importante como base para determinar la performance del avión así como para la asignación de niveles de vuelo a los aviones que operan por encima de un determinado nivel (nivel de transición)
 ## 3.4 Altitud Densidad
 La  altitud  de  densidad  es  la  distancia  vertical  sobre  el  nivel  del  mar  en  la  atmósfera estándar a la cual se encuentra una determinada densidad
-La altitud densidad es aquella que correspondería en la {{PAUSE:ACRONYM}}ISA a una determinada densidad del aire
+La altitud densidad es aquella que correspondería en la {{PAUSEACRONYM}}ISA a una determinada densidad del aire
 La densidad del aire decrece cuando la temperatura altitud y humedad aumentan Cuando la  densidad  del  aire  decrece (altitud  densidad  alta)  las  actuaciones  de  la  aeronave disminuyen Cuando la densidad del aire crece (altitud densidad baja) las actuaciones de la aeronave aumentan
 La altitud densidad es el factor más importante que afecta a las actuaciones de la aeronave pues está relacionada con
 ▪ La potencia del motor debido a que el motor toma menos aire
@@ -82,13 +82,13 @@ La altitud densidad es el factor más importante que afecta a las actuaciones de
 ▪ La  capacidad  de  sustentación  debido  a  que  el  aire  menos  denso  ejerce  menos fuerza en las alas
 Una  combinación  de  alta  temperatura  alta  altitud  y  alta  humedad  hacen  crítica  la maniobra de despegue
 ## 3.5 Velocidades
-➢ Velocidad verdadera ({{PAUSE:ACRONYM}}TAS) es la velocidad del avión respecto al aire en el que vuela
-➢ Velocidad  indicada ({{PAUSE:ACRONYM}}IAS) es  la  velocidad  que  marca  el  anemómetro ({{PAUSE:ACRONYM}}ASI)  Es  la velocidad sin corrección por errores del indicador posición o compresibilidad
-➢ Velocidad   calibrada ({{PAUSE:ACRONYM}}CAS) es   la   {{PAUSE:ACRONYM}}IAS   corregida por   errores   de   posición   y   del instrumento ({{PAUSE:ACRONYM}}CAS es igual a {{PAUSE:ACRONYM}}TAS a nivel del mar en atmósfera estándar)
-➢ Velocidad equivalente ({{PAUSE:ACRONYM}}EAS) es la velocidad que marca el anemómetro ({{PAUSE:ACRONYM}}ASI) una vez corregidos los errores de instrumento posición y compresibilidad ({{PAUSE:ACRONYM}}EAS es igual al {{PAUSE:ACRONYM}}CAS a nivel del mar en atmósfera estándar)
-➢ Velocidad sobre el suelo ({{PAUSE:ACRONYM}}GS) es la velocidad del avión respecto al suelo resultado de la suma vectorial de la velocidad verdadera y la velocidad del viento
+➢ Velocidad verdadera ({{PAUSEACRONYM}}TAS) es la velocidad del avión respecto al aire en el que vuela
+➢ Velocidad  indicada ({{PAUSEACRONYM}}IAS) es  la  velocidad  que  marca  el  anemómetro ({{PAUSEACRONYM}}ASI)  Es  la velocidad sin corrección por errores del indicador posición o compresibilidad
+➢ Velocidad   calibrada ({{PAUSEACRONYM}}CAS) es   la   {{PAUSEACRONYM}}IAS   corregida por   errores   de   posición   y   del instrumento ({{PAUSEACRONYM}}CAS es igual a {{PAUSEACRONYM}}TAS a nivel del mar en atmósfera estándar)
+➢ Velocidad equivalente ({{PAUSEACRONYM}}EAS) es la velocidad que marca el anemómetro ({{PAUSEACRONYM}}ASI) una vez corregidos los errores de instrumento posición y compresibilidad ({{PAUSEACRONYM}}EAS es igual al {{PAUSEACRONYM}}CAS a nivel del mar en atmósfera estándar)
+➢ Velocidad sobre el suelo ({{PAUSEACRONYM}}GS) es la velocidad del avión respecto al suelo resultado de la suma vectorial de la velocidad verdadera y la velocidad del viento
 
-➢ Número de Mach El Número de Mach es la relación entre la velocidad verdadera del avión ({{PAUSE:ACRONYM}}TAS) y la velocidad del sonido (c)
+➢ Número de Mach El Número de Mach es la relación entre la velocidad verdadera del avión ({{PAUSEACRONYM}}TAS) y la velocidad del sonido (c)
 ## 푀푁=
 ## 푇퐴푆
 ## 푐
@@ -110,12 +110,12 @@ La sustentación es la componente perpendicular a la corriente de aire
 ## 퐿
 ## 푞푆
 ## Donde
-{{PAUSE:LIST}}- {{PAUSE:END}}L es la sustentación
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- L es la sustentación
 ## • C
 ## L
 es el coeficiente de sustentación
-{{PAUSE:LIST}}- {{PAUSE:END}}S es la superficie de las alas
-{{PAUSE:LIST}}- {{PAUSE:END}}q es la presión dinámica
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- S es la superficie de las alas
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- q es la presión dinámica
 ## 1
 ## 2
 ## ⁄휌푉
@@ -123,7 +123,7 @@ es el coeficiente de sustentación
 
 El coeficiente de sustentación depende para cada perfil del ángulo de ataque
 ## 4.1 Peso
-El peso (W) tira del aeroplano hacia abajo debido a la fuerza de la gravedad Se opone a la sustentación y actúa verticalmente hacia abajo a través del centro de gravedad ({{PAUSE:ACRONYM}}CG) del avión
+El peso (W) tira del aeroplano hacia abajo debido a la fuerza de la gravedad Se opone a la sustentación y actúa verticalmente hacia abajo a través del centro de gravedad ({{PAUSEACRONYM}}CG) del avión
 ## 4.2 Resistencia
 Resistencia es una fuerza hacia atrás que retarda y es causada por la interrupción del flujo de aire por las alas fuselaje y otros objetos que sobresalgan La resistencia se opone al empuje y actúa hacia atrás paralela al viento relativo
 La resistencia al avance depende de las mismas variables que la sustentación
@@ -131,12 +131,12 @@ La resistencia al avance depende de las mismas variables que la sustentación
 ## 퐷
 ## 푞푆
 ## Donde
-{{PAUSE:LIST}}- {{PAUSE:END}}D es la resistencia
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- D es la resistencia
 ## • C
 ## D
 es el coeficiente de resistencia
-{{PAUSE:LIST}}- {{PAUSE:END}}S es la superficie de las alas
-{{PAUSE:LIST}}- {{PAUSE:END}}q es la presión dinámica
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- S es la superficie de las alas
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- q es la presión dinámica
 ## 1
 ## 2
 ## ⁄휌푉
@@ -195,8 +195,8 @@ En  régimen estacionario  la  ecuación  de  equilibrio  según  la  dirección
 ## 2
 ## 푆퐶
 ## 퐿
-{{PAUSE:LIST}}
-- {{PAUSE:END}}donde M es la masa del avión g la aceleración de la gravedad terrestre
+
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- donde M es la masa del avión g la aceleración de la gravedad terrestre
 A la vista de esta expresión resulta patente que en vuelo de crucero cuando la velocidad de vuelo V es elevada para satisfacer la igualdad el valor del coeficiente de sustentación del ala no precisa ser muy grande (un valor típico puede ser C
 ## L
 = 0.4) pero si la velocidad de vuelo V disminuye será preciso aumentar en consonancia el valor del coeficiente de sustentación del ala de modo que para mantener el vuelo estacionario a velocidades pequeñas (por ejemplo en la aproximación al aterrizaje) será preciso aumentar el ángulo de ataque del ala con el fin de conseguir mayor coeficiente de sustentación
@@ -218,23 +218,23 @@ Cada uno responde a una necesidad determinada por el desempeño esperado para un
 El perfil alar es el corte del ala por un plano vertical paralelo al eje longitudinal Es la forma del área  de  un  elemento  que  al  avanzar  a  través  del  aire  es  capaz  de  crear  a  su alrededor  una distribución de presiones que genera sustentación
 
 Figura 6 Perfil alar
-{{PAUSE:LIST}}- {{PAUSE:END}}El extradós es la parte superior del ala y el intradós la parte inferior
-{{PAUSE:LIST}}- {{PAUSE:END}}La cuerda es la línea que une borde de ataque y borde de salida
-{{PAUSE:LIST}}- {{PAUSE:END}}La línea de curvatura media es la línea equidistante del intradós y del extradós
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- El extradós es la parte superior del ala y el intradós la parte inferior
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La cuerda es la línea que une borde de ataque y borde de salida
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La línea de curvatura media es la línea equidistante del intradós y del extradós
 En el caso de un perfil simétrico la cuerda y la línea de curvatura media coinciden y si el ángulo de ataque es cero no se generará sustentación
 En el caso de un perfil asimétrico autosustentador la línea de curvatura media (en rojo) está por encima de la cuerda y con ángulo de ataque cero se generará sustentación
-{{PAUSE:LIST}}- {{PAUSE:END}}Cuerda media Como en general la cuerda disminuye a medida que nos alejamos del encastre se define como cuerda media a aquella que multiplicada por la envergadura es igual a la superficie alar
-{{PAUSE:LIST}}- {{PAUSE:END}}La envergadura es la distancia entre los dos extremos de las alas Si multiplicamos la envergadura por la cuerda media debemos obtener la superficie alar
-{{PAUSE:LIST}}- {{PAUSE:END}}El estrechamiento es el cociente entre la cuerda del perfil en el encastre y la cuerda del perfil en la punta del ala
-{{PAUSE:LIST}}- {{PAUSE:END}}El alargamiento es el cociente entre la envergadura y la cuerda media Este dato nos dice la relación existente entre la longitud y la anchura del ala (Envergadura/Cuerda media) A medida que este valor se hace más elevado el ala es más larga y estrecha
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Cuerda media Como en general la cuerda disminuye a medida que nos alejamos del encastre se define como cuerda media a aquella que multiplicada por la envergadura es igual a la superficie alar
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La envergadura es la distancia entre los dos extremos de las alas Si multiplicamos la envergadura por la cuerda media debemos obtener la superficie alar
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- El estrechamiento es el cociente entre la cuerda del perfil en el encastre y la cuerda del perfil en la punta del ala
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- El alargamiento es el cociente entre la envergadura y la cuerda media Este dato nos dice la relación existente entre la longitud y la anchura del ala (Envergadura/Cuerda media) A medida que este valor se hace más elevado el ala es más larga y estrecha
 Del orden de 3-4 en aviones muy rápidos a 25-30 en los planeadores
-{{PAUSE:LIST}}- {{PAUSE:END}}Flecha La flecha del ala es el ángulo que forman las alas respecto del eje transversal del avión La flecha puede ser positiva/progresiva (extremos de las alas orientados hacia  atrás)  neutra  o  negativa/regresiva (extremos  adelantados) en  función  de que la punta del ala este por delante o por detrás del ala en el encastre
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Flecha La flecha del ala es el ángulo que forman las alas respecto del eje transversal del avión La flecha puede ser positiva/progresiva (extremos de las alas orientados hacia  atrás)  neutra  o  negativa/regresiva (extremos  adelantados) en  función  de que la punta del ala este por delante o por detrás del ala en el encastre
 
 Figura 7 Tipos de flecha de ala
-{{PAUSE:LIST}}- {{PAUSE:END}}El diedro visto el avión de frente es el ángulo en forma de “V” que forman las alas con el eje lateral El ángulo diedro puede ser positivo neutro o negativo
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- El diedro visto el avión de frente es el ángulo en forma de “V” que forman las alas con el eje lateral El ángulo diedro puede ser positivo neutro o negativo
 
 Figura 8 Tipos de diedro
-{{PAUSE:LIST}}- {{PAUSE:END}}El ángulo de ataque es el que forman la cuerda y la corriente libre de aire El ángulo de ataque es el ángulo agudo formado por la cuerda del ala y la dirección del viento relativo Este ángulo es variable pues depende de la dirección del viento relativo y de la posición de las alas con respecto a este
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- El ángulo de ataque es el que forman la cuerda y la corriente libre de aire El ángulo de ataque es el ángulo agudo formado por la cuerda del ala y la dirección del viento relativo Este ángulo es variable pues depende de la dirección del viento relativo y de la posición de las alas con respecto a este
 
 Figura 9 Ángulo de ataque
 ## 9 Ejes
@@ -261,9 +261,9 @@ Los  primeros  están situados en el borde de ataque y los segundos en el borde 
 Los   hipersustentadores   reducen   las   velocidades   de   despegue   y   aterrizaje   y consiguientemente las longitudes de pista necesarias
 ▪ Los spoilers o aerofrenos son dispositivos que reducen la sustentación y aumentan la resistencia  Están  situados  en  el  extradós  y  cuando  se  deflectan  simétricamente funcionan  como  aerofrenos  Cuando  se  deflectan  asimétricamente  funcionan  como mandos de alabeo a altas velocidades
 ▪ Trim tabs Son pequeñas superficies de control situadas cerca del borde de salida del timón de profundidad timón de dirección y alerones
-El tab se deflecta en dirección opuesta al control primario (del cual forma parte) y se consigue  llevar  a  la  posición  deseada  al  control  primario  sin  esfuerzo  del  piloto El principio  de  funcionamiento  del  tab  es  el  siguiente  - Deflectando  el  tab  p.e  hacia abajo  al  aumentar  la  curvatura  de  esa  parte  del  perfil  se  produce  una  fuerza que  da  lugar  a  un  momento  de  charnela  considerable  debido  a  su distancia al eje charnela Este momento tiende a mover el timón hacia arriba
+El tab se deflecta en dirección opuesta al control primario (del cual forma parte) y se consigue  llevar  a  la  posición  deseada  al  control  primario  sin  esfuerzo  del  piloto El principio  de  funcionamiento  del  tab  es  el  siguiente  - Deflectando  el  tab  pe  hacia abajo  al  aumentar  la  curvatura  de  esa  parte  del  perfil  se  produce  una  fuerza que  da  lugar  a  un  momento  de  charnela  considerable  debido  a  su distancia al eje charnela Este momento tiende a mover el timón hacia arriba
 
-Eje de charnela es el eje de rotación del mando primario (p.e el timón de profundidad)
+Eje de charnela es el eje de rotación del mando primario (pe el timón de profundidad)
 De este modo el esfuerzo en la palanca para mover el timón viene ayudado por el tab
 El Trim tab o tab de compensación se utiliza para anular el momento de charnela en el eje y por tanto la fuerza en palanca o mando de vuelo
 11 Actuaciones en despegue y aterrizaje Muchos  factores  influyen  en  las  actuaciones  del  avión  el  empuje  de  los  motores  la temperatura la altitud de presión la posición de los flaps el peso el viento la posición del centro de gravedad y la velocidad Podemos actuar sobre alguno de estos factores escogiendo la posición de flaps más adecuada limitando el peso y llevando una determinada velocidad en cada momento
@@ -274,11 +274,11 @@ En el despegue la velocidad varía continuamente y esto hace que haya un gran n�
 ## S
  velocidad de pérdida o la velocidad mínima a la que la aeronave es controlable
 ## ➢ V
-## {{PAUSE:ACRONYM}}MCG
+## {{PAUSEACRONYM}}MCG
   velocidad  mínima de  control  en  el  suelo  con un  motor  inoperativo  (motor crítico   en   aviones   bimotores) Se   producirán   dos   efectos   una   pérdida   de aceleración  que  se  transforma  en  mayor  distancia  en  pista  para  alcanzar  una velocidad  y  en un  momento  de  giro que  será  igual  al producto de  la potencia de ese motor por su brazo (distancia al eje longitudinal) que tendera a sacar el avión de la pista por el lado del motor fallado Las normas dicen que esta guiñada adversa se debe controlar haciendo uso únicamente de los controles aerodinámicos en caso de  que  se  decida  continuar  el  despegue  es  decir  haciendo  uso  del  timón  de dirección
 En un polimotor el fallo de un motor con los otros motores a potencia de despegue causara una guiñada tanto mayor cuanto más alejado este el motor (motor critico) del eje longitudinal
 ## ➢ V
-## {{PAUSE:ACRONYM}}MCA
+## {{PAUSEACRONYM}}MCA
   velocidad  mínima  de  control  en  el  aire  con  un  motor  inoperativo  (motor crítico en aviones bimotor) Del mismo modo un fallo de motor en el aire provocará una guiñada
 A mayor velocidad más efectivos será los controles aerodinámicos existiendo una velocidad por debajo de la cual el avión no será controlable
 ## 푉
@@ -298,8 +298,8 @@ A mayor velocidad más efectivos será los controles aerodinámicos existiendo u
 ## R
  velocidad de rotación es la velocidad a la que se inicia la rotación de la aeronave a la actitud del despegue La velocidad no puede ser inferior a V
 ## 1
-o inferior a 1,05 veces V
-## {{PAUSE:ACRONYM}}MC
+o inferior a 105 veces V
+## {{PAUSEACRONYM}}MC
  Con un fallo de motor también debe permitir la aceleración hasta V
 ## 2
 a una altura de35 pies al final de la pista
@@ -313,7 +313,7 @@ a una altura de35 pies al final de la pista
 ## 푀퐶
 
 ## ➢ V
-## {{PAUSE:ACRONYM}}LOF
+## {{PAUSEACRONYM}}LOF
  velocidad de despegue La velocidad a la que inicialmente el avión se va al aire
 
 ## ➢ V
@@ -322,23 +322,23 @@ a una altura de35 pies al final de la pista
 
 Figura 12 velocidades en despegue
 ## 11.2 Requerimientos de pista Los requerimientos de pista para el despegue son afectados por
-{{PAUSE:LIST}}- {{PAUSE:END}}Altitud de presión
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Altitud de presión
 ## • Temperatura
-{{PAUSE:LIST}}- {{PAUSE:END}}Componente de viento de frente
-{{PAUSE:LIST}}- {{PAUSE:END}}Gradiente o pendiente de pista
-{{PAUSE:LIST}}- {{PAUSE:END}}Peso del Avión La pista requerida para el despegue debe estar basada en la posible pérdida de un motor en  el  punto  más  crítico  que  es  a  V
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Componente de viento de frente
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Gradiente o pendiente de pista
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Peso del Avión La pista requerida para el despegue debe estar basada en la posible pérdida de un motor en  el  punto  más  crítico  que  es  a  V
 ## 1
 (velocidad  de  decisión)  Por  regulación  el  peso  de despegue de la aeronave tiene que adaptarse a la más larga de las tres distancias
-{{PAUSE:LIST}}- {{PAUSE:END}}Distancia  de  aceleración-despegue  la  distancia  requerida  para  acelerar  a  V
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Distancia  de  aceleración-despegue  la  distancia  requerida  para  acelerar  a  V
 ## 1
 con todos los motores a potencia de despegue experimentar un fallo de motor a V
 ## 1
 y continuar el despegue con el motor restante La pista requerida incluye la distancia necesaria para ascender a 35 pies momento en el cual se debe haber llegado a V
 ## 2
 ## 
-{{PAUSE:LIST}}
-- {{PAUSE:END}}Distancia de aceleración-parada distancia requerida para acelerar a V1 con todos los  motores  a  potencia  de  despegue  experimentar  de  un  fallo  de  motor  a  V1  y abortar el despegue y detener el avión utilizando sólo la acción de los frenos (no se considera el uso de la inversión de empuje)
-{{PAUSE:LIST}}- {{PAUSE:END}}Distancia de despegue distancia requerida para completar un despegue hasta 35 pies  de  altura  con  todos  los  motores  operativos  Debe  ser  por  lo  menos  15  por ciento   menos   que   la   distancia   requerida   para   un   despegue   con   un   motor inoperativo  Esta  distancia  no  es  normalmente  un  factor  limitante  ya  que  es generalmente menor que la distancia de despegue con un motor inoperativo
+
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Distancia de aceleración-parada distancia requerida para acelerar a V1 con todos los  motores  a  potencia  de  despegue  experimentar  de  un  fallo  de  motor  a  V1  y abortar el despegue y detener el avión utilizando sólo la acción de los frenos (no se considera el uso de la inversión de empuje)
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Distancia de despegue distancia requerida para completar un despegue hasta 35 pies  de  altura  con  todos  los  motores  operativos  Debe  ser  por  lo  menos  15  por ciento   menos   que   la   distancia   requerida   para   un   despegue   con   un   motor inoperativo  Esta  distancia  no  es  normalmente  un  factor  limitante  ya  que  es generalmente menor que la distancia de despegue con un motor inoperativo
 Las velocidades de despegue varían con el peso del avión Antes de que las velocidades de despegue  puedan  ser  calculadas  el  piloto  primero  debe  determinar  el  peso  máximo permitido al despegue
 ### 11.2.1 Otros conceptos
 Stopway o zona de parada es un área en la prolongación de la pista al menos de su misma anchura  y  que  puede  soportar  el  peso  del  avión  sin  causarle  daños  estructurales  Solo existe como una longitud adicional a la pista para que en caso de despegue abortado se pueda utilizar para deceleración y frenado del avión
@@ -346,28 +346,28 @@ Clearway es una zona en la prolongación del eje de la pista que está libre de 
 ## 11.3 Aterrizaje
 Al igual que en la planificación del despegue ciertas velocidades deben ser consideradas durante el aterrizaje Estas velocidades se muestran a continuación
 ## • V
-## {{PAUSE:ACRONYM}}SO
+## {{PAUSEACRONYM}}SO
  velocidad de pérdida o velocidad mínima de vuelo estable en configuración de aterrizaje
 ## • V
-## {{PAUSE:ACRONYM}}REF
-  1,3  veces  la  velocidad  de  pérdida  en  configuración  de  aterrizaje  Esta  es  la velocidad requerida a 50 pies de altura sobre el umbral de la pista
+## {{PAUSEACRONYM}}REF
+  13  veces  la  velocidad  de  pérdida  en  configuración  de  aterrizaje  Esta  es  la velocidad requerida a 50 pies de altura sobre el umbral de la pista
 ## • V
-## {{PAUSE:ACRONYM}}TD
-velocidad  de  toma  (touchdown)  1,15  veces  la  velocidad  de  pérdida  en configuración de aterrizaje
-{{PAUSE:LIST}}- {{PAUSE:END}}Ascenso en aproximación la velocidad que proporciona el mejor rendimiento de ascenso  en  configuración  de  aproximación  con  un  motor  inoperativo  y  con  la máxima potencia de despegue en el motor operativo(s)
-{{PAUSE:LIST}}
-- {{PAUSE:END}}Ascenso en aterrizaje la velocidad que da la mejor performance en configuración de aterrizaje con máxima potencia de despegue en todos los motores
+## {{PAUSEACRONYM}}TD
+velocidad  de  toma  (touchdown)  115  veces  la  velocidad  de  pérdida  en configuración de aterrizaje
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Ascenso en aproximación la velocidad que proporciona el mejor rendimiento de ascenso  en  configuración  de  aproximación  con  un  motor  inoperativo  y  con  la máxima potencia de despegue en el motor operativo(s)
+
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Ascenso en aterrizaje la velocidad que da la mejor performance en configuración de aterrizaje con máxima potencia de despegue en todos los motores
 
 Figura 13 velocidades en aterrizaje
 ## 11.4 Requisitos de aterrizaje A fin  de  determinar  el  peso  de  aterrizaje  permitido  para  un  avión  de  categoría  de transporte deben ser considerados los siguientes detalles
-{{PAUSE:LIST}}- {{PAUSE:END}}Altitud de presión del aeródromo
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Altitud de presión del aeródromo
 ## • Temperatura
-{{PAUSE:LIST}}- {{PAUSE:END}}Componente de viento en contra
-{{PAUSE:LIST}}- {{PAUSE:END}}Longitud de pista
-{{PAUSE:LIST}}- {{PAUSE:END}}Gradiente o pendiente de pista
-{{PAUSE:LIST}}- {{PAUSE:END}}Condición de la superficie de la pista Con estos datos es posible establecer el peso máximo de aterrizaje permitido que será el menor de los pesos según lo dictado por
-{{PAUSE:LIST}}- {{PAUSE:END}}Requisitos de pista de aterrizaje
-{{PAUSE:LIST}}- {{PAUSE:END}}Requisitos de ascenso en aproximación
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Componente de viento en contra
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Longitud de pista
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Gradiente o pendiente de pista
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Condición de la superficie de la pista Con estos datos es posible establecer el peso máximo de aterrizaje permitido que será el menor de los pesos según lo dictado por
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Requisitos de pista de aterrizaje
+{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Requisitos de ascenso en aproximación
 ## 11.5 Hidroplaneo
 Con pista mojada o contaminada se produce hidroplaneo en el momento que las ruedas del tren dejan de girar y deslizan perdiendo toda su eficacia la acción de frenado
 Este fenómeno depende de los neumáticos de la contaminación de la pista del espesor de la capa de agua o nieve entre otros

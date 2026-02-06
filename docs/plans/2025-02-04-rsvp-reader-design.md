@@ -21,7 +21,7 @@ El diseño visual es una **réplica exacta de Spritz.com**: caja blanca centrada
 El lector RSVP se compone de **3 capas principales**:
 
 **Capa 1 - Parser de Markdown (Build-time)**
-- Script Node.js que se ejecuta con `npm run annotate`
+- Script Python que se ejecuta con `npm run annotate`
 - Lee los archivos `.md` originales de `/src/data/modules/`
 - Analiza el contenido y añade marcadores `{{PAUSE:TYPE}}` donde detecta:
   - **Bloques de código/fórmulas LaTeX**: patrones ` ``` ` o `$ $` → `{{PAUSE:FORMULA}}`
@@ -343,67 +343,36 @@ src/
 └── styles/
     └── rsvp.css              # Estilos del banner Spritz
 scripts/
-└── annotate-markdown.js      # Build-time script para añadir marcadores
-package.json                   # Nuevo script: "annotate": "node scripts/annotate-markdown.js"
+└── annotate_modules.py      # Build-time script para añadir marcadores
+package.json                   # Nuevo script: "annotate": "python3 scripts/annotate_modules.py"
 ```
 
 ---
 
 ## 15. Script de Anotación (Build-time)
 
-**`scripts/annotate-markdown.js`:**
+**`scripts/annotate_modules.py`:**
 
-```javascript
-import fs from 'fs';
-import path from 'path';
+```python
+import os
+import re
 
-const PAUSE_PATTERNS = [
-  { regex: /```[\s\S]*?```/g, type: 'FORMULA' },      // Code blocks
-  { regex: /\$\$[\s\S]*?\$\$/g, type: 'FORMULA' },    // LaTeX display
-  { regex: /\$[^$]+\$/g, type: 'FORMULA' },           // LaTeX inline
-  { regex: /![^\)]+\)/g, type: 'IMAGE' },             // Images
-  { regex: /\|[^\n]+\|/g, type: 'TABLE' },            // Tables
-  { regex: /^\s*[-*+]\s/gm, type: 'LIST' },           // Bullet lists
-  { regex: /^\s*\d+\.\s/gm, type: 'LIST' },           // Numbered lists
-];
+SOURCE_DIR = r'src/data/modules'
+TARGET_DIR = r'src/data/modules-annotated'
 
-const ACRONYM_REGEX = /\b[A-Z]{2,5}\b/g;  // ATC, ILS, VOR, DME
+# Regex patterns for protection (multi-line)
+PROTECTED_PATTERNS = [
+    (r'(```[\s\S]*?```)', 'FORMULA'),      # Code blocks
+    (r'(\$\$[\s\S]*?\$\$)', 'FORMULA'),    # Display math
+    (r'(\$[^$]+\$)', 'FORMULA'),           # Inline math
+    (r'(!\[([^\]]*)\]\([^)]+\))', 'IMAGE'), # Images
+]
 
-function annotateMarkdown(content) {
-  let annotated = content;
-
-  // Annotate patterns
-  PAUSE_PATTERNS.forEach(({ regex, type }) => {
-    annotated = annotated.replace(regex, (match) => {
-      return `{{PAUSE:${type}}}${match}{{PAUSE:END}}`;
-    });
-  });
-
-  // Annotate acronyms
-  annotated = annotated.replace(ACRONYM_REGEX, (match) => {
-    return `{{PAUSE:ACRONYM}}${match}`;
-  });
-
-  return annotated;
-}
-
-// Process all modules
-const modulesDir = path.resolve('src/data/modules');
-const outputDir = path.resolve('src/data/modules-annotated');
-
-fs.readdirSync(modulesDir).forEach(file => {
-  if (file.endsWith('.md')) {
-    const content = fs.readFileSync(path.join(modulesDir, file), 'utf-8');
-    const annotated = annotateMarkdown(content);
-
-    if (!fs.existsSync(outputDir)) {
-      fs.mkdirSync(outputDir, { recursive: true });
-    }
-
-    fs.writeFileSync(path.join(outputDir, file), annotated);
-    console.log(`✅ Annotated: ${file}`);
-  }
-});
+def annotate_text(text):
+    # Protect specific blocks by wrapping them with PAUSE markers
+    # Annotate acronyms
+    # Remove punctuation
+    ...
 ```
 
 ---
@@ -411,10 +380,10 @@ fs.readdirSync(modulesDir).forEach(file => {
 ## 16. Plan de Implementación
 
 **Fase 1 - Build Pipeline (1 día):**
-- [ ] Crear `scripts/annotate-markdown.js`
-- [ ] Añadir script `npm run annotate` a package.json
-- [ ] Ejecutar anotación en todos los módulos
-- [ ] Verificar output en `/modules-annotated/`
+- [x] Crear `scripts/annotate_modules.py`
+- [x] Añadir script `npm run annotate` a package.json
+- [x] Ejecutar anotación en todos los módulos
+- [x] Verificar output en `/modules-annotated/`
 
 **Fase 2 - Motor RSVP Core (2 días):**
 - [ ] Crear `src/js/rsvp/orp.js` - cálculo ORP

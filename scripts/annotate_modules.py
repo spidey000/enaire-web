@@ -4,63 +4,104 @@ import re
 SOURCE_DIR = r'src/data/modules'
 TARGET_DIR = r'src/data/modules-annotated'
 
+# Regex patterns for protection (multi-line)
+PROTECTED_PATTERNS = [
+    (r'(```[\s\S]*?```)', 'FORMULA'),      # Code blocks
+    (r'(\$\$[\s\S]*?\$\$)', 'FORMULA'),    # Display math
+    (r'(\$[^$]+\$)', 'FORMULA'),           # Inline math
+    (r'(!\[([^\]]*)\]\([^)]+\))', 'IMAGE'), # Images
+]
+
+# Table pattern (heuristic: consecutive lines starting with |)
+TABLE_PATTERN = r'(^\|.*\|$(\n^\|.*\|$)*)'
+
+# Acronym exclusions
+ACRONYM_EXCLUSIONS = {
+    'EL', 'LA', 'LO', 'LOS', 'LAS', 'UN', 'UNA', 'UNOS', 'UNAS',
+    'DE', 'DEL', 'EN', 'POR', 'PARA', 'CON', 'SIN', 'SOBRE',
+    'ES', 'SON', 'ESTA', 'ESTO', 'ESTE', 'ESTOS', 'ESTAS',
+    'QUE', 'QUIEN', 'CUANDO', 'DONDE', 'COMO',
+    'THE', 'AND', 'FOR', 'ARE', 'BUT', 'NOT', 'YOU', 'ALL', 'CAN', 'HAD', 'HER', 'WAS', 'ONE', 'OUR', 'OUT', 'GET', 'HAS', 'HIS', 'HIM', 'HOW', 'ITS', 'NOW', 'SEE', 'SHE', 'TWO', 'USE', 'WAS', 'WAY', 'WHO', 'BOY', 'DID', 'ITS', 'LET', 'PUT', 'SAY', 'SHE', 'TOO', 'USE', 'DAD', 'MOM', 'SUN'
+}
+
 def ensure_dir(directory):
     if not os.path.exists(directory):
         os.makedirs(directory)
 
 def annotate_text(text):
-    lines = text.split('\n')
-    annotated_lines = []
+    # 1. Protect specific blocks by wrapping them with PAUSE markers
+    # We do this first so we don't mess up their internals with other replacements
     
-    for line in lines:
-        # Step 1: Use temporary lowercase placeholders to avoid regex collisions
-        
-        # 1. OACI Docs (4 digits)
-        # Matches "Doc. 4444", "Doc 4444", "Documento 4444"
-        # Joins them (removes space) and adds pause marker
-        line = re.sub(r'\b(Doc\.?|Documento)\s+(\d{4})\b', r'__pause_doc__\1\2', line, flags=re.IGNORECASE)
-        
-        # 2. Acronyms
-        # Words with 3+ uppercase letters/numbers
-        # We use a lookahead to ensure we don't break things like URLs if possible.
-        # \b([A-Z]{2,}[A-Z0-9]+)\b matches e.g. OACI, A320, but not A (too short)
-        # We replace with a placeholder to avoid being matched by subsequent steps or itself
-        # Note: We must be careful not to match our own placeholders if we used uppercase, but we use lowercase now.
-        line = re.sub(r'\b([A-Z]{3,})\b', r'__pause_acronym__\1', line)
-        
-        # 3. Lists
-        # Match list items (bullets or numbers)
-        # ^(\s*)([-*+]|\d+\.)\s+
-        if re.match(r'^\s*([-*+]|\d+\.)\s+', line):
-            line = re.sub(r'^(\s*)([-*+]|\d+\.)', r'\1__pause_list__\2', line, count=1)
+    # Code, Math, Images
+    for pattern, p_type in PROTECTED_PATTERNS:
+        # Use a lambda to construct replacement to avoid backslash issues in f-strings with groups
+        text = re.sub(pattern, lambda m: f'{{{{PAUSE:{p_type}}}}}{m.group(0)}{{{{PAUSE:END}}}}', text)
+
+    # Tables (handled separately due to complexity)
+    # We use a simple multiline match for lines starting/ending with |
+    text = re.sub(TABLE_PATTERN, r'{{PAUSE:TABLE}}\1{{PAUSE:END}}', text, flags=re.MULTILINE)
+
+    # 2. Split into parts to process unprotected text safely
+    # We split by the PAUSE blocks we just added
+    # Regex captures the delimiter so we keep the protected parts
+    parts = re.split(r'({{PAUSE:(?:FORMULA|IMAGE|TABLE)}}[\s\S]*?{{PAUSE:END}})', text)
+    
+    processed_parts = []
+    
+    for part in parts:
+        # If it's a protected block, keep it as is
+        if re.match(r'^{{PAUSE:(?:FORMULA|IMAGE|TABLE)}}', part):
+            processed_parts.append(part)
+            continue
             
-        # 4. Punctuation Removal (as requested)
-        # We replace them with empty string to remove them completely
+        # Process unprotected text (line by line for lists/acronyms/punctuation)
+        lines = part.split('\n')
+        processed_lines = []
         
-        # Periods: Not preceded/followed by digit (3.5), not part of ellipsis (...)
-        line = re.sub(r'(?<![\d\.])\.(?![\d\.])', r'', line)
+        for line in lines:
+            # 3. OACI Docs (4 digits)
+            line = re.sub(r'\b(Doc\.?|Documento)\s+(\d{4})\b', r'{{PAUSE:DOC}}\1\2', line, flags=re.IGNORECASE)
+            
+            # 4. Lists (at start of line)
+            # Match list items (bullets or numbers)
+            if re.match(r'^\s*([-*+]|\d+\.)\s+', line):
+                line = re.sub(r'^(\s*)([-*+]|\d+\.)', r'\1{{PAUSE:LIST}}\2', line, count=1)
+                
+            # 5. Acronyms (careful not to break existing tags)
+            # We use a function to check exclusions
+            def replace_acronym(match):
+                word = match.group(1)
+                if word not in ACRONYM_EXCLUSIONS:
+                    return f'{{{{PAUSE:ACRONYM}}}}{word}'
+                return word
+
+            # Match 2-5 uppercase letters, strict word boundary
+            line = re.sub(r'\b([A-Z]{2,5})\b', replace_acronym, line)
+            
+            # 6. Punctuation Removal (as requested)
+            # Remove punctuation characters that cause pauses or distractions
+            # Commas, periods, colons, semicolons, etc.
+            # We use a safe regex that respects digits (like 3.5) if possible, or just strip
+            # The prompt requested "remove punctuation like commas or points"
+            
+            # Remove periods (not between digits)
+            line = re.sub(r'(?<!\d)\.(?!\d)', '', line)
+            # Remove commas
+            line = re.sub(r',', '', line)
+            # Remove colons
+            line = re.sub(r':', '', line)
+            # Remove semicolons
+            line = re.sub(r';', '', line)
+            
+            # 7. Cleanup any explicit pause markers that might have been added by legacy logic
+            # (Just in case, though we don't add them above anymore)
+            line = re.sub(r'{{PAUSE:(?:SHORT|LONG|MEDIUM|COMMA|SEMICOLON|POINT)}}', '', line)
+            
+            processed_lines.append(line)
+            
+        processed_parts.append('\n'.join(processed_lines))
         
-        # Commas
-        line = re.sub(r',', r'', line)
-        
-        # Colons
-        line = re.sub(r':', r'', line)
-        
-        # Semicolons
-        line = re.sub(r';', r'', line)
-        
-        # Step 2: Finalize placeholders to actual tags
-        line = line.replace('__pause_doc__', '{{PAUSE:DOC}}')
-        line = line.replace('__pause_acronym__', '{{PAUSE:ACRONYM}}')
-        line = line.replace('__pause_list__', '{{PAUSE:LIST}}')
-        # We don't need to replace punctuation placeholders anymore as we don't generate them
-        # But for safety in case other logic adds them:
-        line = line.replace('__pause_long__', '')
-        line = line.replace('__pause_short__', '')
-        
-        annotated_lines.append(line)
-    
-    return '\n'.join(annotated_lines)
+    return ''.join(processed_parts)
 
 def process_files():
     ensure_dir(TARGET_DIR)

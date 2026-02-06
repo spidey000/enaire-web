@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "annotate": "node scripts/annotate-markdown.js",
+    "annotate": "python3 scripts/annotate_modules.py",
     "test": "playwright test",
     "test:headed": "playwright test --headed",
     "test:ui": "playwright test --ui",
