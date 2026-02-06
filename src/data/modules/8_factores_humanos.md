@@ -1,264 +1,118 @@
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-
 ## Factores
 ## Humanos
 en ATM
 
 : julio 2023
 ## 2/65
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
 
 - Introducción a los Factores Humanos  4
-1.1 Definición de Factores Humanos  4
-1.2 Conceptos básicos sobre Factores Humanos  5
-1.2.1 Modelo de Reason  5
-1.2.2 Modelo de Rasmussen  6
-1.2.3 Modelo SHELL-O  7
-1.3 Visión sistémica de la Seguridad Operacional  9
-1.3.1 Systems Thinking for Safety: los 10 principios de EUROCONTROL  9
-1.3.2 Safety I versus Safety II  13
-1.3.3 Work as Done versus Work as Imagined  14
-1.4 Reglamentación sobre fatiga, estrés y sustancias psicoactivas  15
-1.5 Normativa en relación a las competencias en materia de Factores Humanos para ATCOs ...... 18
-1.6 Integración transversal de los Factores Humanos en la organización  19
+## 1.1 Definición de Factores Humanos  4
+## 1.2 Conceptos básicos sobre Factores Humanos  5
+### 1.2.1 Modelo de Reason  5
+### 1.2.2 Modelo de Rasmussen  6
+### 1.2.3 Modelo SHELL-O  7
+## 1.3 Visión sistémica de la Seguridad Operacional  9
+### 1.3.1 Systems Thinking for Safety: los 10 principios de EUROCONTROL  9
+### 1.3.2 Safety I versus Safety II  13
+### 1.3.3 Work as Done versus Work as Imagined  14
+## 1.4 Reglamentación sobre fatiga, estrés y sustancias psicoactivas  15
+## 1.5 Normativa en relación a las competencias en materia de Factores Humanos para ATCOs ...... 18
+## 1.6 Integración transversal de los Factores Humanos en la organización  19
 - Factores organizacionales y sociales  22
-2.1 Trabajo en equipo y funciones del equipo 22
-2.2 Gestión de los recursos del equipo (TRM)  23
+## 2.1 Trabajo en equipo y funciones del equipo 22
+## 2.2 Gestión de los recursos del equipo (TRM)  23
 - Factores psicológicos  24
-3.1 Cognición: capacidades y limitaciones del ser humano  24
-3.2 Conciencia situacional  25
-3.3 Carga de trabajo mental  28
-3.4 Grado de complejidad y su impacto en el individuo y el sistema  29
+## 3.1 Cognición: capacidades y limitaciones del ser humano  24
+## 3.2 Conciencia situacional  25
+## 3.3 Carga de trabajo mental  28
+## 3.4 Grado de complejidad y su impacto en el individuo y el sistema  29
 - La comunicación humana  31
-4.1 El proceso humano de comunicación.  31
-4.2 Factores que afectan a la comunicación verbal  34
-4.3 La comunicación no verbal: importancia y factores que influyen.  37
+## 4.1 El proceso humano de comunicación.  31
+## 4.2 Factores que afectan a la comunicación verbal  34
+## 4.3 La comunicación no verbal: importancia y factores que influyen.  37
 - La fatiga  38
-5.1 Principios relativos al sueño  39
-5.2 Necesidad de dormir  39
-5.3 Pérdida y recuperación del sueño  41
-5.4 Procesos del sueño e influencia en las capacidades de la persona  42
-5.5 Carga de trabajo, fatiga y nivel de desempeño  43
-5.6 El Reglamento (UE) 2017/373 y las SARPS de OACI sobre la gestión de la fatiga  44
-5.7 Aptitud física  45
+## 5.1 Principios relativos al sueño  39
+## 5.2 Necesidad de dormir  39
+## 5.3 Pérdida y recuperación del sueño  41
+## 5.4 Procesos del sueño e influencia en las capacidades de la persona  42
+## 5.5 Carga de trabajo, fatiga y nivel de desempeño  43
+## 5.6 El Reglamento (UE) 2017/373 y las SARPS de OACI sobre la gestión de la fatiga  44
+## 5.7 Aptitud física  45
 
-julio/2023
 ## 3/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
 - Estrés  48
-6.1 Explicación del proceso del estrés de forma sencilla  48
-6.2 Relación de los síntomas del estrés en el individuo  50
-6.1.1 Fisiológicos  50
-6.1.2 Psicológicos  50
-6.1.3 Conductuales 50
-6.3 El estrés de los Controladores de tránsito aéreo 50
-6.4 Efectos del estrés en el desempeño mental y físico de las tareas propias del ámbito de control
-aéreo 54
-6.5 Gestión del estrés ante incidente crítico: Programa CISM  55
+## 6.1 Explicación del proceso del estrés de forma sencilla  48
+## 6.2 Relación de los síntomas del estrés en el individuo  50
+### 6.1.1 Fisiológicos  50
+### 6.1.2 Psicológicos  50
+### 6.1.3 Conductuales 50
+## 6.3 El estrés de los Controladores de tránsito aéreo 50
+## 6.4 Efectos del estrés en el desempeño mental y físico de las tareas propias del ámbito de control aéreo 54
+## 6.5 Gestión del estrés ante incidente crítico: Programa CISM  55
 - Error humano  58
-7.1 Modelo GEMS de Reason  58
-7.2 Modelo TEM (Threat and Error Management)  60
+## 7.1 Modelo GEMS de Reason  58
+## 7.2 Modelo TEM (Threat and Error Management)  60
 - BIBLIOGRAFÍA  63
 
-julio/2023
 ## 4/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
 - Introducción a los Factores Humanos
-1.1 Definición de Factores Humanos
-Los términos factores humanos (human factors), actuaciones humanas (human performance),
-y ergonomía suelen confundirse entre ellos, incluso hasta en textos de base normativa, lo cual
-es  algo  lógico  puesto  que  están  muy  vinculados.  OACI  distingue  entre factores  humanos  y
-actuaciones humanas de la siguiente manera en su Doc. 10151:
-o Actuaciones humanas (human performance): hace referencia a cómo las personas
-realizan sus actividades, y representan la contribución humana al funcionamiento del
-sistema
-o Los Factores humanos (human factors) se ocupan de la aplicación del conocimiento que
-tenemos sobre los seres humanos, sus capacidades, características y limitaciones, al
-diseño del equipamiento que utilizan, a los entornos en los que operan y las actividades
-que desempeñan.
-Se suelen emplear de forma indistinta, pero hay un importante matiz en esta diferenciación. Es
-más, fuera del ámbito de la aviación, los factores humanos y la ergonomía son términos que se
-intercambian, aunque se tienden a usar para dar más énfasis a aspectos concretos. Los factores
-humanos se asocian más a menudo con los aspectos psicológicos de los humanos mientras que
-la ergonomía se asocia más a los aspectos físicos o fisiológicos de las personas.
-El rendimiento o las actuaciones humanas no pueden disociarse de los factores humanos y la
-ergonomía.  Los  factores  humanos aportan  una  comprensión  de  las  actuaciones  humanas
-partiendo  de  muchas  disciplinas  científicas  diferentes,  como  la  psicología  (incluyendo  la
-psicología  cognitiva,  la  psicología  organizacional  y  del  trabajo, y  la  psicología  social),  la
-psicología  conductual,  la  sociología,  antropología,  ciencias  médicas  (incluyendo  medicina  de
-aviación y ocupacional), diseño e ingeniería, informática y estadística.
-El estudio de los Factores Humanos en un entorno ATM es esencial para entender mejor si el
-impacto del diseño de la tecnología, la selección del personal, la formación, los procedimientos,
-los   roles,   tareas   y   responsabilidades,   así   como   la   propia   gestión   organizacional,   está
-garantizando un rendimiento óptimo del sistema y una gestión de riesgos eficiente.
+## 1.1 Definición de Factores Humanos Los términos factores humanos (human factors), actuaciones humanas (human performance), y ergonomía suelen confundirse entre ellos, incluso hasta en textos de base normativa, lo cual es  algo  lógico  puesto  que  están  muy  vinculados.  OACI  distingue  entre factores  humanos  y actuaciones humanas de la siguiente manera en su Doc. 10151:
+o Actuaciones humanas (human performance): hace referencia a cómo las personas realizan sus actividades, y representan la contribución humana al funcionamiento del sistema o Los Factores humanos (human factors) se ocupan de la aplicación del conocimiento que tenemos sobre los seres humanos, sus capacidades, características y limitaciones, al diseño del equipamiento que utilizan, a los entornos en los que operan y las actividades que desempeñan.
+Se suelen emplear de forma indistinta, pero hay un importante matiz en esta diferenciación. Es más, fuera del ámbito de la aviación, los factores humanos y la ergonomía son términos que se intercambian, aunque se tienden a usar para dar más énfasis a aspectos concretos. Los factores humanos se asocian más a menudo con los aspectos psicológicos de los humanos mientras que la ergonomía se asocia más a los aspectos físicos o fisiológicos de las personas.
+El rendimiento o las actuaciones humanas no pueden disociarse de los factores humanos y la ergonomía.  Los  factores  humanos aportan  una  comprensión  de  las  actuaciones  humanas partiendo  de  muchas  disciplinas  científicas  diferentes,  como  la  psicología  (incluyendo  la psicología  cognitiva,  la  psicología  organizacional  y  del  trabajo, y  la  psicología  social),  la psicología  conductual,  la  sociología,  antropología,  ciencias  médicas  (incluyendo  medicina  de aviación y ocupacional), diseño e ingeniería, informática y estadística.
+El estudio de los Factores Humanos en un entorno ATM es esencial para entender mejor si el impacto del diseño de la tecnología, la selección del personal, la formación, los procedimientos, los   roles,   tareas   y   responsabilidades,   así   como   la   propia   gestión   organizacional,   está garantizando un rendimiento óptimo del sistema y una gestión de riesgos eficiente.
 
-julio/2023
 ## 5/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-1.2 Conceptos básicos sobre Factores Humanos
-1.2.1 Modelo de Reason
-James Reason supuso un antes y un después en la historia de la industria del transporte aéreo,
-al introducir a mediados de 1990 una visión sistémica de la gestión de la seguridad operacional.
-Reason  aporta  una  perspectiva  de  la  seguridad  operacional  vista  como  un  sistema  en  su
-totalidad, en que los accidentes son el resultado la acción humana en combinación con otras
-fallas del sistema. Precisamente, gracias a la contribución de Reason, hoy en día la industria del
-transporte  aéreo  estudia  el  sistema  como  fuente  de  información  para  entender  lo  que  ha
-podido salir mal, y que por tanto puede volver a ocurrir si no se corrige, más allá de poner el
-foco en el error individual exclusivamente.  Los profesionales operan en un entorno complejo,
-y es esencial entender como sus actividades interaccionan con el entorno.
-El  modelo  de  Reason  del  “Queso  suizo”  fue  clave  para  introducir  en  cualquier  industria  el
-concepto de accidente organizacional, que considera el impacto de la cultura y las políticas de
-la  organización  en  los  controles  de  riesgos de la seguridad  operacional.  Este  enfoque  implica
-abordar los factores organizativos además de los humanos y técnicos.
-El  modelo  del  queso  suizo  de  la  causalidad  de  accidentes  determina  que  cada  capa  de
-protección de un sistema (porción de queso), tiene debilidades (agujeros). Por tanto, el suceso
-ocurre  cuando  estos  agujeros  se  alinean.    Este  modelo  permite  comprender  cómo  todos  los
-factores de una organización pueden crear condiciones latentes que determinen una falla de
-las  defensas  del  sistema,  al  mismo  tiempo  que  los  mismos  factores  pueden  contribuir  a  la
-solidez de dichas defensas.
+## 1.2 Conceptos básicos sobre Factores Humanos
+### 1.2.1 Modelo de Reason James Reason supuso un antes y un después en la historia de la industria del transporte aéreo, al introducir a mediados de 1990 una visión sistémica de la gestión de la seguridad operacional.
+Reason  aporta  una  perspectiva  de  la  seguridad  operacional  vista  como  un  sistema  en  su totalidad, en que los accidentes son el resultado la acción humana en combinación con otras fallas del sistema. Precisamente, gracias a la contribución de Reason, hoy en día la industria del transporte  aéreo  estudia  el  sistema  como  fuente  de  información  para  entender  lo  que  ha podido salir mal, y que por tanto puede volver a ocurrir si no se corrige, más allá de poner el foco en el error individual exclusivamente.  Los profesionales operan en un entorno complejo, y es esencial entender como sus actividades interaccionan con el entorno.
+El  modelo  de  Reason  del  “Queso  suizo”  fue  clave  para  introducir  en  cualquier  industria  el concepto de accidente organizacional, que considera el impacto de la cultura y las políticas de la  organización  en  los  controles  de  riesgos de la seguridad  operacional.  Este  enfoque  implica abordar los factores organizativos además de los humanos y técnicos.
+El  modelo  del  queso  suizo  de  la  causalidad  de  accidentes  determina  que  cada  capa  de protección de un sistema (porción de queso), tiene debilidades (agujeros). Por tanto, el suceso ocurre  cuando  estos  agujeros  se  alinean.    Este  modelo  permite  comprender  cómo  todos  los factores de una organización pueden crear condiciones latentes que determinen una falla de las  defensas  del  sistema,  al  mismo  tiempo  que  los  mismos  factores  pueden  contribuir  a  la solidez de dichas defensas.
 
-julio/2023
 ## 6/65
-
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
 
 ## FIGURA 1  ESQUEMA DEL MODELO DE REASON
 
-No obstante, la mayor y menos conocida aportación a la seguridad y los factores humanos de
-Reason  supuso  toda  la  labor  investigadora  que realizó  en  el  ámbito  de  los  errores  humanos.
-Permitió proponer un modelo de clasificación (modelo GEMS General Error Modelling System)
-que se emplea hasta hoy, que además aportó una visión alejada de los juicios de valor acerca
-de  los  errores,  centrada  en  los  procesos  cognitivos  y  los  contextos  que  intervienen  en hacer
-emerger un determinado tipo de error.
-Por  último,  Reason  también  ha  trabajado  en  el  ámbito  de  las  actuaciones  sobresalientes,
-permitiendo entender mejor qué es lo que hace que los sistemas funcionen adecuadamente y
-qué permite a las personas en ocasiones tener actuaciones que salvan situaciones críticas.
-1.2.2 Modelo de Rasmussen
-El modelo de Rasmussen explica la conducta humana mediante tres modos de rendimiento o
-funcionamiento, dependiendo del grado de control de la situación, generando así tres tipos de
-conductas, y, por tanto, tres tipos de errores basados en estas conductas.
-➢ Conducta  basada  en  habilidades  (skill-based):  en  la  que  no  se  realizan  las  acciones  de
-forma consciente, sino que intervienen los procesos automatizados de control cognitivo.
-Se trabaja en esta zona cuando la tarea es muy conocida y rutinaria y no es preciso pensar
-en  lo  que  se  está  haciendo  (por  ejemplo,  conducir  un  coche  con  experiencia  como
-conductor).
+No obstante, la mayor y menos conocida aportación a la seguridad y los factores humanos de Reason  supuso  toda  la  labor  investigadora  que realizó  en  el  ámbito  de  los  errores  humanos.
+Permitió proponer un modelo de clasificación (modelo GEMS General Error Modelling System) que se emplea hasta hoy, que además aportó una visión alejada de los juicios de valor acerca de  los  errores,  centrada  en  los  procesos  cognitivos  y  los  contextos  que  intervienen  en hacer emerger un determinado tipo de error.
+Por  último,  Reason  también  ha  trabajado  en  el  ámbito  de  las  actuaciones  sobresalientes, permitiendo entender mejor qué es lo que hace que los sistemas funcionen adecuadamente y qué permite a las personas en ocasiones tener actuaciones que salvan situaciones críticas.
+### 1.2.2 Modelo de Rasmussen El modelo de Rasmussen explica la conducta humana mediante tres modos de rendimiento o funcionamiento, dependiendo del grado de control de la situación, generando así tres tipos de conductas, y, por tanto, tres tipos de errores basados en estas conductas.
+➢ Conducta  basada  en  habilidades  (skill-based):  en  la  que  no  se  realizan  las  acciones  de forma consciente, sino que intervienen los procesos automatizados de control cognitivo.
+Se trabaja en esta zona cuando la tarea es muy conocida y rutinaria y no es preciso pensar en  lo  que  se  está  haciendo  (por  ejemplo,  conducir  un  coche  con  experiencia  como conductor).
 
-julio/2023
 ## 7/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-➢ Conducta basada en reglas (rule-based): donde ya intervienen los procesos conscientes de
-toma  de  decisiones  para  la  selección  de  reglas  a  aplicar  en  una  situación,  y  su  forma  de
-ejecución. Se asocia a situaciones conocidas, pero no frecuentes (por ejemplo, aplicar los
-procedimientos  operativos de  forma  rutinaria  al  ejercer  como  controlador  aéreo  en
-frecuencia)
-➢ Conducta basada en conocimiento (knowledge-based): se opera aquí cuando no tenemos
-reglas  ni  secuencias  de  acciones  almacenadas,  y  tenemos  que  hacer  un  gran  esfuerzo
-consciente de análisis de situación y de elección entre alternativas, para trazar un plan de
-acción. Se opera aquí en situaciones de aprendizaje de habilidades nuevas (por ejemplo, la
-toma  de  decisión  con  respecto  a  una  emergencia  o  situación  inusual  en  la  frecuencia,
-donde activamos nuestro conocimiento para aplicarlo de forma novedosa)
+➢ Conducta basada en reglas (rule-based): donde ya intervienen los procesos conscientes de toma  de  decisiones  para  la  selección  de  reglas  a  aplicar  en  una  situación,  y  su  forma  de ejecución. Se asocia a situaciones conocidas, pero no frecuentes (por ejemplo, aplicar los procedimientos  operativos de  forma  rutinaria  al  ejercer  como  controlador  aéreo  en frecuencia) ➢ Conducta basada en conocimiento (knowledge-based): se opera aquí cuando no tenemos reglas  ni  secuencias  de  acciones  almacenadas,  y  tenemos  que  hacer  un  gran  esfuerzo consciente de análisis de situación y de elección entre alternativas, para trazar un plan de acción. Se opera aquí en situaciones de aprendizaje de habilidades nuevas (por ejemplo, la toma  de  decisión  con  respecto  a  una  emergencia  o  situación  inusual  en  la  frecuencia, donde activamos nuestro conocimiento para aplicarlo de forma novedosa)
 
-1.2.3 Modelo SHELL-O
-El  modelo  SHELL  (Edwards  1972,  Hawkins  1993)  fue  propuesto  formalmente  como  modelo
-conceptual  de   Factores   Humanos   por   OACI   en   su   Circular   216-AN31,   para   evaluar   las
-interacciones complejas entre el componente humano de un sistema y su entorno operacional,
-ya  que  facilita  la  comprensión  de  los  Factores  Humanos.    Una  versión  actualizada  de  este
-modelo incluye también los factores relativos a la organización como parte del sistema (SHELL-
-O).  También permite identificar los precursores y diferentes contextos en los que ocurren los
-errores.
+### 1.2.3 Modelo SHELL-O El  modelo  SHELL  (Edwards  1972,  Hawkins  1993)  fue  propuesto  formalmente  como  modelo conceptual  de   Factores   Humanos   por   OACI   en   su   Circular   216-AN31,   para   evaluar   las interacciones complejas entre el componente humano de un sistema y su entorno operacional, ya  que  facilita  la  comprensión  de  los  Factores  Humanos.    Una  versión  actualizada  de  este modelo incluye también los factores relativos a la organización como parte del sistema (SHELLO).  También permite identificar los precursores y diferentes contextos en los que ocurren los errores.
 
-S = Software – Soporte lógico (procedimientos)
-H = Hardware – Soporte físico (sistemas técnicos)
+S = Software – Soporte lógico (procedimientos) H = Hardware – Soporte físico (sistemas técnicos)
 ## E = Environment – Entorno
 ## L = Liveware – Elemento Humano
 ## O= Organization – Organización
 
-En  el  centro  del  modelo  SHELL-O  se  encuentra  el  ser  humano  (L), que  puede  ser  aplicado  a
-cualquier operador de primera línea (controlador aéreo, ATSEP, piloto), el componente central
-y más flexible del sistema, al cual deben ajustarse el resto de componentes si se quiere evitar
-la  afectación  del  sistema. Algunos  factores  que  afectan  al  desempeño  humano  son  físicos  y
-fisiológicos (visión, audición, luz, ruido, estrés, ritmos circadianos, etc.) y otros son psicológicos
+En  el  centro  del  modelo  SHELL-O  se  encuentra  el  ser  humano  (L), que  puede  ser  aplicado  a cualquier operador de primera línea (controlador aéreo, ATSEP, piloto), el componente central y más flexible del sistema, al cual deben ajustarse el resto de componentes si se quiere evitar la  afectación  del  sistema. Algunos  factores  que  afectan  al  desempeño  humano  son  físicos  y fisiológicos (visión, audición, luz, ruido, estrés, ritmos circadianos, etc.) y otros son psicológicos
 ## FIGURA 2  ESQUEMA DEL MODELO SHELL-O
 
-julio/2023
 ## 8/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-(conocimiento  y  experiencia,  idoneidad  de  la  formación,  motivación,  confianza,  toma  de
-decisiones,  fatiga,  carga  de  trabajo,  trabajo  en  equipo,  etc.)    Por  último,  es  muy  importante
-destacar el impacto de los factores psicosociales en el individuo, ya que incluyen los factores
-externos del sistema social de la persona, tanto en su entorno laboral como fuera del mismo,
-que suponen presiones adicionales. Tal y como refleja OACI (2002), estos factores pueden influir
-en  el  enfoque  personal  de  la  situación  laboral  como  en  la  capacidad  de  manejar  el  estrés  y
-situaciones anómalas.
-o Relación elemento humano y software (L-S). Representa la relación entre el controlador
-aéreo y todos los sistemas de apoyo a su disposición en el entorno de trabajo como los
-reglamentos, manuales, listas de verificación y procedimientos operacionales
-normalizados.
-o Relación elemento humano y soporte físico (L-H).  Representa la interfaz entre el ser
-humano y "la máquina", y si el diseño del equipo se ajusta a las características del
-individuo (consolas, pantallas, alarmas, ergonomía, etc.).
-o Relación elemento humano y entorno (L-E). Comprende la relación entre el individuo y el
-entorno de trabajo tanto interno (temperatura, ruido, ambiente empresarial) como
-externo (por ejemplo, condiciones meteorológicas).
-o Relación elemento humano-elemento humano (L-L). Representa la relación entre el
-individuo y el resto de personas en su lugar de trabajo.  Incluye el liderazgo, la
-cooperación, el trabajo en equipo (TRM), las relaciones entre el personal operativo y de
-gestión, así como la cultura empresarial.
-o La relación de los elementos y la organización (O). En el análisis de las interacciones entre
-los diversos elementos del modelo, ha de tenerse en cuenta que los factores derivados de
-la  propia  organización  tienen  un  mayor  peso  específico  en  el  sistema.  En  particular,  se
-ocupa  de  las  políticas  organizacionales  que  determinan la  forma  en  que  se  gestionan
-procedimientos  y  sus  cambios,  sistemas  técnicos,  y  de  las  políticas  de  gestión  de  las
-personas en la organización.
+(conocimiento  y  experiencia,  idoneidad  de  la  formación,  motivación,  confianza,  toma  de decisiones,  fatiga,  carga  de  trabajo,  trabajo  en  equipo,  etc.)    Por  último,  es  muy  importante destacar el impacto de los factores psicosociales en el individuo, ya que incluyen los factores externos del sistema social de la persona, tanto en su entorno laboral como fuera del mismo, que suponen presiones adicionales. Tal y como refleja OACI (2002), estos factores pueden influir en  el  enfoque  personal  de  la  situación  laboral  como  en  la  capacidad  de  manejar  el  estrés  y situaciones anómalas.
+o Relación elemento humano y software (L-S). Representa la relación entre el controlador aéreo y todos los sistemas de apoyo a su disposición en el entorno de trabajo como los reglamentos, manuales, listas de verificación y procedimientos operacionales normalizados.
+o Relación elemento humano y soporte físico (L-H).  Representa la interfaz entre el ser humano y "la máquina", y si el diseño del equipo se ajusta a las características del individuo (consolas, pantallas, alarmas, ergonomía, etc.).
+o Relación elemento humano y entorno (L-E). Comprende la relación entre el individuo y el entorno de trabajo tanto interno (temperatura, ruido, ambiente empresarial) como externo (por ejemplo, condiciones meteorológicas).
+o Relación elemento humano-elemento humano (L-L). Representa la relación entre el individuo y el resto de personas en su lugar de trabajo.  Incluye el liderazgo, la cooperación, el trabajo en equipo (TRM), las relaciones entre el personal operativo y de gestión, así como la cultura empresarial.
+o La relación de los elementos y la organización (O). En el análisis de las interacciones entre los diversos elementos del modelo, ha de tenerse en cuenta que los factores derivados de la  propia  organización  tienen  un  mayor  peso  específico  en  el  sistema.  En  particular,  se ocupa  de  las  políticas  organizacionales  que  determinan la  forma  en  que  se  gestionan procedimientos  y  sus  cambios,  sistemas  técnicos,  y  de  las  políticas  de  gestión  de  las personas en la organización.
 
-julio/2023
 ## 9/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-1.3 Visión sistémica de la Seguridad Operacional
+## 1.3 Visión sistémica de la Seguridad Operacional
 
-1.3.1 Systems Thinking for Safety: los 10 principios de EUROCONTROL
-La  aviación  es  un  sistema complejo socio-técnico de  transporte,  por  ser  un  sistema  de  gran
-envergadura  y  alta  tecnología,  que  requiere  interacciones  complejas  entre  sus  componentes
-humanos  y  tecnológicos.  Estos  sistemas,  logran  sus  objetivos unificando tecnología  avanzada
-con  personas,  y  como  consecuencia  de  esta  interdependencia,  con  el  tiempo  se  pueden  dar
-cambios complejos y a menudo pasados por alto, que inciden en el buen funcionamiento de las
-operaciones. El  concepto  de  complejidad  viene asociado  a un  grado  de incertidumbre  en  sus
-interacciones internas, que hacen que el comportamiento no sea lineal, y que, en cierto grado,
-es impredecible. Por otra parte, esta complejidad también confiere una elevada capacidad de
-adaptación a muchos contextos y situaciones.
-El ser humano es el componente más flexible, adaptable y valioso del sistema aeronáutico, pero
-también el más vulnerable. Por tanto, la expresión "error humano" no ayuda en la gestión del
-riesgo, sino que debería ser el punto de partida para indicar dónde se produce un colapso del
-sistema. Los informes de investigaciones de accidentes han demostrado, reiteradamente, que
-muy  rara  vez  un  error  de  un  individuo  que  opere  aisladamente,  precipita  un  accidente.
-Normalmente,  varios factores  causales  y  contribuyentes  convergen  en el  tiempo  y  el  espacio
-para crear una situación que resulta particularmente vulnerable. La mayoría de estos factores
-causales  están relacionados  con  la  falta  de  consideraciones  de  Factores  Humanos  durante  el
-diseño y la implantación operacional del sistema.
+### 1.3.1 Systems Thinking for Safety: los 10 principios de EUROCONTROL La  aviación  es  un  sistema complejo socio-técnico de  transporte,  por  ser  un  sistema  de  gran envergadura  y  alta  tecnología,  que  requiere  interacciones  complejas  entre  sus  componentes humanos  y  tecnológicos.  Estos  sistemas,  logran  sus  objetivos unificando tecnología  avanzada con  personas,  y  como  consecuencia  de  esta  interdependencia,  con  el  tiempo  se  pueden  dar cambios complejos y a menudo pasados por alto, que inciden en el buen funcionamiento de las operaciones. El  concepto  de  complejidad  viene asociado  a un  grado  de incertidumbre  en  sus interacciones internas, que hacen que el comportamiento no sea lineal, y que, en cierto grado, es impredecible. Por otra parte, esta complejidad también confiere una elevada capacidad de adaptación a muchos contextos y situaciones.
+El ser humano es el componente más flexible, adaptable y valioso del sistema aeronáutico, pero también el más vulnerable. Por tanto, la expresión "error humano" no ayuda en la gestión del riesgo, sino que debería ser el punto de partida para indicar dónde se produce un colapso del sistema. Los informes de investigaciones de accidentes han demostrado, reiteradamente, que muy  rara  vez  un  error  de  un  individuo  que  opere  aisladamente,  precipita  un  accidente.
+Normalmente,  varios factores  causales  y  contribuyentes  convergen  en el  tiempo  y  el  espacio para crear una situación que resulta particularmente vulnerable. La mayoría de estos factores causales  están relacionados  con  la  falta  de  consideraciones  de  Factores  Humanos  durante  el diseño y la implantación operacional del sistema.
 ## FACTORES ORGANIZACIONALES
 - La adecuación de los recursos humanos
 - La selección del personal adecuado
@@ -269,656 +123,203 @@ diseño y la implantación operacional del sistema.
 - La gestión de riesgos
 - La cultura de la organización y la comunicación
 
-julio/2023
 ## 10/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-Por otra parte, el concepto de error humano se ha ido heredando de las concepciones jurídicas
-de las actuaciones humanas y de la búsqueda de la responsabilidad individual. Gran parte de
-las metodologías de investigación actuales han heredado sus procesos de los procedimientos
-de investigación criminal que aparecen a principios del siglo XX. Conceptos como transgresión,
-negligencia, error, están vinculados a la búsqueda de un responsable, algo que sucede en un
-marco  jurídico. El  error  en  las  concepciones  modernas  y  los  enfoques  contemporáneos  de
-seguridad está relacionado con una actuación humana que no consigue sus objetivos, y a la que
-se  despoja  de todo  juicio  de  valor.  Por  ello  los  trabajos  de  Reason  y  Rasmussen  fueron  tan
-importantes  para  aportar  una  visión  científica  sobre  actuaciones que fallan.  Por  otro  lado,  el
-concepto  de  error  humano  es  muy  resbaladizo, y  no  deja  de  ser  un  constructo  social.  Una
-instrucción de  control  errónea,  pero  que  se  corrige  a  tiempo  y  no provoca un  incidente,  rara
-vez es considerada como un error humano. Y no se diferencia en cuanto a la actuación en sí de
-una instrucción errónea que sí termina en incidente. Es decir, en parte, la clasificación de una
-actuación humana como un error depende de las consecuencias más que de la actuación, y ello
-no permite centrarse en los factores que hacen emerger la actuación. Las visiones actuales del
-error humano tratan de evolucionar, y hablan de actuaciones en general, analizando de forma
-separada los procesos cognitivos y de interacción que hacen emerger un error, y por otro lado,
-cómo esa actuación genera interacciones en el sistema que pueden terminar en un suceso de
-seguridad.
-La  visión  contemporánea  de  la  seguridad  operacional  plantea  una  perspectiva  más  amplia,
-poniendo el foco en las deficiencias de seguridad en todo el sistema, en vez de limitar el análisis
-a la actuación individual. Esta filosofía de la seguridad refleja que cada accidente o incidente,
-aunque  sea  menor,  debe  considerarse  como un fallo  del  sistema,  y no  simplemente  como  el
-fallo de una persona o grupo de personas, porque el rendimiento humano no opera en el vacío.
-Este  enfoque  sistémico  en  la  investigación  de sucesos,  fue  adoptado  formalmente  por  OACI
-(1994) en su anexo 13.
-Por consiguiente, en un contexto ATM, las actividades de prevención y gestión de riesgos deben
-contemplar que los principales problemas no corresponden exclusivamente al Factor Humano,
-sino  que  surgen  de  interacciones  mal  comprendidas  dentro  de  la  propia  organización.  El
-personal  operacional  no  actúa  aisladamente,  sino  en  el  marco  de  una  organización,  con  una
-jerarquía de autoridad, con el fin de realizar sus tareas con éxito.
-La  seguridad  operacional  se  debe  considerar  desde  un  punto de  vista  sistémico, teniendo  en
-cuenta   el   contexto   del   sistema   visto   como   un   todo,   y   no   de   forma   fragmentada
-descontextualizando a los individuos, los eventos y resultados dentro de ese sistema.
+Por otra parte, el concepto de error humano se ha ido heredando de las concepciones jurídicas de las actuaciones humanas y de la búsqueda de la responsabilidad individual. Gran parte de las metodologías de investigación actuales han heredado sus procesos de los procedimientos de investigación criminal que aparecen a principios del siglo XX. Conceptos como transgresión, negligencia, error, están vinculados a la búsqueda de un responsable, algo que sucede en un marco  jurídico. El  error  en  las  concepciones  modernas  y  los  enfoques  contemporáneos  de seguridad está relacionado con una actuación humana que no consigue sus objetivos, y a la que se  despoja  de todo  juicio  de  valor.  Por  ello  los  trabajos  de  Reason  y  Rasmussen  fueron  tan importantes  para  aportar  una  visión  científica  sobre  actuaciones que fallan.  Por  otro  lado,  el concepto  de  error  humano  es  muy  resbaladizo, y  no  deja  de  ser  un  constructo  social.  Una instrucción de  control  errónea,  pero  que  se  corrige  a  tiempo  y  no provoca un  incidente,  rara vez es considerada como un error humano. Y no se diferencia en cuanto a la actuación en sí de una instrucción errónea que sí termina en incidente. Es decir, en parte, la clasificación de una actuación humana como un error depende de las consecuencias más que de la actuación, y ello no permite centrarse en los factores que hacen emerger la actuación. Las visiones actuales del error humano tratan de evolucionar, y hablan de actuaciones en general, analizando de forma separada los procesos cognitivos y de interacción que hacen emerger un error, y por otro lado, cómo esa actuación genera interacciones en el sistema que pueden terminar en un suceso de seguridad.
+La  visión  contemporánea  de  la  seguridad  operacional  plantea  una  perspectiva  más  amplia, poniendo el foco en las deficiencias de seguridad en todo el sistema, en vez de limitar el análisis a la actuación individual. Esta filosofía de la seguridad refleja que cada accidente o incidente, aunque  sea  menor,  debe  considerarse  como un fallo  del  sistema,  y no  simplemente  como  el fallo de una persona o grupo de personas, porque el rendimiento humano no opera en el vacío.
+Este  enfoque  sistémico  en  la  investigación  de sucesos,  fue  adoptado  formalmente  por  OACI (1994) en su anexo 13.
+Por consiguiente, en un contexto ATM, las actividades de prevención y gestión de riesgos deben contemplar que los principales problemas no corresponden exclusivamente al Factor Humano, sino  que  surgen  de  interacciones  mal  comprendidas  dentro  de  la  propia  organización.  El personal  operacional  no  actúa  aisladamente,  sino  en  el  marco  de  una  organización,  con  una jerarquía de autoridad, con el fin de realizar sus tareas con éxito.
+La  seguridad  operacional  se  debe  considerar  desde  un  punto de  vista  sistémico, teniendo  en cuenta   el   contexto   del   sistema   visto   como   un   todo,   y   no   de   forma   fragmentada descontextualizando a los individuos, los eventos y resultados dentro de ese sistema.
 
-julio/2023
 ## 11/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-EUROCONTROL (2014) propone una visión sistémica de la Seguridad Operacional basándose en
-10 principios básicos, representados en la siguiente figura, manteniendo su definición original
-en inglés:
+EUROCONTROL (2014) propone una visión sistémica de la Seguridad Operacional basándose en 10 principios básicos, representados en la siguiente figura, manteniendo su definición original en inglés:
 
 ## FIGURA 3 - PRINCIPIOS SISTÉMICOS DEFINIDOS POR  EUROCONTROL
 
-A continuación, se describen brevemente estos 10 principios sistémicos tal y como los define
-EUROCONTROL en su texto original:
-➢ Principio  1.  Implicación  de  los  expertos  en  la  materia. Para  diseñar  un  sistema  es
-necesario  entender  sus  operaciones.  Además,  para  mejorar  cualquier  sistema,  lo
-especialistas  son  decisivos  al  entender  la  propia  naturaleza  de  las  operaciones  y  el
-contexto en el que se producen. Por tanto, entender el cómo se opera realmente (Work-
-as-Done) requiere la implicación de quienes realizan el trabajo.
-➢ Principio  2.  Racionalidad  local.   La  aportación  de  cada  experto ha  de  ser  entendida  y
-analizada desde  su  propia  perspectiva,  ya  que  cada  persona  actúa  en  función  de  sus
-propios objetivos, limitaciones y contexto.
-➢ Principio 3. Cultura justa. Las organizaciones e individuos han de asumir una mentalidad
-abierta, justa y de confianza aceptando que los profesionales actúan de la mejor forma
-posible con el fin de obtener un buen resultado. Por tanto, hay que empatizar, entender
-las acciones según su contexto y adoptar un lenguaje que evite juicios de valor.
+A continuación, se describen brevemente estos 10 principios sistémicos tal y como los define EUROCONTROL en su texto original:
+➢ Principio  1.  Implicación  de  los  expertos  en  la  materia. Para  diseñar  un  sistema  es necesario  entender  sus  operaciones.  Además,  para  mejorar  cualquier  sistema,  lo especialistas  son  decisivos  al  entender  la  propia  naturaleza  de  las  operaciones  y  el contexto en el que se producen. Por tanto, entender el cómo se opera realmente (Workas-Done) requiere la implicación de quienes realizan el trabajo.
+➢ Principio  2.  Racionalidad  local.   La  aportación  de  cada  experto ha  de  ser  entendida  y analizada desde  su  propia  perspectiva,  ya  que  cada  persona  actúa  en  función  de  sus propios objetivos, limitaciones y contexto.
+➢ Principio 3. Cultura justa. Las organizaciones e individuos han de asumir una mentalidad abierta, justa y de confianza aceptando que los profesionales actúan de la mejor forma posible con el fin de obtener un buen resultado. Por tanto, hay que empatizar, entender las acciones según su contexto y adoptar un lenguaje que evite juicios de valor.
 
-julio/2023
 ## 12/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-➢ Principio 4. Demanda y presión. Es crucial entender la demanda para comprender el
-desarrollo  de  las  operaciones,  ya  que  el  binomio  demanda-presión  en  relación  con
-eficiencia y capacidad afectan de una forma directa y fundamental en el desempeño.
+➢ Principio 4. Demanda y presión. Es crucial entender la demanda para comprender el desarrollo  de  las  operaciones,  ya  que  el  binomio  demanda-presión  en  relación  con eficiencia y capacidad afectan de una forma directa y fundamental en el desempeño.
 
-➢ Principio 5. Recursos y limitaciones. El éxito depende de mantener el equilibrio entre
-los   recursos   adecuados   en   relación   con   unas determinadas   limitaciones.   Es
-fundamental   considerar   la   idoneidad   de   efectivos   humanos,   la   información,
-competencia,  equipos,  procedimientos  y  otros  recursos,  en  relación  con  las  reglas  y
-otras limitaciones del sistema.
-➢ Principio  6.  Interacciones  y  flujos.  El  desarrollo  de  las  operaciones  depende  de
-actividades interrelacionadas que interactúan entre sí. La perspectiva sistémica implica
-gestionar  los  flujos  de  actividades  “end-to-end”,  diseñando  los  procesos  según  su
-objetivo,  pero  fundamentalmente  entendiendo  las  interacciones  que  conforman
-dichos flujos en el resultado final.
-➢ Principio 7. Contrapartidas. Para hacer frente a los conflictos, a la complejidad y a la
-incertidumbre  relativa  a  las  interacciones  entre  actividades,  es  necesario  que  los
-profesionales    asuman    contrapartidas    para    resolver    conflictos    con    objetivos
-contrapuestos.   Es   importante   considerar   como   los   profesionales   realizan   estas
-contrapartidas  desde  su  punto  de  vista,  para  intentar  entender  cómo  compensan
-eficiencia y precisión bajo las circunstancias en las que opera ese sistema.
-➢ Principio 8. Variabilidad del rendimiento. La mejora continua es crucial para afrontar
-la variabilidad de las condiciones del sistema. Entender la naturaleza de las fuentes de
-variabilidad  e  identificar  la  variabilidad  que  es  deseada  y  no  deseada,  permite
-comprender  y  mejorar  el  desempeño  y  la  propia  tolerancia  a  la  variabilidad  del
-sistema.
-➢ Principio   9.   Emergencia   del   sistema.   En   sistemas   socio-técnicos   complejos   el
-comportamiento   del   sistema   es   a   menudo   emergente   y   no   se   puede   reducir
-exclusivamente  al  comportamiento  de  cada  uno  de  sus  componentes.  Una  pequeña
-acción  puede  tener  grandes  efectos  y  a  menudo  surgen  resultados  no  esperados  o
-difíciles de deducir que hay que tener en cuenta desde un enfoque proactivo.
-➢ Principio 10. Equivalencia. El éxito y el fracaso se originan en los mismos procesos, y
-el  resultado  de  los  mismos  no  está  ligado  necesariamente  a  las  acciones  que
-desencadenan dicho resultado.  Para evaluar el comportamiento de un sistema difícil
-de entender es fundamental focalizar la investigación no solo en las fallas del sistema,
-sino también en entender la variabilidad del propio sistema en el día a día, y cómo el
-sistema se anticipa, reconoce y responde a los eventos.
+➢ Principio 5. Recursos y limitaciones. El éxito depende de mantener el equilibrio entre los   recursos   adecuados   en   relación   con   unas determinadas   limitaciones.   Es fundamental   considerar   la   idoneidad   de   efectivos   humanos,   la   información, competencia,  equipos,  procedimientos  y  otros  recursos,  en  relación  con  las  reglas  y otras limitaciones del sistema.
+➢ Principio  6.  Interacciones  y  flujos.  El  desarrollo  de  las  operaciones  depende  de actividades interrelacionadas que interactúan entre sí. La perspectiva sistémica implica gestionar  los  flujos  de  actividades  “end-to-end”,  diseñando  los  procesos  según  su objetivo,  pero  fundamentalmente  entendiendo  las  interacciones  que  conforman dichos flujos en el resultado final.
+➢ Principio 7. Contrapartidas. Para hacer frente a los conflictos, a la complejidad y a la incertidumbre  relativa  a  las  interacciones  entre  actividades,  es  necesario  que  los profesionales    asuman    contrapartidas    para    resolver    conflictos    con    objetivos contrapuestos.   Es   importante   considerar   como   los   profesionales   realizan   estas contrapartidas  desde  su  punto  de  vista,  para  intentar  entender  cómo  compensan eficiencia y precisión bajo las circunstancias en las que opera ese sistema.
+➢ Principio 8. Variabilidad del rendimiento. La mejora continua es crucial para afrontar la variabilidad de las condiciones del sistema. Entender la naturaleza de las fuentes de variabilidad  e  identificar  la  variabilidad  que  es  deseada  y  no  deseada,  permite comprender  y  mejorar  el  desempeño  y  la  propia  tolerancia  a  la  variabilidad  del sistema.
+➢ Principio   9.   Emergencia   del   sistema.   En   sistemas   socio-técnicos   complejos   el comportamiento   del   sistema   es   a   menudo   emergente   y   no   se   puede   reducir exclusivamente  al  comportamiento  de  cada  uno  de  sus  componentes.  Una  pequeña acción  puede  tener  grandes  efectos  y  a  menudo  surgen  resultados  no  esperados  o difíciles de deducir que hay que tener en cuenta desde un enfoque proactivo.
+➢ Principio 10. Equivalencia. El éxito y el fracaso se originan en los mismos procesos, y el  resultado  de  los  mismos  no  está  ligado  necesariamente  a  las  acciones  que desencadenan dicho resultado.  Para evaluar el comportamiento de un sistema difícil de entender es fundamental focalizar la investigación no solo en las fallas del sistema, sino también en entender la variabilidad del propio sistema en el día a día, y cómo el sistema se anticipa, reconoce y responde a los eventos.
 
-julio/2023
 ## 13/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-1.3.2 Safety I versus Safety II
-La visión de la seguridad aérea basada en la existencia o ausencia de accidentes o incidentes se
-denomina Safety-I (EUROCONTROL 2013) y se desarrolló principalmente entre los años 60 y 80,
-cuando  la  demanda  de  tráfico  no  era  tan  elevada  y  los  sistemas  eran mucho  más  simples  e
-independientes.  Tradicionalmente,  situaciones  inseguras  se  han  venido  atribuyendo  a  la
-variabilidad y poca fiabilidad del desempeño del individuo, en lugar de centrarse en investigar
-cómo  los  sistemas  fallan  (Woods  y  Cook  1999).  Rasmussen  (1985,  1986)  expuso  que  el  error
-humano es el resultado del desequilibrio entre las exigencias propias del trabajo y los recursos
-mentales disponibles para realizarlas, concluyendo que las raíces del éxito o del fracaso son las
-mismas. Es decir, una misma decisión y actuación puede desembocar en situación con resultado
-muy diverso dependiendo del contexto.
-Simon (1957) describe este fenómeno como “bounded rationality”, es decir, los profesionales
-operativos  están  restringidos  en  su  toma  de  decisiones  por  una  información  limitada  en  ese
-momento,  por  una  capacidad  limitada  de  la  propia  mente  humana,  y  por  la  limitación  del
-tiempo.  Consecuentemente,  los  controladores  de  tránsito  aéreo  frecuentemente  tienen  que
-afrontar  continuas  contrapartidas  o  “trade-offs”  en  sus  decisiones  (Hollnagel  2009),  ante
-objetivos  potencialmente  conflictivos  como  puede  ser  elegir  entre  ser  más  seguro  o  más
-eficiente.
-A este respecto, EUROCONTROL refleja la importancia de mantener un diálogo constante para
-obtener  la  perspectiva  del  personal  implicado  en  cada  operación.    Es  lo  que  EUROCONTROL
-define como principio de “Local Rationality”.
-Con el fin de entender “el fracaso” o el “colapso”, es esencial entender cómo los profesionales
-resuelven con éxito las exigencias, dificultades, presiones y dilemas de su entorno. La realidad
-muestra que en el día a día, el desempeño humano prácticamente siempre se desarrolla con
-normalidad, y la razón principal es por la propia capacidad de adaptación de los profesionales
-a los condicionantes del trabajo que realizan.
-De  acuerdo  con  una  visión  más  contemporánea  de  la  gestión  de  los  sistemas  de  seguridad
-aérea,  denominada  Safety-II,  es  precisamente la  habilidad  de  las  personas,  para  ajustar  su
-rendimiento  a  las  condiciones  del  entorno,  lo  que  explica  por  qué  los  sistemas  funcionan
-realmente (EUROCONTROL 2013, Hollnagel 2014).  Por tanto, reconocer e investigar en como
-el individuo afronta esas continuas adaptaciones diarias es una forma de comprender como se
-desarrolla la competencia profesional.  Los profesionales operativos son una fuente necesaria
-para la flexibilidad y la resiliencia del sistema, y están continuamente "creando seguridad".  El
-objetivo de esta visión se centra en investigar "como las cosas normalmente van bien" como
-base  para  explicar  que  ocasionalmente  "pueden  ir mal".    A continuación, se  enumeran  las
-principales diferencias entre ambos enfoques.
+### 1.3.2 Safety I versus Safety II La visión de la seguridad aérea basada en la existencia o ausencia de accidentes o incidentes se denomina Safety-I (EUROCONTROL 2013) y se desarrolló principalmente entre los años 60 y 80, cuando  la  demanda  de  tráfico  no  era  tan  elevada  y  los  sistemas  eran mucho  más  simples  e independientes.  Tradicionalmente,  situaciones  inseguras  se  han  venido  atribuyendo  a  la variabilidad y poca fiabilidad del desempeño del individuo, en lugar de centrarse en investigar cómo  los  sistemas  fallan  (Woods  y  Cook  1999).  Rasmussen  (1985,  1986)  expuso  que  el  error humano es el resultado del desequilibrio entre las exigencias propias del trabajo y los recursos mentales disponibles para realizarlas, concluyendo que las raíces del éxito o del fracaso son las mismas. Es decir, una misma decisión y actuación puede desembocar en situación con resultado muy diverso dependiendo del contexto.
+Simon (1957) describe este fenómeno como “bounded rationality”, es decir, los profesionales operativos  están  restringidos  en  su  toma  de  decisiones  por  una  información  limitada  en  ese momento,  por  una  capacidad  limitada  de  la  propia  mente  humana,  y  por  la  limitación  del tiempo.  Consecuentemente,  los  controladores  de  tránsito  aéreo  frecuentemente  tienen  que afrontar  continuas  contrapartidas  o  “trade-offs”  en  sus  decisiones  (Hollnagel  2009),  ante objetivos  potencialmente  conflictivos  como  puede  ser  elegir  entre  ser  más  seguro  o  más eficiente.
+A este respecto, EUROCONTROL refleja la importancia de mantener un diálogo constante para obtener  la  perspectiva  del  personal  implicado  en  cada  operación.    Es  lo  que  EUROCONTROL define como principio de “Local Rationality”.
+Con el fin de entender “el fracaso” o el “colapso”, es esencial entender cómo los profesionales resuelven con éxito las exigencias, dificultades, presiones y dilemas de su entorno. La realidad muestra que en el día a día, el desempeño humano prácticamente siempre se desarrolla con normalidad, y la razón principal es por la propia capacidad de adaptación de los profesionales a los condicionantes del trabajo que realizan.
+De  acuerdo  con  una  visión  más  contemporánea  de  la  gestión  de  los  sistemas  de  seguridad aérea,  denominada  Safety-II,  es  precisamente la  habilidad  de  las  personas,  para  ajustar  su rendimiento  a  las  condiciones  del  entorno,  lo  que  explica  por  qué  los  sistemas  funcionan realmente (EUROCONTROL 2013, Hollnagel 2014).  Por tanto, reconocer e investigar en como el individuo afronta esas continuas adaptaciones diarias es una forma de comprender como se desarrolla la competencia profesional.  Los profesionales operativos son una fuente necesaria para la flexibilidad y la resiliencia del sistema, y están continuamente "creando seguridad".  El objetivo de esta visión se centra en investigar "como las cosas normalmente van bien" como base  para  explicar  que  ocasionalmente  "pueden  ir mal".    A continuación, se  enumeran  las principales diferencias entre ambos enfoques.
 
-julio/2023
 ## 14/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-Safety I Safety II
-Definición del
-término Safety
-Que el mínimo posible de cosas
-salgan mal.
-Que el máximo posible de cosas salgan
-bien.
-Principio de gestión
-de la seguridad
-operacional
-Reactivo, responder cuando algo
-sucede o cuando se categoriza
-un riesgo como inaceptable.
-Proactivo, tratar continuamente de
-anticiparse a los eventos.
-Visión del factor
-humano en la
-gestión de la
-seguridad
-El ser humano se considera
-predominantemente como una
-amenaza.
-El ser humano se considera un recurso
-necesario para la resiliencia y la
-flexibilidad del sistema.
-Investigación de
-accidentes
-Los accidentes ocurren por causa
-de fallos y mal funcionamiento.
-El propósito de la investigación
-es identificar las causas.
-Todos los eventos suceden de la misma
-forma, independientemente de su
-resultado final. El propósito de la
-investigación es entender cómo las
-cosas normalmente salen bien como
-base para poder explicar cómo las
-cosas a veces salen mal.
-Evaluación del
-riesgo
-Los accidentes ocurren por causa
-de fallos y mal funcionamiento.
-El propósito de la investigación
-es identificar las causas y los
-factores contribuyentes.
-Entender las condiciones en las que la
-variabilidad de las acciones puede
-resultar difícil de controlar y de
-monitorizar debido a la complejidad de
-los sistemas.
+Safety I Safety II Definición del término Safety Que el mínimo posible de cosas salgan mal.
+Que el máximo posible de cosas salgan bien.
+Principio de gestión de la seguridad operacional Reactivo, responder cuando algo sucede o cuando se categoriza un riesgo como inaceptable.
+Proactivo, tratar continuamente de anticiparse a los eventos.
+Visión del factor humano en la gestión de la seguridad El ser humano se considera predominantemente como una amenaza.
+El ser humano se considera un recurso necesario para la resiliencia y la flexibilidad del sistema.
+Investigación de accidentes Los accidentes ocurren por causa de fallos y mal funcionamiento.
+El propósito de la investigación es identificar las causas.
+Todos los eventos suceden de la misma forma, independientemente de su resultado final. El propósito de la investigación es entender cómo las cosas normalmente salen bien como base para poder explicar cómo las cosas a veces salen mal.
+Evaluación del riesgo Los accidentes ocurren por causa de fallos y mal funcionamiento.
+El propósito de la investigación es identificar las causas y los factores contribuyentes.
+Entender las condiciones en las que la variabilidad de las acciones puede resultar difícil de controlar y de monitorizar debido a la complejidad de los sistemas.
 ## TABLA 1 - SAFETY I VERSUS SAFETY II – EUROCONTROL (2013)
 
-1.3.3 Work as Done versus Work as Imagined
-Frecuentemente, la experiencia operacional muestra una brecha entre el sistema tal como se
-conceptualiza y diseña, y el sistema como se opera realmente (Dekker 2006, Hollnagel 2014).
-En otras palabras, un desfase entre el "trabajo como se imagina" (Work-As-Imagined), o lo que
-debería ocurrir en un entorno operativo, frente a lo que realmente sucede en el día a día (Work-
-As-Done).  Cuando  el  diseñador  de  un  sistema  ve  "aparente  simplicidad",  el  profesional
-operativo ve "complejidad real".
+### 1.3.3 Work as Done versus Work as Imagined Frecuentemente, la experiencia operacional muestra una brecha entre el sistema tal como se conceptualiza y diseña, y el sistema como se opera realmente (Dekker 2006, Hollnagel 2014).
+En otras palabras, un desfase entre el "trabajo como se imagina" (Work-As-Imagined), o lo que debería ocurrir en un entorno operativo, frente a lo que realmente sucede en el día a día (WorkAs-Done).  Cuando  el  diseñador  de  un  sistema  ve  "aparente  simplicidad",  el  profesional operativo ve "complejidad real".
 Una clara ilustración es la implementación prematura de nuevos sistemas en un entorno ATM.
-En muchos casos, esto provoca un comportamiento inesperado del sistema, consecuencias no
-deseadas  y  alteraciones  operativas,  obligando  a  revisar  el  cómo  se  opera  en la  realidad  ese
-sistema, pero en una fase táctica. Por lo tanto, entender “el cómo se opera realmente” en una
-sala  de  control  o  un  fanal  es  fundamental, porque  comprende  un  conjunto  de  estrategias
-formales e informales que se ajustan a la práctica cotidiana en el control del tráfico aéreo. De
+En muchos casos, esto provoca un comportamiento inesperado del sistema, consecuencias no deseadas  y  alteraciones  operativas,  obligando  a  revisar  el  cómo  se  opera  en la  realidad  ese sistema, pero en una fase táctica. Por lo tanto, entender “el cómo se opera realmente” en una sala  de  control  o  un  fanal  es  fundamental, porque  comprende  un  conjunto  de  estrategias formales e informales que se ajustan a la práctica cotidiana en el control del tráfico aéreo. De
 
-julio/2023
 ## 15/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-acuerdo  con  Woods  y  Dekker  (2002),  los  conceptos  de  diseño  son  sólo  hipótesis  sobre  la
-relación futura entre la tecnología y lo humano, y la automatización transforma realmente las
-prácticas cotidianas.
+acuerdo  con  Woods  y  Dekker  (2002),  los  conceptos  de  diseño  son  sólo  hipótesis  sobre  la relación futura entre la tecnología y lo humano, y la automatización transforma realmente las prácticas cotidianas.
 Steven Shorrock plantea
 ## 1
-incluso más variedades del trabajo humano, que son muy útiles para
-entender las diferencias entre lo que se idea a nivel de diseño de la operación y cómo ésta se
-produce realmente. Así, habla de work as prescribed, work as disclosed, work as analysed, work
-as observed, work as simulated, work as instructed, work as measured y work as judged.
-Por  lo  tanto, el  estudio  de  los  Factores  Humanos  es  esencial para  una  mayor  eficiencia  en  la
-gestión de proyectos clave que supongan una innovación tecnológica y en las operaciones, así
-como en la operación actual.
+incluso más variedades del trabajo humano, que son muy útiles para entender las diferencias entre lo que se idea a nivel de diseño de la operación y cómo ésta se produce realmente. Así, habla de work as prescribed, work as disclosed, work as analysed, work as observed, work as simulated, work as instructed, work as measured y work as judged.
+Por  lo  tanto, el  estudio  de  los  Factores  Humanos  es  esencial para  una  mayor  eficiencia  en  la gestión de proyectos clave que supongan una innovación tecnológica y en las operaciones, así como en la operación actual.
 
-1.4 Reglamentación sobre fatiga, estrés y sustancias psicoactivas
-El  Reglamento  Europeo (UE)  2017/373 estipula  los  requisitos  comunes para  los  proveedores
-de  servicios  de  gestión  del  tránsito  aéreo/  aérea  y  otras  funciones  de  la  red  de
-gestión del tránsito aéreo y su supervisión. Dentro del reglamento, con respecto a los requisitos
-de   organización   adicionales,   se   establece   la  obligatoriedad   de   realizar   evaluaciones   de
-seguridad operacional ante  cambios  en  el  sistema  funcional,  considerando  el  impacto  en  el
-Factor Humano como uno de los elementos clave en el análisis.  También será responsabilidad
-del proveedor de servicios:
-Desarrollar y mantener una política relativa a la gestión del estrés, incluyendo un
-programa específico para la gestión del estrés generado por un incidente crítico.
-Desarrollar y mantener una política relativa a la gestión de la fatiga, teniendo en
-cuenta los factores como la privación del sueño, alteración de ritmos circadianos,
-horarios nocturnos, tiempo de actividad acumulado y reparto de tareas.
-Desarrollar y aplicar un procedimiento objetivo, transparente y no discriminador
-para la detección  de  casos  de uso  problemático  de  sustancias  psicoactivas  por
-parte de los controladores de tránsito aéreo.
+## 1.4 Reglamentación sobre fatiga, estrés y sustancias psicoactivas El  Reglamento  Europeo (UE)  2017/373 estipula  los  requisitos  comunes para  los  proveedores de  servicios  de  gestión  del  tránsito  aéreo/  aérea  y  otras  funciones  de  la  red  de gestión del tránsito aéreo y su supervisión. Dentro del reglamento, con respecto a los requisitos de   organización   adicionales,   se   establece   la  obligatoriedad   de   realizar   evaluaciones   de seguridad operacional ante  cambios  en  el  sistema  funcional,  considerando  el  impacto  en  el Factor Humano como uno de los elementos clave en el análisis.  También será responsabilidad del proveedor de servicios:
+Desarrollar y mantener una política relativa a la gestión del estrés, incluyendo un programa específico para la gestión del estrés generado por un incidente crítico.
+Desarrollar y mantener una política relativa a la gestión de la fatiga, teniendo en cuenta los factores como la privación del sueño, alteración de ritmos circadianos, horarios nocturnos, tiempo de actividad acumulado y reparto de tareas.
+Desarrollar y aplicar un procedimiento objetivo, transparente y no discriminador para la detección  de  casos  de uso  problemático  de  sustancias  psicoactivas  por parte de los controladores de tránsito aéreo.
 
 ## 1
 https://humanisticsystems.com/2016/12/05/the-varieties-of-human-work/
 
-julio/2023
 ## 16/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
 ## REQUISITOS SOBRE FACTORES HUMANOS ESPECÍFICOS PARA PROVEEDORES DE SERVICIOS DE
 ## CONTROL DEL TRÁNSITO AÉREO PUBLICADOS TEXTUALMENTE EN EL REGLAMENTO EUROPEO
 ## (UE) 2017/373 EN SU ANEXO IV, SECCIÓN 3.
-➢ ATS.OR.300 Ámbito de aplicación
-Esta sección establece los requisitos que debe cumplir el proveedor de servicios de control del
-tránsito aéreo con respecto al desempeño humano para:
-a. prevenir  y  limitar  el  riesgo  de  que  el  servicio  de  control  del tránsito aéreo sea
-proporcionado por controladores de tránsito aéreo con uso problemático de sustancias
-psicoactivas;
-b. prevenir  y  limitar  los  efectos  negativos  del estrés sobre  los  controladores  de tránsito
-aéreo para garantizar la seguridad del tránsito aéreo;
-c. prevenir y limitar los efectos negativos de la fatiga sobre los controladores de tránsito
-aéreo para garantizar la seguridad del tránsito aéreo.
-➢ ATS.OR.305 Responsabilidades de los proveedores de servicios de control del tránsito aéreo
-con respecto al uso problemático de sustancias psicoactivas por los controladores de tránsito
-aéreo
-a. El  proveedor  de  servicios  de  control  del tránsito aéreo desarrollará y  aplicará una
-política y  sus  procedimientos  relacionados  con  el  objeto  de  garantizar  que  el  uso
-problemático de sustancias psicoactivas no afecta a la prestación del servicio de control
-del tránsito aéreo.
-b. Sin  perjuicio  de  lo  dispuesto  en  la  Directiva  95/46/CE  del  Parlamento  Europeo  y  del
-Consejo (1) y en la legislación nacional aplicable en materia de pruebas a personas, el
-proveedor   de   servicios   de   control   del tránsito aéreo desarrollará y   aplicará un
-procedimiento objetivo, transparente y no discriminador para la detección de casos de
-uso problemático de sustancias psicoactivas por parte de los controladores de tránsito
-aéreo. Este procedimiento tendrá
+➢ ATS.OR.300 Ámbito de aplicación Esta sección establece los requisitos que debe cumplir el proveedor de servicios de control del tránsito aéreo con respecto al desempeño humano para:
+a. prevenir  y  limitar  el  riesgo  de  que  el  servicio  de  control  del tránsito aéreo sea proporcionado por controladores de tránsito aéreo con uso problemático de sustancias psicoactivas; b. prevenir  y  limitar  los  efectos  negativos  del estrés sobre  los  controladores  de tránsito aéreo para garantizar la seguridad del tránsito aéreo; c. prevenir y limitar los efectos negativos de la fatiga sobre los controladores de tránsito aéreo para garantizar la seguridad del tránsito aéreo.
+➢ ATS.OR.305 Responsabilidades de los proveedores de servicios de control del tránsito aéreo con respecto al uso problemático de sustancias psicoactivas por los controladores de tránsito aéreo a. El  proveedor  de  servicios  de  control  del tránsito aéreo desarrollará y  aplicará una política y  sus  procedimientos  relacionados  con  el  objeto  de  garantizar  que  el  uso problemático de sustancias psicoactivas no afecta a la prestación del servicio de control del tránsito aéreo.
+b. Sin  perjuicio  de  lo  dispuesto  en  la  Directiva  95/46/CE  del  Parlamento  Europeo  y  del Consejo (1) y en la legislación nacional aplicable en materia de pruebas a personas, el proveedor   de   servicios   de   control   del tránsito aéreo desarrollará y   aplicará un procedimiento objetivo, transparente y no discriminador para la detección de casos de uso problemático de sustancias psicoactivas por parte de los controladores de tránsito aéreo. Este procedimiento tendrá
 ## ́
-en cuenta las disposiciones establecidas en el punto
-ATCO.A.015 del Reglamento (UE) 2015/340.
+en cuenta las disposiciones establecidas en el punto ATCO.A.015 del Reglamento (UE) 2015/340.
 c. El procedimiento de la letra b) deberá ser aprobado por la autoridad competente.
 
-julio/2023
 ## 17/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-➢ ATS.OR.310 Estrés
-De conformidad con el punto ATS.OR.200, el proveedor de servicios de control del tránsito
-aéreo:
+➢ ATS.OR.310 Estrés De conformidad con el punto ATS.OR.200, el proveedor de servicios de control del tránsito aéreo:
 a. desarrollará
 ## ́
 y mantendrá
 ## ́
-una política relativa a la gestión del estrés de los controladores
-de  tránsito  aéreo,  que  incluya  la  aplicación  de  un  programa  de  gestión  del  estrés  en
-incidentes críticos;
-b. facilitará
+una política relativa a la gestión del estrés de los controladores de  tránsito  aéreo,  que  incluya  la  aplicación  de  un  programa  de  gestión  del  estrés  en incidentes críticos; b. facilitará
 ## ́
-a los controladores de tránsito aéreo programas de formación e información
-sobre   la   prevención   del   estrés,   incluido   el   estrés   en   incidentes   críticos,   que
-complementen la formación sobre factores humanos facilitada de conformidad con las
-secciones  3  y  4  de  la  subparte  D  del  anexo  I  del  Reglamento  (UE)  2015/340  de  la
+a los controladores de tránsito aéreo programas de formación e información sobre   la   prevención   del   estrés,   incluido   el   estrés   en   incidentes   críticos,   que complementen la formación sobre factores humanos facilitada de conformidad con las secciones  3  y  4  de  la  subparte  D  del  anexo  I  del  Reglamento  (UE)  2015/340  de  la
 ## Comisión.
-➢ ATS.OR.315 Fatiga
-De conformidad con el punto ATS.OR.200, el proveedor de servicios de control del tránsito
-aéreo:
+➢ ATS.OR.315 Fatiga De conformidad con el punto ATS.OR.200, el proveedor de servicios de control del tránsito aéreo:
 a. desarrollará
 ## ́
-y   mantendrá una   política   relativa   a   la   gestión   de   la   fatiga   de   los
-controladores de tránsito aéreo;
-b. facilitará
+y   mantendrá una   política   relativa   a   la   gestión   de   la   fatiga   de   los controladores de tránsito aéreo; b. facilitará
 ## ́
-a  los  controladores  de  tránsito  aéreo  programas  de  información  sobre  la
-prevención  de  la  fatiga,  que  complementen  la  formación  sobre  factores  humanos
-facilitada  de  conformidad  con  las  secciones  3  y  4  de  la  subparte  D  del  anexo  I  del
-Reglamento (UE) 2015/340.
-➢ ATS.OR.320 Sistemas de turnos de los controladores de tránsito aéreo
-a. el   proveedor   de   servicios   de   control   del   tránsito   aéreo   desarrollará,   aplicará y
-supervisará un sistema de turnos para gestionar los riesgos de la fatiga ocupacional de
-los controladores de tránsito aéreo alternando de forma segura los períodos de servicio
-y descanso. En el sistema de turnos, el proveedor de servicios de control del
-tránsito aéreo especificará los siguientes elementos:
+a  los  controladores  de  tránsito  aéreo  programas  de  información  sobre  la prevención  de  la  fatiga,  que  complementen  la  formación  sobre  factores  humanos facilitada  de  conformidad  con  las  secciones  3  y  4  de  la  subparte  D  del  anexo  I  del Reglamento (UE) 2015/340.
+➢ ATS.OR.320 Sistemas de turnos de los controladores de tránsito aéreo a. el   proveedor   de   servicios   de   control   del   tránsito   aéreo   desarrollará,   aplicará y supervisará un sistema de turnos para gestionar los riesgos de la fatiga ocupacional de los controladores de tránsito aéreo alternando de forma segura los períodos de servicio y descanso. En el sistema de turnos, el proveedor de servicios de control del tránsito aéreo especificará los siguientes elementos:
 - número máximo de días hábiles consecutivos de servicio;
 
-julio/2023
 ## 18/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
 - número máximo de horas por período de servicio;
 - duración máxima del servicio de control del tránsito aéreo sin descansos;
-- relación entre los períodos de servicio y los descansos sin prestar servicios de
-control del tránsito aéreo;
+- relación entre los períodos de servicio y los descansos sin prestar servicios de control del tránsito aéreo;
 - períodos de descanso mínimos;
-- número máximo de períodos de servicio consecutivos que incluyan la noche, si
-procede, dependiendo del número de horas de operaciones de la dependencia de
-control de tránsito aéreo en cuestión;
-- número mínimo de períodos de descanso tras un período de servicio que incluya
-horas nocturnas;
+- número máximo de períodos de servicio consecutivos que incluyan la noche, si procede, dependiendo del número de horas de operaciones de la dependencia de control de tránsito aéreo en cuestión;
+- número mínimo de períodos de descanso tras un período de servicio que incluya horas nocturnas;
 - número mínimo de períodos de descanso en un mismo ciclo de turnos.
-b. un   proveedor   de   servicios   de   control   del   tránsito   aéreo   consultará a   aquellos
-controladores de tránsito aéreo que estén sujetos al sistema de turnos o, si procede, a
-sus representantes, durante su desarrollo y aplicación, a fin de identificar y mitigar los
-riesgos relacionados con la fatiga que podrían deberse al propio sistema de turnos.
-1.5 Normativa en relación a las competencias en materia de Factores Humanos
-para ATCOs
-Los requisitos sobre factores humanos específicos para proveedores de Servicios de Control de
-tránsito  aéreo  publicados  en  el  Reglamento  Europeo  (UE)  2017/373,  complementan  los  ya
-anteriormente dispuestos en el Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de
-2015, por el que se establecen Requisitos Técnicos y Procedimientos Administrativos relativos
-a las Licencias y los Certificados de los Controladores de Tránsito Aéreo.
-En  este  reglamento  se  especifican  los  conocimientos  en  materia  de  factores  humanos  que
-deben tener los controladores de tránsito aéreo. Así, por ejemplo, en la formación básica, se
-deben tratar aspectos específicos de factores humanos, como:
-o Introducción a los factores humanos: técnicas de aprendizaje, la relevancia de los
-factores humanos para el ATC, los factores humanos y el ATC
-o Actuaciones humanas: conducta individual, cultura de seguridad y conducta
-profesional, salud y bienestar, trabajo en equipo, necesidades básicas de las personas
-en el trabajo y estrés.
-o Error humano: peligros de los errores, la definición de error humano, clasificación de
-errores, análisis y gestión de riesgos
-o Comunicación: importancia de una buena comunicación en ATC, procesos y modos
-de comunicación
-o El entorno de trabajo: ergonomía y la necesidad de un buen diseño, equipamiento y
-herramientas, automatización
+b. un   proveedor   de   servicios   de   control   del   tránsito   aéreo   consultará a   aquellos controladores de tránsito aéreo que estén sujetos al sistema de turnos o, si procede, a sus representantes, durante su desarrollo y aplicación, a fin de identificar y mitigar los riesgos relacionados con la fatiga que podrían deberse al propio sistema de turnos.
+## 1.5 Normativa en relación a las competencias en materia de Factores Humanos para ATCOs Los requisitos sobre factores humanos específicos para proveedores de Servicios de Control de tránsito  aéreo  publicados  en  el  Reglamento  Europeo  (UE)  2017/373,  complementan  los  ya anteriormente dispuestos en el Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de
+2015, por el que se establecen Requisitos Técnicos y Procedimientos Administrativos relativos a las Licencias y los Certificados de los Controladores de Tránsito Aéreo.
+En  este  reglamento  se  especifican  los  conocimientos  en  materia  de  factores  humanos  que deben tener los controladores de tránsito aéreo. Así, por ejemplo, en la formación básica, se deben tratar aspectos específicos de factores humanos, como:
+o Introducción a los factores humanos: técnicas de aprendizaje, la relevancia de los factores humanos para el ATC, los factores humanos y el ATC o Actuaciones humanas: conducta individual, cultura de seguridad y conducta profesional, salud y bienestar, trabajo en equipo, necesidades básicas de las personas en el trabajo y estrés.
+o Error humano: peligros de los errores, la definición de error humano, clasificación de errores, análisis y gestión de riesgos o Comunicación: importancia de una buena comunicación en ATC, procesos y modos de comunicación o El entorno de trabajo: ergonomía y la necesidad de un buen diseño, equipamiento y herramientas, automatización
 
-julio/2023
 ## 19/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-También se establecen requisitos normativos para el contenido de los cursos de formación de
-habilitación, que incluyen los siguientes temas:
-▪ Factores psicológicos y cognitivos
-▪ Factores médicos y fisiológicos: fatiga y fitness
-▪ Factores sociales y organizacionales: TRM, trabajo en equipo y roles, conducta
-responsable
+También se establecen requisitos normativos para el contenido de los cursos de formación de habilitación, que incluyen los siguientes temas:
+▪ Factores psicológicos y cognitivos ▪ Factores médicos y fisiológicos: fatiga y fitness ▪ Factores sociales y organizacionales: TRM, trabajo en equipo y roles, conducta responsable
 ## ▪ Estrés
-▪ Error humano: errores humanos y transgresiones
-▪ Trabajo colaborativo: comunicación, trabajo colaborativo dentro de la misma área
-de responsabilidad y con otras áreas de responsabilidad, cooperación
-controlador/piloto.
+▪ Error humano: errores humanos y transgresiones ▪ Trabajo colaborativo: comunicación, trabajo colaborativo dentro de la misma área de responsabilidad y con otras áreas de responsabilidad, cooperación controlador/piloto.
 
-1.6 Integración transversal de los Factores Humanos en la organización
-Desde  un  punto  de  vista  corporativo,  la  integración  de  los  Factores  Humanos  en  una
-organización  contribuye  a  una  mejora  del  sistema  de  forma  global,  situando  a  las  personas
-como eje central del sistema. El estudio de los Factores Humanos en un entorno ATM es básico
-para  entender  mejor  si  el  impacto  del  diseño  de  la  tecnología,  la  selección  del  personal,  la
-formación,  los  procedimientos,  los  roles,  tareas  y  responsabilidades,  y  la  propia  gestión
-organizacional está garantizando un rendimiento óptimo del sistema, así como una gestión de
-riesgos eficaz y eficiente.
-Una integración efectiva de los Factores Humanos tiene un impacto positivo directo y medible
-en varias áreas específicas en la propia gestión de la organización: la mejora de la seguridad, la
-optimización de la organización y de su personal, la mejora de la capacidad y de la eficiencia, la
-reducción de costes y el cumplimiento de la normativa. Si los Factores Humanos no se gestionan
-adecuadamente, esto pasa factura a la organización de forma transversal, en diversas áreas que
-afectan a la eficacia y rentabilidad como pueden ser:
-o Compromiso de los empleados
-o Rendimiento y productividad de la plantilla
-o Incidentes causados por error humano
-o Absentismo laboral
-o Satisfacción del cliente
-o Posible daño a la imagen y reputación de la organización
-Los Factores Humanos como disciplina, llevan influenciando el éxito de la productividad en el
-entorno  aeronáutico  desde  hace  años,  demostrando  que  una  buena  intervención  en  este
-campo  asegura  que  los  objetivos  productivos  se  pueden  alcanzar,  sin  comprometer  la  salud,
-seguridad y bienestar del personal. Una gestión efectiva de los Factores Humanos incrementa
+## 1.6 Integración transversal de los Factores Humanos en la organización Desde  un  punto  de  vista  corporativo,  la  integración  de  los  Factores  Humanos  en  una organización  contribuye  a  una  mejora  del  sistema  de  forma  global,  situando  a  las  personas como eje central del sistema. El estudio de los Factores Humanos en un entorno ATM es básico para  entender  mejor  si  el  impacto  del  diseño  de  la  tecnología,  la  selección  del  personal,  la formación,  los  procedimientos,  los  roles,  tareas  y  responsabilidades,  y  la  propia  gestión organizacional está garantizando un rendimiento óptimo del sistema, así como una gestión de riesgos eficaz y eficiente.
+Una integración efectiva de los Factores Humanos tiene un impacto positivo directo y medible en varias áreas específicas en la propia gestión de la organización: la mejora de la seguridad, la optimización de la organización y de su personal, la mejora de la capacidad y de la eficiencia, la reducción de costes y el cumplimiento de la normativa. Si los Factores Humanos no se gestionan adecuadamente, esto pasa factura a la organización de forma transversal, en diversas áreas que afectan a la eficacia y rentabilidad como pueden ser:
+o Compromiso de los empleados o Rendimiento y productividad de la plantilla o Incidentes causados por error humano o Absentismo laboral o Satisfacción del cliente o Posible daño a la imagen y reputación de la organización Los Factores Humanos como disciplina, llevan influenciando el éxito de la productividad en el entorno  aeronáutico  desde  hace  años,  demostrando  que  una  buena  intervención  en  este campo  asegura  que  los  objetivos  productivos  se  pueden  alcanzar,  sin  comprometer  la  salud, seguridad y bienestar del personal. Una gestión efectiva de los Factores Humanos incrementa
 
-julio/2023
 ## 20/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
 el  compromiso  y  la  motivación  del  personal,  optimizando  la  salud  y  el  bienestar  laboral.
-También  contribuye  a  mejorar  la  comunicación,  el  diálogo  social  y  las  relaciones  laborales,
-mejorando la planificación y la eficiencia de la formación de la plantilla.
-El  sistema  ATM  es  un  sistema  socio-técnico  por  ser  un  sistema  de  gran  envergadura  y  alta
-tecnología,  que  requiere  interacciones  complejas.  Este  tipo  de  sistemas  logran  sus  objetivos
-unificando tecnología avanzada con personas, y como consecuencia de esta interdependencia,
-con el tiempo se pueden dar cambios complejos y a menudo pasados por alto, que inciden en
-el buen funcionamiento de las operaciones. El ser humano siempre es el por qué, y la tecnología
-el cómo.
-En relación a la gestión de riesgos, favorece la detección proactiva de las amenazas que van a
-afectar  al  sistema  y  la  probabilidad  que  existe  de  que  se  produzcan,  así  como  el  grado  de
-impacto humano  en  la  gestión del  cambio.  Un  análisis  adecuado del  Factor  Humano  asegura
-que el cambio se identifica, evalúa y gestiona adecuadamente, fomentando la participación e
-implicación  del  personal  operativo.  También  asegura  que  los  sistemas  se  adaptan  a  las
-personas,   adoptando   una   aproximación   más   completa   e   integrada.      Esto   permite   una
-identificación de riesgos más exacta en el desarrollo de soluciones y planes de acción, así como
-una mayor efectividad, lo que se traduce en una reducción de costes. Las técnicas de Factores
-Humanos  permiten  establecer  indicadores  de  rendimiento  específicos  (KPIs),  que  aportan
-información   adicional,   para   entender   los   nexos   entre   los   objetivos   de   calidad   y   el
-comportamiento y el rendimiento humano.
-La  integración  de  los  Factores  Humanos  en  el  Sistema  de  Gestión  de  la  Seguridad,  permite
-identificar y entender la variabilidad del desempeño, tanto humano como del propio sistema,
-e  incide  en  la  mejora  de  la  investigación  de  sucesos,  para  dar  lugar  a  recomendaciones  de
-seguridad más efectivas. Además, se produce una mejora de la seguridad de todo el sistema,
-incrementando   los   márgenes   de   seguridad   y   reduciendo   el   error   humano.      Y   es   ahí,
-precisamente  donde  la  promoción  de  la  cultura  de  seguridad  juega  un  papel  determinante,
-porque un personal operativo mejor informado y más motivado, asume los valores y proyectos
-de  la  organización  como  propios.    En  un  clima  de  Cultura  Justa,  los  controladores  aéreos
-notifican  con  confianza  las  incidencias  de  seguridad,  contribuyendo  a  identificar  debilidades
-áreas de mejora logrando un sistema más robusto y resiliente.
-El concepto operacional básico en el programa SESAR se ha desarrollado bajo la premisa de que
-el Factor Humano es un pilar fundamental en la operación de los futuros sistemas ATM. En ese
-sentido,   es determinante   para   un   proveedor   de      aérea,   disponer   de   una
-sistematización en la integración de los Factores Humanos en la implementación de tecnología.
-Esto es viable mediante el diseño de procesos que permitan incorporar el análisis del impacto
-sobre el Factor Humano desde la fase de conceptualización del proyecto, con el fin de optimizar
-costes.
+También  contribuye  a  mejorar  la  comunicación,  el  diálogo  social  y  las  relaciones  laborales, mejorando la planificación y la eficiencia de la formación de la plantilla.
+El  sistema  ATM  es  un  sistema  socio-técnico  por  ser  un  sistema  de  gran  envergadura  y  alta tecnología,  que  requiere  interacciones  complejas.  Este  tipo  de  sistemas  logran  sus  objetivos unificando tecnología avanzada con personas, y como consecuencia de esta interdependencia, con el tiempo se pueden dar cambios complejos y a menudo pasados por alto, que inciden en el buen funcionamiento de las operaciones. El ser humano siempre es el por qué, y la tecnología el cómo.
+En relación a la gestión de riesgos, favorece la detección proactiva de las amenazas que van a afectar  al  sistema  y  la  probabilidad  que  existe  de  que  se  produzcan,  así  como  el  grado  de impacto humano  en  la  gestión del  cambio.  Un  análisis  adecuado del  Factor  Humano  asegura que el cambio se identifica, evalúa y gestiona adecuadamente, fomentando la participación e implicación  del  personal  operativo.  También  asegura  que  los  sistemas  se  adaptan  a  las personas,   adoptando   una   aproximación   más   completa   e   integrada.      Esto   permite   una identificación de riesgos más exacta en el desarrollo de soluciones y planes de acción, así como una mayor efectividad, lo que se traduce en una reducción de costes. Las técnicas de Factores Humanos  permiten  establecer  indicadores  de  rendimiento  específicos  (KPIs),  que  aportan información   adicional,   para   entender   los   nexos   entre   los   objetivos   de   calidad   y   el comportamiento y el rendimiento humano.
+La  integración  de  los  Factores  Humanos  en  el  Sistema  de  Gestión  de  la  Seguridad,  permite identificar y entender la variabilidad del desempeño, tanto humano como del propio sistema, e  incide  en  la  mejora  de  la  investigación  de  sucesos,  para  dar  lugar  a  recomendaciones  de seguridad más efectivas. Además, se produce una mejora de la seguridad de todo el sistema, incrementando   los   márgenes   de   seguridad   y   reduciendo   el   error   humano.      Y   es   ahí, precisamente  donde  la  promoción  de  la  cultura  de  seguridad  juega  un  papel  determinante, porque un personal operativo mejor informado y más motivado, asume los valores y proyectos de  la  organización  como  propios.    En  un  clima  de  Cultura  Justa,  los  controladores  aéreos notifican  con  confianza  las  incidencias  de  seguridad,  contribuyendo  a  identificar  debilidades áreas de mejora logrando un sistema más robusto y resiliente.
+El concepto operacional básico en el programa SESAR se ha desarrollado bajo la premisa de que el Factor Humano es un pilar fundamental en la operación de los futuros sistemas ATM. En ese sentido,   es determinante   para   un   proveedor   de      aérea,   disponer   de   una sistematización en la integración de los Factores Humanos en la implementación de tecnología.
+Esto es viable mediante el diseño de procesos que permitan incorporar el análisis del impacto sobre el Factor Humano desde la fase de conceptualización del proyecto, con el fin de optimizar costes.
 
-julio/2023
 ## 21/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-Está demostrado que aproximadamente el 70% del coste final del proyecto, viene fijado por el
-desarrollo  en  el  primer  10%  del  ciclo  de  vida  del  proyecto  (EUROCONTROL-FAA  2010),  tal  y
-como se refleja en la siguiente figura:
+Está demostrado que aproximadamente el 70% del coste final del proyecto, viene fijado por el desarrollo  en  el  primer  10%  del  ciclo  de  vida  del  proyecto  (EUROCONTROL-FAA  2010),  tal  y como se refleja en la siguiente figura:
 
-FIGURA 4.   ESCENARIO DE COSTES DE ACUERDO A LA IMPLEMENTACIÓN DE 3 ESTRATEGIAS RELATIVAS A LA
-INTEGRACIÓN DE LOS FACTORES HUMANOS EN LA GESTIÓN DE PROYECTOS (EUROCONTROL/FAA, 2010)
-Es mucho más efectivo cambiar el diseño de un sistema en las fases iniciales de desarrollo que
-una  vez  está  implementado  y  es  operativo,  y  ahí  es  donde  una  intervención  de  Factores
-Humanos   es   crítica.   Por   esta   razón,   una   organización   debe   fijar   como   prioridad   la
-sistematización de la integración de los Factores Humanos en el desarrollo e implementación
-de todos los proyectos tecnológicos en el entorno ATM.
-En un entorno global tan competitivo como el de la  aérea a nivel europeo, hay que
-asegurar que los planes de innovación en el entorno ATM definan los objetivos tecnológicos y
-operacionales, en línea con los objetivos estratégicos de la organización. La integración práctica
-de los Factores Humanos en la dirección y gestión de los proyectos en todas sus fases puede
-contribuir a conseguir estos objetivos.
-Contar  con  el  personal  operativo  para  la  continua  mejora  del  sistema,  fijando  objetivos
-específicos  en  el  ámbito  de  los  Factores  Humanos  es  esencial,  pero  no  sólo  en  relación  a  la
-implementación de nuevos sistemas o funcionalidades, sino también en la validación de nuevos
-conceptos  operacionales  y  la  determinación  de  capacidades  de  los  sectores  que  componen
+FIGURA 4.   ESCENARIO DE COSTES DE ACUERDO A LA IMPLEMENTACIÓN DE 3 ESTRATEGIAS RELATIVAS A LA INTEGRACIÓN DE LOS FACTORES HUMANOS EN LA GESTIÓN DE PROYECTOS (EUROCONTROL/FAA, 2010) Es mucho más efectivo cambiar el diseño de un sistema en las fases iniciales de desarrollo que una  vez  está  implementado  y  es  operativo,  y  ahí  es  donde  una  intervención  de  Factores Humanos   es   crítica.   Por   esta   razón,   una   organización   debe   fijar   como   prioridad   la sistematización de la integración de los Factores Humanos en el desarrollo e implementación de todos los proyectos tecnológicos en el entorno ATM.
+En un entorno global tan competitivo como el de la  aérea a nivel europeo, hay que asegurar que los planes de innovación en el entorno ATM definan los objetivos tecnológicos y operacionales, en línea con los objetivos estratégicos de la organización. La integración práctica de los Factores Humanos en la dirección y gestión de los proyectos en todas sus fases puede contribuir a conseguir estos objetivos.
+Contar  con  el  personal  operativo  para  la  continua  mejora  del  sistema,  fijando  objetivos específicos  en  el  ámbito  de  los  Factores  Humanos  es  esencial,  pero  no  sólo  en  relación  a  la implementación de nuevos sistemas o funcionalidades, sino también en la validación de nuevos conceptos  operacionales  y  la  determinación  de  capacidades  de  los  sectores  que  componen
 
-julio/2023
 ## 22/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-nuestro  espacio  aéreo.  Para  eso  es  necesario  incorporar  una  metodología  y  herramientas
-adecuadas, pero lo que es aún más importante, la dotación de recursos humanos y técnicos a
-las unidades productivas, con el objetivo de ser más eficientes.
-La normativa europea ha impuesto mayores exigencias a los proveedores de  aérea
-con relación a la gestión del Factor Humano, que tendrán un impacto a medio y largo plazo. El
-espíritu  de  la  normativa  tiene  como  objetivo  fundamental  asegurar  que  los  proveedores  de
-servicios  de    aérea  desarrollan  las  políticas  y  procedimientos  adecuados  para
-garantizar la salud y el bienestar laboral de los profesionales, así como una adecuada gestión
-de riesgos considerando el impacto en el Factor Humano.  Desde un punto de vista empresarial,
-el  detectar,  controlar,  evitar  y  monitorizar  el  posible  impacto de  las  actuaciones en  el Factor
-Humano es crítico, entre otras cuestiones, para:
-o Prevenir daños
-o Anticiparse a nuevos requerimientos legislativos
-o Evitar sanciones
-o Favorecer la buena imagen pública e interna de la compañía
+nuestro  espacio  aéreo.  Para  eso  es  necesario  incorporar  una  metodología  y  herramientas adecuadas, pero lo que es aún más importante, la dotación de recursos humanos y técnicos a las unidades productivas, con el objetivo de ser más eficientes.
+La normativa europea ha impuesto mayores exigencias a los proveedores de  aérea con relación a la gestión del Factor Humano, que tendrán un impacto a medio y largo plazo. El espíritu  de  la  normativa  tiene  como  objetivo  fundamental  asegurar  que  los  proveedores  de servicios  de    aérea  desarrollan  las  políticas  y  procedimientos  adecuados  para garantizar la salud y el bienestar laboral de los profesionales, así como una adecuada gestión de riesgos considerando el impacto en el Factor Humano.  Desde un punto de vista empresarial, el  detectar,  controlar,  evitar  y  monitorizar  el  posible  impacto de  las  actuaciones en  el Factor Humano es crítico, entre otras cuestiones, para:
+o Prevenir daños o Anticiparse a nuevos requerimientos legislativos o Evitar sanciones o Favorecer la buena imagen pública e interna de la compañía
 
 - Factores organizacionales y sociales
-2.1 Trabajo en equipo y funciones del equipo
-Un equipo es un grupo de personas que interactúan dinámicamente entre sí, sus miembros son
-interdependientes y tienen un objetivo común. En el equipo hay diferentes tareas y cada uno
-de sus miembros desempeña diferentes funciones y roles.
-Es importante diferenciar entre grupo y equipo. El grupo trabaja con un alto grado de control
-externo, poniendo énfasis en el resultado, limitando la comunicación del individuo al inmediato
-superior. Sin embargo, el equipo actúa con un alto grado de autonomía, se preocupa tanto del
-resultado como del proceso, potencia la comunicación abierta y la participación, y potencia el
-esfuerzo colectivo para la solución de problemas.
-En la formación de equipos se pretende potenciar y reforzar la seguridad de la operación como
-propósito fundamental, pero además se busca:
-o Mejorar la gestión y la distribución del trabajo. Para ello se agrupan una serie de
-funciones, deberes y tareas asignándolas a cada uno de los miembros del equipo, el
-cual será responsable de las mismas.
-o Que cada uno de sus miembros conozca y acepte sus funciones y las de los demás, y
-las ejecute con precisión y responsabilidad. No obstante, es imprescindible un grado
-elevado de flexibilidad.
+## 2.1 Trabajo en equipo y funciones del equipo Un equipo es un grupo de personas que interactúan dinámicamente entre sí, sus miembros son interdependientes y tienen un objetivo común. En el equipo hay diferentes tareas y cada uno de sus miembros desempeña diferentes funciones y roles.
+Es importante diferenciar entre grupo y equipo. El grupo trabaja con un alto grado de control externo, poniendo énfasis en el resultado, limitando la comunicación del individuo al inmediato superior. Sin embargo, el equipo actúa con un alto grado de autonomía, se preocupa tanto del resultado como del proceso, potencia la comunicación abierta y la participación, y potencia el esfuerzo colectivo para la solución de problemas.
+En la formación de equipos se pretende potenciar y reforzar la seguridad de la operación como propósito fundamental, pero además se busca:
+o Mejorar la gestión y la distribución del trabajo. Para ello se agrupan una serie de funciones, deberes y tareas asignándolas a cada uno de los miembros del equipo, el cual será responsable de las mismas.
+o Que cada uno de sus miembros conozca y acepte sus funciones y las de los demás, y las ejecute con precisión y responsabilidad. No obstante, es imprescindible un grado elevado de flexibilidad.
 
-julio/2023
 ## 23/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-o Que exista un sistema de monitorización mutua por el cual, los miembros del
-equipo alertan al resto, de que se está alcanzando algún límite operativo o se está
-produciendo un desvío en la actuación individual de alguno de los miembros del
-equipo.
-o Que exista una comunicación constante en bucle cerrado, de toda la información
-relevante a todos los afectados. Que esta comunicación se materialice tanto en la
-forma de emitir la información como en ser capaz de escuchar.
-o Que exista sentido de interdependencia, con objetivos compartidos por todos, eso
-implica el reconocimiento de cada uno de los miembros como portador de
-habilidades y capacidades necesarias para alcanzar el objetivo común.
-o Crear sinergias para mejorar la resolución de problemas, mediante una
-coordinación eficiente.
-2.2 Gestión de los recursos del equipo (TRM)
-TRM significa Team Resource Management o Gestión de Recursos de Equipo.  Es un concepto
-derivado del CRM (Cockpit/Crew Resource Management) en aviación, transpuesto al ámbito de
-control,  aunque  se  utiliza  esta  terminología  en  otros  ámbitos  como  la  sanidad,  la  energía
-nuclear, o incluso las operaciones militares.
-Conceptualmente, TRM es una filosofía de trabajo que trata de maximizar la eficiencia en las
-interacciones  interpersonales   y   en   el  uso  de  los   recursos  personales,   que   emerge  del
-reconocimiento de que los seres humanos somos proclives a cometer errores, y que éstos no
-se pueden eliminar en su totalidad.
-Desde un punto de vista práctico, el concepto TRM comprende una batería de habilidades de
-gestión intrapersonal e interpersonal que permiten en último término hacer un uso efectivo de
-todos los recursos al alcance de una persona dentro de un equipo.
+o Que exista un sistema de monitorización mutua por el cual, los miembros del equipo alertan al resto, de que se está alcanzando algún límite operativo o se está produciendo un desvío en la actuación individual de alguno de los miembros del equipo.
+o Que exista una comunicación constante en bucle cerrado, de toda la información relevante a todos los afectados. Que esta comunicación se materialice tanto en la forma de emitir la información como en ser capaz de escuchar.
+o Que exista sentido de interdependencia, con objetivos compartidos por todos, eso implica el reconocimiento de cada uno de los miembros como portador de habilidades y capacidades necesarias para alcanzar el objetivo común.
+o Crear sinergias para mejorar la resolución de problemas, mediante una coordinación eficiente.
+## 2.2 Gestión de los recursos del equipo (TRM) TRM significa Team Resource Management o Gestión de Recursos de Equipo.  Es un concepto derivado del CRM (Cockpit/Crew Resource Management) en aviación, transpuesto al ámbito de control,  aunque  se  utiliza  esta  terminología  en  otros  ámbitos  como  la  sanidad,  la  energía nuclear, o incluso las operaciones militares.
+Conceptualmente, TRM es una filosofía de trabajo que trata de maximizar la eficiencia en las interacciones  interpersonales   y   en   el  uso  de  los   recursos  personales,   que   emerge  del reconocimiento de que los seres humanos somos proclives a cometer errores, y que éstos no se pueden eliminar en su totalidad.
+Desde un punto de vista práctico, el concepto TRM comprende una batería de habilidades de gestión intrapersonal e interpersonal que permiten en último término hacer un uso efectivo de todos los recursos al alcance de una persona dentro de un equipo.
 Las habilidades TRM se clasifican en las siguientes categorías:
 - Trabajo en equipo
 - Gestión de roles dentro de un equipo
 - Comunicación interpersonal
 - Conciencia situacional
 - Resolución de problemas y toma de decisiones
-- Gestión del estrés
-Cada  una  de  estas  habilidades,  a  su  vez,  pueden  dividirse  en  habilidades y  estrategias más
-concretas,  y  todas  ellas  son  de  naturaleza  conductual,  que  pueden  trazarse  a  aspectos
-concretos  del  funcionamiento  humano,  y,  por  tanto,  están  íntimamente  relacionadas  con  el
-conocimiento  científico en factores  humanos  en  distintas  áreas.   Por ello,  se entiende que  el
+- Gestión del estrés Cada  una  de  estas  habilidades,  a  su  vez,  pueden  dividirse  en  habilidades y  estrategias más concretas,  y  todas  ellas  son  de  naturaleza  conductual,  que  pueden  trazarse  a  aspectos concretos  del  funcionamiento  humano,  y,  por  tanto,  están  íntimamente  relacionadas  con  el conocimiento  científico en factores  humanos  en  distintas  áreas.   Por ello,  se entiende que  el
 
-julio/2023
 ## 24/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-TRM  es  una  aplicación  práctica  y  adaptada  de  los  factores  humanos  a  un  ámbito  profesional
-particular, en este caso el ATM.
+TRM  es  una  aplicación  práctica  y  adaptada  de  los  factores  humanos  a  un  ámbito  profesional particular, en este caso el ATM.
 Los principales beneficios de la aplicación del concepto TRM se concretan en:
-o Programas de instrucción que tienen por objeto aumentar la cooperación y
-comunicación entre los miembros del grupo reduciendo la probabilidad de error
-o Mayor eficiencia en las actuaciones individuales y de grupo
-o Mejor utilización de los recursos humanos disponibles. Distribución bien planificada de
-las cargas de trabajo y responsabilidades que evite saturar la capacidad de un
-individuo y produzca redundancia
-o Continuidad y estabilidad en la forma de trabajar del equipo
-o Mayor flexibilidad y capacidad de adaptación a situaciones nuevas
-o Mayor sentido de organización donde todos los equipos reciben la misma formación
-respecto a temas clave en la operación ATM
-o Mayor motivación
+o Programas de instrucción que tienen por objeto aumentar la cooperación y comunicación entre los miembros del grupo reduciendo la probabilidad de error o Mayor eficiencia en las actuaciones individuales y de grupo o Mejor utilización de los recursos humanos disponibles. Distribución bien planificada de las cargas de trabajo y responsabilidades que evite saturar la capacidad de un individuo y produzca redundancia o Continuidad y estabilidad en la forma de trabajar del equipo o Mayor flexibilidad y capacidad de adaptación a situaciones nuevas o Mayor sentido de organización donde todos los equipos reciben la misma formación respecto a temas clave en la operación ATM o Mayor motivación
 - Factores psicológicos
-3.1 Cognición: capacidades y limitaciones del ser humano
-Los  sentidos  perciben  una  serie  de  estímulos  (visuales,  sonoros,  olfativos,  etc.)  mediante
-nuestro registro sensorial, a los que damos significado y almacenamos en la memoria gracias a
-diversos procesos cognitivos que ocurren en el cerebro.  Nuestra memoria a corto plazo apenas
-nos permite guardar un espacio limitado de información y durante un breve espacio de tiempo
-(20 a 30 segundos).  Funciona como la memoria de trabajo de un ordenador.  Por el contrario,
-si  queremos  “salvar  la  información”  para  el  futuro,  entonces  nuestro  cerebro  recurre  a  la
-memoria a largo plazo, que tiene capacidad ilimitada, si bien necesita más tiempo.
-Continuamente, nuestras habilidades o capacidades para desarrollar una tarea correctamente
-conviven  con  nuestras  propias  limitaciones  cognitivas,  psicológicas  y  fisiológicas  como  seres
-humanos.   Cuando   el   cerebro   está   procesando   información   se   producen   procesos   muy
-complejos, que en ocasiones provocan que dos actividades que requieren los mismos recursos
-de  atención  confluyan,  incrementando  la  carga  de  trabajo.  Nuestra  atención  también  es
-limitada, y por eso, gracias a la formación recibida, el proceso de aprendizaje y a la experiencia,
-conseguimos almacenar múltiples patrones que nos ayudan a conformar modelos mentales o
-representaciones de la realidad. Un método para consolidar la información a largo plazo es el
-ensayo repetitivo de una cierta actividad, puesto que cuanto más se recurre a la información
-almacenada, será mucho más fácil utilizarla en el futuro.
+## 3.1 Cognición: capacidades y limitaciones del ser humano Los  sentidos  perciben  una  serie  de  estímulos  (visuales,  sonoros,  olfativos,  etc.)  mediante nuestro registro sensorial, a los que damos significado y almacenamos en la memoria gracias a diversos procesos cognitivos que ocurren en el cerebro.  Nuestra memoria a corto plazo apenas nos permite guardar un espacio limitado de información y durante un breve espacio de tiempo (20 a 30 segundos).  Funciona como la memoria de trabajo de un ordenador.  Por el contrario, si  queremos  “salvar  la  información”  para  el  futuro,  entonces  nuestro  cerebro  recurre  a  la memoria a largo plazo, que tiene capacidad ilimitada, si bien necesita más tiempo.
+Continuamente, nuestras habilidades o capacidades para desarrollar una tarea correctamente conviven  con  nuestras  propias  limitaciones  cognitivas,  psicológicas  y  fisiológicas  como  seres humanos.   Cuando   el   cerebro   está   procesando   información   se   producen   procesos   muy complejos, que en ocasiones provocan que dos actividades que requieren los mismos recursos de  atención  confluyan,  incrementando  la  carga  de  trabajo.  Nuestra  atención  también  es limitada, y por eso, gracias a la formación recibida, el proceso de aprendizaje y a la experiencia, conseguimos almacenar múltiples patrones que nos ayudan a conformar modelos mentales o representaciones de la realidad. Un método para consolidar la información a largo plazo es el ensayo repetitivo de una cierta actividad, puesto que cuanto más se recurre a la información almacenada, será mucho más fácil utilizarla en el futuro.
 
-julio/2023
 ## 25/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-A continuación, se describen dos aspectos fundamentales relativos al procesamiento humano
-de la información, aplicado a un contexto ATM: la conciencia situacional y la carga de trabajo
-mental.
-3.2 Conciencia situacional
-El objetivo final del control de tráfico aéreo es garantizar un flujo seguro, ordenado y expedito
-de tráfico aéreo. La prevención de colisiones, la supervisión del tráfico, la gestión del espacio
-aéreo, las comunicaciones y la toma de decisiones son las funciones básicas del profesional del
-control del tráfico aéreo. Para hacerlo, en un entorno de radar, el espacio aéreo se divide en
-diferentes volúmenes o sectores, administrados por un controlador ejecutivo y un controlador
-del  planificador.    En  un  sector de  radar  de  alta  densidad,  el  espacio  aéreo  suele  estar
-congestionado,  y  el  controlador  de  tráfico  aéreo desempeña  sus  funciones  bajo  alta presión,
-que  proviene  de  diversas  fuentes,  tanto  internas  como  externas,  en  un  marco  temporal
-reducido.      Es   fundamental   detectar,   reconocer   y   diagnosticar   problemas   potenciales,
-determinar las alternativas disponibles y evaluar la cantidad de riesgo que es aceptable. En tal
-contexto, la carga de trabajo es intensa y es esencial mantener la conciencia de la situación.
-Endsley define el concepto de conciencia situacional como "la percepción de los elementos en
-el  entorno  dentro  de un  volumen de  tiempo  y  espacio,  la  comprensión de  su  significado  y  la
-proyección de su estado en un futuro próximo". Endsley presenta tres niveles diferentes de SA:
+A continuación, se describen dos aspectos fundamentales relativos al procesamiento humano de la información, aplicado a un contexto ATM: la conciencia situacional y la carga de trabajo mental.
+## 3.2 Conciencia situacional El objetivo final del control de tráfico aéreo es garantizar un flujo seguro, ordenado y expedito de tráfico aéreo. La prevención de colisiones, la supervisión del tráfico, la gestión del espacio aéreo, las comunicaciones y la toma de decisiones son las funciones básicas del profesional del control del tráfico aéreo. Para hacerlo, en un entorno de radar, el espacio aéreo se divide en diferentes volúmenes o sectores, administrados por un controlador ejecutivo y un controlador del  planificador.    En  un  sector de  radar  de  alta  densidad,  el  espacio  aéreo  suele  estar congestionado,  y  el  controlador  de  tráfico  aéreo desempeña  sus  funciones  bajo  alta presión, que  proviene  de  diversas  fuentes,  tanto  internas  como  externas,  en  un  marco  temporal reducido.      Es   fundamental   detectar,   reconocer   y   diagnosticar   problemas   potenciales, determinar las alternativas disponibles y evaluar la cantidad de riesgo que es aceptable. En tal contexto, la carga de trabajo es intensa y es esencial mantener la conciencia de la situación.
+Endsley define el concepto de conciencia situacional como "la percepción de los elementos en el  entorno  dentro  de un  volumen de  tiempo  y  espacio,  la  comprensión de  su  significado  y  la proyección de su estado en un futuro próximo". Endsley presenta tres niveles diferentes de SA:
 - la percepción de la situación,
 - la comprensión de la situación y
 - la proyección de esa situación en el futuro.
@@ -926,756 +327,269 @@ proyección de su estado en un futuro próximo". Endsley presenta tres niveles d
 FIGURA 5.  MODELO DE CONCIENCIA SITUACIONAL DE ENDSLEY Y SU RELACIÓN CON LOS PROCESOS DE
 ## TOMA DE DECISIÓN Y DE EJECUCIÓN, ASÍ COMO DE FACTORES EXTERNOS E INDIVIDUALES
 
-julio/2023
 ## 26/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-
-Isaac y Ruitenberg se refieren a la conciencia situacional como a un estado o proceso cognitivo
-asociado con la evaluación de señales pasadas y presentes en una situación dinámica. Puede
-referirse al conocimiento de una persona y a su estado dentro de un espacio y tiempo continuo
-(piloto)  o  una  predicción  individual  dentro  de  un  continuo  de  espacio  /  tiempo  conocido  y
-especificado (controlador de tráfico aéreo).
-La  mayoría  de  los  controladores  de  tránsito  aéreo  tienen  dificultades  normalmente  para
-proporcionar una definición formal del término conciencia situacional. Sin embargo, cuando se
-le presenta el desafío de proporcionar una descripción informal, las respuestas más frecuentes
-incluyen: "ver el tráfico" o "adelantarse al tráfico". Por la misma razón, tener dificultades para
-mantener  la  conciencia  situacional  se  expresa  como  "ir  por  detrás  del  tráfico"  o  "perder  el
-control".  Perder el control está directamente relacionado con falta de tiempo, conocimiento,
-competencia y recursos cognitivos, específicamente en eventos inesperados.
-Una  variedad  de  factores  puede  afectar  la  conciencia  situacional.  Endsley  diferencia  entre  la
-influencia de los factores individuales, de los factores del ambientales y los relativos al sistema.
-Los factores individuales están relacionados con los límites impuestos por la atención humana
-y  la  memoria  de  trabajo,  mientras  que  los  factores  ambientales  y  del  sistema  se  refieren  a
-factores estresantes físicos y psicológicos. A continuación, se detallan una serie de elementos
-con  impacto  en  la  conciencia  situacional  del  controlador  de  tránsito  áreo,  según  Isaac  y
+Isaac y Ruitenberg se refieren a la conciencia situacional como a un estado o proceso cognitivo asociado con la evaluación de señales pasadas y presentes en una situación dinámica. Puede referirse al conocimiento de una persona y a su estado dentro de un espacio y tiempo continuo (piloto)  o  una  predicción  individual  dentro  de  un  continuo  de  espacio  /  tiempo  conocido  y especificado (controlador de tráfico aéreo).
+La  mayoría  de  los  controladores  de  tránsito  aéreo  tienen  dificultades  normalmente  para proporcionar una definición formal del término conciencia situacional. Sin embargo, cuando se le presenta el desafío de proporcionar una descripción informal, las respuestas más frecuentes incluyen: "ver el tráfico" o "adelantarse al tráfico". Por la misma razón, tener dificultades para mantener  la  conciencia  situacional  se  expresa  como  "ir  por  detrás  del  tráfico"  o  "perder  el control".  Perder el control está directamente relacionado con falta de tiempo, conocimiento, competencia y recursos cognitivos, específicamente en eventos inesperados.
+Una  variedad  de  factores  puede  afectar  la  conciencia  situacional.  Endsley  diferencia  entre  la influencia de los factores individuales, de los factores del ambientales y los relativos al sistema.
+Los factores individuales están relacionados con los límites impuestos por la atención humana y  la  memoria  de  trabajo,  mientras  que  los  factores  ambientales  y  del  sistema  se  refieren  a factores estresantes físicos y psicológicos. A continuación, se detallan una serie de elementos con  impacto  en  la  conciencia  situacional  del  controlador  de  tránsito  áreo,  según  Isaac  y
 ## Ruitenberg.
 
-julio/2023
 ## 27/65
-
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
 
 FIGURA 6. ELEMENTOS QUE INFLUENCIAN LA CONCIENCIA SITUACIONAL (ISAAC Y RUITENBERG, 1997)
 
-Lo más relevante desde un punto de vista práctico es entender que la conciencia situacional no
-es  una  foto  fija,  sino  un  modelo  mental  dinámico,  un  conjunto  de  procesos  que  modelan  la
-información que percibimos del entorno para construir una imagen mental. Sobre este modelo
-mental  dinámico se  construyen  posibles  cursos  de  acción,  nuestra  mente  imagina  posibles
-situaciones en función de posibles acciones, y proyecta el estado a futuro. Una vez decidimos
-actuar, el sistema cambia por estas actuaciones, además de por su propia evolución dinámica,
-por  lo  que  ese  proceso  de  monitorización  y  captura  de  información  sigue  funcionando,
-alimentando al modelo mental dinámico del sistema.
-En TRM se trabaja mucho con el concepto de conciencia situacional, y se incide en que cuando
-al modelo mental le falta información, la mente lo rellena, realizando asunciones basadas en
-experiencias pasadas o en lo más probable. De aquí hay dos elementos vitales para seguridad:
-el primero, vinculado a que el equipo también es una fuente de información vital que ayuda a
-que  el  proceso  de  conciencia  situacional  sea  suficientemente  robusto;  y  el  segundo,  que  la
-mayoría de los incidentes de tránsito aéreo presentan alguna asunción. Esto permite desarrollar
-estrategias prácticas de captura, monitorización y verificación de la información y a estrategias
-defensivas   sabiendo   que   nuestra   mente,   por   su   propio   funcionamiento   natural (y   no
-defectuoso), en ocasiones necesita realizar asunciones.
+Lo más relevante desde un punto de vista práctico es entender que la conciencia situacional no es  una  foto  fija,  sino  un  modelo  mental  dinámico,  un  conjunto  de  procesos  que  modelan  la información que percibimos del entorno para construir una imagen mental. Sobre este modelo mental  dinámico se  construyen  posibles  cursos  de  acción,  nuestra  mente  imagina  posibles situaciones en función de posibles acciones, y proyecta el estado a futuro. Una vez decidimos actuar, el sistema cambia por estas actuaciones, además de por su propia evolución dinámica, por  lo  que  ese  proceso  de  monitorización  y  captura  de  información  sigue  funcionando, alimentando al modelo mental dinámico del sistema.
+En TRM se trabaja mucho con el concepto de conciencia situacional, y se incide en que cuando al modelo mental le falta información, la mente lo rellena, realizando asunciones basadas en experiencias pasadas o en lo más probable. De aquí hay dos elementos vitales para seguridad:
+el primero, vinculado a que el equipo también es una fuente de información vital que ayuda a que  el  proceso  de  conciencia  situacional  sea  suficientemente  robusto;  y  el  segundo,  que  la mayoría de los incidentes de tránsito aéreo presentan alguna asunción. Esto permite desarrollar estrategias prácticas de captura, monitorización y verificación de la información y a estrategias defensivas   sabiendo   que   nuestra   mente,   por   su   propio   funcionamiento   natural (y   no defectuoso), en ocasiones necesita realizar asunciones.
 
-julio/2023
 ## 28/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-3.3 Carga de trabajo mental
-El concepto de carga de trabajo mental se ha investigado en una amplia variedad de campos
-tales como la aviación, el entorno ATC en particular, las operaciones militares o la conducción
-de vehículos. La definición de carga de trabajo mental considera este concepto de acuerdo a un
-marco  de  factores  de  estrés  que  interactúan  en  un  individuo,  y que, por  tanto,  tienen  un
-impacto  en  el  rendimiento  humano.    Un  gran  número  de  estudios  científicos  señalan  3
-dimensiones fundamentales que afectan la carga mental de trabajo:
+## 3.3 Carga de trabajo mental El concepto de carga de trabajo mental se ha investigado en una amplia variedad de campos tales como la aviación, el entorno ATC en particular, las operaciones militares o la conducción de vehículos. La definición de carga de trabajo mental considera este concepto de acuerdo a un marco  de  factores  de  estrés  que  interactúan  en  un  individuo,  y que, por  tanto,  tienen  un impacto  en  el  rendimiento  humano.    Un  gran  número  de  estudios  científicos  señalan  3 dimensiones fundamentales que afectan la carga mental de trabajo:
 - Presión temporal de la tarea (tiempo disponible, tiempo necesario)
 - Recursos cognitivos de procesamiento que demanda la tarea.
-- Aspectos emocionales
-Por  tanto,  la  carga  de  trabajo  mental,  según  definición  de Sebastian y  del  Hoyo  (2002)  es  el
-conjunto  de  requerimientos  mentales,  cognitivos  o  intelectuales  a  los  que  se  ve  sometido  el
-trabajador a lo largo de su jornada laboral, es decir, el nivel de esfuerzo intelectual necesario
-para desempeñar sus tareas.
-La norma UNE-EN ISO 10075-2 proporciona, precisamente, una serie de orientaciones técnicas
-y  organizativas  a  la  hora  de diseñar adecuadamente  los  sistemas  de  trabajo  en  cuanto  a  la
-prevención del riesgo de la carga de trabajo mental.  Esta norma distingue entre presión (stress)
-mental  y  tensión  (strain)  mental.    Se  describe  como presión mental  al  conjunto  de  todas  las
-influencias  apreciables,  ejercidas  por  factores  externos,  que  afectan  mentalmente  al  ser
-humano. Tensión mental sería el efecto inmediato de la presión mental en el individuo.
-La  Ley  de  Yerkes-Dodson  plantea  que  la  relación  entre  estrés  y  rendimiento  se  puede
-representar en forma de U invertida. Esto significa que el rendimiento será óptimo si el nivel de
-activación  es  moderadamente  elevado;  en  cambio,  si  es  demasiado  alto  o  demasiado  bajo,
-repercutirá de forma  negativa  en  el  resultado  de  la  tarea.   Así, esta  ley plantea que  el  mejor
-modo de potenciar  el  rendimiento  consiste  en  aumentar  la  motivación para  llevar  a  cabo  las
-tareas objetivo, si bien es igualmente importante procurar que la carga de trabajo no llegue a
-ser difícil de manejar, puesto que ello interfiere con el desarrollo natural de la actividad y genera
-sentimientos desagradables.
+- Aspectos emocionales Por  tanto,  la  carga  de  trabajo  mental,  según  definición  de Sebastian y  del  Hoyo  (2002)  es  el conjunto  de  requerimientos  mentales,  cognitivos  o  intelectuales  a  los  que  se  ve  sometido  el trabajador a lo largo de su jornada laboral, es decir, el nivel de esfuerzo intelectual necesario para desempeñar sus tareas.
+La norma UNE-EN ISO 10075-2 proporciona, precisamente, una serie de orientaciones técnicas y  organizativas  a  la  hora  de diseñar adecuadamente  los  sistemas  de  trabajo  en  cuanto  a  la prevención del riesgo de la carga de trabajo mental.  Esta norma distingue entre presión (stress) mental  y  tensión  (strain)  mental.    Se  describe  como presión mental  al  conjunto  de  todas  las influencias  apreciables,  ejercidas  por  factores  externos,  que  afectan  mentalmente  al  ser humano. Tensión mental sería el efecto inmediato de la presión mental en el individuo.
+La  Ley  de  Yerkes-Dodson  plantea  que  la  relación  entre  estrés  y  rendimiento  se  puede representar en forma de U invertida. Esto significa que el rendimiento será óptimo si el nivel de activación  es  moderadamente  elevado;  en  cambio,  si  es  demasiado  alto  o  demasiado  bajo, repercutirá de forma  negativa  en  el  resultado  de  la  tarea.   Así, esta  ley plantea que  el  mejor modo de potenciar  el  rendimiento  consiste  en  aumentar  la  motivación para  llevar  a  cabo  las tareas objetivo, si bien es igualmente importante procurar que la carga de trabajo no llegue a ser difícil de manejar, puesto que ello interfiere con el desarrollo natural de la actividad y genera sentimientos desagradables.
 
-julio/2023
 ## 29/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
+FIGURA 7 LEY DE YERKES-DODSON Y CÓMO VARÍA EN FUNCIÓN DE LA COMPLEJIDAD DE LA TAREA Tal y como se aprecia en la figura de la Ley de Yerkes-Dodson, cuando la tarea es compleja se alcanza antes el umbral de rendimiento máximo, que cuando la tarea a realizar es sencilla.  Por otro lado, se tiende a pensar de forma errónea que cuando hay periodos de baja densidad de tráfico, no resulta un problema relevante para el análisis del factor humano. Sin embargo, según se  ha  venido  demostrando  científicamente,  mantener  una  atención  continuada  en  tareas  de monitorización o de atención vigilante, en entornos en los que aparentemente no es necesario mantener dicha atención, puede ocasionar un grado de fatiga tan alto o más que en periodos de alta carga de trabajo mental. Precisamente, en un entorno operativo como es el del control de tránsito aéreo, los profesionales son conscientes de que después de atender “una vara de tráfico” es donde hay muchas probabilidades de cometer un error, o bien de no  detectar un problema  porque  los  recursos  mentales  están  saturados  por  una  atención  sostenida  en  el tiempo.    La comunidad  científica  enumera  varias  características  de  los  entornos  proclives  a desembocar en una pérdida de rendimiento a la hora de detectar señales o eventos relevantes, como  son  el  tiempo  que  hay  que  mantener  una  atención  vigilante  o  el  nivel  de  atención sostenida necesario.
+## 3.4 Grado de complejidad y su impacto en el individuo y el sistema La opinión de consenso entre las comunidades operacionales y de investigación científica en el ámbito  de  control  de  tráfico  aéreo  es  que  el  concepto  de  complejidad  impulsa  la  carga  de trabajo mental del controlador, lo que a su vez limita en última instancia la capacidad ATC. De entre los factores que influyen en la complejidad del tráfico aéreo podemos distinguir algunos ejemplos:
+o Las características del espacio aéreo (complejidad del sector, flujos de tráfico, áreas de espacio aéreo restringidas, proximidad a otro sector o FIR etc.) o El volumen y tipo de tráfico a gestionar (número de tráficos, plan de sector, tráficos en evolución, tráficos en vectorización, IFR versus VFR, tráficos en espera, etc.).
+o Situaciones de tráfico como conflictos a gestionar, o flujos de tráfico que requieren monitorización continua.
 
-FIGURA 7 LEY DE YERKES-DODSON Y CÓMO VARÍA EN FUNCIÓN DE LA COMPLEJIDAD DE LA TAREA
-Tal y como se aprecia en la figura de la Ley de Yerkes-Dodson, cuando la tarea es compleja se
-alcanza antes el umbral de rendimiento máximo, que cuando la tarea a realizar es sencilla.  Por
-otro lado, se tiende a pensar de forma errónea que cuando hay periodos de baja densidad de
-tráfico, no resulta un problema relevante para el análisis del factor humano. Sin embargo, según
-se  ha  venido  demostrando  científicamente,  mantener  una  atención  continuada  en  tareas  de
-monitorización o de atención vigilante, en entornos en los que aparentemente no es necesario
-mantener dicha atención, puede ocasionar un grado de fatiga tan alto o más que en periodos
-de alta carga de trabajo mental. Precisamente, en un entorno operativo como es el del control
-de tránsito aéreo, los profesionales son conscientes de que después de atender “una vara de
-tráfico” es donde hay muchas probabilidades de cometer un error, o bien de no  detectar un
-problema  porque  los  recursos  mentales  están  saturados  por  una  atención  sostenida  en  el
-tiempo.    La comunidad  científica  enumera  varias  características  de  los  entornos  proclives  a
-desembocar en una pérdida de rendimiento a la hora de detectar señales o eventos relevantes,
-como  son  el  tiempo  que  hay  que  mantener  una  atención  vigilante  o  el  nivel  de  atención
-sostenida necesario.
-3.4 Grado de complejidad y su impacto en el individuo y el sistema
-La opinión de consenso entre las comunidades operacionales y de investigación científica en el
-ámbito  de  control  de  tráfico  aéreo  es  que  el  concepto  de  complejidad  impulsa  la  carga  de
-trabajo mental del controlador, lo que a su vez limita en última instancia la capacidad ATC. De
-entre los factores que influyen en la complejidad del tráfico aéreo podemos distinguir algunos
-ejemplos:
-o Las características del espacio aéreo (complejidad del sector, flujos de tráfico, áreas
-de espacio aéreo restringidas, proximidad a otro sector o FIR etc.)
-o El volumen y tipo de tráfico a gestionar (número de tráficos, plan de sector, tráficos
-en evolución, tráficos en vectorización, IFR versus VFR, tráficos en espera, etc.).
-o Situaciones de tráfico como conflictos a gestionar, o flujos de tráfico que requieren
-monitorización continua.
-
-julio/2023
 ## 30/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-o Congestión de la frecuencia
-o Gestión de emergencias y situaciones especiales
-o Tiempo disponible para detectar y solucionar conflictos
-o Tiempo de ocupación de un tráfico en el sector
-o El número de cartas de acuerdo asociadas a un sector
-o El número de aeropuertos y fijos asociados a un sector
-o Procedimientos
-o Meteorología
-o Estado de los sistemas (radioayudas, radiotelefonía, etc.)
-o Coordinaciones necesarias para completar tareas
-o Trabajo en equipo
-o Herramientas tecnológicas de soporte para el controlador
-o Factores personales como experiencia del controlador, habilidades, nivel de estrés y
-fatiga, etc.
-El grado de complejidad tiene un impacto tan importante en la gestión del tráfico aéreo y en la
-carga de trabajo mental del controlador, que hay numerosos estudios científicos realizados al
-respecto.    Kontogiannis  y  Malakis  (2013)  han  desarrollado  un  prototipo  de  taxonomía  de  las
-estrategias   de   mitigación   de   la   complejidad   de   los   controladores   de   tránsito   aéreo,
-especificando tanto las funciones cognitivas, como las estrategias y marcadores conductuales.
-A continuación, se  enumeran  algunas de  esas  estrategias  de  mitigación  utilizadas  por  los
-controladores aéreos de acuerdo con Kontogiannis y Malakis (2013), a modo de ejemplo:
+o Congestión de la frecuencia o Gestión de emergencias y situaciones especiales o Tiempo disponible para detectar y solucionar conflictos o Tiempo de ocupación de un tráfico en el sector o El número de cartas de acuerdo asociadas a un sector o El número de aeropuertos y fijos asociados a un sector o Procedimientos o Meteorología o Estado de los sistemas (radioayudas, radiotelefonía, etc.) o Coordinaciones necesarias para completar tareas o Trabajo en equipo o Herramientas tecnológicas de soporte para el controlador o Factores personales como experiencia del controlador, habilidades, nivel de estrés y fatiga, etc.
+El grado de complejidad tiene un impacto tan importante en la gestión del tráfico aéreo y en la carga de trabajo mental del controlador, que hay numerosos estudios científicos realizados al respecto.    Kontogiannis  y  Malakis  (2013)  han  desarrollado  un  prototipo  de  taxonomía  de  las estrategias   de   mitigación   de   la   complejidad   de   los   controladores   de   tránsito   aéreo, especificando tanto las funciones cognitivas, como las estrategias y marcadores conductuales.
+A continuación, se  enumeran  algunas de  esas  estrategias  de  mitigación  utilizadas  por  los controladores aéreos de acuerdo con Kontogiannis y Malakis (2013), a modo de ejemplo:
 
 ## FUNCIÓN
 ## COGNITIVA
 ## ESTRATEGIAS MARCADORES
-Ajustar la
-monitorización y
-anticipación
-1) Identificar flujos de tráfico y
-posibles conflictos gracias a la
-experiencia
-2) Simplificar la presentación
-radar.
+Ajustar la monitorización y anticipación 1) Identificar flujos de tráfico y posibles conflictos gracias a la experiencia 2) Simplificar la presentación radar.
 ## 3) Anticipación.
-1) Agrupar los tráficos según
-necesidades (autorizados a ILS
-versus tráficos en espera).
-2) “Limpia la bahía y la
-pantalla”
-3)Visualiza y anota posibles
-conflictos
+1) Agrupar los tráficos según necesidades (autorizados a ILS versus tráficos en espera).
+2) “Limpia la bahía y la pantalla” 3)Visualiza y anota posibles conflictos
 
-Según  se  incrementa  la  complejidad,  también  se  aumenta  el  número  de  tareas  que  están
-“compitiendo” por los recursos mentales, el ritmo de trabajo, y el número  de interrupciones
-debido  al  trabajo  en  equipo.    Así,  en  caso  de  tener  que  resolver  conflictos  de tráfico  en
-situaciones  complejas,  los  controladores  han  desarrollado  una  serie  de  tácticas  tales  como
-elegir  soluciones  que  requieren  menos  coordinaciones,  utilizar  separación  vertical  para  los
+Según  se  incrementa  la  complejidad,  también  se  aumenta  el  número  de  tareas  que  están “compitiendo” por los recursos mentales, el ritmo de trabajo, y el número  de interrupciones debido  al  trabajo  en  equipo.    Así,  en  caso  de  tener  que  resolver  conflictos  de tráfico  en situaciones  complejas,  los  controladores  han  desarrollado  una  serie  de  tácticas  tales  como elegir  soluciones  que  requieren  menos  coordinaciones,  utilizar  separación  vertical  para  los
 
-julio/2023
 ## 31/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-conflictos más complejos, dar más autorizaciones iniciales “seguras” y revisar las mismas con
-posterioridad, etc.
-Otro  efecto  evidente  del  incremento  de  la  complejidad  es  reducir  la  calidad  del  servicio  en
-detrimento de una mayor seguridad, priorizando las tareas más importantes, simplificando los
-problemas  y  anticipándose  a  las  amenazas.    Pero  este  esfuerzo  cognitivo requiere  a  su  vez
-tiempo  adicional,  lo  que  incrementa  la  carga  de  trabajo  mental  y  tiene  un  impacto  en  la
-ejecución  de  actividades  rutinarias,  facilitando  el  error  humano.    Al  trabajar  bajo  presión
-extrema, el controlador aéreo tiende a actuar de aquella forma que normalmente funciona, y
-en ocasiones a omitir acciones ante la presión de la operación.
-- La comunicación humana
-Conocemos bien la importancia de la comunicación en el entorno ATC y sabemos lo que puede
-suponer una  incidencia al  respecto:  un  fallo de comunicación  entre  torres,  cuyo  resultado  es
-que los controladores no puedan hablarse entre sí para pasar los aviones de un sector a otro, o
-iniciar  una  maniobra  de  aproximación,  supone  una  urgencia  sobre  la  que  debemos  actuar
-inmediatamente, dadas sus consecuencias.
-Pues bien, al hablar de factor humano, la comunicación tiene una importancia similar a la hora
-de  explicar  la  eficacia  de  nuestro  trabajo:  un  fallo  en  nuestra  comunicación  puede  anular  la
-ventaja de la experiencia, disminuir la capacidad de nuestro equipo humano, o contribuir a la
-gestación de un conflicto innecesario.
-4.1 El proceso humano de comunicación.
-➢ Componentes de la comunicación
-La comunicación es un proceso mediante el cual un emisor transmite un mensaje, de manera
-verbal o no verbal, a un receptor mediante un canal concreto y con un código común a ambos,
-con el fin de difundir, intercambiar o compartir información, ideas o sentimientos.
+conflictos más complejos, dar más autorizaciones iniciales “seguras” y revisar las mismas con posterioridad, etc.
+Otro  efecto  evidente  del  incremento  de  la  complejidad  es  reducir  la  calidad  del  servicio  en detrimento de una mayor seguridad, priorizando las tareas más importantes, simplificando los problemas  y  anticipándose  a  las  amenazas.    Pero  este  esfuerzo  cognitivo requiere  a  su  vez tiempo  adicional,  lo  que  incrementa  la  carga  de  trabajo  mental  y  tiene  un  impacto  en  la ejecución  de  actividades  rutinarias,  facilitando  el  error  humano.    Al  trabajar  bajo  presión extrema, el controlador aéreo tiende a actuar de aquella forma que normalmente funciona, y en ocasiones a omitir acciones ante la presión de la operación.
+- La comunicación humana Conocemos bien la importancia de la comunicación en el entorno ATC y sabemos lo que puede suponer una  incidencia al  respecto:  un  fallo de comunicación  entre  torres,  cuyo  resultado  es que los controladores no puedan hablarse entre sí para pasar los aviones de un sector a otro, o iniciar  una  maniobra  de  aproximación,  supone  una  urgencia  sobre  la  que  debemos  actuar inmediatamente, dadas sus consecuencias.
+Pues bien, al hablar de factor humano, la comunicación tiene una importancia similar a la hora de  explicar  la  eficacia  de  nuestro  trabajo:  un  fallo  en  nuestra  comunicación  puede  anular  la ventaja de la experiencia, disminuir la capacidad de nuestro equipo humano, o contribuir a la gestación de un conflicto innecesario.
+## 4.1 El proceso humano de comunicación.
+➢ Componentes de la comunicación La comunicación es un proceso mediante el cual un emisor transmite un mensaje, de manera verbal o no verbal, a un receptor mediante un canal concreto y con un código común a ambos, con el fin de difundir, intercambiar o compartir información, ideas o sentimientos.
 
-julio/2023
 ## 32/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
 o Emisor: el que emite el mensaje.
 o Receptor: aquel que recibe el mensaje.
 o Mensaje: la información que el emisor quiere transmitir.
-o Canal: medio físico por el que se transmite el mensaje. Por ejemplo, el hilo telefónico, o
-la frecuencia de radio que utilicemos.
-o Mismo    código: un    conjunto    de    códigos    para    poder    codificar    y    descodificar
-adecuadamente  la  información.    Por  ejemplo,  la  jerga  técnica  que  utilicemos,  o  los
-códigos que nos proporciona un entorno compartido.
-o Barreras: En ocasiones existen barreras en la comunicación, para luchar contra ellas y ser
-buenos comunicadores debemos entender que:
-- Con independencia de la voluntad que tengamos por actuar de forma coordinada,
-y de la corrección con la que me expreso, pueden producirse distorsiones que no
-son “culpa de nadie” pero que desembocan en un malentendido y, por tanto, en un
-incidente.
+o Canal: medio físico por el que se transmite el mensaje. Por ejemplo, el hilo telefónico, o la frecuencia de radio que utilicemos.
+o Mismo    código: un    conjunto    de    códigos    para    poder    codificar    y    descodificar adecuadamente  la  información.    Por  ejemplo,  la  jerga  técnica  que  utilicemos,  o  los códigos que nos proporciona un entorno compartido.
+o Barreras: En ocasiones existen barreras en la comunicación, para luchar contra ellas y ser buenos comunicadores debemos entender que:
+- Con independencia de la voluntad que tengamos por actuar de forma coordinada, y de la corrección con la que me expreso, pueden producirse distorsiones que no son “culpa de nadie” pero que desembocan en un malentendido y, por tanto, en un incidente.
 - Quien mejor comunica, es quien mejor escucha.
-- Aquel que comunica tiene la responsabilidad de asegurarse de que el mensaje ha
-llegado adecuadamente. Si no es así, debe buscar vías alternativas para conseguirlo.
+- Aquel que comunica tiene la responsabilidad de asegurarse de que el mensaje ha llegado adecuadamente. Si no es así, debe buscar vías alternativas para conseguirlo.
 
-En la comunicación puede haber interferencias o ruido, que hagan que la comunicación no sea
-eficaz.
+En la comunicación puede haber interferencias o ruido, que hagan que la comunicación no sea eficaz.
 
-Así,  puedo  decir:  “Por  favor,  pásame  el  destornillador”,  pero  existir  ruido  que  dificulte  la
-transmisión  de  la  información,  de  modo  que,  después  de  mi  mensaje  la  otra  persona  no
-reaccione y no me pase el destornillador. En este caso, podemos decir que mi comunicación fue
-correcta, pero no eficaz.
+Así,  puedo  decir:  “Por  favor,  pásame  el  destornillador”,  pero  existir  ruido  que  dificulte  la transmisión  de  la  información,  de  modo  que,  después  de  mi  mensaje  la  otra  persona  no reaccione y no me pase el destornillador. En este caso, podemos decir que mi comunicación fue correcta, pero no eficaz.
 
-Aquí vemos cómo nace el concepto de “colación”, que en definitiva busca comprobar que las
-interferencias no merman la ejecución del mensaje.
+Aquí vemos cómo nace el concepto de “colación”, que en definitiva busca comprobar que las interferencias no merman la ejecución del mensaje.
 
-Además,   hay   otras   interferencias   más   propias   del   ser   humano,   y   se   refieren   a   como
-interpretamos   continuamente   los   mensajes   que   recibimos,   en   función   de   nuestros
-conocimientos y nuestra experiencia en un determinado asunto.
-Por ejemplo: “Date prisa” puede significar para  alguien que necesita algo inmediatamente, y
-para otra persona, puede que el plazo es de “un par de días”.
+Además,   hay   otras   interferencias   más   propias   del   ser   humano,   y   se   refieren   a   como interpretamos   continuamente   los   mensajes   que   recibimos,   en   función   de   nuestros conocimientos y nuestra experiencia en un determinado asunto.
+Por ejemplo: “Date prisa” puede significar para  alguien que necesita algo inmediatamente, y para otra persona, puede que el plazo es de “un par de días”.
 
-julio/2023
 ## 33/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-Feedback  o  retroalimentación:  es  la  respuesta  que  da  el  receptor  sobre  la  información
-proporcionada por el emisor. No tiene por qué ser explícita: el silencio como respuesta es, en
-sí mismo, un mensaje.
+Feedback  o  retroalimentación:  es  la  respuesta  que  da  el  receptor  sobre  la  información proporcionada por el emisor. No tiene por qué ser explícita: el silencio como respuesta es, en sí mismo, un mensaje.
 
-➢ Propósito de la comunicación en las organizaciones
-En  la  organización,  el  propósito  de  la comunicación no  es  que  alguien  te  entienda,  sino
-generar una acción común, conseguir que el receptor actúe en un sentido u otro. Por tanto,
-la comunicación en la organización es persuasiva. Es decir, busca conseguir algo. Si estás
-trabajando  con  alguien  y  le  dices  “por  favor,  pásame  el  destornillador”,  sabes  que  tu
-comunicación ha sido eficaz cuando te lo proporciona.
-➢ Escucha activa, clave de la comunicación
-Escuchar es una actividad que puede describirse como una combinación entre:
-o Oír la recepción real de sonidos
-o Comprender los sonidos.
+➢ Propósito de la comunicación en las organizaciones En  la  organización,  el  propósito  de  la comunicación no  es  que  alguien  te  entienda,  sino generar una acción común, conseguir que el receptor actúe en un sentido u otro. Por tanto, la comunicación en la organización es persuasiva. Es decir, busca conseguir algo. Si estás trabajando  con  alguien  y  le  dices  “por  favor,  pásame  el  destornillador”,  sabes  que  tu comunicación ha sido eficaz cuando te lo proporciona.
+➢ Escucha activa, clave de la comunicación Escuchar es una actividad que puede describirse como una combinación entre:
+o Oír la recepción real de sonidos o Comprender los sonidos.
 o Comprender la interpretación.
 o Retener y recordar lo que se ha oído.
 o Y, actuar o responder de algún modo a lo que se ha oído.
 
 Pero...escuchar es, ante todo, una muestra de respeto y como tal lo solemos interpretar.
-Los  buenos  comunicadores,  saben  que  la  escucha  puede  ser una buena forma  de que  la
-otra  persona  se  relaje,  o  se  “sienta”  comprendida.  La  capacidad  de  escuchar  es  una
-conducta que se aprende, una habilidad que hay que desarrollar. Escuchar activamente es
-una  de  las  habilidades  más  importantes  y  difíciles  del  proceso  comunicativo  y  significar
-escuchar y entender la comunicación desde el punto de vista del receptor. Tiene que ver
-no sólo con nuestra posibilidad de entender una situación dada; sino también con tender
-un puente hacia el otro cuando nos cuesta entendernos. Es la mejor manera de conectar
-emocionalmente.
+Los  buenos  comunicadores,  saben  que  la  escucha  puede  ser una buena forma  de que  la otra  persona  se  relaje,  o  se  “sienta”  comprendida.  La  capacidad  de  escuchar  es  una conducta que se aprende, una habilidad que hay que desarrollar. Escuchar activamente es una  de  las  habilidades  más  importantes  y  difíciles  del  proceso  comunicativo  y  significar escuchar y entender la comunicación desde el punto de vista del receptor. Tiene que ver no sólo con nuestra posibilidad de entender una situación dada; sino también con tender un puente hacia el otro cuando nos cuesta entendernos. Es la mejor manera de conectar emocionalmente.
 
-julio/2023
 ## 34/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-
-Factores que favorecen la escucha
-activa
+Factores que favorecen la escucha activa
 
 Factores que dificultan la escucha activa
 
 Mantener el contacto visual.
-Hacer pequeños resúmenes de lo que
-dice y siente la otra persona.
+Hacer pequeños resúmenes de lo que dice y siente la otra persona.
 Hacer preguntas abiertas.
 
 Utilizar un lenguaje corporal inhibidor.
 Abusar de distracciones.
 Dejar los temas a medias.
-Hacer interrupciones
-constantes.
+Hacer interrupciones constantes.
 Hacer comentarios cortantes o gratuitos.
 
-4.2 Factores que afectan a la comunicación verbal
-Como  ya  hemos  visto,  existen  situaciones  en  las  que  a  veces  se  dificulta  la  comunicación.  la
-comunicación entre las personas que explican a veces la dificultad de comunicarnos.
-Es  importante  que,  sobre  todo  en  situaciones  de tensión,  valoremos  como  normales  los
-malentendidos,  ya  que  no  necesariamente  obedecen  a  la  “voluntad  de  no  entender”  o  a  la
-“cabezonería” de una de las partes.
+## 4.2 Factores que afectan a la comunicación verbal Como  ya  hemos  visto,  existen  situaciones  en  las  que  a  veces  se  dificulta  la  comunicación.  la comunicación entre las personas que explican a veces la dificultad de comunicarnos.
+Es  importante  que,  sobre  todo  en  situaciones  de tensión,  valoremos  como  normales  los malentendidos,  ya  que  no  necesariamente  obedecen  a  la  “voluntad  de  no  entender”  o  a  la “cabezonería” de una de las partes.
 
-julio/2023
 ## 35/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-➢ Barreras ambientales
-▪ Características: son impersonales, se trata de barreras físicas del entorno que
-dificultan una buena comunicación (ruidos, iluminación, etc.).
+➢ Barreras ambientales ▪ Características: son impersonales, se trata de barreras físicas del entorno que dificultan una buena comunicación (ruidos, iluminación, etc.).
 ▪ Algunos ejemplos:
 o Incomodidad física (calor en la sala, una silla incómoda, etc.).
 o Distracciones visuales.
 o Interrupciones y ruidos (timbre, teléfono, alguien con tos...).
-➢ Barreras inherentes al ser humano
-▪ Características: se trata de limitaciones propias de las personas y pueden ser de tres
-tipos: Cognitivas, fisiológicas y psicológicas.
+➢ Barreras inherentes al ser humano ▪ Características: se trata de limitaciones propias de las personas y pueden ser de tres tipos: Cognitivas, fisiológicas y psicológicas.
 ## ▪ Tipos:
 a. Barreras cognitivas: motivadas por dificultades en el procesamiento cognitivo.
 Algunos ejemplos:
 Barreras verbales: están relacionadas con la forma de hablar, por ejemplo:
-personas que hablan muy rápido, personas cuya lengua materna es diferente a
-la del receptor, etc.
-Barreras semánticas: el emisor utiliza palabras con un significado, pero el
-emisor lo interpreta de manera diferente.
-Falta de conocimiento de los procedimientos o términos técnicos. Puede que,
-o bien el emisor o bien el receptor tenga conocimientos obsoletos sobre algo,
-sin ni siquiera ser consciente de ello.
-Carga de trabajo. La fatiga nos puede impedir procesar bien la información,
-aunque tenga capacidad para ello y la información esté bien formulada.
-Pocas referencias sobre el receptor de la información. Lo que me lleva a no
-adaptar convenientemente el mensaje por suponer unos códigos o
-conocimientos que en realidad el receptor no posee.
+personas que hablan muy rápido, personas cuya lengua materna es diferente a la del receptor, etc.
+Barreras semánticas: el emisor utiliza palabras con un significado, pero el emisor lo interpreta de manera diferente.
+Falta de conocimiento de los procedimientos o términos técnicos. Puede que, o bien el emisor o bien el receptor tenga conocimientos obsoletos sobre algo, sin ni siquiera ser consciente de ello.
+Carga de trabajo. La fatiga nos puede impedir procesar bien la información, aunque tenga capacidad para ello y la información esté bien formulada.
+Pocas referencias sobre el receptor de la información. Lo que me lleva a no adaptar convenientemente el mensaje por suponer unos códigos o conocimientos que en realidad el receptor no posee.
 b. Barreras fisiológicas: limitaciones fisiológicas de la persona. Algunos ejemplos:
 En el emisor (voz débil, pronunciación defectuosa, etc.).
 En el receptor (sordera, problemas visuales, etc.).
 
-julio/2023
 ## 36/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-c. Barreras psicológicas: ocasionadas por estados emocionales del emisor o del
-receptor. Algunos ejemplos:
-Las personas tenemos emociones y, en ocasiones, el miedo, la tristeza o la ira
-pueden condicionar nuestras respuestas.
-Circunstancias como el estrés pueden llevarnos a una comunicación
-excesivamente agresiva que provoque una reacción negativa en la otra parte.
+c. Barreras psicológicas: ocasionadas por estados emocionales del emisor o del receptor. Algunos ejemplos:
+Las personas tenemos emociones y, en ocasiones, el miedo, la tristeza o la ira pueden condicionar nuestras respuestas.
+Circunstancias como el estrés pueden llevarnos a una comunicación excesivamente agresiva que provoque una reacción negativa en la otra parte.
 Los grandes antídotos para salvar esas barreras son dos:
-o La empatía
-El origen del término se encuentra en un vocablo griego que hace referencia a la capacidad
-de  percibir  los  sentimientos  ajenos  como  propios.  Actualmente,  se  entiende  la  empatía
-como  un  sentimiento  de  participación  afectiva  en  la  realidad  que  afecta  a  otra persona,
-saber “leer” al otro.
-Es pues, una actitud positiva que permite establecer relaciones saludables, generando una
-mejor convivencia entre los individuos: ponerse en el lugar del otro, respetar sus derechos,
-atribuirle una intención o explicación razonable a su conducta son factores claves para la
-comunicación.
-Pero debe acompañarse de la segunda habilidad, para evitar caer en reacciones agresivas
-o tener la sensación de que los derechos propios no son respetados.
-o La asertividad
-Hace  referencia  a  la  capacidad  de  comunicar  a  las  personas  que  nos  rodean  nuestros
-sentimientos y necesidades, pero evitando herirles u ofenderles y ofender a los demás. Se
-suele  definir  como  la  capacidad  de  decir  “no”,  de  defender  la  postura  propia,  pero  sin
-atacar a la otra parte.
+o La empatía El origen del término se encuentra en un vocablo griego que hace referencia a la capacidad de  percibir  los  sentimientos  ajenos  como  propios.  Actualmente,  se  entiende  la  empatía como  un  sentimiento  de  participación  afectiva  en  la  realidad  que  afecta  a  otra persona, saber “leer” al otro.
+Es pues, una actitud positiva que permite establecer relaciones saludables, generando una mejor convivencia entre los individuos: ponerse en el lugar del otro, respetar sus derechos, atribuirle una intención o explicación razonable a su conducta son factores claves para la comunicación.
+Pero debe acompañarse de la segunda habilidad, para evitar caer en reacciones agresivas o tener la sensación de que los derechos propios no son respetados.
+o La asertividad Hace  referencia  a  la  capacidad  de  comunicar  a  las  personas  que  nos  rodean  nuestros sentimientos y necesidades, pero evitando herirles u ofenderles y ofender a los demás. Se suele  definir  como  la  capacidad  de  decir  “no”,  de  defender  la  postura  propia,  pero  sin atacar a la otra parte.
 
-julio/2023
 ## 37/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
 Ante una determinada situación, podemos reaccionar de tres formas básicas:
 
 La comunicación asertiva ayuda notablemente a mejorar la actuación de un equipo.
-4.3 La comunicación no verbal: importancia y factores que influyen.
-De acuerdo con Allan Pease, en su clásico libro “El lenguaje del cuerpo” cuando transmitimos
-un mensaje entre personas, utilizamos tres recursos:
+## 4.3 La comunicación no verbal: importancia y factores que influyen.
+De acuerdo con Allan Pease, en su clásico libro “El lenguaje del cuerpo” cuando transmitimos un mensaje entre personas, utilizamos tres recursos:
 ✓ Lenguaje verbal > Las palabras (lo que se podría transcribir a un papel).
 ✓ Lenguaje no verbal > El lenguaje corporal: gestos, posturas.
 ✓ Lenguaje paraverbal > Volumen, tono de voz...
-De  acuerdo  con  este autor,  el  lenguaje  No  Verbal  puede  suponer  más  del  50%  de  la
-comunicación entre personas. Si le sumamos el paraverbal, llegamos a un 80%.
+De  acuerdo  con  este autor,  el  lenguaje  No  Verbal  puede  suponer  más  del  50%  de  la comunicación entre personas. Si le sumamos el paraverbal, llegamos a un 80%.
 ¿Qué significa esto?
-Significa que nuestra interpretación de una misma información puede variar notablemente en
-función de la expresión facial de la persona que nos habla (lenguaje verbal) o del tono de voz
-con que el mensaje se transmite (firme, dubitativo...).
-En este sentido, tanto la comunicación no verbal como la paraverbal, están relacionadas con el
-impacto de las emociones sobre la comunicación interpersonal. Las emociones nos acompañan
-siempre; en nuestro trabajo también están presentes y allí, además, necesitamos sacar partido
-de ellas para alcanzar nuestros objetivos.
+Significa que nuestra interpretación de una misma información puede variar notablemente en función de la expresión facial de la persona que nos habla (lenguaje verbal) o del tono de voz con que el mensaje se transmite (firme, dubitativo...).
+En este sentido, tanto la comunicación no verbal como la paraverbal, están relacionadas con el impacto de las emociones sobre la comunicación interpersonal. Las emociones nos acompañan siempre; en nuestro trabajo también están presentes y allí, además, necesitamos sacar partido de ellas para alcanzar nuestros objetivos.
 
-julio/2023
 ## 38/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
 Las emociones básicas del ser humano son:
-▪ Tristeza: no me ayuda dejarme llevar por ella. Al superarla, asumo una pérdida o
-tomo conciencia de una situación.
-▪ Asco: adaptativamente es una emoción positiva que me ayuda a rechazar algo que no
-es bueno para mi salud.
-▪ Sorpresa: me ayuda a reconocer novedades, siempre y cuando no me lleve al
-sobresalto constante.
-▪ Ira: mal manejada es una pérdida de energía, bien manejada es lo que hace que me
-revele contra una situación que no deseo y aparezcan las fuerzas necesarias para
-hacerla frente.
+▪ Tristeza: no me ayuda dejarme llevar por ella. Al superarla, asumo una pérdida o tomo conciencia de una situación.
+▪ Asco: adaptativamente es una emoción positiva que me ayuda a rechazar algo que no es bueno para mi salud.
+▪ Sorpresa: me ayuda a reconocer novedades, siempre y cuando no me lleve al sobresalto constante.
+▪ Ira: mal manejada es una pérdida de energía, bien manejada es lo que hace que me revele contra una situación que no deseo y aparezcan las fuerzas necesarias para hacerla frente.
 ▪ Alegría: es necesaria para “recargar” las pilas y facilitar la interacción.
-▪ Miedo: su lado positivo es que nos hace más responsables y cautelosos; su lado
-negativo, es que puede paralizarnos.
+▪ Miedo: su lado positivo es que nos hace más responsables y cautelosos; su lado negativo, es que puede paralizarnos.
 
-- La fatiga
-La fatiga es un estado natural del individuo que forma parte de su condición humana y que en
-la mayor parte de los casos no tiene un impacto significativo en la persona. Sin embargo, si no
-se presta atención a este estado su impacto en las capacidades físicas y mentales del individuo
-pueden ser muy importantes.
-De hecho, está demostrado que la fatiga es un mecanismo biológico que no puede suprimirse
-de forma natural y que impulsa al individuo a descansar, como manera de recuperarse. Ignorar
+- La fatiga La fatiga es un estado natural del individuo que forma parte de su condición humana y que en la mayor parte de los casos no tiene un impacto significativo en la persona. Sin embargo, si no se presta atención a este estado su impacto en las capacidades físicas y mentales del individuo pueden ser muy importantes.
+De hecho, está demostrado que la fatiga es un mecanismo biológico que no puede suprimirse de forma natural y que impulsa al individuo a descansar, como manera de recuperarse. Ignorar
 
-julio/2023
 ## 39/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-dicho impulso interno trae consigo una degradación en el rendimiento cognitivo del individuo,
-que  puede  tener  consecuencias  muy  importantes  si  la  persona  desempeña  una  actividad
-profesional relacionada con la seguridad.
-La industria de la aviación es claramente es uno de los sectores donde se desarrollan tareas con
-una relación evidente con la seguridad y en la que, además, se exige un sistema de trabajo en
-el  que  el  personal  debe  rotar  por  diferentes  turnos  para  cubrir  las  necesidades  del  servicio,
-incluyendo turnos nocturnos.
-Trabajar durante la noche es una característica inherente a la ocupación de CTA y este turno
-presenta una serie de peculiaridades respecto de la fatiga, que le hacen diferente respecto del
-mismo  trabajo  desarrollado  durante  el  día,  ya  que  tanto  las  condiciones  del  entorno  (por
-ejemplo,  físicas  como  la  falta  de  luz,  o  propias  del  tráfico  como  la  reducción  de  la  afluencia)
-como  las  del  propio  individuo  (fisiológicas)  son  distintas. Por  otra  parte,  hay  otros  factores
-inductores de fatiga no relacionada con los procesos circadianos, que están vinculados con la
-carga de trabajo mental sostenida en el tiempo, y que también pueden combinarse con factores
-circadianos, con el estrés y con otros factores personales.
-Para  entender  mejor  la  relación  que  existe  entre  el  trabajo  de  CTA  y  la  fatiga,  así  como  la
-necesidad de saber gestionar dicho estado, es preciso hacer un repaso respecto de los principios
-científicos que rigen el patrón del sueño del ser humano.
-5.1  Principios relativos al sueño
-Como  ya  se  ha  explicado,  nadie  es  inmune  a  la  fatiga,  de  ahí que, aunque  las  necesidades
-operacionales  en  la  aviación  evolucionen  a  la  par  que  los  avances  tecnológicos,  la  fisiología
-humana  no  varía  y  la  única  respuesta  posible  ante  los  efectos  de  la  fatiga  en  el  sector
-aeronáutico es realizar una adecuada gestión de la misma que palie dichos efectos sobre sus
-profesionales.
-Esta gestión necesariamente ha de apoyarse en los avances científicos que en el ámbito de la
-fisiología humana se han realizado para conocer mejor los principios fisiológicos respecto del
-sueño, y por ende, respecto de la fatiga.
-5.2 Necesidad de dormir
-Dormir es una de las necesidades primordiales del ser humano. Por naturaleza, nuestro cuerpo
-suele atender a los ciclos de sueño y vigilia, acorde con la noche y el día. Limitar los períodos de
-vigilia  y  dormir  lo  suficiente  de  forma  periódica  es  fundamental  para  que  el  cerebro  pueda
-ordenar y almacenar las experiencias del día y recuperar la capacidad de los sistemas esenciales.
-Según  la  Organización  Mundial de  la  Salud  (OMS)  y  la National  Sleep  Foundation  (EE.UU.)  un
-adulto  entre  los  18  y  los  64  años  debe  dormir  un  promedio  diario  de  8  horas  para  poder
+dicho impulso interno trae consigo una degradación en el rendimiento cognitivo del individuo, que  puede  tener  consecuencias  muy  importantes  si  la  persona  desempeña  una  actividad profesional relacionada con la seguridad.
+La industria de la aviación es claramente es uno de los sectores donde se desarrollan tareas con una relación evidente con la seguridad y en la que, además, se exige un sistema de trabajo en el  que  el  personal  debe  rotar  por  diferentes  turnos  para  cubrir  las  necesidades  del  servicio, incluyendo turnos nocturnos.
+Trabajar durante la noche es una característica inherente a la ocupación de CTA y este turno presenta una serie de peculiaridades respecto de la fatiga, que le hacen diferente respecto del mismo  trabajo  desarrollado  durante  el  día,  ya  que  tanto  las  condiciones  del  entorno  (por ejemplo,  físicas  como  la  falta  de  luz,  o  propias  del  tráfico  como  la  reducción  de  la  afluencia) como  las  del  propio  individuo  (fisiológicas)  son  distintas. Por  otra  parte,  hay  otros  factores inductores de fatiga no relacionada con los procesos circadianos, que están vinculados con la carga de trabajo mental sostenida en el tiempo, y que también pueden combinarse con factores circadianos, con el estrés y con otros factores personales.
+Para  entender  mejor  la  relación  que  existe  entre  el  trabajo  de  CTA  y  la  fatiga,  así  como  la necesidad de saber gestionar dicho estado, es preciso hacer un repaso respecto de los principios científicos que rigen el patrón del sueño del ser humano.
+## 5.1  Principios relativos al sueño Como  ya  se  ha  explicado,  nadie  es  inmune  a  la  fatiga,  de  ahí que, aunque  las  necesidades operacionales  en  la  aviación  evolucionen  a  la  par  que  los  avances  tecnológicos,  la  fisiología humana  no  varía  y  la  única  respuesta  posible  ante  los  efectos  de  la  fatiga  en  el  sector aeronáutico es realizar una adecuada gestión de la misma que palie dichos efectos sobre sus profesionales.
+Esta gestión necesariamente ha de apoyarse en los avances científicos que en el ámbito de la fisiología humana se han realizado para conocer mejor los principios fisiológicos respecto del sueño, y por ende, respecto de la fatiga.
+## 5.2 Necesidad de dormir Dormir es una de las necesidades primordiales del ser humano. Por naturaleza, nuestro cuerpo suele atender a los ciclos de sueño y vigilia, acorde con la noche y el día. Limitar los períodos de vigilia  y  dormir  lo  suficiente  de  forma  periódica  es  fundamental  para  que  el  cerebro  pueda ordenar y almacenar las experiencias del día y recuperar la capacidad de los sistemas esenciales.
+Según  la  Organización  Mundial de  la  Salud  (OMS)  y  la National  Sleep  Foundation  (EE.UU.)  un adulto  entre  los  18  y  los  64  años  debe  dormir  un  promedio  diario  de  8  horas  para  poder
 
-julio/2023
 ## 40/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-recuperarse  de  una  actividad  diaria  normal.  Esta  cifra  no  deja  de  ser  una  media  ya  que  las
-necesidades entre individuos pueden variar.
-No obstante, no sólo hay que tener en cuenta la cantidad de horas dormidas sino la calidad de
-este sueño. Lo ideal para conseguir un sueño reparador y levantarse descansado, es dormir sin
-interrupciones  y  profundamente,  esto  es,  incluir  ciclos  ininterrumpidos  de  los  dos  tipos  de
-sueño que existen:
+recuperarse  de  una  actividad  diaria  normal.  Esta  cifra  no  deja  de  ser  una  media  ya  que  las necesidades entre individuos pueden variar.
+No obstante, no sólo hay que tener en cuenta la cantidad de horas dormidas sino la calidad de este sueño. Lo ideal para conseguir un sueño reparador y levantarse descansado, es dormir sin interrupciones  y  profundamente,  esto  es,  incluir  ciclos  ininterrumpidos  de  los  dos  tipos  de sueño que existen:
 a. el sueño sin movimientos rápidos del ojo (sueño no-REM
 ## 2
-); y
-b. el sueño con movimientos rápidos del ojo (sueño REM)
-El sueño no-REM, o fase de sueño lento, se divide a su vez en cuatro fases con características
-diferentes, así que en total se pueden distinguir, sumando la fase de sueño REM, cinco fases
-que  se  alternan  de  forma  cíclica  mientras  la  persona  permanece  dormida  (cada  90/100
-minutos, aproximadamente, comienza un nuevo ciclo de sueño en el que los últimos 20 o 30
-minutos se corresponden con la fase REM):
-➢ Fase I: es la fase de sueño ligero, en la que las personas son todavía capaces de percibir la
-mayoría   de   los   estímulos   (auditivos   y   táctiles).   El   tono   muscular   disminuye   en
-comparación con el estado de vigilia y aparecen movimientos oculares lento. El sueño en
-fase I es poco o nada reparador.
-➢ Fase  II:  en  esta  fase  el  sistema  nervioso  bloquea  las  vías  de  acceso  de  la  información
-sensorial,  lo  que  origina  una  desconexión  con  el  entorno  facilitándose,  por  tanto,  la
-actividad de dormir. Esta fase ocupa el 50% del tiempo de sueño en una persona adulta.
-El tono muscular es menor que en fase I y desaparecen los movimientos oculares. El sueño
-en esta fase es parcialmente reparador, por lo que no es suficiente para que el descanso
-se considere completo.
-➢ Fase III: es un sueño más profundo (denominado DELTA), donde el bloqueo sensorial se
-intensifica.   Si   el   individuo   se   despierta   durante   esta   fase,   se   siente   confuso   y
-desorientado.  En  esta  fase  no  se  sueña,  se  produce  una  disminución  del  10  al  30  por
-ciento de la tensión arterial y del ritmo respiratorio, y se incrementa la producción de la
-hormona del crecimiento. El tono muscular es aún más reducido que en fase II, y tampoco
-hay movimientos oculares.
-➢ Fase IV: es la fase de mayor profundidad del sueño, en la que la actividad cerebral es más
-lenta  (predominio  de  actividad  delta).  Al  igual  que  la  fase  III,  es  esencial  para  la
-recuperación  física  y,  especialmente,  psíquica,  del  organismo  (déficits  de  fase III  y  IV
+); y b. el sueño con movimientos rápidos del ojo (sueño REM) El sueño no-REM, o fase de sueño lento, se divide a su vez en cuatro fases con características diferentes, así que en total se pueden distinguir, sumando la fase de sueño REM, cinco fases que  se  alternan  de  forma  cíclica  mientras  la  persona  permanece  dormida  (cada  90/100 minutos, aproximadamente, comienza un nuevo ciclo de sueño en el que los últimos 20 o 30 minutos se corresponden con la fase REM):
+➢ Fase I: es la fase de sueño ligero, en la que las personas son todavía capaces de percibir la mayoría   de   los   estímulos   (auditivos   y   táctiles).   El   tono   muscular   disminuye   en comparación con el estado de vigilia y aparecen movimientos oculares lento. El sueño en fase I es poco o nada reparador.
+➢ Fase  II:  en  esta  fase  el  sistema  nervioso  bloquea  las  vías  de  acceso  de  la  información sensorial,  lo  que  origina  una  desconexión  con  el  entorno  facilitándose,  por  tanto,  la actividad de dormir. Esta fase ocupa el 50% del tiempo de sueño en una persona adulta.
+El tono muscular es menor que en fase I y desaparecen los movimientos oculares. El sueño en esta fase es parcialmente reparador, por lo que no es suficiente para que el descanso se considere completo.
+➢ Fase III: es un sueño más profundo (denominado DELTA), donde el bloqueo sensorial se intensifica.   Si   el   individuo   se   despierta   durante   esta   fase,   se   siente   confuso   y desorientado.  En  esta  fase  no  se  sueña,  se  produce  una  disminución  del  10  al  30  por ciento de la tensión arterial y del ritmo respiratorio, y se incrementa la producción de la hormona del crecimiento. El tono muscular es aún más reducido que en fase II, y tampoco hay movimientos oculares.
+➢ Fase IV: es la fase de mayor profundidad del sueño, en la que la actividad cerebral es más lenta  (predominio  de  actividad  delta).  Al  igual  que  la  fase  III,  es  esencial  para  la recuperación  física  y,  especialmente,  psíquica,  del  organismo  (déficits  de  fase III  y  IV
 
 ## 2
 Las siglas REM se corresponden con el nombre en inglés “Rapid Eye Movements”
 
-julio/2023
 ## 41/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-causan somnolencia diurna). En esta fase, el tono muscular está muy reducido. No es la
-fase  típica  de  los  sueños,  pero  en  ocasiones  pueden  aparecer,  en  forma  de  imágenes,
-luces, figuras... sin una línea argumental.
-➢ Fase  REM:  En  esta  fase  se  presentan  los  sueños  en  forma  de  narración,  con  un  hilo
-argumental, aunque sea absurdo. La actividad eléctrica cerebral de esta fase es rápida. El
-tono muscular es nulo (atonía muscular o parálisis), impidiendo que la persona dormida
-materialice sus alucinaciones oníricas y pueda hacerse daño.
-Además  de  la  interrupción  de  ciclos  No-REM  y  REM  durante  el  sueño,  factores  como  el
-envejecimiento,  la  presencia  de  síntomas  asociados  a  trastornos  del  sueño  (por  ejemplo,  la
-apnea),  la  influencia  de  factores  medioambientales  (como  una  inadecuada  iluminación  o
-temperatura)  o  la  ingesta  de  cafeína,  alcohol  o  nicotina,  pueden  afectar  negativamente  a  la
-calidad del sueño.
-Es importante recordar que los estudios realizados respecto de la calidad del descanso de los
-CTAs durante el turno de noche en su lugar de trabajo demuestran que este sueño es más ligero
-y  con frecuencia  interrumpido  (de  tipo No-REM),  no  pudiendo  compararse  con  la  calidad del
-sueño en el domicilio en las condiciones habituales para el individuo.
-5.3 Pérdida y recuperación del sueño
-Como se recogía en el apartado anterior, tanto la cantidad como la calidad del sueño son muy
-importantes  para  asegurar  al  individuo  un  descanso  reparador,  por  ello  la  disminución  de
-alguna  de  estas  variables –cantidad  y/o  duración- aunque  sea  por  una  sola noche,  reduce  la
-capacidad  para  el  desempeño  de  las  tareas  y  aumenta  la  somnolencia.  Si  bien  estos  efectos
-sobre las personas son innegables, el modo en que esta pérdida afecta a cada individuo varía
-enormemente en función de la tolerabilidad de cada uno ante la privación del sueño.
-Esta  restricción  del  sueño  es  lo  que  se  conoce  como  “deuda  de  sueño”  que  de  prolongarse
-durante  varias  noches  se  acumula,  contribuyendo  a  disminuir  progresivamente  el  nivel  de
-atención  y  la  capacidad  de  trabajo  de  la  persona,  es  decir,  a  menor  número  de  horas
-descansadas mayor degradación del nivel de desempeño. De hecho, debido a este incremento
-progresivo  de  los  efectos  negativos  de  la  privación  prolongada  de  sueño,  recuperar  un  nivel
-óptimo  de  las  capacidades  cognitivas  va  a  requerir  de  un  período  de  descanso  mayor  que  el
-periodo de sueño nocturno habitual.
-Fruto de la falta de un descanso correcto y suficiente surgen los llamados “microsueños”. Un
-microsueño se caracteriza por durar tan solo unos segundos en los que el cerebro “desconecta”
-y el individuo se duerme. Es tan corto que es posible que pase desapercibido, pero durante ese
-lapso de tiempo el cerebro pierde la conexión con cualquier estímulo exterior, lo que hace que
-este  fenómeno  sea  especialmente  peligroso  si  la  persona  se  encuentra  realizando  tareas
-relacionadas con la seguridad.
+causan somnolencia diurna). En esta fase, el tono muscular está muy reducido. No es la fase  típica  de  los  sueños,  pero  en  ocasiones  pueden  aparecer,  en  forma  de  imágenes, luces, figuras... sin una línea argumental.
+➢ Fase  REM:  En  esta  fase  se  presentan  los  sueños  en  forma  de  narración,  con  un  hilo argumental, aunque sea absurdo. La actividad eléctrica cerebral de esta fase es rápida. El tono muscular es nulo (atonía muscular o parálisis), impidiendo que la persona dormida materialice sus alucinaciones oníricas y pueda hacerse daño.
+Además  de  la  interrupción  de  ciclos  No-REM  y  REM  durante  el  sueño,  factores  como  el envejecimiento,  la  presencia  de  síntomas  asociados  a  trastornos  del  sueño  (por  ejemplo,  la apnea),  la  influencia  de  factores  medioambientales  (como  una  inadecuada  iluminación  o temperatura)  o  la  ingesta  de  cafeína,  alcohol  o  nicotina,  pueden  afectar  negativamente  a  la calidad del sueño.
+Es importante recordar que los estudios realizados respecto de la calidad del descanso de los CTAs durante el turno de noche en su lugar de trabajo demuestran que este sueño es más ligero y  con frecuencia  interrumpido  (de  tipo No-REM),  no  pudiendo  compararse  con  la  calidad del sueño en el domicilio en las condiciones habituales para el individuo.
+## 5.3 Pérdida y recuperación del sueño Como se recogía en el apartado anterior, tanto la cantidad como la calidad del sueño son muy importantes  para  asegurar  al  individuo  un  descanso  reparador,  por  ello  la  disminución  de alguna  de  estas  variables –cantidad  y/o  duración- aunque  sea  por  una  sola noche,  reduce  la capacidad  para  el  desempeño  de  las  tareas  y  aumenta  la  somnolencia.  Si  bien  estos  efectos sobre las personas son innegables, el modo en que esta pérdida afecta a cada individuo varía enormemente en función de la tolerabilidad de cada uno ante la privación del sueño.
+Esta  restricción  del  sueño  es  lo  que  se  conoce  como  “deuda  de  sueño”  que  de  prolongarse durante  varias  noches  se  acumula,  contribuyendo  a  disminuir  progresivamente  el  nivel  de atención  y  la  capacidad  de  trabajo  de  la  persona,  es  decir,  a  menor  número  de  horas descansadas mayor degradación del nivel de desempeño. De hecho, debido a este incremento progresivo  de  los  efectos  negativos  de  la  privación  prolongada  de  sueño,  recuperar  un  nivel óptimo  de  las  capacidades  cognitivas  va  a  requerir  de  un  período  de  descanso  mayor  que  el periodo de sueño nocturno habitual.
+Fruto de la falta de un descanso correcto y suficiente surgen los llamados “microsueños”. Un microsueño se caracteriza por durar tan solo unos segundos en los que el cerebro “desconecta” y el individuo se duerme. Es tan corto que es posible que pase desapercibido, pero durante ese lapso de tiempo el cerebro pierde la conexión con cualquier estímulo exterior, lo que hace que este  fenómeno  sea  especialmente  peligroso  si  la  persona  se  encuentra  realizando  tareas relacionadas con la seguridad.
 
-julio/2023
 ## 42/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-Privar  al  organismo  de  manera  continuada  del  descanso  a  través  de  periodos  de  sueño
-aumenta el riesgo de padecer enfermedades tales como la obesidad, la diabetes tipo 2 o las
-afecciones cardiovasculares. De hecho para estar saludable, dormir adecuadamente es tan
-importante como comer de forma equilibrada o mantenerse activo mediante la práctica de
-algún de deporte.
-5.4 Procesos del sueño e influencia en las capacidades de la persona
-Tanto  el  sueño  como  la  vigilia,  periodo  durante  el  cual  el  individuo  está  despierto,  están
-regulados principalmente por tres procesos:
-➢ Proceso Circadiano (C), es el reloj corporal interno que regula funciones como la
-temperatura, la producción hormonal, etc. rigiéndose por un patrón de 24 horas,
-aproximadamente. Su pico más bajo de actividad ocurre durante la segunda parte de
-la noche (aproximadamente entre las 3 y las 6 a.m.).  Este mínimo conocido como
-mínimo de la ventana circadiana (WOCL) coincide con el momento donde se alcanza la
-temperatura basal mínima corporal, produciéndose entonces en el individuo la mayor
-somnolencia y la menor capacidad de desempeño.
-➢ Proceso Homeostático (S), es el responsable del impulso de dormir tras una cierta
-cantidad de horas en estado de vigilia, este impulso será mayor cuanto mayor sea el
-tiempo que el individuo haya estado despierto. En una situación normal de trabajo sin
-turnos, es decir, trabajo durante el día y sueño nocturno, los procesos C y S están
-sincronizados. Sin embargo, con el trabajo nocturno estos procesos se desajustan.
-Durante la noche, a medida que nuestro reloj corporal se acerca a su pico más bajo, el
-individuo siente progresivamente una mayor necesidad de dormir. Durante el día los
-dos procesos cambiarán su tendencia por lo que también le resultará difícil conciliar el
-sueño. Debido a este desajuste, los CTAs pueden tener dificultades para adaptarse a
-un turno donde necesiten despertarse temprano y por tanto, irse a dormir muy pronto
-el día anterior. De hecho, si se compara el nivel de rendimiento cognitivo del individuo
-resulta que éste es menor durante la madrugada y se va incrementando durante las
-horas siguientes.
-➢ Proceso Vigilia (W), refleja la inercia del sueño, es decir “un estado de transición” entre
-la disminución de actividad que sucede inmediatamente después de despertar (con la
-consecuente disminución del rendimiento durante este período), y el estado de
-vigilancia y atención máximo que aparece cuando el individuo se ha despertado por
-completo. Para evitar esta reducción de la capacidad de trabajo de una persona que
-acaba de despertarse es recomendable dejar pasar un tiempo prudencial antes de
-retomar las tareas, especialmente aquéllas que requieran de un alto nivel de
-rendimiento de las capacidades de vigilancia y alerta.
+Privar  al  organismo  de  manera  continuada  del  descanso  a  través  de  periodos  de  sueño aumenta el riesgo de padecer enfermedades tales como la obesidad, la diabetes tipo 2 o las afecciones cardiovasculares. De hecho para estar saludable, dormir adecuadamente es tan importante como comer de forma equilibrada o mantenerse activo mediante la práctica de algún de deporte.
+## 5.4 Procesos del sueño e influencia en las capacidades de la persona Tanto  el  sueño  como  la  vigilia,  periodo  durante  el  cual  el  individuo  está  despierto,  están regulados principalmente por tres procesos:
+➢ Proceso Circadiano (C), es el reloj corporal interno que regula funciones como la temperatura, la producción hormonal, etc. rigiéndose por un patrón de 24 horas, aproximadamente. Su pico más bajo de actividad ocurre durante la segunda parte de la noche (aproximadamente entre las 3 y las 6 a.m.).  Este mínimo conocido como mínimo de la ventana circadiana (WOCL) coincide con el momento donde se alcanza la temperatura basal mínima corporal, produciéndose entonces en el individuo la mayor somnolencia y la menor capacidad de desempeño.
+➢ Proceso Homeostático (S), es el responsable del impulso de dormir tras una cierta cantidad de horas en estado de vigilia, este impulso será mayor cuanto mayor sea el tiempo que el individuo haya estado despierto. En una situación normal de trabajo sin turnos, es decir, trabajo durante el día y sueño nocturno, los procesos C y S están sincronizados. Sin embargo, con el trabajo nocturno estos procesos se desajustan.
+Durante la noche, a medida que nuestro reloj corporal se acerca a su pico más bajo, el individuo siente progresivamente una mayor necesidad de dormir. Durante el día los dos procesos cambiarán su tendencia por lo que también le resultará difícil conciliar el sueño. Debido a este desajuste, los CTAs pueden tener dificultades para adaptarse a un turno donde necesiten despertarse temprano y por tanto, irse a dormir muy pronto el día anterior. De hecho, si se compara el nivel de rendimiento cognitivo del individuo resulta que éste es menor durante la madrugada y se va incrementando durante las horas siguientes.
+➢ Proceso Vigilia (W), refleja la inercia del sueño, es decir “un estado de transición” entre la disminución de actividad que sucede inmediatamente después de despertar (con la consecuente disminución del rendimiento durante este período), y el estado de vigilancia y atención máximo que aparece cuando el individuo se ha despertado por completo. Para evitar esta reducción de la capacidad de trabajo de una persona que acaba de despertarse es recomendable dejar pasar un tiempo prudencial antes de retomar las tareas, especialmente aquéllas que requieran de un alto nivel de rendimiento de las capacidades de vigilancia y alerta.
 
-julio/2023
 ## 43/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-5.5 Carga de trabajo, fatiga y nivel de desempeño
-La  Organización de  Aviación  Civil  Internacional  (OACI)  en  el Documento 9966  Manual  para  la
-supervisión de los enfoques de gestión de la fatiga de 2016, define la fatiga como aquel estado
-fisiológico que se caracteriza por una reducción de la capacidad de desempeño mental o físico
-debido  a  la  falta  de  sueño  o  a  períodos  prolongados  de  vigilia,  fase  circadiana,  y/o  carga  de
-trabajo (actividad mental y/o física) y que puede menoscabar el estado de alerta de una persona
-y su capacidad para desempeñar sus funciones relacionadas con la seguridad operacional.
-La introducción en la definición del término “carga de trabajo” como una actividad mental y/o
-física da una idea de la importante relación que guarda este concepto con la fatiga. No obstante,
-para la carga de trabajo no existe una definición universal, por lo que para evaluarla hay que
-recurrir a los aspectos que habitualmente se relacionan con ella:
-o El  tipo  y  la naturaleza de  trabajo  que  ha  de  realizarse  (en  particular  la  duración,
-dificultad y complejidad de la tarea, así como la laboriosidad del trabajo).
-o Las limitaciones de tiempo (en particular si los horarios vienen dados por las exigencias
-de las tareas, los factores externos o cada persona).
-o Los factores relativos a la capacidad de desempeño de cada persona (en particular su
-experiencia, capacitación, esfuerzo, historial de sueño y fase circadiana).
-El resultado del análisis de estos factores puede variar sustancialmente en función del escenario
-que  consideremos,  ya  que  cada  trabajo  es  diferente  y  requiere  de  unas  habilidades  y
-capacidades específicas e incluso un mismo trabajo puede requerir de la aplicación diferenciada
-de estas según el momento.
-En  general,  los  estudios  realizados  sobre  la  relación  entre  la  carga  de  trabajo  y  el  nivel  de
-desempeño de  la  persona  respecto de  la  tarea que realiza demuestran  que el  mejor nivel  de
-desempeño se obtiene a niveles medios de carga de trabajo. Por un lado, las actividades con
-una baja carga de trabajo pueden dificultar la motivación y provocar monotonía y aburrimiento,
-lo que podría revelar una soñolencia fisiológica subyacente y, en consecuencia, reducir el nivel
-de desempeño. Por otro lado, las situaciones con una elevada carga de trabajo pueden hacer
-que  se  rebase  la  capacidad  de  una  persona  fatigada,  lo  que  a  su  vez  podría  provocar  una
-disminución de desempeño.
-A  este  respecto, es  interesante  volver  a  detenerse  en  la  anteriormente  mencionada Ley  de
-Yerkes-Dodson, ya que relaciona el nivel de activación del individuo y su rendimiento, que se
-puede  representar en  forma  de  U  invertida.  Esto  es,  el  rendimiento  será  óptimo  para  un
-determinado  nivel  de  activación;  en  cambio,  si  es  demasiado  alto,  o  demasiado  bajo,
-repercutirá de forma negativa en el resultado de la tarea.
+## 5.5 Carga de trabajo, fatiga y nivel de desempeño La  Organización de  Aviación  Civil  Internacional  (OACI)  en  el Documento 9966  Manual  para  la supervisión de los enfoques de gestión de la fatiga de 2016, define la fatiga como aquel estado fisiológico que se caracteriza por una reducción de la capacidad de desempeño mental o físico debido  a  la  falta  de  sueño  o  a  períodos  prolongados  de  vigilia,  fase  circadiana,  y/o  carga  de trabajo (actividad mental y/o física) y que puede menoscabar el estado de alerta de una persona y su capacidad para desempeñar sus funciones relacionadas con la seguridad operacional.
+La introducción en la definición del término “carga de trabajo” como una actividad mental y/o física da una idea de la importante relación que guarda este concepto con la fatiga. No obstante, para la carga de trabajo no existe una definición universal, por lo que para evaluarla hay que recurrir a los aspectos que habitualmente se relacionan con ella:
+o El  tipo  y  la naturaleza de  trabajo  que  ha  de  realizarse  (en  particular  la  duración, dificultad y complejidad de la tarea, así como la laboriosidad del trabajo).
+o Las limitaciones de tiempo (en particular si los horarios vienen dados por las exigencias de las tareas, los factores externos o cada persona).
+o Los factores relativos a la capacidad de desempeño de cada persona (en particular su experiencia, capacitación, esfuerzo, historial de sueño y fase circadiana).
+El resultado del análisis de estos factores puede variar sustancialmente en función del escenario que  consideremos,  ya  que  cada  trabajo  es  diferente  y  requiere  de  unas  habilidades  y capacidades específicas e incluso un mismo trabajo puede requerir de la aplicación diferenciada de estas según el momento.
+En  general,  los  estudios  realizados  sobre  la  relación  entre  la  carga  de  trabajo  y  el  nivel  de desempeño de  la  persona  respecto de  la  tarea que realiza demuestran  que el  mejor nivel  de desempeño se obtiene a niveles medios de carga de trabajo. Por un lado, las actividades con una baja carga de trabajo pueden dificultar la motivación y provocar monotonía y aburrimiento, lo que podría revelar una soñolencia fisiológica subyacente y, en consecuencia, reducir el nivel de desempeño. Por otro lado, las situaciones con una elevada carga de trabajo pueden hacer que  se  rebase  la  capacidad  de  una  persona  fatigada,  lo  que  a  su  vez  podría  provocar  una disminución de desempeño.
+A  este  respecto, es  interesante  volver  a  detenerse  en  la  anteriormente  mencionada Ley  de Yerkes-Dodson, ya que relaciona el nivel de activación del individuo y su rendimiento, que se puede  representar en  forma  de  U  invertida.  Esto  es,  el  rendimiento  será  óptimo  para  un determinado  nivel  de  activación;  en  cambio,  si  es  demasiado  alto,  o  demasiado  bajo, repercutirá de forma negativa en el resultado de la tarea.
 
-julio/2023
 ## 44/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-
 ## FIGURA 8  LEY DE YERKES-DODSON
-A bajos niveles de activación, el nivel de rendimiento también es bajo. Esto puede responder a
-una  situación  de  relajación  deseada.  Sin  embargo,  cuando  debido  a  la  fatiga  o  la  falta  de
-motivación  el  nivel  de  rendimiento  alcanzado  no  coincide  con  el  nivel  de  rendimiento
-requerido,  se  puede  perder  información,  omitir  acciones,  ser  menos  vigilantes,  escanear
-insuficientemente, cometer errores y reaccionar mucho más lentamente a los cambios.
-Y  en  caso  contrario,  cuando  el nivel  de  activación  es  demasiado  alto  el  individuo  comienza  a
-cometer más errores, le es más difícil tomar decisiones y aumenta su tiempo de reacción. Otros
-inconvenientes  también  asociados  a  este  estado  son  la  tendencia  a  reducir  la  atención  y  el
-enfoque, omitir información y la incapacidad para evaluar el riesgo y asignar prioridades.
-5.6 El Reglamento (UE) 2017/373 y las SARPS de OACI sobre la gestión de la fatiga
-Tanto la Unión Europea (UE) como OACI han establecido reglamentos y normas relativos a la
-gestión de la fatiga, en el caso de la UE también respecto de la gestión del estrés, aspecto que
-se tratará en el apartado correspondiente a este estado.
-La Unión Europea refleja los requisitos sobre la gestión de la fatiga relativa a los controladores
-de tránsito aéreo en el Reglamento de Ejecución (UE) 2017/373 de 1 de marzo de 2017 de la
-Comisión,  por  el  que  se  establecen  requisitos  comunes  para  los  proveedores  de  servicios  de
-gestión del tránsito aéreo/ aérea y otras funciones de la red de gestión del tránsito
-aéreo y su supervisión. En concreto, en su Anexo IV, Sección 3 donde aparecen los Requisitos
-sobre  Factores  Humanos. Las  disposiciones  de  este  Reglamento  que  entra  en  vigor  el
-02/01/2020  se  complementan  con  las  denominadas Easy  Rules de  EASA  (European  Aviation
-Safety Agency) donde para cada requisito o Implementing Rule, definido en dicho Reglamento
-se describen medios aceptables de cumplimiento (AMC) y material guía (GM).
-Otro  Reglamento  a  tener  en  cuenta  es  el  Reglamento  de  Ejecución  (UE)  2015/1018  de  la
-Comisión de 29 de junio de 2015 por el que se establece una lista de clasificación de los sucesos
-en  la  aviación  civil  de  notificación  obligatoria.  En  su  anexo  III  respecto  de  los  Sucesos
+A bajos niveles de activación, el nivel de rendimiento también es bajo. Esto puede responder a una  situación  de  relajación  deseada.  Sin  embargo,  cuando  debido  a  la  fatiga  o  la  falta  de motivación  el  nivel  de  rendimiento  alcanzado  no  coincide  con  el  nivel  de  rendimiento requerido,  se  puede  perder  información,  omitir  acciones,  ser  menos  vigilantes,  escanear insuficientemente, cometer errores y reaccionar mucho más lentamente a los cambios.
+Y  en  caso  contrario,  cuando  el nivel  de  activación  es  demasiado  alto  el  individuo  comienza  a cometer más errores, le es más difícil tomar decisiones y aumenta su tiempo de reacción. Otros inconvenientes  también  asociados  a  este  estado  son  la  tendencia  a  reducir  la  atención  y  el enfoque, omitir información y la incapacidad para evaluar el riesgo y asignar prioridades.
+## 5.6 El Reglamento (UE) 2017/373 y las SARPS de OACI sobre la gestión de la fatiga Tanto la Unión Europea (UE) como OACI han establecido reglamentos y normas relativos a la gestión de la fatiga, en el caso de la UE también respecto de la gestión del estrés, aspecto que se tratará en el apartado correspondiente a este estado.
+La Unión Europea refleja los requisitos sobre la gestión de la fatiga relativa a los controladores de tránsito aéreo en el Reglamento de Ejecución (UE) 2017/373 de 1 de marzo de 2017 de la Comisión,  por  el  que  se  establecen  requisitos  comunes  para  los  proveedores  de  servicios  de gestión del tránsito aéreo/ aérea y otras funciones de la red de gestión del tránsito aéreo y su supervisión. En concreto, en su Anexo IV, Sección 3 donde aparecen los Requisitos sobre  Factores  Humanos. Las  disposiciones  de  este  Reglamento  que  entra  en  vigor  el 02/01/2020  se  complementan  con  las  denominadas Easy  Rules de  EASA  (European  Aviation Safety Agency) donde para cada requisito o Implementing Rule, definido en dicho Reglamento se describen medios aceptables de cumplimiento (AMC) y material guía (GM).
+Otro  Reglamento  a  tener  en  cuenta  es  el  Reglamento  de  Ejecución  (UE)  2015/1018  de  la Comisión de 29 de junio de 2015 por el que se establece una lista de clasificación de los sucesos en  la  aviación  civil  de  notificación  obligatoria.  En  su  anexo  III  respecto  de  los  Sucesos
 
-julio/2023
 ## 45/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-relacionados con los servicios e instalaciones de  aérea, establece la obligatoriedad
-de  notificación,  tanto  para  el  proveedor  de  servicios  de  tránsito  aéreo  como  para  el  CTA,
-respecto de “la fatiga que repercuta, o pueda repercutir, en la capacidad de ejercer de forma
-segura las funciones de  aérea o tránsito aéreo”
-Las  notificaciones  de  fatiga  constituyen  una  fuente  de  información  esencial  para  poder
-entender, analizar y evaluar los riesgos asociados a la fatiga, tanto si ésta se gestiona mediante
-un FRMS o de acorde a los límites prescriptivos.
-ENAIRE cuenta con un sistema integrado de gestión de riesgos de fatiga y estrés denominado
-FSRMS Fatigue and Stress Risk Management System.
-5.7 Aptitud física
-➢ Síntomas de fatiga
-Antes  de  comenzar  a  explicar  los  síntomas  que  puede  provocar  la  fatiga,  es  necesario
-establecer la diferencia que existe entre el concepto de fatiga y el de cansancio.
-Cansancio es el elemento subjetivo de la fatiga y puede o no, estar presente en un cuadro
-de  fatiga  dependiendo  de  varios  factores  como  la  motivación,  el  clima,  el  interés  por  el
-trabajo realizado, las experiencias vividas, etc.
-La  fatiga  es  algo  objetivo,  un  estado  fisiológico  que  se  manifiesta  en  disminución  de  la
-capacidad de la persona para realizar su trabajo.
-Por  tanto,  la  fatiga  se  produce  a  consecuencia  de  un  periodo  de  vigilia  prolongada  y  una
-acumulación de falta de sueño, y la sensación de cansancio aparece tras la realización de un
-trabajo intenso, o dicho de otra manera, la fatiga es el agotamiento de la mente o del cuerpo
-como  resultado  del  trabajo  o  de  la  falta  de  descanso  y  el  cansancio  es  la  sensación  del
-individuo en relación con su nivel de fatiga.
-De  forma  general,  podemos  hablar  de  fatiga  mental,  visual  y  física,  y  para  facilitar  su
-comprensión, se han incluido algunos de estos síntomas de forma visual:
+relacionados con los servicios e instalaciones de  aérea, establece la obligatoriedad de  notificación,  tanto  para  el  proveedor  de  servicios  de  tránsito  aéreo  como  para  el  CTA, respecto de “la fatiga que repercuta, o pueda repercutir, en la capacidad de ejercer de forma segura las funciones de  aérea o tránsito aéreo” Las  notificaciones  de  fatiga  constituyen  una  fuente  de  información  esencial  para  poder entender, analizar y evaluar los riesgos asociados a la fatiga, tanto si ésta se gestiona mediante un FRMS o de acorde a los límites prescriptivos.
+ENAIRE cuenta con un sistema integrado de gestión de riesgos de fatiga y estrés denominado FSRMS Fatigue and Stress Risk Management System.
+## 5.7 Aptitud física ➢ Síntomas de fatiga Antes  de  comenzar  a  explicar  los  síntomas  que  puede  provocar  la  fatiga,  es  necesario establecer la diferencia que existe entre el concepto de fatiga y el de cansancio.
+Cansancio es el elemento subjetivo de la fatiga y puede o no, estar presente en un cuadro de  fatiga  dependiendo  de  varios  factores  como  la  motivación,  el  clima,  el  interés  por  el trabajo realizado, las experiencias vividas, etc.
+La  fatiga  es  algo  objetivo,  un  estado  fisiológico  que  se  manifiesta  en  disminución  de  la capacidad de la persona para realizar su trabajo.
+Por  tanto,  la  fatiga  se  produce  a  consecuencia  de  un  periodo  de  vigilia  prolongada  y  una acumulación de falta de sueño, y la sensación de cansancio aparece tras la realización de un trabajo intenso, o dicho de otra manera, la fatiga es el agotamiento de la mente o del cuerpo como  resultado  del  trabajo  o  de  la  falta  de  descanso  y  el  cansancio  es  la  sensación  del individuo en relación con su nivel de fatiga.
+De  forma  general,  podemos  hablar  de  fatiga  mental,  visual  y  física,  y  para  facilitar  su comprensión, se han incluido algunos de estos síntomas de forma visual:
 ## SÍNTOMAS PSICOLÓGICOS
 ## DE LA FATIGA
 ## SÍNTOMAS FISIOLÓGICOS
 ## DE LA FATIGA
-Alteración de la capacidad cognitiva (atención,
-vigilancia, nivel de alerta)
-Dificultad para enfocar/ visión borrosa
-Afección a la memoria Sensación de irritación, dolor o picor en los ojos
-Alteración de la capacidad para hacer planes
-y/o ejecutarlos.  Lentitud en las tareas.
-Ojos llorosos
-Alteración de estados de ánimo Enrojecimiento de los ojos
+Alteración de la capacidad cognitiva (atención, vigilancia, nivel de alerta) Dificultad para enfocar/ visión borrosa Afección a la memoria Sensación de irritación, dolor o picor en los ojos Alteración de la capacidad para hacer planes y/o ejecutarlos.  Lentitud en las tareas.
+Ojos llorosos Alteración de estados de ánimo Enrojecimiento de los ojos
 
-julio/2023
 ## 46/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-Irritabilidad Dolores de cabeza, confusión o mareo
-Alteración de la percepción del riesgo Trastornos asociados al sueño
+Irritabilidad Dolores de cabeza, confusión o mareo Alteración de la percepción del riesgo Trastornos asociados al sueño
 
-➢ Salud y bienestar en relación con el trabajo a turnos
-Desde el punto de vista de la seguridad operacional, no es sencillo establecer claramente el
-impacto causado por la fatiga, ya que depende de la propia conciencia del individuo respecto
-de  su  estado  y  de  su  habilidad  para  desarrollar  estrategias  que  mitiguen  los  efectos
-perjudiciales de ésta, aunque la consecuencia de la fatiga puede traducirse en un aumento
-de los errores y, por tanto, de los incidentes de seguridad.
+➢ Salud y bienestar en relación con el trabajo a turnos Desde el punto de vista de la seguridad operacional, no es sencillo establecer claramente el impacto causado por la fatiga, ya que depende de la propia conciencia del individuo respecto de  su  estado  y  de  su  habilidad  para  desarrollar  estrategias  que  mitiguen  los  efectos perjudiciales de ésta, aunque la consecuencia de la fatiga puede traducirse en un aumento de los errores y, por tanto, de los incidentes de seguridad.
 ## FATIGA
-¿CTA consciente
-de la fatiga?
+¿CTA consciente de la fatiga?
 Estrategias de primer nivel:
-Previenen o reducen la fatiga
-(siesta, cafeina...)
-Estrategias de segundo nivel:
-Mitigan los efectos de la
-fatiga
+Previenen o reducen la fatiga (siesta, cafeina...) Estrategias de segundo nivel:
+Mitigan los efectos de la fatiga
 ## NO
 ## SÍ
 ## Incidente
@@ -1683,365 +597,117 @@ de
 ## Seguridad
 
 ## FIGURA 9  RELACIÓN ENTRE LA FATIGA Y LA SEGURIDAD OPERACIONAL
-El  período  de  actividad  aeronáutica  nocturna  forma  parte  del  sistema  de  trabajo  a  turnos
-adoptado para el control de tráfico aéreo, en el que el personal debe rotar por diferentes turnos
-para  cubrir  las  necesidades  del  servicio.  Es  conveniente  recordar  los aspectos  que  diferencia
-esta profesión respecto de otras industrias:
+El  período  de  actividad  aeronáutica  nocturna  forma  parte  del  sistema  de  trabajo  a  turnos adoptado para el control de tráfico aéreo, en el que el personal debe rotar por diferentes turnos para  cubrir  las  necesidades  del  servicio.  Es  conveniente  recordar  los aspectos  que  diferencia esta profesión respecto de otras industrias:
 o La seguridad en las operaciones es siempre un factor crítico.
 o Muchas de las dependencias requieren de un servicio H24.
 
-julio/2023
 ## 47/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-o El grado de complejidad y dinamismo de las situaciones con las que se enfrenta el
-personal operativo es muy alto.
-o El escenario de trabajo es muy variable y puede fluctuar diaria, semanal y/o
-estacionalmente.
+o El grado de complejidad y dinamismo de las situaciones con las que se enfrenta el personal operativo es muy alto.
+o El escenario de trabajo es muy variable y puede fluctuar diaria, semanal y/o estacionalmente.
 o Los individuos necesitan mantener un alto nivel de rendimiento.
-Por tanto,  trabajar  por  la  noche es una  característica  inherente  a  la  ocupación de  CTA  y este
-turno presenta una serie de peculiaridades que le hacen diferente respecto del mismo trabajo
-desarrollado durante el día, ya que tanto las condiciones del entorno (por ejemplo: físicas -falta
-de  luz-,  o  propias  del  tráfico -reducción  de  la  afluencia-)  como  las  del  propio  individuo
-(fisiológicas) son distintas.
-El trabajo a turnos puede perjudicar la salud, ya que el organismo se adapta mal a los continuos
-cambios de horario. Los aspectos que se ven afectados por el trabajo a turnos se clasifican en
-tres grandes grupos:
-a. Alteraciones del sueño
-b. Problemas de salud tanto física como psicológica
-c. Dificultades en la vida familiar y social
-La falta de horas de sueño conlleva la aparición de patrones diferentes de actividad cerebral, y
-conduce a una disminución de la capacidad en la toma de decisiones, que es la tarea principal
-del controlador aéreo. La calidad del sueño diurno no es la misma que la del nocturno, ya que
-el nocturno es el auténticamente reparador y su ausencia produce fatiga crónica.
-Los  controladores  de  tránsito  aéreo  (CTA)  con  horarios  de  trabajo  no  adaptados  a  los  ritmos
-circadianos,  pueden  sufrir  alteraciones  del  sueño  y  en  los  hábitos  de  alimentación,  así  como
-debilidad, ansiedad, irritabilidad, y depresión. También hay evidencias objetivas que muestran
-una  reducción  en el  estado  de  alerta  y  atención, y  un  aumento  de  los  tiempos  de  reacción  y
-toma de decisiones, con pérdida de memoria a corto plazo, errores de cálculo y en general un
-rendimiento operativo menor, con riesgo para la seguridad.
-La perturbación de las variaciones circadianas del funcionamiento fisiológico producido por la
-necesidad  de  permanecer  despierto  y  trabajando  en  horas  biológicamente  anómalas,  y  de
-dormir durante el día, es uno de los rasgos más estresantes del trabajo a turnos. La tolerancia
-del trabajo a turnos varía sensiblemente de una persona a otra debido a diferencias individuales
-como la edad, el sexo, la condición física, la flexibilidad para conciliar el sueño, y la capacidad
-para  superar  la  somnolencia.  Los  efectos  negativos  del  trabajo  a  turnos  pueden  deberse,  no
-solo  al  desfase  entre  los  ritmos  circadianos  y  las  condiciones  de  vida,  sino  también  a  las
-condiciones de trabajo adversas, como ruidos, iluminación deficiente, vibraciones etc.
+Por tanto,  trabajar  por  la  noche es una  característica  inherente  a  la  ocupación de  CTA  y este turno presenta una serie de peculiaridades que le hacen diferente respecto del mismo trabajo desarrollado durante el día, ya que tanto las condiciones del entorno (por ejemplo: físicas -falta de  luz-,  o  propias  del  tráfico -reducción  de  la  afluencia-)  como  las  del  propio  individuo (fisiológicas) son distintas.
+El trabajo a turnos puede perjudicar la salud, ya que el organismo se adapta mal a los continuos cambios de horario. Los aspectos que se ven afectados por el trabajo a turnos se clasifican en tres grandes grupos:
+a. Alteraciones del sueño b. Problemas de salud tanto física como psicológica c. Dificultades en la vida familiar y social La falta de horas de sueño conlleva la aparición de patrones diferentes de actividad cerebral, y conduce a una disminución de la capacidad en la toma de decisiones, que es la tarea principal del controlador aéreo. La calidad del sueño diurno no es la misma que la del nocturno, ya que el nocturno es el auténticamente reparador y su ausencia produce fatiga crónica.
+Los  controladores  de  tránsito  aéreo  (CTA)  con  horarios  de  trabajo  no  adaptados  a  los  ritmos circadianos,  pueden  sufrir  alteraciones  del  sueño  y  en  los  hábitos  de  alimentación,  así  como debilidad, ansiedad, irritabilidad, y depresión. También hay evidencias objetivas que muestran una  reducción  en el  estado  de  alerta  y  atención, y  un  aumento  de  los  tiempos  de  reacción  y toma de decisiones, con pérdida de memoria a corto plazo, errores de cálculo y en general un rendimiento operativo menor, con riesgo para la seguridad.
+La perturbación de las variaciones circadianas del funcionamiento fisiológico producido por la necesidad  de  permanecer  despierto  y  trabajando  en  horas  biológicamente  anómalas,  y  de dormir durante el día, es uno de los rasgos más estresantes del trabajo a turnos. La tolerancia del trabajo a turnos varía sensiblemente de una persona a otra debido a diferencias individuales como la edad, el sexo, la condición física, la flexibilidad para conciliar el sueño, y la capacidad para  superar  la  somnolencia.  Los  efectos  negativos  del  trabajo  a  turnos  pueden  deberse,  no solo  al  desfase  entre  los  ritmos  circadianos  y  las  condiciones  de  vida,  sino  también  a  las condiciones de trabajo adversas, como ruidos, iluminación deficiente, vibraciones etc.
 
-julio/2023
 ## 48/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-El trabajo a turnos afecta a la vida familiar y social al interferir en los horarios de las actividades
-cotidianas y la conciliación familiar.  Los problemas generados se incrementan con la edad, y el
-tiempo  que  una  persona  ha  estado  sometida  a  un  trabajo a turnos,  el tipo  de  los  mismos,  la
-carga de trabajo, etc.
+El trabajo a turnos afecta a la vida familiar y social al interferir en los horarios de las actividades cotidianas y la conciliación familiar.  Los problemas generados se incrementan con la edad, y el tiempo  que  una  persona  ha  estado  sometida  a  un  trabajo a turnos,  el tipo  de  los  mismos,  la carga de trabajo, etc.
 ## 6. Estrés
-6.1 Explicación del proceso del estrés de forma sencilla
-El  estrés  es  una  respuesta  psicofisiológica  ante  un  estímulo,  externo  o  interno,  que  emerge
-cuando el organismo interpreta que los recursos disponibles para hacer frente al estímulo no
-son suficientes para adaptarse a él y ante estos estímulos se dispara una respuesta.
-Considerando  su  influencia  en  los  seres  humanos,  podemos  considerar  el  estrés  como  un
-estado causado por una situación que reduce la eficacia en el trabajo, produce modificaciones
-en la conducta y es causa de problemas de salud.
+## 6.1 Explicación del proceso del estrés de forma sencilla El  estrés  es  una  respuesta  psicofisiológica  ante  un  estímulo,  externo  o  interno,  que  emerge cuando el organismo interpreta que los recursos disponibles para hacer frente al estímulo no son suficientes para adaptarse a él y ante estos estímulos se dispara una respuesta.
+Considerando  su  influencia  en  los  seres  humanos,  podemos  considerar  el  estrés  como  un estado causado por una situación que reduce la eficacia en el trabajo, produce modificaciones en la conducta y es causa de problemas de salud.
 ## COMPONENTES
 a)
 
-Endocrina (cambio en el equilibrio  hormonal,
-neurotransmisores y neuromoduladores)
-b)
-Autónoma   (el   sistema   nervioso   autónomo
-actúa  para  preparar  al  organismo  para  hacer
-frente al estímulo, afectando
-fundamentalmente a la musculatura lisa)
-c)
-Conductual   (normalmente   a   través   de   la
-musculatura facial, o tensando la musculatura
-motora)
+Endocrina (cambio en el equilibrio  hormonal, neurotransmisores y neuromoduladores) b) Autónoma   (el   sistema   nervioso   autónomo actúa  para  preparar  al  organismo  para  hacer frente al estímulo, afectando fundamentalmente a la musculatura lisa) c) Conductual   (normalmente   a   través   de   la musculatura facial, o tensando la musculatura motora)
 ## TIPOS
-a)
-Agudo, debido a factores que causan estrés de
-modo puntual a la persona
-b)
-Crónico, que es el resultado de presiones largo
-tiempo mantenidas y suele  ser  de  naturaleza
-emocional
+a) Agudo, debido a factores que causan estrés de modo puntual a la persona b) Crónico, que es el resultado de presiones largo tiempo mantenidas y suele  ser  de  naturaleza emocional
 ## VARIABLES QUE DETERMINAN
 ## COMO AFECTA AL INDIVIDUO
-a)
-El tipo de  factor estresante,  según el modelo
-de  Lazarus  &  Folkman,  que  indica  que  si  la
-persona tiene expectativas de poder gestionar
-el estímulo se genera eustrés, y si no, distrés
+a) El tipo de  factor estresante,  según el modelo de  Lazarus  &  Folkman,  que  indica  que  si  la persona tiene expectativas de poder gestionar el estímulo se genera eustrés, y si no, distrés
 
-julio/2023
 ## 49/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-b)
-El  tipo  de  individuo  y  los recursos  que  tenga
-para hacerle frente.
+b) El  tipo  de  individuo  y  los recursos  que  tenga para hacerle frente.
 ## ATENCIÓN
-a)
-cuando  existen  pocos  estímulos  la  atención
-puede centrarse y mejorará el desempeño de
-la tarea por parte del controlador
-b)
-Si la situación se vuelve compleja con muchos
-estímulos (sobrecarga), disminuirá el
-desempeño del controlador
+a) cuando  existen  pocos  estímulos  la  atención puede centrarse y mejorará el desempeño de la tarea por parte del controlador b) Si la situación se vuelve compleja con muchos estímulos (sobrecarga), disminuirá el desempeño del controlador
 
-Un  modelo  ampliamente  empleado  es  el  modelo transaccional de  Cox-Mackay,  que  tiene  en
-cuenta no solo demanda y capacidad real, sino también la autopercepción del individuo:
+Un  modelo  ampliamente  empleado  es  el  modelo transaccional de  Cox-Mackay,  que  tiene  en cuenta no solo demanda y capacidad real, sino también la autopercepción del individuo:
 
 FIGURA 10  MODELO TRANSACCIONAL DEL ESTRÉS DE COX-MACKAY. FUENTE: “MANAGING STRESS IN ATM”,
 ## EUROCONTROL
 
-julio/2023
 ## 50/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-6.2 Relación de los síntomas del estrés en el individuo
+## 6.2 Relación de los síntomas del estrés en el individuo
 ## 6.1.1 Fisiológicos
-Trastornos  cardiovasculares  (palpitaciones,  aumento  presión  arterial,  aumento frecuencia
-cardiaca...)
-Trastornos respiratorios
+Trastornos  cardiovasculares  (palpitaciones,  aumento  presión  arterial,  aumento frecuencia cardiaca...) Trastornos respiratorios
 ## Sudoración
-Trastornos del sueño
-Trastornos   gastrointestinales   (náuseas,   diarrea,   estreñimiento,   síndrome   de   intestino
-irritable, etc.)
-Problemas musculares (rigidez de espalda, cuello, contracturas...)
-Trastornos psicosomáticos
-Dolores de cabeza, migrañas
-Otros síntomas fisiológicos
+Trastornos del sueño Trastornos   gastrointestinales   (náuseas,   diarrea,   estreñimiento,   síndrome   de   intestino irritable, etc.) Problemas musculares (rigidez de espalda, cuello, contracturas...) Trastornos psicosomáticos Dolores de cabeza, migrañas Otros síntomas fisiológicos
 ## 6.1.2 Psicológicos
-Afectivos/emocionales:    alteración    de    estados    de    ánimo,    irritabilidad,    impaciencia,
-frustración, pesimismo, sensación de pánico o miedo, ansiedad, depresión (causada por el
-estrés)
-Cognitivos: afectación a la atención, vigilancia, nivel de alerta; afectación a la capacidad para
-hacer  planes  y/o  ejecutarlos;  realizar  acciones  no  deliberadas  (activación  de  funciones  de
-forma no intencionada).
+Afectivos/emocionales:    alteración    de    estados    de    ánimo,    irritabilidad,    impaciencia, frustración, pesimismo, sensación de pánico o miedo, ansiedad, depresión (causada por el estrés) Cognitivos: afectación a la atención, vigilancia, nivel de alerta; afectación a la capacidad para hacer  planes  y/o  ejecutarlos;  realizar  acciones  no  deliberadas  (activación  de  funciones  de forma no intencionada).
 ## 6.1.3 Conductuales
-Problemas de autocontrol, confianza o autoestima,
-Automedicación, consumo de alcohol o drogas
-Fatiga, problemas del sueño
+Problemas de autocontrol, confianza o autoestima, Automedicación, consumo de alcohol o drogas Fatiga, problemas del sueño
 ## Absentismo
-Aislamiento social
-Afectación al desempeño laboral
-6.3 El estrés de los Controladores de tránsito aéreo
-El control del tráfico aéreo requiere adaptarse a un entorno de trabajo en constante evolución,
-dentro de limitaciones de tiempo restringidas, con el potencial riesgo de inducir altos niveles
-de  estrés  en  el  individuo.    El  estrés  experimentado  por  los  controladores  aéreos  es  siempre
-único para el individuo y su interacción con el entorno.  Sin embargo, el trabajo del controlador
-de tránsito aéreo es muy exigente debido a la gran responsabilidad que conlleva el desempeño
-de sus funciones, por lo que en ocasiones puede ocasionar altos niveles de estrés, debido a las
-numerosas habilidades y nivel de conocimiento necesario para ejercer esta profesión.
+Aislamiento social Afectación al desempeño laboral
+## 6.3 El estrés de los Controladores de tránsito aéreo El control del tráfico aéreo requiere adaptarse a un entorno de trabajo en constante evolución, dentro de limitaciones de tiempo restringidas, con el potencial riesgo de inducir altos niveles de  estrés  en  el  individuo.    El  estrés  experimentado  por  los  controladores  aéreos  es  siempre único para el individuo y su interacción con el entorno.  Sin embargo, el trabajo del controlador de tránsito aéreo es muy exigente debido a la gran responsabilidad que conlleva el desempeño de sus funciones, por lo que en ocasiones puede ocasionar altos niveles de estrés, debido a las numerosas habilidades y nivel de conocimiento necesario para ejercer esta profesión.
 
-julio/2023
 ## 51/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-A continuación, se  enumeran  las principales habilidades  requeridas  en relación  al  control de
-tránsito aéreo:
-o Habilidades espaciales visuales,
-o Percepción
-o Proceso de la información,
-o Reconocimiento de imágenes y patrones
-o Priorización adecuada
-o Resolución lógica de problemas
-o Aplicación de reglas y procedimientos
-o Toma de decisiones
-o Comunicación interpersonal
-o Trabajo en equipo
-o Uso de vocabulario técnico
+A continuación, se  enumeran  las principales habilidades  requeridas  en relación  al  control de tránsito aéreo:
+o Habilidades espaciales visuales, o Percepción o Proceso de la información, o Reconocimiento de imágenes y patrones o Priorización adecuada o Resolución lógica de problemas o Aplicación de reglas y procedimientos o Toma de decisiones o Comunicación interpersonal o Trabajo en equipo o Uso de vocabulario técnico
 
-El  entorno  ATC  es  particularmente  rico  en  factores  potenciales  de  tensión.  Los  factores
-estresantes pueden ser muchos, uno por uno de una forma aislada no necesariamente tienen
-que  causar  estrés,  pero  la  acumulación  de  varios  de  ellos  puede  llevarnos  a  una situación
-inmanejable. Se pueden diferenciar cuatro estados del estrés en relación con las tareas propias
-de control:
-o Hipoestrés: Cuando el controlador de tránsito aéreo (CTA) se aburre o desempeña una
-tarea rutinaria siente poco interés y tensión, con lo cual su desempeño puede ser pobre
-y las posibilidades de cometer errores son altas.
-o Eustrés: Si la tarea se hace más interesante o urgente se producirá más tensión (positiva)
-y  entraremos  en  la  zona  de  mejor  rendimiento.  Esto  se  produce  cuando  podemos
-concentrarnos en la tarea sin que la presión nos desborde.
-o Hiperestrés: Como seres humanos tenemos una capacidad de atención limitada, nuestra
-memoria  de  trabajo  no  puede  manejar  más  de  seis  o  siete  ítems  y  aunque  nuestro
-cerebro  sea  un  potente  procesador,  no  puede  resolver  varios  conflictos  al  mismo
-tiempo. Si la tarea nos sobrepasa por sobrecarga de trabajo, o un nivel de conflictividad
-muy  alto,  la  calidad  de  nuestro  trabajo  disminuirá  al  desbordar  nuestra  capacidad  de
-concentración  y  atención,  y  aumentara  la  ansiedad,  distracciones,  demora  en  las
-decisiones  etc.  con  lo  cual  aumentaran  las  posibilidades  de  cometer  errores.  Estamos
-hablando de Hiperestrés si nuestro trabajo, conlleva la sensación de pérdida de control
-sobre  la  situación,  inseguridad  e  incertidumbre,  nos  sentimos  sobrepasados  por  el
-tráfico, vamos por detrás del tráfico, no gestionamos con eficiencia, comunicamos con
+El  entorno  ATC  es  particularmente  rico  en  factores  potenciales  de  tensión.  Los  factores estresantes pueden ser muchos, uno por uno de una forma aislada no necesariamente tienen que  causar  estrés,  pero  la  acumulación  de  varios  de  ellos  puede  llevarnos  a  una situación inmanejable. Se pueden diferenciar cuatro estados del estrés en relación con las tareas propias de control:
+o Hipoestrés: Cuando el controlador de tránsito aéreo (CTA) se aburre o desempeña una tarea rutinaria siente poco interés y tensión, con lo cual su desempeño puede ser pobre y las posibilidades de cometer errores son altas.
+o Eustrés: Si la tarea se hace más interesante o urgente se producirá más tensión (positiva) y  entraremos  en  la  zona  de  mejor  rendimiento.  Esto  se  produce  cuando  podemos concentrarnos en la tarea sin que la presión nos desborde.
+o Hiperestrés: Como seres humanos tenemos una capacidad de atención limitada, nuestra memoria  de  trabajo  no  puede  manejar  más  de  seis  o  siete  ítems  y  aunque  nuestro cerebro  sea  un  potente  procesador,  no  puede  resolver  varios  conflictos  al  mismo tiempo. Si la tarea nos sobrepasa por sobrecarga de trabajo, o un nivel de conflictividad muy  alto,  la  calidad  de  nuestro  trabajo  disminuirá  al  desbordar  nuestra  capacidad  de concentración  y  atención,  y  aumentara  la  ansiedad,  distracciones,  demora  en  las decisiones  etc.  con  lo  cual  aumentaran  las  posibilidades  de  cometer  errores.  Estamos hablando de Hiperestrés si nuestro trabajo, conlleva la sensación de pérdida de control sobre  la  situación,  inseguridad  e  incertidumbre,  nos  sentimos  sobrepasados  por  el tráfico, vamos por detrás del tráfico, no gestionamos con eficiencia, comunicamos con
 
-julio/2023
 ## 52/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-dificultad,  ya  que  no  somos  capaces  de  asimilar  la  información  que  recibimos,  y  bajo
-tensión,  tendemos  a  concentrarnos  en  los  aspectos  centrales  o  en  las  señales  más
-frecuentes y reconocibles y a rechazar las fuentes menos probables de información.
-o Distrés:  Cuando  los  procedimientos  que  empleamos  para  controlar  son  nuevos  y
-todavía  no  estamos  familiarizados  con  ellos,  y  nuestra  calidad  en  la  gestión  y
-resolución de conflictos se resiente.
-En  términos  generales,  el  estrés  experimentado  por  un  controlador  de  tráfico  aéreo  en  el
-trabajo es una función de sus niveles subyacentes de estrés, relacionados con su estilo de vida,
-su salud y bienestar, la personalidad, el entorno organizativo/laboral, sus niveles de satisfacción
-vitales, así como el estrés agudo impuesto por las condiciones operativas. De acuerdo con EASA
-(GM1 ATS.OR.310 Stress – RE 2017/373) podemos distinguir tres fuentes principales de estrés
-en  el  ámbito  de  control aéreo: estresores  ambientales/físicos, estresores  relacionados  con  la
-tarea y relativos al individuo.
-➢ Estresores ambientales/físicos
-Los  factores  de  estrés  físicos  son  condiciones  subyacentes  que  pueden  ser  internas  del
-cuerpo  humano  (hambre,  dolor,  falta  de  sueño,  etc.)  o  factores  ambientales  externos
-(contaminación acústica, calor, etc.).
-El  estrés  no  depende  únicamente  de  la  intensidad  de  un  estímulo,  sino  también  de  la
-duración de la exposición.   Por ejemplo, un ruido agudo pero persistente puede causar tanto
-estrés como un ruido fuerte repentino.
-En  el  contexto  de  la  sala  de  control  o  fanal  de  la  torre  de  control,  algunos  estresores
-ambientales/físicos  comunes  podrían  ser:  temperatura  inadecuada,  espacio  de  trabajo
-incómodo, calidad del aire, condiciones de iluminación y ruido o vibración intrusiva.
-➢ Estresores relacionados con la tarea
-El  estrés  en  el  lugar  de  trabajo  puede  provenir  de  una  variedad  de  fuentes  además  de
-estímulos físicos. Algunas de estas incluyen:
-o Una alta carga de trabajo sostenida
-o Tráfico muy heterogéneo
-o Equipos inadecuados o poco fiables
-o Procedimientos inapropiados e imprecisos
+dificultad,  ya  que  no  somos  capaces  de  asimilar  la  información  que  recibimos,  y  bajo tensión,  tendemos  a  concentrarnos  en  los  aspectos  centrales  o  en  las  señales  más frecuentes y reconocibles y a rechazar las fuentes menos probables de información.
+o Distrés:  Cuando  los  procedimientos  que  empleamos  para  controlar  son  nuevos  y todavía  no  estamos  familiarizados  con  ellos,  y  nuestra  calidad  en  la  gestión  y resolución de conflictos se resiente.
+En  términos  generales,  el  estrés  experimentado  por  un  controlador  de  tráfico  aéreo  en  el trabajo es una función de sus niveles subyacentes de estrés, relacionados con su estilo de vida, su salud y bienestar, la personalidad, el entorno organizativo/laboral, sus niveles de satisfacción vitales, así como el estrés agudo impuesto por las condiciones operativas. De acuerdo con EASA (GM1 ATS.OR.310 Stress – RE 2017/373) podemos distinguir tres fuentes principales de estrés en  el  ámbito  de  control aéreo: estresores  ambientales/físicos, estresores  relacionados  con  la tarea y relativos al individuo.
+➢ Estresores ambientales/físicos Los  factores  de  estrés  físicos  son  condiciones  subyacentes  que  pueden  ser  internas  del cuerpo  humano  (hambre,  dolor,  falta  de  sueño,  etc.)  o  factores  ambientales  externos (contaminación acústica, calor, etc.).
+El  estrés  no  depende  únicamente  de  la  intensidad  de  un  estímulo,  sino  también  de  la duración de la exposición.   Por ejemplo, un ruido agudo pero persistente puede causar tanto estrés como un ruido fuerte repentino.
+En  el  contexto  de  la  sala  de  control  o  fanal  de  la  torre  de  control,  algunos  estresores ambientales/físicos  comunes  podrían  ser:  temperatura  inadecuada,  espacio  de  trabajo incómodo, calidad del aire, condiciones de iluminación y ruido o vibración intrusiva.
+➢ Estresores relacionados con la tarea El  estrés  en  el  lugar  de  trabajo  puede  provenir  de  una  variedad  de  fuentes  además  de estímulos físicos. Algunas de estas incluyen:
+o Una alta carga de trabajo sostenida o Tráfico muy heterogéneo o Equipos inadecuados o poco fiables o Procedimientos inapropiados e imprecisos
 
-julio/2023
 ## 53/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-o Equipos complejos que no favorezcan su uso o entendimiento
-o supervisión de personal en instrucción o menos experimentado
-o Desfase entre la carga de trabajo y habilidades técnicas del controlador
-o Ambigüedad de roles, afectando a la definición de responsabilidades;
-o Conflicto interpersonal entre profesionales
-o Problemas socio-laborales
-o Situaciones  inusuales,  incidentes,  emergencias  o  accidentes,  pueden  conducir  a  la
-experiencia de estrés por incidente crítico.
+o Equipos complejos que no favorezcan su uso o entendimiento o supervisión de personal en instrucción o menos experimentado o Desfase entre la carga de trabajo y habilidades técnicas del controlador o Ambigüedad de roles, afectando a la definición de responsabilidades; o Conflicto interpersonal entre profesionales o Problemas socio-laborales o Situaciones  inusuales,  incidentes,  emergencias  o  accidentes,  pueden  conducir  a  la experiencia de estrés por incidente crítico.
 
-➢ Estresores relativos al individuo
-Los factores de estrés personales incluyen una variedad de eventos que ocurren a lo largo
-de  la  vida  de  las  personas,  y  no  necesariamente  relacionados  con  el  desempeño  de  su
-profesión. La creencia de que tales factores estresantes se pueden dejar en casa es un mito,
-y estos factores de estrés personales acompañan a los controladores de tráfico aéreo en su
-trabajo diariamente.
-Cuestiones personales como el estado de salud, la vida personal y los principales eventos de
-la vida, como la muerte de un ser querido, nacimientos, matrimonio, divorcio, etc., pueden
-ser situaciones muy estresantes a las que las personas tienen que hacer frente.  Cuando el
-estrés es excesivo, también tiene una implicación directa en el trabajo debido a la distracción
-que causan y el esfuerzo mental requerido para resolver estas situaciones.
-A  continuación,  se  enumeran  una  serie  de  factores  estresantes  reconocidos  por  los
-controladores aéreos en varios estudios:
-o Caída de equipos
-o Condiciones de tráfico muy elevadas
-o Miedo a causar accidentes
-o Falta de tiempo
-o Falta de conocimiento
-o Incertidumbre
-o Cambios en los procedimientos
-o Evaluaciones continuas de la competencia
-o Incertidumbres en la carrera profesional
+➢ Estresores relativos al individuo Los factores de estrés personales incluyen una variedad de eventos que ocurren a lo largo de  la  vida  de  las  personas,  y  no  necesariamente  relacionados  con  el  desempeño  de  su profesión. La creencia de que tales factores estresantes se pueden dejar en casa es un mito, y estos factores de estrés personales acompañan a los controladores de tráfico aéreo en su trabajo diariamente.
+Cuestiones personales como el estado de salud, la vida personal y los principales eventos de la vida, como la muerte de un ser querido, nacimientos, matrimonio, divorcio, etc., pueden ser situaciones muy estresantes a las que las personas tienen que hacer frente.  Cuando el estrés es excesivo, también tiene una implicación directa en el trabajo debido a la distracción que causan y el esfuerzo mental requerido para resolver estas situaciones.
+A  continuación,  se  enumeran  una  serie  de  factores  estresantes  reconocidos  por  los controladores aéreos en varios estudios:
+o Caída de equipos o Condiciones de tráfico muy elevadas o Miedo a causar accidentes o Falta de tiempo o Falta de conocimiento o Incertidumbre o Cambios en los procedimientos o Evaluaciones continuas de la competencia o Incertidumbres en la carrera profesional
 
-julio/2023
 ## 54/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-o Trabajo a turnos
-o Temas laborales
-6.4 Efectos del estrés en el desempeño mental y físico de las tareas propias del
-ámbito de control aéreo
-En términos generales, el desempeño de las tareas disminuye debido a los efectos perjudiciales
-que los altos niveles de estrés pueden tener en la percepción, la conciencia situacional o la toma
-de  decisiones.    A  continuación,  se  detallan  una  serie  de  efectos  en  el  rendimiento  del
-controlador  de  tránsito  aéreo  que  pueden  estar  relacionados  con  el  estrés,  y  que  podría
-suponer una implicación directa en la seguridad de las operaciones:
-− Dificultades de concentración y problemas para mantener la vigilancia activa
-− Errores, omisiones, equivocaciones, acciones incorrectas, afección a la memoria y al
-buen juicio
-− Tendencia a proceder “de la manera más rápida” o “de la manera más fácil”
-− Tendencia a pasar la responsabilidad a otros, y no asumir la propia
-− Fijación mental
-− Evitar tomar decisiones, las cuales tienden a posponerse
-− No disponer de “plan B”
-− Propensión a asumir más riesgos
-− Precipitarse  a  la  hora  de  tomar  decisiones,  debido  al  efecto  de  la  adrenalina  en  el
-organismo.  La precipitación puede incrementar el número de errores
-− En  caso  de  niveles  de  estrés  significativos,  el  controlador  a  menudo  va  a  tender  a
-utilizar  procedimientos  que  ya  no  están  operativos,  va  a  olvidar  el  uso  de  la
-fraseología normalizada, utilizará su lengua materna, etc.
-La  gestión  de  riesgos  relativos  al  estrés  debe  ser  considerada  un  componente  vital  de  la
-organización  al  proporcionar  una  oportunidad  significativa  de  maximizar  el  bienestar  del
-personal ATM, con el propósito final de mejorar la seguridad y la eficiencia.  En ese sentido, la
-normativa europea sugiere una serie de medidas de mitigación:
-− La  adopción  de  una  política  de  estrés  y  un  programa  de  gestión  de  estrés  por
-incidente crítico dentro de la organización
+o Trabajo a turnos o Temas laborales
+## 6.4 Efectos del estrés en el desempeño mental y físico de las tareas propias del ámbito de control aéreo En términos generales, el desempeño de las tareas disminuye debido a los efectos perjudiciales que los altos niveles de estrés pueden tener en la percepción, la conciencia situacional o la toma de  decisiones.    A  continuación,  se  detallan  una  serie  de  efectos  en  el  rendimiento  del controlador  de  tránsito  aéreo  que  pueden  estar  relacionados  con  el  estrés,  y  que  podría suponer una implicación directa en la seguridad de las operaciones:
+− Dificultades de concentración y problemas para mantener la vigilancia activa − Errores, omisiones, equivocaciones, acciones incorrectas, afección a la memoria y al buen juicio − Tendencia a proceder “de la manera más rápida” o “de la manera más fácil” − Tendencia a pasar la responsabilidad a otros, y no asumir la propia − Fijación mental − Evitar tomar decisiones, las cuales tienden a posponerse − No disponer de “plan B” − Propensión a asumir más riesgos − Precipitarse  a  la  hora  de  tomar  decisiones,  debido  al  efecto  de  la  adrenalina  en  el organismo.  La precipitación puede incrementar el número de errores − En  caso  de  niveles  de  estrés  significativos,  el  controlador  a  menudo  va  a  tender  a utilizar  procedimientos  que  ya  no  están  operativos,  va  a  olvidar  el  uso  de  la fraseología normalizada, utilizará su lengua materna, etc.
+La  gestión  de  riesgos  relativos  al  estrés  debe  ser  considerada  un  componente  vital  de  la organización  al  proporcionar  una  oportunidad  significativa  de  maximizar  el  bienestar  del personal ATM, con el propósito final de mejorar la seguridad y la eficiencia.  En ese sentido, la normativa europea sugiere una serie de medidas de mitigación:
+− La  adopción  de  una  política  de  estrés  y  un  programa  de  gestión  de  estrés  por incidente crítico dentro de la organización
 
-julio/2023
 ## 55/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-− Monitorizar   y   gestionar   los   riesgos   asociados   al   estrés  de   forma   proactiva   y
-sistemática  de  manera  que  revierta  en  un  beneficio  para  la  seguridad  de  las
-operaciones.
+− Monitorizar   y   gestionar   los   riesgos   asociados   al   estrés  de   forma   proactiva   y sistemática  de  manera  que  revierta  en  un  beneficio  para  la  seguridad  de  las operaciones.
 − Mitigar el impacto operacional del estrés en los Controladores de Tránsito Aéreo.
-− Proveer  de  la  formación/información  y  educación  pertinente  a  los  empleados  en
-materia de estrés
-− Establecer  mecanismos  de  actuación  en  el  caso  de  que  se  manifieste  un  nivel  de
-estrés tal que impida llevar a cabo tareas críticas de seguridad.
+− Proveer  de  la  formación/información  y  educación  pertinente  a  los  empleados  en materia de estrés − Establecer  mecanismos  de  actuación  en  el  caso  de  que  se  manifieste  un  nivel  de estrés tal que impida llevar a cabo tareas críticas de seguridad.
 − Promover actividades que ayuden a mitigar el estrés
-6.5 Gestión del estrés ante incidente crítico: Programa CISM
-El programa  CISM  o  Gestión del  Estrés por  Incidente  Crítico,  es un protocolo de  intervención
-desarrollado  específicamente  para  cubrir  el  apoyo  psicológico  del  personal  operativo,  y  así
-evitar  reacciones  de  estrés  post-traumático  derivado  de  un  incidente  crítico.  Es  un  proceso
-formal,  muy  estructurado  y  profesionalmente  reconocido  para  ayudar  a  los  controladores
-aéreos  a  compartir  sus  experiencias,  descargar  emociones  y  aprender  sobre  los  síntomas  y
-reacciones del estrés tras un suceso traumático. El programa CISM es confidencial, voluntario y
-educativo, y se suele conocer como “primeros auxilios psicológicos”.
-Un incidente crítico se define como un evento que sucede repentinamente o inesperadamente
-y  que,  dependiendo  de  cada  persona,  tiene  el  potencial  de  crear  distrés  severo,  que  causa
-molestia o inhabilitación para el ejercicio de sus funciones en ese momento o posteriormente.
-Critical Incident Stress Management o CISM, describe el conjunto de medidas y estrategias para
-afrontar  satisfactoriamente  estos  sucesos  y  prevenir  las  enfermedades  y  consecuencias
-negativas en la salud de los mismos.
-Un incidente crítico puede evocar reacciones de estrés fisiológicas o psicológicas muy acusadas,
-que  normalmente  se  manifiestan  con  una  serie  de  síntomas  característicos  a  nivel  físico,
-cognitivo, emocional y conductual. Algunos ejemplos incluyen ansiedad, dificultad en la toma
-de decisiones, problemas de conciliar el sueño, comportamiento anti-social, etc.
+## 6.5 Gestión del estrés ante incidente crítico: Programa CISM El programa  CISM  o  Gestión del  Estrés por  Incidente  Crítico,  es un protocolo de  intervención desarrollado  específicamente  para  cubrir  el  apoyo  psicológico  del  personal  operativo,  y  así evitar  reacciones  de  estrés  post-traumático  derivado  de  un  incidente  crítico.  Es  un  proceso formal,  muy  estructurado  y  profesionalmente  reconocido  para  ayudar  a  los  controladores aéreos  a  compartir  sus  experiencias,  descargar  emociones  y  aprender  sobre  los  síntomas  y reacciones del estrés tras un suceso traumático. El programa CISM es confidencial, voluntario y educativo, y se suele conocer como “primeros auxilios psicológicos”.
+Un incidente crítico se define como un evento que sucede repentinamente o inesperadamente y  que,  dependiendo  de  cada  persona,  tiene  el  potencial  de  crear  distrés  severo,  que  causa molestia o inhabilitación para el ejercicio de sus funciones en ese momento o posteriormente.
+Critical Incident Stress Management o CISM, describe el conjunto de medidas y estrategias para afrontar  satisfactoriamente  estos  sucesos  y  prevenir  las  enfermedades  y  consecuencias negativas en la salud de los mismos.
+Un incidente crítico puede evocar reacciones de estrés fisiológicas o psicológicas muy acusadas, que  normalmente  se  manifiestan  con  una  serie  de  síntomas  característicos  a  nivel  físico, cognitivo, emocional y conductual. Algunos ejemplos incluyen ansiedad, dificultad en la toma de decisiones, problemas de conciliar el sueño, comportamiento anti-social, etc.
 En un entorno ATC pueden ser considerados incidentes críticos los siguientes ejemplos:
 o Accidentes.
 o Desastres que supongan daños devastadores.
 
-julio/2023
 ## 56/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
 o Gestión de aeronaves en emergencia.
 o Sucesos que desemboquen en fallecimiento.
 o Situaciones relacionadas con incidentes de vulneración mínimas de separación.
@@ -2049,287 +715,96 @@ o Fallecimiento de familiares o compañeros de trabajo.
 o Situaciones potenciales cercanas a incidentes o accidentes.
 o Situaciones de violencia (experimentada o bien presenciada).
 o Hechos delictivos, agresión o amenazas.
-Dada  la  importancia  de  las  consecuencias  descritas,  ENAIRE  decidió  implantar  un  programa
-CISM  como  una  ayuda  estructurada  a  la  reacción  humana  ante  incidencias  ATC  de  carácter
-traumático,  con el  objeto  de  moderar el  impacto  del  mismo  sobre el  controlador de tránsito
-aéreo y acelerar su regreso a la normalidad laboral.
-La  metodología  propuesta  consiste  en  la  implementación  de  un  programa  CISM  en  la
-organización, basada en un modelo Peers. Peer es la denominación inglesa, que, en este caso,
-hace   referencia   a   un   controlador   de   apoyo,   formado   específicamente   para   atender
-psicológicamente  a  otros  controladores  tras  la  ocurrencia  de  un  incidente  crítico.  Esta
-intervención se ha de complementar con asistencia psicológica profesional, cuando se estime
-necesario.
-El  programa  ha  de  disponer  de  un  grupo  de  Peers  voluntarios,  seleccionados  y  formados
-específicamente  en  CISM  siguiendo  las  recomendaciones  y  estándares  de  la  International
-Critical Incident Stress Foundation (ICISF).
-Los  Peers  deben  ser  controladores  aéreos  con  una  amplia  experiencia  en  la  profesión,
-específicamente seleccionados y formados para apoyar a otros controladores que precisen una
-intervención  debido  al  estrés  generado  por  un  incidente  crítico.  Son  controladores  que  se
-ofrecen voluntarios para operar el CISM.  Las principales tareas a realizar serán:
-− Proporcionar intervención inmediata a la crisis
-− Proporcionar asesoramiento psicológico a los compañeros afectados
-− Organizar el apoyo profesional a la salud mental del controlador afectado cuando sea
-necesario
-La  adecuada  selección  de  los  Peers  es  crucial  para  que  el  proyecto  tenga  éxito,  y  que  las
+Dada  la  importancia  de  las  consecuencias  descritas,  ENAIRE  decidió  implantar  un  programa CISM  como  una  ayuda  estructurada  a  la  reacción  humana  ante  incidencias  ATC  de  carácter traumático,  con el  objeto  de  moderar el  impacto  del  mismo  sobre el  controlador de tránsito aéreo y acelerar su regreso a la normalidad laboral.
+La  metodología  propuesta  consiste  en  la  implementación  de  un  programa  CISM  en  la organización, basada en un modelo Peers. Peer es la denominación inglesa, que, en este caso, hace   referencia   a   un   controlador   de   apoyo,   formado   específicamente   para   atender psicológicamente  a  otros  controladores  tras  la  ocurrencia  de  un  incidente  crítico.  Esta intervención se ha de complementar con asistencia psicológica profesional, cuando se estime necesario.
+El  programa  ha  de  disponer  de  un  grupo  de  Peers  voluntarios,  seleccionados  y  formados específicamente  en  CISM  siguiendo  las  recomendaciones  y  estándares  de  la  International Critical Incident Stress Foundation (ICISF).
+Los  Peers  deben  ser  controladores  aéreos  con  una  amplia  experiencia  en  la  profesión, específicamente seleccionados y formados para apoyar a otros controladores que precisen una intervención  debido  al  estrés  generado  por  un  incidente  crítico.  Son  controladores  que  se ofrecen voluntarios para operar el CISM.  Las principales tareas a realizar serán:
+− Proporcionar intervención inmediata a la crisis − Proporcionar asesoramiento psicológico a los compañeros afectados − Organizar el apoyo profesional a la salud mental del controlador afectado cuando sea necesario La  adecuada  selección  de  los  Peers  es  crucial  para  que  el  proyecto  tenga  éxito,  y  que  las
 
-julio/2023
 ## 57/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-intervenciones sean adecuadas.  Tal y como recomienda EUROCONTROL (1997, 2008), el perfil
-idóneo del controlador de apoyo es el siguiente:
-− Ser emocionalmente estable
-− Ser sensible a los problemas y saber escuchar a los demás
-− Con actitud abierta al aprendizaje
-− Aceptar estar disponible para sus compañeros en su tiempo libre si fuera necesario
-− Ser fiable: una persona en la que uno sienta que puede depositar su confianza
-− Ser una persona respetada por el resto, tanto por sus cualidades profesionales como
-por sus cualidades humanas
-− Que entienda la importancia de la confidencialidad
-− Tener habilidades sociales y capacidad de empatizar
-− Conocer  las  limitaciones  del  CISM:  ser  consciente  de  que  su  labor  es  proporcionar
-primeros auxilios, no asistencia psicológica profesional
-− Tener experiencia en la gestión de situaciones inusuales
-− Tener conocimiento operacional adecuado del entorno ATC.
+intervenciones sean adecuadas.  Tal y como recomienda EUROCONTROL (1997, 2008), el perfil idóneo del controlador de apoyo es el siguiente:
+− Ser emocionalmente estable − Ser sensible a los problemas y saber escuchar a los demás − Con actitud abierta al aprendizaje − Aceptar estar disponible para sus compañeros en su tiempo libre si fuera necesario − Ser fiable: una persona en la que uno sienta que puede depositar su confianza − Ser una persona respetada por el resto, tanto por sus cualidades profesionales como por sus cualidades humanas − Que entienda la importancia de la confidencialidad − Tener habilidades sociales y capacidad de empatizar − Conocer  las  limitaciones  del  CISM:  ser  consciente  de  que  su  labor  es  proporcionar primeros auxilios, no asistencia psicológica profesional − Tener experiencia en la gestión de situaciones inusuales − Tener conocimiento operacional adecuado del entorno ATC.
 
 Podemos resumir el programa en cinco fases:
-- Comunicación  y  divulgación.  Comprende  la  comunicación  y  divulgación  iniciales  del
-programa CISM a todo el colectivo de control.
-- Selección  y  Formación  de  los  Peers  y  Grupos  de  interés.  Comprende  la  valoración  y
-selección de los candidatos, así como la formación de los candidatos seleccionados, en base
-estándares reconocidos a nivel internacional.  En el caso de ENAIRE el proceso de selección
-se  basa  en  requisitos  establecidos  en  el  documento  de  EUROCONTROL  (2008)  Human
-Factors – Critical  Incident  Stress  Management:  User  Implementation  Guidelines,  edición
+- Comunicación  y  divulgación.  Comprende  la  comunicación  y  divulgación  iniciales  del programa CISM a todo el colectivo de control.
+- Selección  y  Formación  de  los  Peers  y  Grupos  de  interés.  Comprende  la  valoración  y selección de los candidatos, así como la formación de los candidatos seleccionados, en base estándares reconocidos a nivel internacional.  En el caso de ENAIRE el proceso de selección se  basa  en  requisitos  establecidos  en  el  documento  de  EUROCONTROL  (2008)  Human Factors – Critical  Incident  Stress  Management:  User  Implementation  Guidelines,  edición
 ## 2.0.
-- Intervención del Peer con el controlador aéreo que ha experimentado un incidente crítico,
-e intervenciones posteriores si fuera necesario.
-- Derivación  a  un  profesional  médico  cuando  proceda.  Comprende  la  intervención  de
-psicólogos  profesionales  para  los  casos  más  graves  de  estrés  post-traumático  en  que  la
-intervención   del   Peer   no   ha   sido   suficiente,   o   aquellos   casos   que   el   peer   valore
-directamente como fuera de su ámbito de actuación.
+- Intervención del Peer con el controlador aéreo que ha experimentado un incidente crítico, e intervenciones posteriores si fuera necesario.
+- Derivación  a  un  profesional  médico  cuando  proceda.  Comprende  la  intervención  de psicólogos  profesionales  para  los  casos  más  graves  de  estrés  post-traumático  en  que  la intervención   del   Peer   no   ha   sido   suficiente,   o   aquellos   casos   que   el   peer   valore directamente como fuera de su ámbito de actuación.
 
-julio/2023
 ## 58/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-- Evaluación periódica del programa. Es necesario desarrollar y llevar a cabo la evaluación
-periódica del programa CISM, con el fin de medir la efectividad y buscar posibles mejoras
-del mismo. Normalmente, este tipo de evaluación se realiza mediante cuestionarios a
-los  usuarios  del  programa,  totalmente  anónimos.  Todo  ello  quedará  recogido  en  un
-informe  anual  del  programa  CISM.  A  efectos  de  estadística,  se  llevará  un  control  del
-número de veces que se activa el programa respecto al número de incidencias, así como
-cuántas  activaciones  del  programa  necesitan  llegar  a  la  intervención  de  Psicólogos
+- Evaluación periódica del programa. Es necesario desarrollar y llevar a cabo la evaluación periódica del programa CISM, con el fin de medir la efectividad y buscar posibles mejoras del mismo. Normalmente, este tipo de evaluación se realiza mediante cuestionarios a los  usuarios  del  programa,  totalmente  anónimos.  Todo  ello  quedará  recogido  en  un informe  anual  del  programa  CISM.  A  efectos  de  estadística,  se  llevará  un  control  del número de veces que se activa el programa respecto al número de incidencias, así como cuántas  activaciones  del  programa  necesitan  llegar  a  la  intervención  de  Psicólogos
 ## Profesionales.
-- Error humano
-El error humano es inevitable y también necesario para promover el aprendizaje, y entender
-las debilidades de los sistemas.  El error humano no puede ser eliminado completamente de la
-ecuación   en aviación,   pero   sí   podemos   identificar   aquellos   contextos   operacionales   y
-condiciones que los facilitan. Como profesionales operativos, cuando trabajamos bajo presión
-extrema, tendemos a actuar de aquella forma que sabemos que normalmente funciona, y en
-ocasiones a omitir acciones ante la presión de la operación. Por este motivo debemos asegurar
-que  nuestra  organización  esté  preparada  para  minimizar  el  impacto  de  cualquier  error,
-actuando  preventivamente.  Como  organización,  los  factores  subyacentes  a  la  naturaleza  del
-error  son,  precisamente,  la  parte  esencial  a  integrar  en  su  sistema  de  gestión  de  seguridad,
-porque  es  donde  se puede  mitigar  el  riesgo  y fortalecer  el  propio  sistema.  De  esta forma,  se
-evita una presión innecesaria sobre el componente más valioso y flexible, el ser humano, y se
-consigue un sistema más robusto y resiliente.
-En un contexto operativo, podemos definir el error como una situación en la que una secuencia
-planificada de acciones no consigue lograr el objetivo.  En el sistema ATC, cuando hablamos de
-error nos referimos a toda la organización y no exclusivamente a los errores cometidos por los
-controladores de tránsito aéreo en el desempeño de su profesión.
-7.1 Modelo GEMS de Reason
-El General Error Modelling System de Reason es una de las clasificaciones de tipos de error más
-sencillas  y  extendidas,  que  clasifica  los  errores  como  consecuencia  de  un  comportamiento
-intencional o no intencional y pueden subdividirse a su vez en deslices, lapsos y equivocaciones,
-dependiendo  del  grado  de  intencionalidad  que  los  preceda y  del  proceso  cognitivo  más
-relevante en su aparición.
+- Error humano El error humano es inevitable y también necesario para promover el aprendizaje, y entender las debilidades de los sistemas.  El error humano no puede ser eliminado completamente de la ecuación   en aviación,   pero   sí   podemos   identificar   aquellos   contextos   operacionales   y condiciones que los facilitan. Como profesionales operativos, cuando trabajamos bajo presión extrema, tendemos a actuar de aquella forma que sabemos que normalmente funciona, y en ocasiones a omitir acciones ante la presión de la operación. Por este motivo debemos asegurar que  nuestra  organización  esté  preparada  para  minimizar  el  impacto  de  cualquier  error, actuando  preventivamente.  Como  organización,  los  factores  subyacentes  a  la  naturaleza  del error  son,  precisamente,  la  parte  esencial  a  integrar  en  su  sistema  de  gestión  de  seguridad, porque  es  donde  se puede  mitigar  el  riesgo  y fortalecer  el  propio  sistema.  De  esta forma,  se evita una presión innecesaria sobre el componente más valioso y flexible, el ser humano, y se consigue un sistema más robusto y resiliente.
+En un contexto operativo, podemos definir el error como una situación en la que una secuencia planificada de acciones no consigue lograr el objetivo.  En el sistema ATC, cuando hablamos de error nos referimos a toda la organización y no exclusivamente a los errores cometidos por los controladores de tránsito aéreo en el desempeño de su profesión.
+## 7.1 Modelo GEMS de Reason El General Error Modelling System de Reason es una de las clasificaciones de tipos de error más sencillas  y  extendidas,  que  clasifica  los  errores  como  consecuencia  de  un  comportamiento intencional o no intencional y pueden subdividirse a su vez en deslices, lapsos y equivocaciones, dependiendo  del  grado  de  intencionalidad  que  los  preceda y  del  proceso  cognitivo  más relevante en su aparición.
 
-julio/2023
 ## 59/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-o Deslices:  son  acciones  no  intencionales  resultantes  de  un  fallo  o  laguna  en  la
-atención, como pueden ser una omisión, una inversión o una alteración en el orden
-o el tiempo en una secuencia.
-o Lapsus: son acciones no intencionales resultantes de fallos en la memoria debida al
-olvido de una intención o la omisión de aspectos previstos.
-o Equivocaciones: Son acciones intencionales resultantes de errores de planificación, y
-se basan en la aplicación incorrecta de una regla correcta, o bien de la aplicación de
-una regla correctamente, pero en una situación para la que no es adecuada.
-Los  deslices  y  lapsus  son  esencialmente  respuestas  automáticas,  sin  decisión  consciente,
-mientras que las equivocaciones parten de decisiones basadas en conocimiento, experiencia y
-modelos mentales que han funcionado correctamente en el pasado.
-Los deslices (slips) están relacionados con el control de los procesos atencionales, y se suelen
-reducir   mediante   entrenamiento   procedimental   (para   automatizar   respuestas   robustas),
-entrenamiento atencional, monitorización mutua, y el empleo de procedimientos y checklists.
-Los  lapsus  están  relacionados  con  el  control  de  los  procesos  mnemónicos  y  de  gestión  de
-información  en  la  memoria  de  trabajo.  Olvidos  de  información  reciente,  fallo  en  la  memoria
-prospectiva  (es  decir,  recordar qué  iba  a  hacer más  adelante), o  sencillamente  no  almacenar
-algo  de  información  son  ejemplos  en  los  que  intervienen  los  lapsus.  Es  el  tipo  de  error  más
-frecuente,  y  se  mitiga  mediante  refrescos  frecuentes  de  la  información y  ayudas  cognitivas
-externas, como anotar en etiqueta, anotaciones en ficha o en un papel o cualquier otro tipo de
-muleta cognitiva. Uno de los mayores problemas relacionados con la mitigación de este tipo de
-errores es no reconocer que todos somos vulnerables a este tipo de errores en mayor o menor
-medida.
-Las  equivocaciones  están  relacionadas  con  los  procesos  de  mantenimiento  de  la  conciencia
-situacional y con los procesos de toma de decisiones. Una conciencia situacional no actualizada,
-o con  información  que  hace  que  el  modelo  mental  no  sea  correcto  lleva  a  decisiones
-incorrectas.  Por  otra  parte,  los  sesgos  cognitivos,  procesos  heurísticos  que  generan  una
-tendencia natural hacia cierto  tipo de  decisiones,  pueden  condicionar una  decisión  y  llevar a
-aplicar una regla que no es la adecuada para una situación, o fallar en la forma de aplicar una
+o Deslices:  son  acciones  no  intencionales  resultantes  de  un  fallo  o  laguna  en  la atención, como pueden ser una omisión, una inversión o una alteración en el orden o el tiempo en una secuencia.
+o Lapsus: son acciones no intencionales resultantes de fallos en la memoria debida al olvido de una intención o la omisión de aspectos previstos.
+o Equivocaciones: Son acciones intencionales resultantes de errores de planificación, y se basan en la aplicación incorrecta de una regla correcta, o bien de la aplicación de una regla correctamente, pero en una situación para la que no es adecuada.
+Los  deslices  y  lapsus  son  esencialmente  respuestas  automáticas,  sin  decisión  consciente, mientras que las equivocaciones parten de decisiones basadas en conocimiento, experiencia y modelos mentales que han funcionado correctamente en el pasado.
+Los deslices (slips) están relacionados con el control de los procesos atencionales, y se suelen reducir   mediante   entrenamiento   procedimental   (para   automatizar   respuestas   robustas), entrenamiento atencional, monitorización mutua, y el empleo de procedimientos y checklists.
+Los  lapsus  están  relacionados  con  el  control  de  los  procesos  mnemónicos  y  de  gestión  de información  en  la  memoria  de  trabajo.  Olvidos  de  información  reciente,  fallo  en  la  memoria prospectiva  (es  decir,  recordar qué  iba  a  hacer más  adelante), o  sencillamente  no  almacenar algo  de  información  son  ejemplos  en  los  que  intervienen  los  lapsus.  Es  el  tipo  de  error  más frecuente,  y  se  mitiga  mediante  refrescos  frecuentes  de  la  información y  ayudas  cognitivas externas, como anotar en etiqueta, anotaciones en ficha o en un papel o cualquier otro tipo de muleta cognitiva. Uno de los mayores problemas relacionados con la mitigación de este tipo de errores es no reconocer que todos somos vulnerables a este tipo de errores en mayor o menor medida.
+Las  equivocaciones  están  relacionadas  con  los  procesos  de  mantenimiento  de  la  conciencia situacional y con los procesos de toma de decisiones. Una conciencia situacional no actualizada, o con  información  que  hace  que  el  modelo  mental  no  sea  correcto  lleva  a  decisiones incorrectas.  Por  otra  parte,  los  sesgos  cognitivos,  procesos  heurísticos  que  generan  una tendencia natural hacia cierto  tipo de  decisiones,  pueden  condicionar una  decisión  y  llevar a aplicar una regla que no es la adecuada para una situación, o fallar en la forma de aplicar una
 
-julio/2023
 ## 60/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-regla correcta. Se tienden a mitigar mediante procedimientos y estandarización de métodos de
-trabajo,  pero  también  es  importante  mitigar  a  través  del  estado  mental  (mindset)  de  cada
-profesional, siendo consciente de que todos somos vulnerables a sesgos que nos pueden llevar
-a situaciones comprometidas. Como ejemplos de estos sesgos podríamos citar el sesgo
-de continuidad de plan, el sesgo de expectativa, o el sesgo de familiaridad.
-Los sesgos cognitivos  tienen  su  origen  en  procesos  mentales  heurísticos.  Estos  procesos
-capturan información del entorno y generan reglas rápidas de aplicación del tipo “si A, entonces
-B”. Tienen una gran utilidad desde un punto de vista adaptativo, puesto que permiten aprender
-y automatizar reglas esenciales para nuestra supervivencia, pero que, en un entorno complejo
-como  el  ATM,  o  en  la  vida  occidental  actual,  pueden  interferir  de  forma  no  deseada  con
-nuestras conductas. En general, hay cuatro grandes familias de sesgos:
-o Los que deciden qué debo recordar
-o Los  que  filtran  información  cuando  hay  demasiada  y orientan  la  atención  hacia
-determinados estímulos
-o Los que aparecen cuando necesito actuar rápido
-o Los que surgen cuando la información que manejamos no tiene suficiente significado
+regla correcta. Se tienden a mitigar mediante procedimientos y estandarización de métodos de trabajo,  pero  también  es  importante  mitigar  a  través  del  estado  mental  (mindset)  de  cada profesional, siendo consciente de que todos somos vulnerables a sesgos que nos pueden llevar a situaciones comprometidas. Como ejemplos de estos sesgos podríamos citar el sesgo de continuidad de plan, el sesgo de expectativa, o el sesgo de familiaridad.
+Los sesgos cognitivos  tienen  su  origen  en  procesos  mentales  heurísticos.  Estos  procesos capturan información del entorno y generan reglas rápidas de aplicación del tipo “si A, entonces B”. Tienen una gran utilidad desde un punto de vista adaptativo, puesto que permiten aprender y automatizar reglas esenciales para nuestra supervivencia, pero que, en un entorno complejo como  el  ATM,  o  en  la  vida  occidental  actual,  pueden  interferir  de  forma  no  deseada  con nuestras conductas. En general, hay cuatro grandes familias de sesgos:
+o Los que deciden qué debo recordar o Los  que  filtran  información  cuando  hay  demasiada  y orientan  la  atención  hacia determinados estímulos o Los que aparecen cuando necesito actuar rápido o Los que surgen cuando la información que manejamos no tiene suficiente significado
 
-7.2 Modelo TEM (Threat and Error Management)
-El modelo TEM es un concepto desarrollado por OACI, que busca identificar el origen y la
-gestión de los errores en la interacción entre los controladores y su contexto operacional,
-(organización, procedimientos, condiciones ambientales).  Este método permite establecer
-cómo se originan los errores, cómo se responde a los errores, cómo se detectan y cuáles son
-las consecuencias.
-La clave del modelo es el análisis de acciones u omisiones que generan un estado inseguro, en
-el que la situación no desemboca en un suceso, con el fin de detectar y capturar posibles
-errores, tanto individuales como de equipo, como mecanismo para crear seguridad.
+## 7.2 Modelo TEM (Threat and Error Management) El modelo TEM es un concepto desarrollado por OACI, que busca identificar el origen y la gestión de los errores en la interacción entre los controladores y su contexto operacional, (organización, procedimientos, condiciones ambientales).  Este método permite establecer cómo se originan los errores, cómo se responde a los errores, cómo se detectan y cuáles son las consecuencias.
+La clave del modelo es el análisis de acciones u omisiones que generan un estado inseguro, en el que la situación no desemboca en un suceso, con el fin de detectar y capturar posibles errores, tanto individuales como de equipo, como mecanismo para crear seguridad.
 
-julio/2023
 ## 61/65
-
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
 
 ## FIGURA 11  EL MODELO TEM DEFINIDO POR OACI
 
-En la operación del trabajo diario del controlador hay tres componentes básicos en función
-del riesgo:
+En la operación del trabajo diario del controlador hay tres componentes básicos en función del riesgo:
 ## ➢ Amenazas
-Son errores externos o incidencias que aumentan la complejidad de la situación operacional
-y  que  tienen  lugar  sin  que  las  haya  propiciado  el  controlador.  El  controlador  deberá
-ingeniárselas  para  que  no  se  reduzcan  los  márgenes  de  seguridad.  En  este  apartado
-incluimos,  por  ejemplo,  indicativos  de  llamada  similares,  procedimientos  locales  que  no
-están normalizados, restricciones del espacio aéreo, condiciones meteorológicas adversas,
-congestión del espacio aéreo, contingencias, etc., y equivocaciones cometidas por personas
-que no trabajan en el entorno operativo. Las amenazas pueden anticiparse o no:
-o Amenazas   previsibles: cuando  el   controlador   puede   prever   su   aparición,   como
-meteorología adversa.
-o Amenazas imprevistas: que pueden surgir inesperadamente como por ejemplo cuando
-un piloto copia las instrucciones transmitidas a otro. En este caso, el controlador debe
-aplicar toda su pericia, entrenamiento y experiencia para solventar la situación.
-Un  factor  esencial  para  resolver  las  amenazas,  sean  previstas  o  no,  es  la  posibilidad  de
-detectarlas  a  tiempo  para  permitir  al  controlador  tomar  las  decisiones  adecuadas.  El  TEM
-parte de la premisa de que los errores y amenazas no son eliminables y por lo tanto, hemos
-de saber idear estrategias para afrontarlas. No siempre hay una relación directa y lineal entre
-Amenaza-Error-Estado no deseado. Las amenazas pueden, en ocasiones, llevarnos a estados
+Son errores externos o incidencias que aumentan la complejidad de la situación operacional y  que  tienen  lugar  sin  que  las  haya  propiciado  el  controlador.  El  controlador  deberá ingeniárselas  para  que  no  se  reduzcan  los  márgenes  de  seguridad.  En  este  apartado incluimos,  por  ejemplo,  indicativos  de  llamada  similares,  procedimientos  locales  que  no están normalizados, restricciones del espacio aéreo, condiciones meteorológicas adversas, congestión del espacio aéreo, contingencias, etc., y equivocaciones cometidas por personas que no trabajan en el entorno operativo. Las amenazas pueden anticiparse o no:
+o Amenazas   previsibles: cuando  el   controlador   puede   prever   su   aparición,   como meteorología adversa.
+o Amenazas imprevistas: que pueden surgir inesperadamente como por ejemplo cuando un piloto copia las instrucciones transmitidas a otro. En este caso, el controlador debe aplicar toda su pericia, entrenamiento y experiencia para solventar la situación.
+Un  factor  esencial  para  resolver  las  amenazas,  sean  previstas  o  no,  es  la  posibilidad  de detectarlas  a  tiempo  para  permitir  al  controlador  tomar  las  decisiones  adecuadas.  El  TEM parte de la premisa de que los errores y amenazas no son eliminables y por lo tanto, hemos de saber idear estrategias para afrontarlas. No siempre hay una relación directa y lineal entre Amenaza-Error-Estado no deseado. Las amenazas pueden, en ocasiones, llevarnos a estados
 
-julio/2023
 ## 62/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
-no  deseados  sin  haber  cometido  errores.  Los  controladores  aéreos,  en  ocasiones,  pueden
-cometer errores en el desempeño de sus funciones operativas, aunque no haya amenazas.
+no  deseados  sin  haber  cometido  errores.  Los  controladores  aéreos,  en  ocasiones,  pueden cometer errores en el desempeño de sus funciones operativas, aunque no haya amenazas.
 ## ➢ Errores
-Se materializan en decisiones u omisiones por parte del controlador que nos llevan a que no
-se cumplan los objetivos planificados y que se comprometan los márgenes de seguridad. El
-no  afrontar  adecuadamente  los  errores  nos  puede  llevar a  situaciones  no  deseadas.  Los
-errores pueden ser espontáneos, estar ligados a amenazas o formar parte de una cadena de
-errores.
-➢ Estados no deseados
-Los  errores  y  amenazas  que  forman  parte  del  trabajo  cotidiano  del  controlador  pueden
-generar estados no deseados (undesired states), y estas situaciones no deseables, pueden
-convertirse  en  un riesgo  para  la  seguridad.  Para  el  método  TEM  como  herramienta  en  el
-análisis  de  los  riesgos  a  la  seguridad  de  las  operaciones,  es  tan  importante  estudiar  las
-circunstancias no deseadas que se pueden crear en el desarrollo de las operaciones, como
-el análisis de los errores y amenazas potenciales.
-Podemos  definir  las  situaciones  no  deseadas  como  aquellas  en  las  que  ha  fallado  la
-planificación prevista y como consecuencia, se reducen los límites de seguridad, por ej.: una
-aeronave  que  asciende  a  un  nivel  de  vuelo  no  autorizado  o  que  vira  a  un  rumbo  no
-planificado. Estas circunstancias creadas por haber gestionado mal los errores o amenazas
-previas  han  de  ser  afrontadas  por  los  controladores,  si  lo  hacen  bien  restauraran  los
-márgenes de seguridad reglamentarios y si no es así se podría desencadenar un incidente o
-accidente.
-Es importante distinguir entre las circunstancias no deseadas y el resultado o consecuencia
-de las acciones. Mientras estemos en un estado no deseado, podemos resolver la situación
-mediante la aplicación de medidas oportunas, pero una vez que se produce un desenlace ya
-no se puede volver atrás.
-Lo más relevante de cara a los estados no deseados es que de forma implícita, el control de
-tránsito aéreo consiste en la detección de estados no deseados, tanto los que aparecen de
-forma natural por la propia evolución del tráfico y del contexto, como los que se generan por
-la  propia  actuación  ATC.  Entrenar  la  detección de  estados  no  deseados  es  esencial  para
-consolidar estrategias de trabajo seguros, y el conocimiento en factores humanos permite
-adelantarse a amenazas internas y estados no deseados.
+Se materializan en decisiones u omisiones por parte del controlador que nos llevan a que no se cumplan los objetivos planificados y que se comprometan los márgenes de seguridad. El no  afrontar  adecuadamente  los  errores  nos  puede  llevar a  situaciones  no  deseadas.  Los errores pueden ser espontáneos, estar ligados a amenazas o formar parte de una cadena de errores.
+➢ Estados no deseados Los  errores  y  amenazas  que  forman  parte  del  trabajo  cotidiano  del  controlador  pueden generar estados no deseados (undesired states), y estas situaciones no deseables, pueden convertirse  en  un riesgo  para  la  seguridad.  Para  el  método  TEM  como  herramienta  en  el análisis  de  los  riesgos  a  la  seguridad  de  las  operaciones,  es  tan  importante  estudiar  las circunstancias no deseadas que se pueden crear en el desarrollo de las operaciones, como el análisis de los errores y amenazas potenciales.
+Podemos  definir  las  situaciones  no  deseadas  como  aquellas  en  las  que  ha  fallado  la planificación prevista y como consecuencia, se reducen los límites de seguridad, por ej.: una aeronave  que  asciende  a  un  nivel  de  vuelo  no  autorizado  o  que  vira  a  un  rumbo  no planificado. Estas circunstancias creadas por haber gestionado mal los errores o amenazas previas  han  de  ser  afrontadas  por  los  controladores,  si  lo  hacen  bien  restauraran  los márgenes de seguridad reglamentarios y si no es así se podría desencadenar un incidente o accidente.
+Es importante distinguir entre las circunstancias no deseadas y el resultado o consecuencia de las acciones. Mientras estemos en un estado no deseado, podemos resolver la situación mediante la aplicación de medidas oportunas, pero una vez que se produce un desenlace ya no se puede volver atrás.
+Lo más relevante de cara a los estados no deseados es que de forma implícita, el control de tránsito aéreo consiste en la detección de estados no deseados, tanto los que aparecen de forma natural por la propia evolución del tráfico y del contexto, como los que se generan por la  propia  actuación  ATC.  Entrenar  la  detección de  estados  no  deseados  es  esencial  para consolidar estrategias de trabajo seguros, y el conocimiento en factores humanos permite adelantarse a amenazas internas y estados no deseados.
 
-julio/2023
 ## 63/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
 ## 8. BIBLIOGRAFÍA
-ASOCIACIÓN ESPAÑOLA DE NORMALIZACIÓN Y CERTIFICACIÓN (2001). Principios Ergonómicos
-Relativos a la Carga de Trabajo Mental. UNE-EN ISO 10075-1, y 2. Madrid: AENOR.
-ASOCIACIÓN ESPAÑOLA DE NORMALIZACIÓN Y CERTIFICACIÓN (2005). Principios Ergonómicos
-Relativos a la Carga de Trabajo Mental. UNE-EN ISO 10075-3. Madrid: AENOR, 21 p.
-Dekker, S. (2006) “Resilience Engineering: Chronicling the Emergence of Confused Consensus'. In
-Resilience Engineering: Concepts and Precepts. ed. by Hollnagel, E., Woods, D. D. and Leveson, N.
+ASOCIACIÓN ESPAÑOLA DE NORMALIZACIÓN Y CERTIFICACIÓN (2001). Principios Ergonómicos Relativos a la Carga de Trabajo Mental. UNE-EN ISO 10075-1, y 2. Madrid: AENOR.
+ASOCIACIÓN ESPAÑOLA DE NORMALIZACIÓN Y CERTIFICACIÓN (2005). Principios Ergonómicos Relativos a la Carga de Trabajo Mental. UNE-EN ISO 10075-3. Madrid: AENOR, 21 p.
+Dekker, S. (2006) “Resilience Engineering: Chronicling the Emergence of Confused Consensus'. In Resilience Engineering: Concepts and Precepts. ed. by Hollnagel, E., Woods, D. D. and Leveson, N.
 ## G.  Aldershot: Ashgate, 77-92.
-Edwards, E. (1972). “Man and machine: Systems for safety”. In Proc. of British Airline Pilots
-Associations Technical Symposium, (pp. 21-36). British Airline Pilots Associations, London.
-Edwards, E. (1988) “Introductory Overview” in E.L. Wiener & D.C. Nagel (Eds) Human Factors in
-Aviation. San Diego, CA: Academic Press.
-Endsley, M.R., (1999) “Situational Awareness in Aviation Systems”. In Handbook of Aviation
-Human Factors. ed. by Garland, D.J., Wise, J.A., and Hopkin, V.D.  Mahwah, NJ: Lawrence
+Edwards, E. (1972). “Man and machine: Systems for safety”. In Proc. of British Airline Pilots Associations Technical Symposium, (pp. 21-36). British Airline Pilots Associations, London.
+Edwards, E. (1988) “Introductory Overview” in E.L. Wiener & D.C. Nagel (Eds) Human Factors in Aviation. San Diego, CA: Academic Press.
+Endsley, M.R., (1999) “Situational Awareness in Aviation Systems”. In Handbook of Aviation Human Factors. ed. by Garland, D.J., Wise, J.A., and Hopkin, V.D.  Mahwah, NJ: Lawrence
 ## Erlbaum Associates, 257-276.
-Endsley, M. R. (1996) “Automation and Situation Awareness”. Automation and Human
-Performance: Theory and Applications, 163-181.
-EUROCONTROL (2014) Systems Thinking for Safety: Ten Principles. A White Paper.  Moving
-Towards Safety II. Brussels: EUROCONTROL.
+Endsley, M. R. (1996) “Automation and Situation Awareness”. Automation and Human Performance: Theory and Applications, 163-181.
+EUROCONTROL (2014) Systems Thinking for Safety: Ten Principles. A White Paper.  Moving Towards Safety II. Brussels: EUROCONTROL.
 EUROCONTROL (2013) From Safety-I to Safety-II. A White Paper. Brussels: EUROCONTROL.
-EUROCONTROL/FAA Action Plan 15 Safety (2010) Human Performance in Air Traffic Management
-Safety. A White Paper. Brussels: EUROCONTROL.
+EUROCONTROL/FAA Action Plan 15 Safety (2010) Human Performance in Air Traffic Management Safety. A White Paper. Brussels: EUROCONTROL.
 EUROCONTROL (2008) Critical Incident Stress Management: User Implementation Guidelines.
 Brussels: EUROCONTROL.
-EUROCONTROL (2008) EATCHIP Human Resources Team, Human Factors Module: Critical
-Incident Stress Management. Brussels: EUROCONTROL.
+EUROCONTROL (2008) EATCHIP Human Resources Team, Human Factors Module: Critical Incident Stress Management. Brussels: EUROCONTROL.
 Everly, G.S. (2006) Assisting Individuals in Crisis. 4th edn. Ellycott City, MD: International Critical
 ## Incident Stress Foundation.
-Everly, G.S., Mitchell, J.T., (1997) Innovations in Disaster and Psychology, Volume Two: Critical
-Incident Stress Management, a New Era and Standard of Care in Crisis Intervention. Ellycott City,
-MD: Chevron.
+Everly, G.S., Mitchell, J.T., (1997) Innovations in Disaster and Psychology, Volume Two: Critical Incident Stress Management, a New Era and Standard of Care in Crisis Intervention. Ellycott City, MD: Chevron.
 
-julio/2023
 ## 64/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
 Hollnagel, E. (2014) Safety-I and Safety-II. The Past and Future of Safety Management. Farnham:
 ## Ashgate.
 Hollnagel, E. (2009) The ETTO Principle: Efficiency-Thoroughness Trade-off: Why Things that Go
@@ -2339,70 +814,35 @@ Isaac, A.R. and Ruitenberg, B. (1999).  Air Traffic Control: Human Performance F
 ## Ashgate.
 Leonhardt, J. and Vogt, J. (Eds.) (2006) Critical Incident Stress Management CISM in Aviation.
 Aldershot, UK: Ashgate.
-Mitchell, J.T., (2006) Critical Incident Stress Management (CISM): Group Crisis Intervention.   4th
-edn. Ellycott City, MD: International Critical Incident Stress Foundation.
-Mitchell, J.T., Everly, G.S. (1996) Critical Incident Stress Debriefing. An Operation Manual for the
-Prevention of Traumatic Stress among Emergency Services and Disaster Workers. 2nd edn.
+Mitchell, J.T., (2006) Critical Incident Stress Management (CISM): Group Crisis Intervention.   4th edn. Ellycott City, MD: International Critical Incident Stress Foundation.
+Mitchell, J.T., Everly, G.S. (1996) Critical Incident Stress Debriefing. An Operation Manual for the Prevention of Traumatic Stress among Emergency Services and Disaster Workers. 2nd edn.
 Ellycott City, MD: Chevron.
-Mitchell, J.T., Everly, G.S. (1994) Human Elements Training for Emergency Services, Public Safety
-and Disaster Personnel: an Instructional Guide to Teaching Debriefing, Crisis Intervention and
-Stress Management Programs. Ellycott City, MD: Chevron.
-OACI (2016) Manual para la Supervisión de los Enfoques de Gestión de la Fatiga.  Doc 9966. 2nd
-ed.  Montreal: OACI.
-OACI (2011) Manual sobre la Observación Continua del Programa Universal de Auditoría de la
-Vigilancia de la Seguridad Operacional. Doc 9735 AN/960. 3rd ed. Montreal: OACI.
-OACI (2005) Manejo de Amenazas y Errores (TEM) en el Control de Tránsito Aéreo. CIR 314
-AN/178  Montreal: OACI.
-OACI (1994) Anexo 13 al Convenio sobre Aviación Civil Internacional – Investigación de
-Accidentes e incidentes de Aviación. Montreal: OACI.
-Rankin, A., Lundberg, J., Woltjer, R., Rollenhagen, C., and Hollnagel, E. (2014). “Resilience in
-Everyday Operations a Framework for Analyzing Adaptations in High-Risk Work”. Journal Of
-Cognitive Engineering and Decision Making 8 (1), 78-97.
+Mitchell, J.T., Everly, G.S. (1994) Human Elements Training for Emergency Services, Public Safety and Disaster Personnel: an Instructional Guide to Teaching Debriefing, Crisis Intervention and Stress Management Programs. Ellycott City, MD: Chevron.
+OACI (2016) Manual para la Supervisión de los Enfoques de Gestión de la Fatiga.  Doc 9966. 2nd ed.  Montreal: OACI.
+OACI (2011) Manual sobre la Observación Continua del Programa Universal de Auditoría de la Vigilancia de la Seguridad Operacional. Doc 9735 AN/960. 3rd ed. Montreal: OACI.
+OACI (2005) Manejo de Amenazas y Errores (TEM) en el Control de Tránsito Aéreo. CIR 314 AN/178  Montreal: OACI.
+OACI (1994) Anexo 13 al Convenio sobre Aviación Civil Internacional – Investigación de Accidentes e incidentes de Aviación. Montreal: OACI.
+Rankin, A., Lundberg, J., Woltjer, R., Rollenhagen, C., and Hollnagel, E. (2014). “Resilience in Everyday Operations a Framework for Analyzing Adaptations in High-Risk Work”. Journal Of Cognitive Engineering and Decision Making 8 (1), 78-97.
 Rasmussen, J. (1986) Information Processing and Human-Machine Interaction. Amsterdam:
 ## Elsevier.
 Rasmussen, J. (1985) “Trends in Human Reliability Analysis. Ergonomics, 28 (8), 1185-1196.
-Rasmussen, J. (1983) “Skills, Rules and Knowledge: Signals, Signs and Symbols; and other
-Distinctions in Human Performance Models”. IEEE Transactions on Systems, Man and
+Rasmussen, J. (1983) “Skills, Rules and Knowledge: Signals, Signs and Symbols; and other Distinctions in Human Performance Models”. IEEE Transactions on Systems, Man and
 ## Cybernetics, 13, 257-266.
 
-julio/2023
 ## 65/65
 
-## © 2023 ENAIRE
-La información aquí expuesta es propiedad de ENAIRE.
-No puede ser usada, reproducida y/o transmitida por ningún medio, sin la autorización expresa de ENAIRE.
 Reason, J. (1997) Managing the Risks of Organizational Accidents. Farnham: Ashgate.
 Reason, J. (1990) Human error. New York: Cambridge University Press.
-Reason, J. (1987) “Generic Error-Modelling Systems (GEMS). A Cognitive Framework for Locating
-Common Human Error Forms”. in New Technology and Human Error. ed. by. Rasmussen, K.,
-Duncan, K. and Leplat, J. Chichester:Wiley, 63-83.
-Reglamento de Ejecución (UE) 2017/373 por el que se establecen los Requisitos Comunes para
-los Proveedores de Servicios de Gestión del Tránsito Aéreo/ Aérea y otras Funciones
-de la Red de Gestión del Tránsito Aéreo y su Supervisión, por el que se derogan el Reglamento
-(CE) nº 482/2008 y los Reglamentos de Ejecución (UE) nº 1034/2011, (UE) nº 1035/2011 y (UE)
-2016/1377, y por el que se modifica el Reglamento (UE) nº 677/2011. Bruselas: La Comisión
+Reason, J. (1987) “Generic Error-Modelling Systems (GEMS). A Cognitive Framework for Locating Common Human Error Forms”. in New Technology and Human Error. ed. by. Rasmussen, K., Duncan, K. and Leplat, J. Chichester:Wiley, 63-83.
+Reglamento de Ejecución (UE) 2017/373 por el que se establecen los Requisitos Comunes para los Proveedores de Servicios de Gestión del Tránsito Aéreo/ Aérea y otras Funciones de la Red de Gestión del Tránsito Aéreo y su Supervisión, por el que se derogan el Reglamento (CE) nº 482/2008 y los Reglamentos de Ejecución (UE) nº 1034/2011, (UE) nº 1035/2011 y (UE) 2016/1377, y por el que se modifica el Reglamento (UE) nº 677/2011. Bruselas: La Comisión
 ## Europea.
-Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015, por el que se establecen
-Requisitos Técnicos y Procedimientos Administrativos relativos a las Licencias y los Certificados
-de los Controladores de Tránsito Aéreo en virtud del Reglamento (CE) nº 216/2008 del
-Parlamento Europeo y del Consejo, se modifica el Reglamento de Ejecución (UE) nº 923/2012 de
-la Comisión y se deroga el Reglamento (UE) nº 805/2011 de la Comisión. Bruselas: La Comisión
+Reglamento (UE) 2015/340 de la Comisión, de 20 de febrero de 2015, por el que se establecen Requisitos Técnicos y Procedimientos Administrativos relativos a las Licencias y los Certificados de los Controladores de Tránsito Aéreo en virtud del Reglamento (CE) nº 216/2008 del Parlamento Europeo y del Consejo, se modifica el Reglamento de Ejecución (UE) nº 923/2012 de la Comisión y se deroga el Reglamento (UE) nº 805/2011 de la Comisión. Bruselas: La Comisión
 ## Europea.
-Reglamento (UE) 376/2014 del Parlamento Europeo y del Consejo de 3 de abril de 2014 relativo a
-la Notificación de Sucesos en la Aviación Civil, que modifica el Reglamento (UE) nº 996/2010 del
-Parlamento Europeo y del Consejo, y por el que se derogan la Directiva 2003/42/CE del
-Parlamento Europeo y del Consejo y los Reglamentos (CE) nº 1321/2007 y (CE) nº 1330/2007 de
-la Comisión. Bruselas: Parlamento Europeo y Consejo de la Unión Europea.
-Salvendy, G. (2012) The Handbook of Human Factors and Ergonomics.  4
-th
-edn. Hoboken, NJ:
+Reglamento (UE) 376/2014 del Parlamento Europeo y del Consejo de 3 de abril de 2014 relativo a la Notificación de Sucesos en la Aviación Civil, que modifica el Reglamento (UE) nº 996/2010 del Parlamento Europeo y del Consejo, y por el que se derogan la Directiva 2003/42/CE del Parlamento Europeo y del Consejo y los Reglamentos (CE) nº 1321/2007 y (CE) nº 1330/2007 de la Comisión. Bruselas: Parlamento Europeo y Consejo de la Unión Europea.
+Salvendy, G. (2012) The Handbook of Human Factors and Ergonomics.  4 th edn. Hoboken, NJ:
 ## John Wiley & Sons, Inc.
-Shorrock, S., Williams, C. (2017) Human Factors and Ergonomics in Practice.  Improving System
-Performance and Human Well-Being in the Real World. Boca Raton, FL: CRC Press
-Simon, H. (1957)  Models of Man (Social and Rational). New York: John Wiley and Sons.
+Shorrock, S., Williams, C. (2017) Human Factors and Ergonomics in Practice.  Improving System Performance and Human Well-Being in the Real World. Boca Raton, FL: CRC Press Simon, H. (1957)  Models of Man (Social and Rational). New York: John Wiley and Sons.
 Woods, D. D, Dekker, S., Cook, R., Johannesen, L. and Sarter, N. (2010) Behind Human Error.
 ## Farham: Ashgate
-Woods, D. D. and Cook, R. I. (2002) “Nine Steps to Move Forward From Error”. Cognition,
-Technology and Work, 4 (2), 137-144.
-Woods, D. D. and Cook, R. I. (1999) “Perspectives on Human Error: Hindsight Biases and Local
-Rationality”. In Handbook of Applied Cognition. ed. by Durso, F. New York: Wiley, 141-171.
+Woods, D. D. and Cook, R. I. (2002) “Nine Steps to Move Forward From Error”. Cognition, Technology and Work, 4 (2), 137-144.
+Woods, D. D. and Cook, R. I. (1999) “Perspectives on Human Error: Hindsight Biases and Local Rationality”. In Handbook of Applied Cognition. ed. by Durso, F. New York: Wiley, 141-171.
