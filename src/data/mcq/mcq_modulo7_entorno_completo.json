@@ -1,0 +1,1506 @@
+{
+  "module_id": "MOD_007",
+  "module_name": "Entorno Profesional (Familiarización)",
+  "mcq_set": [
+    {
+      "question_id": "MOD7_001",
+      "question_text": "¿Qué ley transformó Aena EPE en ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Ley 4/1990" },
+        { "option_id": "B", "text": "Ley 18/2014" },
+        { "option_id": "C", "text": "Ley 21/2014" },
+        { "option_id": "D", "text": "Ley 25/2009" }
+      ],
+      "correct_answer": "B",
+      "hint": "De octubre de 2014.",
+      "explanation": "La Ley 18/2014 de 15 de octubre aprobó medidas urgentes para el crecimiento, competitividad y eficiencia, transformando Aena EPE en ENAIRE."
+    },
+    {
+      "question_id": "MOD7_002",
+      "question_text": "¿A qué ministerio está adscrita ENAIRE?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Ministerio de Defensa" },
+        { "option_id": "B", "text": "Ministerio de Transportes y Movilidad Sostenible" },
+        { "option_id": "C", "text": "Ministerio de Economía" },
+        { "option_id": "D", "text": "Ministerio del Interior" }
+      ],
+      "correct_answer": "B",
+      "hint": "Transportes...",
+      "explanation": "La entidad pública empresarial ENAIRE está adscrita al Ministerio de Transportes y Movilidad Sostenible."
+    },
+    {
+      "question_id": "MOD7_003",
+      "question_text": "¿Cuántos centros de control gestiona ENAIRE?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "3" },
+        { "option_id": "B", "text": "4" },
+        { "option_id": "C", "text": "5" },
+        { "option_id": "D", "text": "6" }
+      ],
+      "correct_answer": "C",
+      "hint": "Madrid, Barcelona, Sevilla, Palma, Canarias.",
+      "explanation": "ENAIRE gestiona cinco centros de control."
+    },
+    {
+      "question_id": "MOD7_004",
+      "question_text": "¿Cuántas torres de control gestiona ENAIRE?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "15" },
+        { "option_id": "B", "text": "18" },
+        { "option_id": "C", "text": "21" },
+        { "option_id": "D", "text": "25" }
+      ],
+      "correct_answer": "C",
+      "hint": "Más de 20.",
+      "explanation": "ENAIRE gestiona 21 torres de control."
+    },
+    {
+      "question_id": "MOD7_005",
+      "question_text": "¿Cuántos kilómetros cuadrados de espacio aéreo gestiona ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "1.500.000 km²" },
+        { "option_id": "B", "text": "2.000.000 km²" },
+        { "option_id": "C", "text": "2.190.000 km²" },
+        { "option_id": "D", "text": "2.500.000 km²" }
+      ],
+      "correct_answer": "C",
+      "hint": "Aproximadamente 2.2 millones.",
+      "explanation": "ENAIRE gestiona 2.190.000 kilómetros cuadrados de espacio aéreo español."
+    },
+    {
+      "question_id": "MOD7_006",
+      "question_text": "¿En qué año fue ENAIRE designada como Operador de Infraestructuras Críticas?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "2010" },
+        { "option_id": "B", "text": "2015" },
+        { "option_id": "C", "text": "2019" },
+        { "option_id": "D", "text": "2020" }
+      ],
+      "correct_answer": "B",
+      "hint": "Mediada de la década.",
+      "explanation": "ENAIRE fue designada por el Estado como Operador de Infraestructuras Críticas en 2015."
+    },
+    {
+      "question_id": "MOD7_007",
+      "question_text": "¿En qué año fue ENAIRE designada como Operador de Servicios Esenciales?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "2015" },
+        { "option_id": "B", "text": "2019" },
+        { "option_id": "C", "text": "2020" },
+        { "option_id": "D", "text": "2021" }
+      ],
+      "correct_answer": "B",
+      "hint": "Cuatro años después de infraestructuras críticas.",
+      "explanation": "ENAIRE fue designada como Operador de Servicios Esenciales en 2019."
+    },
+    {
+      "question_id": "MOD7_008",
+      "question_text": "¿Qué porcentaje de acciones de Aena S.A. posee ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "45%" },
+        { "option_id": "B", "text": "51%" },
+        { "option_id": "C", "text": "60%" },
+        { "option_id": "D", "text": "75%" }
+      ],
+      "correct_answer": "B",
+      "hint": "Mayoritario.",
+      "explanation": "ENAIRE es el accionista mayoritario del gestor aeroportuario Aena S.A., con el 51% de sus acciones."
+    },
+    {
+      "question_id": "MOD7_009",
+      "question_text": "¿Qué porcentaje de CRIDA posee ENAIRE?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "36%" },
+        { "option_id": "B", "text": "45,85%" },
+        { "option_id": "C", "text": "50%" },
+        { "option_id": "D", "text": "66,66%" }
+      ],
+      "correct_answer": "D",
+      "hint": "Más de la mitad.",
+      "explanation": "ENAIRE posee el 66,66% de CRIDA."
+    },
+    {
+      "question_id": "MOD7_010",
+      "question_text": "¿Qué porcentaje del Grupo EAD posee ENAIRE?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "36%" },
+        { "option_id": "B", "text": "45,85%" },
+        { "option_id": "C", "text": "50%" },
+        { "option_id": "D", "text": "66,66%" }
+      ],
+      "correct_answer": "A",
+      "hint": "Un tercio aproximadamente.",
+      "explanation": "ENAIRE posee el 36% del Grupo EAD."
+    },
+    {
+      "question_id": "MOD7_011",
+      "question_text": "¿Qué porcentaje de STARTICAL posee ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "45,85%" },
+        { "option_id": "B", "text": "50%" },
+        { "option_id": "C", "text": "66,66%" },
+        { "option_id": "D", "text": "36%" }
+      ],
+      "correct_answer": "B",
+      "hint": "Mitad del capital.",
+      "explanation": "ENAIRE posee el 50% de STARTICAL."
+    },
+    {
+      "question_id": "MOD7_012",
+      "question_text": "¿Cuántas personas trabajadoras componen la plantilla de ENAIRE?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Más de 3.000" },
+        { "option_id": "B", "text": "Más de 4.200" },
+        { "option_id": "C", "text": "Más de 5.000" },
+        { "option_id": "D", "text": "Más de 6.000" }
+      ],
+      "correct_answer": "B",
+      "hint": "Aproximadamente 4.200.",
+      "explanation": "La plantilla de ENAIRE la componen más de 4.200 personas trabajadoras."
+    },
+    {
+      "question_id": "MOD7_013",
+      "question_text": "¿Qué porcentaje de la plantilla representa el personal de controladores aéreos?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "20%" },
+        { "option_id": "B", "text": "26%" },
+        { "option_id": "C", "text": "49%" },
+        { "option_id": "D", "text": "60%" }
+      ],
+      "correct_answer": "C",
+      "hint": "Casi la mitad.",
+      "explanation": "Los controladores aéreos representan alrededor del 49% de la plantilla de ENAIRE."
+    },
+    {
+      "question_id": "MOD7_014",
+      "question_text": "¿Qué porcentaje de la plantilla representa Ingeniería y Explotación Técnica?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "5%" },
+        { "option_id": "B", "text": "20%" },
+        { "option_id": "C", "text": "26%" },
+        { "option_id": "D", "text": "49%" }
+      ],
+      "correct_answer": "B",
+      "hint": "Un quinto.",
+      "explanation": "Ingeniería y Explotación Técnica representa sobre un 20% de la plantilla."
+    },
+    {
+      "question_id": "MOD7_015",
+      "question_text": "¿Qué porcentaje de la plantilla representa el personal de Operaciones?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "5%" },
+        { "option_id": "B", "text": "20%" },
+        { "option_id": "C", "text": "26%" },
+        { "option_id": "D", "text": "49%" }
+      ],
+      "correct_answer": "A",
+      "hint": "Pequeño porcentaje.",
+      "explanation": "El personal de Operaciones representa sobre un 5% de la plantilla."
+    },
+    {
+      "question_id": "MOD7_016",
+      "question_text": "¿Qué porcentaje de la plantilla representa el personal de Gestión?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "5%" },
+        { "option_id": "B", "text": "20%" },
+        { "option_id": "C", "text": "26%" },
+        { "option_id": "D", "text": "49%" }
+      ],
+      "correct_answer": "C",
+      "hint": "Casi un tercio.",
+      "explanation": "El personal de Gestión representa alrededor de un 26% de la plantilla."
+    },
+    {
+      "question_id": "MOD7_017",
+      "question_text": "¿Cuál es el propósito del Plan de Vuelo 2025 de ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Aumentar beneficios económicos" },
+        { "option_id": "B", "text": "Cuidamos de tu vuelo para que sea seguro, rápido, eficiente y sostenible" },
+        { "option_id": "C", "text": "Expandir internacionalmente" },
+        { "option_id": "D", "text": "Modernizar torres de control" }
+      ],
+      "correct_answer": "B",
+      "hint": "Enfoque en el usuario.",
+      "explanation": "El propósito del Plan de Vuelo 2025 es: 'Cuidamos de tu vuelo para que sea seguro, rápido, eficiente y sostenible'."
+    },
+    {
+      "question_id": "MOD7_018",
+      "question_text": "¿Cuál es la misión de ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Ser líder mundial en navegación aérea" },
+        { "option_id": "B", "text": "Proporcionamos servicios de navegación aérea con seguridad, calidad, eficiencia y respeto al medioambiente" },
+        { "option_id": "C", "text": "Aumentar el tráfico aéreo" },
+        { "option_id": "D", "text": "Reducir costes operativos" }
+      ],
+      "correct_answer": "B",
+      "hint": "Servicios con seguridad y calidad.",
+      "explanation": "La misión de ENAIRE es proporcionar servicios de navegación aérea con seguridad, calidad, eficiencia y respeto al medioambiente."
+    },
+    {
+      "question_id": "MOD7_019",
+      "question_text": "¿Cuál es la visión de ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Ser el proveedor más económico" },
+        { "option_id": "B", "text": "Ser operador global y líder del sector basado en personas, innovación y digitalización" },
+        { "option_id": "C", "text": "Gestionar todo el espacio aéreo europeo" },
+        { "option_id": "D", "text": "Maximizar beneficios para el Estado" }
+      ],
+      "correct_answer": "B",
+      "hint": "Líder global con personas e innovación.",
+      "explanation": "La visión de ENAIRE es convertirse en un operador global, líder del sector de la navegación aérea, basándose en las personas, la innovación y la digitalización."
+    },
+    {
+      "question_id": "MOD7_020",
+      "question_text": "¿Qué objetivo estratégico NO está en el Plan de Vuelo 2025?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Reforzar continuamente la seguridad" },
+        { "option_id": "B", "text": "Maximizar el beneficio económico por encima de todo" },
+        { "option_id": "C", "text": "Contribuir a la movilidad sostenible" },
+        { "option_id": "D", "text": "Acometer el desarrollo del negocio e internacionalización" }
+      ],
+      "correct_answer": "B",
+      "hint": "Todos los objetivos son equilibrados.",
+      "explanation": "Maximizar el beneficio económico por encima de todo NO es un objetivo estratégico; los objetivos están equilibrados entre seguridad, eficiencia y sostenibilidad."
+    },
+    {
+      "question_id": "MOD7_021",
+      "question_text": "¿Cuándo fue creada la iniciativa del Cielo Único Europeo (SES)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "1990" },
+        { "option_id": "B", "text": "1999" },
+        { "option_id": "C", "text": "2004" },
+        { "option_id": "D", "text": "2009" }
+      ],
+      "correct_answer": "B",
+      "hint": "Final del siglo XX.",
+      "explanation": "La iniciativa del Cielo Único Europeo (SES) fue creada por la Comisión Europea en 1999."
+    },
+    {
+      "question_id": "MOD7_022",
+      "question_text": "¿Cuál es el objetivo principal del SES?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Aumentar beneficios económicos de proveedores" },
+        { "option_id": "B", "text": "Aumentar la eficiencia de la gestión del tránsito aéreo y servicios de navegación" },
+        { "option_id": "C", "text": "Reducir personal de controladores" },
+        { "option_id": "D", "text": "Unificar todos los proveedores europeos" }
+      ],
+      "correct_answer": "B",
+      "hint": "Eficiencia y reducción de fragmentación.",
+      "explanation": "El objetivo principal del SES es aumentar la eficiencia de la gestión del tránsito aéreo y los servicios de navegación mediante mejora en capacidad, seguridad, coste-eficiencia y medio ambiente, y reducción de la fragmentación del espacio aéreo europeo."
+    },
+    {
+      "question_id": "MOD7_023",
+      "question_text": "¿Qué paquete SES se aprobó en 2004?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "SES I" },
+        { "option_id": "B", "text": "SES II" },
+        { "option_id": "C", "text": "SES2+" },
+        { "option_id": "D", "text": "SES III" }
+      ],
+      "correct_answer": "A",
+      "hint": "El primer paquete.",
+      "explanation": "El paquete SES I se aprobó en 2004."
+    },
+    {
+      "question_id": "MOD7_024",
+      "question_text": "¿Qué paquete SES se aprobó en 2009?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "SES I" },
+        { "option_id": "B", "text": "SES II" },
+        { "option_id": "C", "text": "SES2+" },
+        { "option_id": "D", "text": "RP3" }
+      ],
+      "correct_answer": "B",
+      "hint": "El segundo paquete.",
+      "explanation": "El paquete SES II se aprobó en 2009."
+    },
+    {
+      "question_id": "MOD7_025",
+      "question_text": "¿Cuándo se retomó la propuesta de SES2+?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "2009" },
+        { "option_id": "B", "text": "2015" },
+        { "option_id": "C", "text": "Finales de 2020" },
+        { "option_id": "D", "text": "2023" }
+      ],
+      "correct_answer": "C",
+      "hint": "Durante la pandemia.",
+      "explanation": "La Comisión Europea retomó, a finales de 2020, la propuesta de nuevo texto reglamentario para SES2+."
+    },
+    {
+      "question_id": "MOD7_026",
+      "question_text": "¿Qué es el sistema europeo de rendimientos?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Un sistema de evaluación de controladores" },
+        { "option_id": "B", "text": "Requiere cumplimiento de metas en Seguridad, Coste-Eficiencia, Capacidad y Medioambiente" },
+        { "option_id": "C", "text": "Un sistema de formación" },
+        { "option_id": "D", "text": "Un sistema de certificación" }
+      ],
+      "correct_answer": "B",
+      "hint": "RP - Reference Period.",
+      "explanation": "El sistema europeo de rendimientos requiere a los Estados y proveedores de servicios como ENAIRE el cumplimiento de metas en cuatro áreas: Seguridad, Coste-Eficiencia, Capacidad y Medioambiente."
+    },
+    {
+      "question_id": "MOD7_027",
+      "question_text": "¿Cuántos años dura cada período del sistema europeo de rendimientos?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "3 años" },
+        { "option_id": "B", "text": "5 años" },
+        { "option_id": "C", "text": "4 años" },
+        { "option_id": "D", "text": "6 años" }
+      ],
+      "correct_answer": "B",
+      "hint": "Sistema quinquenal.",
+      "explanation": "La normativa se despliega en períodos de cinco años (aunque el primero duró tres)."
+    },
+    {
+      "question_id": "MOD7_028",
+      "question_text": "¿Qué período de rendimientos está vigente desde 2020 hasta 2024?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "RP2" },
+        { "option_id": "B", "text": "RP3" },
+        { "option_id": "C", "text": "RP4" },
+        { "option_id": "D", "text": "RP1" }
+      ],
+      "correct_answer": "B",
+      "hint": "Tercer período de referencia.",
+      "explanation": "El período actual se extiende desde 2020 hasta 2024, corresponde al RP3."
+    },
+    {
+      "question_id": "MOD7_029",
+      "question_text": "¿Qué es el Servicio de Tránsito Aéreo (ATS)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Gestiona solo comunicaciones" },
+        { "option_id": "B", "text": "Previene colisiones y mantiene ordenadamente el movimiento del tránsito aéreo" },
+        { "option_id": "C", "text": "Solo proporciona información meteorológica" },
+        { "option_id": "D", "text": "Gestiona aeropuertos" }
+      ],
+      "correct_answer": "B",
+      "hint": "Colisión y orden del tránsito.",
+      "explanation": "El Servicio de Tránsito Aéreo (ATS) previene colisiones y acelera y mantiene ordenadamente el movimiento del tránsito aéreo, proporcionando asesoramiento e información útil."
+    },
+    {
+      "question_id": "MOD7_030",
+      "question_text": "¿Qué significa CNS en los servicios de ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Control, Navegación y Seguridad" },
+        { "option_id": "B", "text": "Comunicaciones, Navegación y Vigilancia" },
+        { "option_id": "C", "text": "Coordinación, Navegación y Sistema" },
+        { "option_id": "D", "text": "Comunicación, Nivelación y Servicio" }
+      ],
+      "correct_answer": "B",
+      "hint": "Services supporting ATM.",
+      "explanation": "CNS significa Communications, Navigation and Surveillance (Comunicaciones, Navegación y Vigilancia)."
+    },
+    {
+      "question_id": "MOD7_031",
+      "question_text": "¿Qué garantiza el servicio CNS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Gestión de vuelos" },
+        { "option_id": "B", "text": "Disponibilidad, explotación y mantenimiento de medios técnicos del sistema de navegación" },
+        { "option_id": "C", "text": "Información meteorológica" },
+        { "option_id": "D", "text": "Solo control de área" }
+      ],
+      "correct_answer": "B",
+      "hint": "Soporte técnico a la operación.",
+      "explanation": "El servicio CNS garantiza la disponibilidad, explotación y mantenimiento de los medios técnicos e instalaciones del sistema de navegación aérea en apoyo a la operación de aeronaves."
+    },
+    {
+      "question_id": "MOD7_032",
+      "question_text": "¿Qué es el Servicio de Información Aeronáutica (AIS)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Control de tráfico" },
+        { "option_id": "B", "text": "Pone a disposición información del sistema de navegación relevante para la planificación de operaciones" },
+        { "option_id": "C", "text": "Mantenimiento de equipos" },
+        { "option_id": "D", "text": "Solo comunicaciones" }
+      ],
+      "correct_answer": "B",
+      "hint": "Información para planificación.",
+      "explanation": "El AIS pone a disposición de los usuarios del espacio aéreo toda la información del sistema de navegación relevante para la planificación de sus operaciones."
+    },
+    {
+      "question_id": "MOD7_033",
+      "question_text": "¿Qué es la Gestión de Afluencia del Tráfico Aéreo (ATFM)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Gestión de comunicaciones" },
+        { "option_id": "B", "text": "Garantizar la regularidad de los vuelos y la capacidad en el espacio aéreo" },
+        { "option_id": "C", "text": "Solo vigilancia" },
+        { "option_id": "D", "text": "Formación de controladores" }
+      ],
+      "correct_answer": "B",
+      "hint": "Flow management.",
+      "explanation": "La ATFM tiene como objetivo garantizar la regularidad de los vuelos y la capacidad en el espacio aéreo."
+    },
+    {
+      "question_id": "MOD7_034",
+      "question_text": "¿Qué es la Gestión del Espacio Aéreo (ASM)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Gestión de afluencia" },
+        { "option_id": "B", "text": "Asegurar la coordinación civil/militar en el desarrollo de operaciones" },
+        { "option_id": "C", "text": "Solo comunicaciones" },
+        { "option_id": "D", "text": "Información aeronáutica" }
+      ],
+      "correct_answer": "B",
+      "hint": "Nivel táctico/3.",
+      "explanation": "La Gestión del Espacio Aéreo (ASM) local (táctico/nivel 3) asegura la coordinación civil/militar en el desarrollo de las operaciones."
+    },
+    {
+      "question_id": "MOD7_035",
+      "question_text": "¿Qué es el Diseño de Procedimientos de Vuelo (FPD)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Gestión de tráfico" },
+        { "option_id": "B", "text": "Diseño de procedimientos SID, STAR y aproximaciones" },
+        { "option_id": "C", "text": "Formación de controladores" },
+        { "option_id": "D", "text": "Mantenimiento de equipos" }
+      ],
+      "correct_answer": "B",
+      "hint": "Flight Procedure Design.",
+      "explanation": "El FPD (Flight Procedure Design) es el diseño de procedimientos de vuelo como SID, STAR y aproximaciones."
+    },
+    {
+      "question_id": "MOD7_036",
+      "question_text": "¿Cuántas partes tiene la Formación de Unidad para controladores?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "2" },
+        { "option_id": "B", "text": "3" },
+        { "option_id": "C", "text": "4" },
+        { "option_id": "D", "text": "5" }
+      ],
+      "correct_answer": "B",
+      "hint": "Teoría, simulador y OJT.",
+      "explanation": "La Formación de Unidad consta de 3 partes: Formación de transición (teoría), Pre-OJT (simulador) y Formación en el puesto de trabajo (OJT)."
+    },
+    {
+      "question_id": "MOD7_037",
+      "question_text": "¿Qué significa OJT?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "On Job Training" },
+        { "option_id": "B", "text": "Operational Job Training" },
+        { "option_id": "C", "text": "Official Job Training" },
+        { "option_id": "D", "text": "Online Job Training" }
+      ],
+      "correct_answer": "A",
+      "hint": "Formación en el puesto de trabajo.",
+      "explanation": "OJT significa On Job Training, formación en el puesto de trabajo."
+    },
+    {
+      "question_id": "MOD7_038",
+      "question_text": "¿Qué es la Formación de Actualización?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Para obtener nueva licencia" },
+        { "option_id": "B", "text": "Necesaria para mantener la anotación de Unidad" },
+        { "option_id": "C", "text": "Solo para supervisores" },
+        { "option_id": "D", "text": "Formación inicial" }
+      ],
+      "correct_answer": "B",
+      "hint": "Mantener cualificación.",
+      "explanation": "La Formación de Actualización es necesaria para mantener la anotación de Unidad (procedimientos, emergencias, factores humanos, etc.)."
+    },
+    {
+      "question_id": "MOD7_039",
+      "question_text": "¿Qué es la Formación de Conversión?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Formación para mantener la cualificación" },
+        { "option_id": "B", "text": "Asociada a cambios operativos que se implementen en cada Unidad" },
+        { "option_id": "C", "text": "Formación inicial de controladores" },
+        { "option_id": "D", "text": "Formación de idiomas" }
+      ],
+      "correct_answer": "B",
+      "hint": "Cambios en la unidad.",
+      "explanation": "La Formación de Conversión está asociada a los cambios operativos que se implementen en cada Unidad."
+    },
+    {
+      "question_id": "MOD7_040",
+      "question_text": "¿Qué universidades colaboran con ENAIRE en el Máster en Gestión de Servicios de Navegación Aérea?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Complutense y Autónoma" },
+        { "option_id": "B", "text": "Politécnica y Autónoma de Madrid" },
+        { "option_id": "C", "text": "Politécnica y Carlos III" },
+        { "option_id": "D", "text": "Autónoma y Complutense" }
+      ],
+      "correct_answer": "B",
+      "hint": "Dos universidades madrileñas.",
+      "explanation": "El máster está organizado junto con la Universidad Politécnica y la Universidad Autónoma de Madrid."
+    },
+    {
+      "question_id": "MOD7_041",
+      "question_text": "¿Qué certificación tiene el Máster en Gestión de Servicios de Navegación Aérea?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "ISO 9001" },
+        { "option_id": "B", "text": "TRAINAIR PLUS de OACI" },
+        { "option_id": "C", "text": "EASA" },
+        { "option_id": "D", "text": "ICAO Training" }
+      ],
+      "correct_answer": "B",
+      "hint": "Certificación de OACI.",
+      "explanation": "El Máster en Gestión de Servicios de Navegación Aérea cuenta con la certificación de programa TRAINAIR PLUS de OACI."
+    },
+    {
+      "question_id": "MOD7_042",
+      "question_text": "¿Cuántos vuelos gestiona ENAIRE anualmente?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Menos de 1 millón" },
+        { "option_id": "B", "text": "Más de 2 millones" },
+        { "option_id": "C", "text": "Más de 3 millones" },
+        { "option_id": "D", "text": "Más de 5 millones" }
+      ],
+      "correct_answer": "B",
+      "hint": "Aproximadamente 2 millones.",
+      "explanation": "ENAIRE gestiona más de 2 millones de vuelos al año."
+    },
+    {
+      "question_id": "MOD7_043",
+      "question_text": "¿Cuántas personas transportó el tráfico atendido por ENAIRE en 2023?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Menos de 200 millones" },
+        { "option_id": "B", "text": "Más de 328 millones" },
+        { "option_id": "C", "text": "400 millones" },
+        { "option_id": "D", "text": "500 millones" }
+      ],
+      "correct_answer": "B",
+      "hint": "Casi 330 millones.",
+      "explanation": "El tráfico aéreo atendido por ENAIRE transportó a más de 328 millones de personas en el año 2023."
+    },
+    {
+      "question_id": "MOD7_044",
+      "question_text": "¿Qué posición ocupa ENAIRE en Europa por volumen de tráfico?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Primero" },
+        { "option_id": "B", "text": "Cuarto" },
+        { "option_id": "C", "text": "Sexto" },
+        { "option_id": "D", "text": "Décimo" }
+      ],
+      "correct_answer": "B",
+      "hint": "Top 5.",
+      "explanation": "ENAIRE es el cuarto en Europa por volumen de tráfico."
+    },
+    {
+      "question_id": "MOD7_045",
+      "question_text": "¿En qué convenio colectivo se incluye el personal técnico de mantenimiento?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "III Convenio de Controladores" },
+        { "option_id": "B", "text": "I Convenio del Grupo Aena (personal no controlador)" },
+        { "option_id": "C", "text": "II Convenio de Aena" },
+        { "option_id": "D", "text": "Convenio de Gestión" }
+      ],
+      "correct_answer": "B",
+      "hint": "Convenio para personal no controlador.",
+      "explanation": "Los técnicos de mantenimiento están incluidos en el I Convenio Colectivo del Grupo Aena (personal no controlador)."
+    },
+    {
+      "question_id": "MOD7_046",
+      "question_text": "¿En qué convenio colectivo se incluyen los controladores de tránsito aéreo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "III Convenio Colectivo profesional de Controladores de Tránsito Aéreo" },
+        { "option_id": "B", "text": "I Convenio del Grupo Aena" },
+        { "option_id": "C", "text": "II Convenio de ENAIRE" },
+        { "option_id": "D", "text": "Convenio de Operaciones" }
+      ],
+      "correct_answer": "A",
+      "hint": "Convenio específico para controladores.",
+      "explanation": "Los controladores aéreos están incluidos en el III Convenio Colectivo profesional de Controladores de Tránsito Aéreo."
+    },
+    {
+      "question_id": "MOD7_047",
+      "question_text": "¿Qué es la Fundación ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Empresa de formación" },
+        { "option_id": "B", "text": "Dedicada a gestionar, conservar y difundir el patrimonio artístico y fomentar cultura aeronáutica" },
+        { "option_id": "C", "text": "Gestora de aeropuertos" },
+        { "option_id": "D", "text": "Empresa de tecnología" }
+      ],
+      "correct_answer": "B",
+      "hint": "Patrimonio y cultura.",
+      "explanation": "La Fundación ENAIRE está dedicada a gestionar, conservar y difundir el patrimonio artístico de la entidad, así como a fomentar, divulgar e impulsar la cultura aeronáutica."
+    },
+    {
+      "question_id": "MOD7_048",
+      "question_text": "¿Qué porcentaje de acciones de Ineco posee ENAIRE?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "36%" },
+        { "option_id": "B", "text": "45,85%" },
+        { "option_id": "C", "text": "50%" },
+        { "option_id": "D", "text": "66,66%" }
+      ],
+      "correct_answer": "B",
+      "hint": "Casi la mitad.",
+      "explanation": "ENAIRE posee el 45,85% de Ineco."
+    },
+    {
+      "question_id": "MOD7_049",
+      "question_text": "¿Qué es CRIDA?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Centro de Investigación" },
+        { "option_id": "B", "text": "Centro de Referencia e Investigación ATM" },
+        { "option_id": "C", "text": "Centro Regional de Datos" },
+        { "option_id": "D", "text": "Centro de Regulación" }
+      ],
+      "correct_answer": "B",
+      "hint": "Centro de investigación ATM.",
+      "explanation": "CRIDA es el Centro de Referencia e Investigación ATM (Air Traffic Management)."
+    },
+    {
+      "question_id": "MOD7_050",
+      "question_text": "¿Cuál es el objetivo del SES respecto a la fragmentación del espacio aéreo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Aumentar la fragmentación" },
+        { "option_id": "B", "text": "Reducir la fragmentación del espacio aéreo europeo" },
+        { "option_id": "C", "text": "Mantener la fragmentación actual" },
+        { "option_id": "D", "text": "Fragmentar cada país individualmente" }
+      ],
+      "correct_answer": "B",
+      "hint": "Objetivo clave del SES.",
+      "explanation": "Uno de los objetivos principales del SES es la reducción de la fragmentación del espacio aéreo europeo."
+    },
+    {
+      "question_id": "MOD7_051",
+      "question_text": "¿Qué significa RP4?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Reglamento Performance 4" },
+        { "option_id": "B", "text": "Reference Period 4 (2025-2029)" },
+        { "option_id": "C", "text": "Reglamento de Pago 4" },
+        { "option_id": "D", "text": "Reference Point 4" }
+      ],
+      "correct_answer": "B",
+      "hint": "Período de rendimientos 2025-2029.",
+      "explanation": "RP4 es el Reference Period 4, que se extenderá de 2025 a 2029."
+    },
+    {
+      "question_id": "MOD7_052",
+      "question_text": "¿Qué áreas cubre el sistema de rendimientos europeo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo seguridad y costes" },
+        { "option_id": "B", "text": "Seguridad, Coste-Eficiencia, Capacidad y Medioambiente" },
+        { "option_id": "C", "text": "Solo capacidad y medioambiente" },
+        { "option_id": "D", "text": "Solo seguridad" }
+      ],
+      "correct_answer": "B",
+      "hint": "Cuatro áreas clave.",
+      "explanation": "El sistema europeo de rendimientos cubre cuatro áreas: Seguridad, Coste-Eficiencia, Capacidad y Medioambiente."
+    },
+    {
+      "question_id": "MOD7_053",
+      "question_text": "¿Qué servicio proporciona asesoramiento e información útil para operaciones seguras?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "CNS" },
+        { "option_id": "B", "text": "ATS" },
+        { "option_id": "C", "text": "AIS" },
+        { "option_id": "D", "text": "ATFM" }
+      ],
+      "correct_answer": "B",
+      "hint": "Air Traffic Service.",
+      "explanation": "El Servicio de Tránsito Aéreo (ATS) proporciona asesoramiento e información útil para la operación segura y eficaz de los vuelos."
+    },
+    {
+      "question_id": "MOD7_054",
+      "question_text": "¿Qué servicio notifica y auxilia a organismos sobre aeronaves que necesitan ayuda?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "AIS" },
+        { "option_id": "B", "text": "ATS" },
+        { "option_id": "C", "text": "ATFM" },
+        { "option_id": "D", "text": "CNS" }
+      ],
+      "correct_answer": "B",
+      "hint": "Búsqueda y salvamento.",
+      "explanation": "El ATS notifica y auxilia a los organismos pertinentes respecto de las aeronaves que necesitan ayuda y salvamento."
+    },
+    {
+      "question_id": "MOD7_055",
+      "question_text": "¿Para qué puestos de trabajo existe formación de carrera profesional?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo controladores" },
+        { "option_id": "B", "text": "Instructores, evaluadores, supervisores y puestos de Gestión" },
+        { "option_id": "C", "text": "Solo personal de mantenimiento" },
+        { "option_id": "D", "text": "Solo personal administrativo" }
+      ],
+      "correct_answer": "B",
+      "hint": "Puestos de responsabilidad.",
+      "explanation": "La formación de carrera profesional es para instructores, evaluadores, supervisores y puestos de Gestión y Libre designación."
+    },
+    {
+      "question_id": "MOD7_056",
+      "question_text": "¿Qué tipo de formación lingüística se imparte en ENAIRE?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Francés" },
+        { "option_id": "B", "text": "Alemán" },
+        { "option_id": "C", "text": "Inglés" },
+        { "option_id": "D", "text": "Español" }
+      ],
+      "correct_answer": "C",
+      "hint": "Idioma internacional de aviación.",
+      "explanation": "La formación lingüística en ENAIRE es en idioma de inglés."
+    },
+    {
+      "question_id": "MOD7_057",
+      "question_text": "¿Qué otros temas incluye la formación 'Otra' de ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo procedimientos ATC" },
+        { "option_id": "B", "text": "Prevención de riesgos laborales, seguridad física y operacional, informática, técnica..." },
+        { "option_id": "C", "text": "Solo factores humanos" },
+        { "option_id": "D", "text": "Solo inglés" }
+      ],
+      "correct_answer": "B",
+      "hint": "Formación transversal.",
+      "explanation": "La formación 'Otra' incluye prevención de riesgos laborales, seguridad física y operacional, ofimática, técnica, entre otros."
+    },
+    {
+      "question_id": "MOD7_058",
+      "question_text": "¿Cuál es el enfoque del Máster en Gestión de Servicios de Navegación Aérea?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo formación técnica" },
+        { "option_id": "B", "text": "Orientado al management con foco en estrategia y desarrollo de habilidades de gestión" },
+        { "option_id": "C", "text": "Solo formación de controladores" },
+        { "option_id": "D", "text": "Solo formación de mantenimiento" }
+      ],
+      "correct_answer": "B",
+      "hint": "Management y toma de decisiones.",
+      "explanation": "El máster está orientado al management, combinando conocimientos con foco en la estrategia y el desarrollo de habilidades de gestión y toma de decisiones."
+    },
+    {
+      "question_id": "MOD7_059",
+      "question_text": "¿A quién está dirigido principalmente el Máster en Gestión de Servicios de Navegación Aérea?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo estudiantes universitarios" },
+        { "option_id": "B", "text": "Profesionales de ENAIRE, proveedores internacionales y otras organizaciones del sector" },
+        { "option_id": "C", "text": "Solo personal de Aena" },
+        { "option_id": "D", "text": "Solo personal militar" }
+      ],
+      "correct_answer": "B",
+      "hint": "Sector aeronáutico amplio.",
+      "explanation": "El máster está dirigido principalmente a profesionales de ENAIRE, proveedores de servicios internacionales y otras organizaciones del sector."
+    },
+    {
+      "question_id": "MOD7_060",
+      "question_text": "¿Qué organismos pueden participar en el Máster en Gestión de Servicios de Navegación Aérea?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo ENAIRE" },
+        { "option_id": "B", "text": "Compañías aéreas, gestores aeroportuarios, reguladores, proveedores meteorológicos, industria tecnológica..." },
+        { "option_id": "C", "text": "Solo Aena" },
+        { "option_id": "D", "text": "Solo autoridades militares" }
+      ],
+      "correct_answer": "B",
+      "hint": "Diversas organizaciones del sector.",
+      "explanation": "Pueden participar compañías aéreas, gestores aeroportuarios, reguladores, autoridades militares, proveedores de meteorología, industria tecnológica, consultoras y titulados universitarios interesados."
+    },
+    {
+      "question_id": "MOD7_061",
+      "question_text": "¿Qué papel tiene la OACI en el Máster de ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo financiador" },
+        { "option_id": "B", "text": "Colaboración en el programa" },
+        { "option_id": "C", "text": "Sin relación" },
+        { "option_id": "D", "text": "Solo certificador externo" }
+      ],
+      "correct_answer": "B",
+      "hint": "Colabora con ENAIRE.",
+      "explanation": "El Máster se ofrece en colaboración con la Organización de Aviación Civil Internacional (OACI)."
+    },
+    {
+      "question_id": "MOD7_062",
+      "question_text": "¿Qué objetivo estratégico menciona la ciberseguridad?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Acometer el desarrollo del negocio" },
+        { "option_id": "B", "text": "Reforzar continuamente la seguridad, con atención a cultura de seguridad, factor humano y ciberseguridad" },
+        { "option_id": "C", "text": "Contribuir a la movilidad sostenible" },
+        { "option_id": "D", "text": "Asegurar la recuperación económica" }
+      ],
+      "correct_answer": "B",
+      "hint": "Seguridad y nuevos riesgos emergentes.",
+      "explanation": "El objetivo de reforzar la seguridad incluye prestar especial atención a la cultura de seguridad, al factor humano y a la ciberseguridad ante los nuevos riesgos emergentes."
+    },
+    {
+      "question_id": "MOD7_063",
+      "question_text": "¿Qué objetivo estratégico menciona la digitalización?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Reforzar la seguridad" },
+        { "option_id": "B", "text": "Mejorar calidad, escalabilidad y resiliencia mediante digitalización y modernización" },
+        { "option_id": "C", "text": "Asegurar la recuperación económica" },
+        { "option_id": "D", "text": "Acelerar transformación cultural" }
+      ],
+      "correct_answer": "B",
+      "hint": "Mejora de servicios.",
+      "explanation": "Mejorar la calidad, escalabilidad y resiliencia de los servicios prestados a través de la digitalización, la modernización del espacio aéreo y los conceptos operativos."
+    },
+    {
+      "question_id": "MOD7_064",
+      "question_text": "¿Qué objetivo estratégico menciona la descarbonización?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Reforzar la seguridad" },
+        { "option_id": "B", "text": "Asegurar la recuperación económica" },
+        { "option_id": "C", "text": "Contribuir a la movilidad sostenible minimizando impacto e impulsando descarbonización" },
+        { "option_id": "D", "text": "Acelerar transformación cultural" }
+      ],
+      "correct_answer": "C",
+      "hint": "Medio ambiente.",
+      "explanation": "Contribuir a la movilidad sostenible en el sector, minimizando el impacto de la actividad de ENAIRE en el medioambiente e impulsando su descarbonización."
+    },
+    {
+      "question_id": "MOD7_065",
+      "question_text": "¿Qué objetivo estratégico menciona la internacionalización?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Acometer el desarrollo del negocio e internacionalización de ENAIRE" },
+        { "option_id": "B", "text": "Reforzar la seguridad" },
+        { "option_id": "C", "text": "Mejorar calidad" },
+        { "option_id": "D", "text": "Contribuir a movilidad sostenible" }
+      ],
+      "correct_answer": "A",
+      "hint": "Posicionamiento global.",
+      "explanation": "Acometer el desarrollo del negocio e internacionalización de ENAIRE, para posicionarse en un entorno global y liberalizado."
+    },
+    {
+      "question_id": "MOD7_066",
+      "question_text": "¿Qué objetivo estratégico menciona la eficiencia y productividad?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Reforzar la seguridad" },
+        { "option_id": "B", "text": "Asegurar la recuperación económica y viabilidad futura, aumentando eficiencia y productividad" },
+        { "option_id": "C", "text": "Contribuir a movilidad sostenible" },
+        { "option_id": "D", "text": "Acelerar transformación cultural" }
+      ],
+      "correct_answer": "B",
+      "hint": "Viabilidad económica.",
+      "explanation": "Asegurar la recuperación económica y viabilidad futura de ENAIRE, y aumentar la eficiencia, productividad y competitividad de la empresa."
+    },
+    {
+      "question_id": "MOD7_067",
+      "question_text": "¿Qué objetivo estratégico menciona la transformación cultural?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Reforzar la seguridad" },
+        { "option_id": "B", "text": "Mejorar calidad" },
+        { "option_id": "C", "text": "Acelerar la transformación cultural, organizativa y modernización" },
+        { "option_id": "D", "text": "Contribuir a movilidad sostenible" }
+      ],
+      "correct_answer": "C",
+      "hint": "Agilidad y eficiencia.",
+      "explanation": "Acelerar la transformación cultural, organizativa y modernización de ENAIRE, aprovechando las nuevas tecnologías para ser más ágiles y eficientes."
+    },
+    {
+      "question_id": "MOD7_068",
+      "question_text": "¿Qué áreas de desempeño incluye el III Convenio de Controladores?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo controladores de torre" },
+        { "option_id": "B", "text": "Controladores de tránsito aéreo" },
+        { "option_id": "C", "text": "Solo controladores de área" },
+        { "option_id": "D", "text": "Solo controladores de aproximación" }
+      ],
+      "correct_answer": "B",
+      "hint": "Todos los controladores aéreos.",
+      "explanation": "El III Convenio Colectivo profesional incluye a los controladores de tránsito aéreo."
+    },
+    {
+      "question_id": "MOD7_069",
+      "question_text": "¿Qué puestos de desempeño incluye el I Convenio del Grupo Aena?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo controladores" },
+        { "option_id": "B", "text": "Técnicos de Mantenimiento, Operaciones, Sistemas, Seguridad, Personas, Calidad, etc." },
+        { "option_id": "C", "text": "Solo pilotos" },
+        { "option_id": "D", "text": "Solo personal militar" }
+      ],
+      "correct_answer": "B",
+      "hint": "Personal no controlador.",
+      "explanation": "El I Convenio del Grupo Aena incluye personal técnico de mantenimiento, operaciones, sistemas, seguridad, personas, calidad, etc."
+    },
+    {
+      "question_id": "MOD7_070",
+      "question_text": "¿Cuántos años duró el primer período de rendimientos europeos?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "3 años" },
+        { "option_id": "B", "text": "5 años" },
+        { "option_id": "C", "text": "4 años" },
+        { "option_id": "D", "text": "2 años" }
+      ],
+      "correct_answer": "A",
+      "hint": "Excepción al periodo quinquenal.",
+      "explanation": "El primer período de rendimientos duró tres años (los demás son de cinco años)."
+    },
+    {
+      "question_id": "MOD7_071",
+      "question_text": "¿En qué año se aprobó la Ley 4/1990 que creó Aena EPE?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "1985" },
+        { "option_id": "B", "text": "1990" },
+        { "option_id": "C", "text": "1995" },
+        { "option_id": "D", "text": "2000" }
+      ],
+      "correct_answer": "B",
+      "hint": "Década de 1990.",
+      "explanation": "La Ley 4/1990 de Presupuestos Generales del Estado fue aprobada en 1990."
+    },
+    {
+      "question_id": "MOD7_072",
+      "question_text": "¿Qué tipo de entidad es ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Empresa privada" },
+        { "option_id": "B", "text": "Entidad pública empresarial" },
+        { "option_id": "C", "text": "Organismo autónomo" },
+        { "option_id": "D", "text": "Sociedad anónima estatal" }
+      ],
+      "correct_answer": "B",
+      "hint": "EPE.",
+      "explanation": "ENAIRE es una entidad pública empresarial (EPE)."
+    },
+    {
+      "question_id": "MOD7_073",
+      "question_text": "¿Qué servicio presta ENAIRE en los aeropuertos de la red Aena?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo comunicaciones" },
+        { "option_id": "B", "text": "Servicios de comunicaciones, navegación y vigilancia (CNS)" },
+        { "option_id": "C", "text": "Solo servicios administrativos" },
+        { "option_id": "D", "text": "Solo servicios de seguridad física" }
+      ],
+      "correct_answer": "B",
+      "hint": "Servicios de soporte al ATM.",
+      "explanation": "ENAIRE es el proveedor de servicios de comunicaciones, navegación y vigilancia en todo el espacio aéreo español y en los aeropuertos de la red Aena."
+    },
+    {
+      "question_id": "MOD7_074",
+      "question_text": "¿Qué función tiene la formación de transición?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Formación en el puesto de trabajo" },
+        { "option_id": "B", "text": "Cursos de teoría para cada anotación de unidad" },
+        { "option_id": "C", "text": "Formación de actualización" },
+        { "option_id": "D", "text": "Formación de conversión" }
+      ],
+      "correct_answer": "B",
+      "hint": "Parte teórica.",
+      "explanation": "La formación de transición son cursos de formación para cada anotación de unidad, basados en teoría."
+    },
+    {
+      "question_id": "MOD7_075",
+      "question_text": "¿Qué es el Pre-OJT?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Formación final en el puesto" },
+        { "option_id": "B", "text": "Formación en simulador o preparación para OJT" },
+        { "option_id": "C", "text": "Formación teórica" },
+        { "option_id": "D", "text": "Formación de conversión" }
+      ],
+      "correct_answer": "B",
+      "hint": "Antes del OJT.",
+      "explanation": "El Pre-OJT es formación en simulador como preparación para el OJT (On Job Training)."
+    },
+    {
+      "question_id": "MOD7_076",
+      "question_text": "¿Qué incluye la formación continua de controladores?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo formación inicial" },
+        { "option_id": "B", "text": "Actualización y conversión dirigida a mantener la cualificación" },
+        { "option_id": "C", "text": "Solo formación de idiomas" },
+        { "option_id": "D", "text": "Solo formación de gestión" }
+      ],
+      "correct_answer": "B",
+      "hint": "Mantener cualificación.",
+      "explanation": "La formación continua incluye actualización y conversión dirigida a mantener la cualificación."
+    },
+    {
+      "question_id": "MOD7_077",
+      "question_text": "¿Qué es STARTICAL?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Empresa de mantenimiento" },
+        { "option_id": "B", "text": "Empresa tecnológica del grupo ENAIRE" },
+        { "option_id": "C", "text": "Centro de formación" },
+        { "option_id": "D", "text": "Fundación" }
+      ],
+      "correct_answer": "B",
+      "hint": "Empresa participada.",
+      "explanation": "STARTICAL es una empresa tecnológica participada por ENAIRE al 50%."
+    },
+    {
+      "question_id": "MOD7_078",
+      "question_text": "¿Qué es Ineco?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Empresa de tecnología" },
+        { "option_id": "B", "text": "Ingeniería y Consultoría de transportes" },
+        { "option_id": "C", "text": "Centro de investigación" },
+        { "option_id": "D", "text": "Gestora de aeropuertos" }
+      ],
+      "correct_answer": "B",
+      "hint": "Ingeniería de transportes.",
+      "explanation": "Ineco es una empresa de ingeniería y consultoría de transportes participada por ENAIRE."
+    },
+    {
+      "question_id": "MOD7_079",
+      "question_text": "¿Qué es el Grupo EAD?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Empresa española de datos" },
+        { "option_id": "B", "text": "European Aeronautic Data - Grupo europeo de datos aeronáuticos" },
+        { "option_id": "C", "text": "Empresa de tecnología española" },
+        { "option_id": "D", "text": "Centro de formación" }
+      ],
+      "correct_answer": "B",
+      "hint": "Datos aeronáuticos europeos.",
+      "explanation": "El Grupo EAD (European Aeronautic Data) es un grupo europeo de datos aeronáuticos."
+    },
+    {
+      "question_id": "MOD7_080",
+      "question_text": "¿En qué año se aprobó el paquete SES I?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "1999" },
+        { "option_id": "B", "text": "2004" },
+        { "option_id": "C", "text": "2009" },
+        { "option_id": "D", "text": "2015" }
+      ],
+      "correct_answer": "B",
+      "hint": "5 años después de crear SES.",
+      "explanation": "El paquete SES I se aprobó y entró en vigor en 2004."
+    },
+    {
+      "question_id": "MOD7_081",
+      "question_text": "¿En qué año se aprobó el paquete SES II?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "2004" },
+        { "option_id": "B", "text": "2009" },
+        { "option_id": "C", "text": "2015" },
+        { "option_id": "D", "text": "2020" }
+      ],
+      "correct_answer": "B",
+      "hint": "5 años después de SES I.",
+      "explanation": "El paquete SES II se aprobó y entró en vigor en 2009."
+    },
+    {
+      "question_id": "MOD7_082",
+      "question_text": "¿Qué trámites implica la negociación de SES2+?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo Comisión Europea" },
+        { "option_id": "B", "text": "Trílogos entre Comisión, Consejo y Parlamento Europeo" },
+        { "option_id": "C", "text": "Solo Parlamento Europeo" },
+        { "option_id": "D", "text": "Solo Consejo Europeo" }
+      ],
+      "correct_answer": "B",
+      "hint": "Tres instituciones europeas.",
+      "explanation": "La propuesta de SES2+ está en proceso de negociación mediante trílogos entre la Comisión Europea, el Consejo y el Parlamento Europeo."
+    },
+    {
+      "question_id": "MOD7_083",
+      "question_text": "¿Qué significa TRAINAIR PLUS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Programa de entrenamiento militar" },
+        { "option_id": "B", "text": "Certificación de programas formativos de OACI" },
+        { "option_id": "C", "text": "Sistema de formación online" },
+        { "option_id": "D", "text": "Programa de becas" }
+      ],
+      "correct_answer": "B",
+      "hint": "ICAO training certification.",
+      "explanation": "TRAINAIR PLUS es la certificación de programa formativo de OACI."
+    },
+    {
+      "question_id": "MOD7_084",
+      "question_text": "¿Qué servicios ATS presta ENAIRE?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo control de área" },
+        { "option_id": "B", "text": "Control de área, aproximación y aeródromo" },
+        { "option_id": "C", "text": "Solo aproximación" },
+        { "option_id": "D", "text": "Solo aeródromo" }
+      ],
+      "correct_answer": "B",
+      "hint": "Los tres niveles de control.",
+      "explanation": "ENAIRE presta servicios de tránsito aéreo de control de área, aproximación y aeródromo."
+    },
+    {
+      "question_id": "MOD7_085",
+      "question_text": "¿Qué significa PCATS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Plan de Calidad ATS" },
+        { "option_id": "B", "text": "Plan de Contingencia ATS" },
+        { "option_id": "C", "text": "Programa de Capacitación ATS" },
+        { "option_id": "D", "text": "Plan de Cooperación ATS" }
+      ],
+      "correct_answer": "B",
+      "hint": "Contingency plan.",
+      "explanation": "PCATS significa Plan de Contingencia ATS, incluido en la formación de actualización."
+    },
+    {
+      "question_id": "MOD7_086",
+      "question_text": "¿Qué formación se imparte sobre ofimática?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Formación de unidad" },
+        { "option_id": "B", "text": "Formación 'Otra' junto con PRL y seguridad" },
+        { "option_id": "C", "text": "Solo formación de conversión" },
+        { "option_id": "D", "text": "Solo formación de carrera profesional" }
+      ],
+      "correct_answer": "B",
+      "hint": "Formación transversal complementaria.",
+      "explanation": "La formación de ofimática está incluida en la formación 'Otra' de ENAIRE."
+    },
+    {
+      "question_id": "MOD7_087",
+      "question_text": "¿Qué significa ASM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Air Space Management" },
+        { "option_id": "B", "text": "Air Safety Management" },
+        { "option_id": "C", "text": "Air Services Management" },
+        { "option_id": "D", "text": "Aeronautical Services Management" }
+      ],
+      "correct_answer": "A",
+      "hint": "Gestión del espacio aéreo.",
+      "explanation": "ASM significa Air Space Management (Gestión del Espacio Aéreo)."
+    },
+    {
+      "question_id": "MOD7_088",
+      "question_text": "¿Qué nivel de ASM menciona el texto?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Nivel estratégico" },
+        { "option_id": "B", "text": "Nivel táctico/nivel 3" },
+        { "option_id": "C", "text": "Nivel operativo" },
+        { "option_id": "D", "text": "Nivel pre-táctico" }
+      ],
+      "correct_answer": "B",
+      "hint": "Nivel 3.",
+      "explanation": "La ASM mencionada es local (táctico/nivel 3)."
+    },
+    {
+      "question_id": "MOD7_089",
+      "question_text": "¿Qué servicio incluye información de vuelo y alerta?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "CNS" },
+        { "option_id": "B", "text": "ATS" },
+        { "option_id": "C", "text": "AIS" },
+        { "option_id": "D", "text": "ATFM" }
+      ],
+      "correct_answer": "B",
+      "hint": "Incluye FIS y ALERT.",
+      "explanation": "El ATS incluye los servicios de información de vuelo (FIS) y alerta (ALERT)."
+    },
+    {
+      "question_id": "MOD7_090",
+      "question_text": "¿Qué significa FPD?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Flight Plan Design" },
+        { "option_id": "B", "text": "Flight Procedure Design" },
+        { "option_id": "C", "text": "Flight Performance Data" },
+        { "option_id": "D", "text": "Flight Planning Document" }
+      ],
+      "correct_answer": "B",
+      "hint": "Diseño de procedimientos.",
+      "explanation": "FPD significa Flight Procedure Design (Diseño de Procedimientos de Vuelo)."
+    },
+    {
+      "question_id": "MOD7_091",
+      "question_text": "¿Qué procedimientos incluye el FPD?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo SID" },
+        { "option_id": "B", "text": "SID, STAR y aproximaciones" },
+        { "option_id": "C", "text": "Solo aproximaciones" },
+        { "option_id": "D", "text": "Solo STAR" }
+      ],
+      "correct_answer": "B",
+      "hint": "Todos los procedimientos instrumentales.",
+      "explanation": "El FPD incluye el diseño de procedimientos SID, STAR y aproximaciones."
+    },
+    {
+      "question_id": "MOD7_092",
+      "question_text": "¿Cuál es el período RP3?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "2015-2019" },
+        { "option_id": "B", "text": "2020-2024" },
+        { "option_id": "C", "text": "2025-2029" },
+        { "option_id": "D", "text": "2010-2014" }
+      ],
+      "correct_answer": "B",
+      "hint": "Período anterior al RP4.",
+      "explanation": "El período RP3 se extiende desde 2020 hasta 2024."
+    },
+    {
+      "question_id": "MOD7_093",
+      "question_text": "¿Por qué se considera que RP4 será un reto importante?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Porque es más corto" },
+        { "option_id": "B", "text": "Se prevén objetivos ambiciosos en las cuatro áreas de rendimientos" },
+        { "option_id": "C", "text": "Porque cambiará la normativa" },
+        { "option_id": "D", "text": "Porque solo afecta a España" }
+      ],
+      "correct_answer": "B",
+      "hint": "Objetivos exigentes.",
+      "explanation": "RP4 supondrá un importante reto porque se prevé que los objetivos planteados en las cuatro áreas de rendimientos sean ambiciosos."
+    },
+    {
+      "question_id": "MOD7_094",
+      "question_text": "¿Qué tipo de formación se imparte para libre designación?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Formación inicial" },
+        { "option_id": "B", "text": "Formación de carrera profesional" },
+        { "option_id": "C", "text": "Formación de conversión" },
+        { "option_id": "D", "text": "Formación de actualización" }
+      ],
+      "correct_answer": "B",
+      "hint": "Puestos de gestión.",
+      "explanation": "La formación de carrera profesional incluye puestos de Gestión y Libre designación."
+    },
+    {
+      "question_id": "MOD7_095",
+      "question_text": "¿Qué incluye la formación de factores humanos?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Formación inicial" },
+        { "option_id": "B", "text": "Formación de actualización para mantener anotación" },
+        { "option_id": "C", "text": "Formación de conversión" },
+        { "option_id": "D", "text": "Formación 'Otra'" }
+      ],
+      "correct_answer": "B",
+      "hint": "Actualización.",
+      "explanation": "La formación de factores humanos está incluida en la formación de actualización necesaria para mantener la anotación de Unidad."
+    },
+    {
+      "question_id": "MOD7_096",
+      "question_text": "¿En qué fecha de 2023 se menciona el dato de pasajeros transportados?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Durante todo el año 2023" },
+        { "option_id": "B", "text": "En el año 2023" },
+        { "option_id": "C", "text": "A principios de 2023" },
+        { "option_id": "D", "text": "A finales de 2023" }
+      ],
+      "correct_answer": "B",
+      "hint": "Total anual.",
+      "explanation": "Se menciona que en el año 2023, el tráfico atendido por ENAIRE transportó a más de 328 millones de personas."
+    },
+    {
+      "question_id": "MOD7_097",
+      "question_text": "¿Qué servicio gestiona la coordinación civil/militar?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "ATS" },
+        { "option_id": "B", "text": "ASM (Gestión del Espacio Aéreo)" },
+        { "option_id": "C", "text": "AIS" },
+        { "option_id": "D", "text": "ATFM" }
+      ],
+      "correct_answer": "B",
+      "hint": "Nivel táctico.",
+      "explanation": "La Gestión del Espacio Aéreo (ASM) asegura la coordinación civil/militar en el desarrollo de las operaciones."
+    },
+    {
+      "question_id": "MOD7_098",
+      "question_text": "¿Qué formación permite ejercer las atribuciones de la licencia en una unidad?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Formación de carrera profesional" },
+        { "option_id": "B", "text": "Formación de Unidad" },
+        { "option_id": "C", "text": "Formación de conversión" },
+        { "option_id": "D", "text": "Formación 'Otra'" }
+      ],
+      "correct_answer": "B",
+      "hint": "Una vez superada puedes ejercer.",
+      "explanation": "La Formación de Unidad, una vez superada, permite ejercer las atribuciones de la licencia en dicha unidad."
+    },
+    {
+      "question_id": "MOD7_099",
+      "question_text": "¿Qué es ATFM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Air Traffic Flow Management" },
+        { "option_id": "B", "text": "Air Traffic Fuel Management" },
+        { "option_id": "C", "text": "Air Traffic Frequency Management" },
+        { "option_id": "D", "text": "Air Traffic Flight Management" }
+      ],
+      "correct_answer": "A",
+      "hint": "Gestión de afluencia.",
+      "explanation": "ATFM significa Air Traffic Flow Management (Gestión de Afluencia del Tráfico Aéreo)."
+    },
+    {
+      "question_id": "MOD7_100",
+      "question_text": "¿Qué es AIS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Aeronautical Information Service" },
+        { "option_id": "B", "text": "Aeronautical Information System" },
+        { "option_id": "C", "text": "Aeronautical Inspection Service" },
+        { "option_id": "D", "text": "Aeronautical Internet Service" }
+      ],
+      "correct_answer": "A",
+      "hint": "Servicio de información.",
+      "explanation": "AIS significa Aeronautical Information Service (Servicio de Información Aeronáutica)."
+    }
+  ]
+}

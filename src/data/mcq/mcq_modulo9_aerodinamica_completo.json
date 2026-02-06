@@ -1,0 +1,1618 @@
+{
+  "module_id": "MOD_009",
+  "module_name": "Aerodinámica y Mecánica de Vuelo",
+  "mcq_set": [
+    {
+      "question_id": "MOD9_001",
+      "question_text": "¿Qué afirma el teorema de Bernoulli?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "P = constante" },
+        { "option_id": "B", "text": "P + q/2ρV² = constante" },
+        { "option_id": "C", "text": "P + ρgh + ½ρV² = constante" },
+        { "option_id": "D", "text": "Solo aplica a líquidos viscosos" }
+      ],
+      "correct_answer": "B",
+      "hint": "Presión dinámica.",
+      "explanation": "El teorema de Bernoulli establece que P + q/2ρV² = constante, donde P es la presión estática, q la presión dinámica, ρ la densidad del fluido y V la velocidad."
+    },
+    {
+      "question_id": "MOD9_002",
+      "question_text": "¿qué disminuye cuando aumenta la velocidad del fluido según Bernoulli?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "La presión P" },
+        { "option_id": "B", "text": "La densidad ρ" },
+        { "option_id": "C", "text": "La velocidad V" },
+        "option_id": "D", "text": "Todas las anteriores son falsas" }
+      ],
+      "correct_answer": "A",
+      "hint": "A mayor velocidad, menor presión.",
+      "explanation": "Según Bernoulli, si una partícula aumenta su velocidad v, disminuirá su presión P para mantener constante la suma P + q/2ρV²."
+    },
+    {
+      "question_id": "MOD9_003",
+      "question_text": "¿Qué define la Atmósfera Estándar Internacional (ISA)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "15ºC y 1013 hPa" },
+        { "option_id": "B", "text": "15ºC y 1013 mbars" },
+        { "option_id": "C", "text": "15ºC y 1013.25 hPa" },
+        { "option_id": "D", "text": "20ºC y 1013 hPa" }
+      ],
+      "correct_answer": "A",
+      "hint": "OACI definition.",
+      "explanation": "ISA se define como 15ºC de temperatura y 1013 hectopascales de presión al nivel del mar."
+    },
+    {
+      "question_id": "MOD9_004",
+      "question_id": "MOD9_004",
+      "question_text": "¿Cómo cambia la temperatura en la atmósfera con la altitud según ISA?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Aumenta 2ºC cada 1000 pies" },
+        { "option_id": "B", "text": "Disminuye 2ºC cada 1000 pies" },
+        { "option_id": "C", "text": "Aumenta 6,5ºC cada 1000 pies" },
+        { "option_id": "D", "text": "Se mantiene constante hasta 11000 pies" }
+      ],
+      "correct_answer": "A",
+      "hint": "Standard lapse rate.",
+      "explanation": "Según ISA, la temperatura disminuye 2ºC cada 1000 pies de altitud (6,5ºC por km)."
+    },
+    {
+      "question_id": "MOD9_005",
+      "question_id": "MOD9_005",
+      "question_text": "¿Cuál es la temperatura en la tropopausa según ISA?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "10ºC" },
+        { "option_id": "B", "text": "11ºC" },
+        { "option_id": "C", "text": "15ºC" },
+        { "option_id": "D", "text": "-56.5ºC" }
+      ],
+      "correct_answer": "D",
+      "hint": "End of troposphere.",
+      "explanation": "En la tropopausa (aprox 36000 pies), la temperatura ISA es de -56,5ºC."
+    },
+    {
+      "question_id": "MOD9_006",
+      "question_text": "¿Qué es la altitud de presión?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Altitud sobre el terreno" },
+        { "option_id": "B", "text": "Altitud sobre el nivel del mar" },
+        { "option_id": "C", "text": "Altitud donde P = 1013 hPa" },
+        { "D", "text": "Altitud sobre el terreno corregida" }
+      ],
+      "correct_answer": "C",
+      "hint": "1013 hPa reference.",
+      "explanation": "La altitud de presión es la altura sobre un plano de referencia donde la presión es 1013 hPa (29.92 inHg)."
+    },
+    {
+      "question_id": "MOD9_007",
+      "question_id": "MOD9_007",
+      "question_text": "¿Qué es la altitud densidad?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Distancia vertical sobre el nivel del mar" },
+        { "option_id": "B", "text": "Altitud corregida para la ISA" },
+        { "option_id": "C", "text": "Altitud donde la densidad ISA corresponde a la densidad real" },
+        { "option_id": "D", "text": "Altitud donde la presión es 1013 hPa" }
+      ],
+      "correct_answer": "C",
+      "hint": "Density matching.",
+      "explanation": "La altitud densidad es aquella donde la densidad ISA a esa altitud corresponde a la densidad real del aire."
+    },
+    {
+      "question_id": "MOD9_008",
+      "question_id": "MOD9_008",
+      "question_text": "¿Qué es TAS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Velocidad indicada por el anemómetro corregida por posición y temperatura" },
+        { "option_id": "B", "text": "Velocidad que marca el anemómetro sin corrección" },
+        { "option_id": "C", "text": "Velocidad del avión respecto al aire" },
+        { "option_id": "D", "text": "Velocidad respecto al suelo" }
+      ],
+      "correct_answer": "C",
+      "hint": "True Airspeed.",
+      "explanation": "TAS (True Airspeed) es la velocidad del avión respecto a la masa de aire a través del cual se mueve."
+    },
+    {
+      "question_id": "MOD9_009",
+      "question_id": "MOD9_009",
+      "question_text": "¿Qué es IAS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Velocidad indicada por el anemómetro (ASI) sin correcciones" },
+        { "option_id": "B", "text": "Velocidad del avión respecto al aire" },
+        { "article_id": "C", "text": "Velocidad respecto al suelo" },
+        { "article_id": "D", "text": "Velocidad que marca el anemómetro" }
+      ],
+      "correct_answer": "A",
+      "hint": "Indicated Airspeed.",
+      "explanation": "IAS (Indicated Airspeed) es la velocidad que marca el anemómetro sin corrección por errores de posición o instrumento."
+    },
+    {
+      "question_id": "MOD9_010",
+      "question_id": "MOD9_010",
+      "question_text": "Qué es CAS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "IAS corregida por errores de instrumento y posición a nivel del mar estándar" },
+        { "article_id": "B", "text": "TAS ajustada por condiciones reales de altitud y temperatura" },
+        { "article_id": "C", "text": "Velocidad respecto al suelo" },
+        { "article_id": "D", "text": "Velocidad indicada por el anemómetro" }
+      ],
+      "correct_answer": "A",
+      "hint": "Calibrated Airspeed.",
+      "explanation": "CAS (Calibrated Airspeed) es IAS corregida por errores de instrumento y posición a nivel del mar estándar (15ºC, 1013 hPa)."
+    },
+    {
+      "question_id": "MOD9_011",
+      "question_id": "MOD9_011",
+      "question_text": "¿Qué es EAS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "IAS corregida solo por posición a nivel del mar estándar" },
+        { "article_id": "B", "text": "TAS ajustada por condiciones de altitud y temperatura" },
+        { "article_id": "C", "text": "CAS ajustada solo por altitud y temperatura" },
+        { "article_id": "D", "text": "Velocidad respecto al suelo" }
+      ],
+      "correct_answer": "C",
+      "hint": "Equivalent Airspeed.",
+      "explanation": "EAS (Equivalent Airspeed) es CAS ajustada solo por altitud y temperatura (no por posición a nivel del mar)."
+    },
+    {
+      "question_id": "MOD9_012",
+      "question_id": "MOD9_012",
+      "question_text": "¿Qué es GS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Velocidad del avión respecto al aire" },
+        { "article_id": "B", "text": "Velocidad del avión respecto al suelo" },
+        { "article_id": "C", "text": "Velocidad indicada por el anemómetro" },
+        { "article_id": "D", "text": "Velocidad corregida a ISA" }
+      ],
+      "correct_answer": "B",
+      "hint": "Ground Speed.",
+      "explanation": "GS (Ground Speed) es la velocidad del avión respecto al suelo, resultado de la suma vectorial de TAS y la velocidad del viento."
+    },
+    {
+      "question_id": "MOD9_013",
+      "question_id": "MOD9_013",
+      "question_text": "¿Qué es el número de Mach?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "La velocidad del sonido en condiciones ISA" },
+        { "article_id": "B", "text": "Relación entre TAS y velocidad del sonido" },
+        { "article_id": "C", "text": "Relación entre GS y velocidad del sonido" },
+        { "article_id": "D", "text": "Una medida de altitud" }
+      ],
+      "correct_answer": "B",
+      "hint": "M = TAS / a",
+      "explanation": "El número de Mach (M) es la relación entre la velocidad verdadera del avión (TAS) y la velocidad del sonido a la temperatura actual."
+    },
+    {
+      "question_id": "MOD9_014",
+      "question_id": "MOD9_014",
+      "question_text": "¿A qué temperatura del aire la velocidad del sonido es de 661.4 nudos?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "0ºC" },
+        { { "article_id": "B", "text": "15ºC" },
+        { {article_id": "C", "text": "-20ºC" },
+        { {article_id": "D", "text": "15ºC en ISA" }
+      ],
+      "correct_answer": "B",
+      "hint": "Standard ISA conditions.",
+      "explanation": "En condiciones ISA estándar (15ºC), la velocidad del sonido es de 661.4 nudos."
+    },
+    {
+      "question_id": "MOD9_015",
+      "question_id": "MOD9_015",
+      "question_text": "¿Cuál de los siguientes es una velocidad indicada por el anemómetro?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "TAS (True Airspeed)" },
+        { "article_id": "B", "text": "CAS (Calibrated Airspeed)" },
+        { "article_id": "C", "text": "EAS (Equivalent Airspeed)" },
+        { "article_id": "D", "text": "Todas las anteriores" }
+      ],
+      "correct_answer": "D",
+      "hint": "Todos son indicadas por ASI.",
+      "explanation": "IAS, CAS, EAS y TAS son todos tipos de velocidades indicadas por anemómetro (ASI - Airspeed Indicator)."
+    },
+    {
+      "question_id": "MOD9_016",
+      "question_id": "MOD9_016",
+      "question_text": "¿Qué es el error de altitud?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Diferencia entre altitud verdadera y altitud indicada" },
+        { "article_id": "B", "text": "Error en el cálculo de densidad del aire" },
+        { "article_id": "C", "text": "Error en la calibración del anemómetro" },
+        { "article_id": "D", "text": "Diferencia entre altitud densidad y altitud de presión" }
+      ],
+      "correct_answer": "B",
+      "hint": "Density error.",
+      "explanation": "El error de altitud es el error en el cálculo de densidad del aire que afecta la conversión entre IAS y TAS."
+    },
+    {
+      "question_id": "MOD9_017",
+      "question_id": "MOD9_017",
+      "question_id": "MOD9_018",
+      "question_text": "¿Qué efecto tiene la alta temperatura en la densidad del aire?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "La densidad aumenta" },
+        { "article_id": "B", "text": "La densidad disminuye" },
+        { "article_id": "C", "text": "No afecta a la densidad" },
+        { "article_id": "D", "text": "La densidad permanece constante" }
+      ],
+      "correct_answer": "B",
+      "hint": "Hotter air is less dense.",
+      "explanation": "A mayor temperatura, la densidad del aire disminuye debido a que las moléculas se mueven más y ocupan más espacio."
+    },
+    {
+      "question_id": "MOD9_018",
+      "question_id": "MOD9_018",
+      "question_text": "¿Qué efecto tiene la alta altitud en la densidad del aire?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "La densidad aumenta" },
+        { "article_id": "B", "text": "La densidad disminuye" },
+        { "article_id": "C", "text": "No afecta a la densidad" },
+        { "article_id": "D", "article_id": "D", "text": "Depende de la temperatura" }
+      ],
+      "correct_answer": "B",
+      "hint": "Less air at altitude.",
+      "explanation": "A mayor altitud, la densidad del aire disminuye debido a menor presión atmosférica."
+    },
+    {
+      "question_id": "MOD9_019",
+      "question_id": "MOD9_019",
+      "question_text": "¿Qué cuatro fuerzas básicas actúan sobre un avión en vuelo recto?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Empuje, peso, sustentación, resistencia" },
+        { "article_id": "B", "text": "Empuje, peso, lift, resistencia" },
+        { "article_id": "C", "text": "Empuje, sustentación, arrastre, gravedad" },
+        { "article_id": "D", "text": "Empuje, masa, lift, arrastre, peso" }
+      ],
+      "correct_answer": "B",
+      "hint": "Thrust, weight, lift, drag.",
+      "explanation": "Las cuatro fuerzas básicas en vuelo recto y nivelado son: empuje, peso (weight), sustentación (lift) y resistencia (drag)."
+    },
+    {
+      "question_id": "MOD9_020",
+      "question_id": "MOD9_020",
+      "question_text": "¿Qué es el empuje o 'thrust'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Fuerza que mantiene el avión en el aire" },
+        { "article_id": "B", "text": "Fuerza producida por los motores o hélices" },
+        { "article_id": "C", "text": "Fuerza de gravedad" },
+        { "article_id": "D", "text": "Fuerza aerodinámica" }
+      ],
+      "correct_answer": "B",
+      "hint": "Propulsive force.",
+      "explanation": "El empuje (thrust) es la fuerza de avance producida por los motores o hélices que impulsa el avión hacia adelante."
+    },
+    {
+      "question_id": "MOD9_021",
+      "question_id": "MOD9_021",
+      "question_text": "¿Qué es la sustentación?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Fuerza que mantiene el avión en el aire" },
+        { "article_id": "B", "text": "Fuerza perpendicular generada por las alas" },
+        { "article_id": "C", "text": "Fuerza opuesta al peso" },
+        { "article_id": "D", "text": "Fuerza de arrastre" }
+      ],
+      "correct_answer": "B",
+      "hint": "Generated by wings.",
+      "explanation": "La sustentación (lift) es la fuerza perpendicular generada por las alas que se opone al peso."
+    },
+    {
+      "question_id": "MOD9_022",
+      "question_id": "MOD9_022",
+      "question_text": "¿Qué es la resistencia (drag)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Fuerza opuesta al empuje" },
+        { "article_id": "B", "text": "Fuerza hacia atrás que retarda el avión" },
+        { "article_id": "C", "text": "Fuerza generada por las alas" },
+        { "article_id": "D", "article_id": "D", "text": "Fuerza opuesta al avance a través del aire" }
+      ],
+      "correct_answer": "D",
+      "hint": "Opposes forward motion.",
+      "explanation": "La resistencia (drag) es la fuerza hacia atrás opuesta al avance a través del aire que retarda al avión."
+    },
+    {
+      "question_id": "MOD9_023",
+      "question_id": "MOD9_023",
+      "question_text": "¿Qué condición existe cuando el avión está en vuelo recto y nivelado?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Empuje > Peso" },
+        {article_id": "B", "text": "Peso > Empuje" },
+        { "article_id": "C", "text": "Empuje = Peso + Resistencia" },
+        { "article_id": "D", "text": "Resistencia = 0" }
+      ],
+      "correct_answer": "C",
+      "hint": "Thrust balances drag.",
+      "explanation": "En vuelo recto y nivelado, el avión mantiene velocidad constante cuando empuje = peso + resistencia."
+    },
+    {
+      "question_id": "MOD9_024",
+      "question_id": "MOD9_024",
+      "question_text": "¿Qué es el coeficiente de sustentación (CL)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        {article_id": "A", "text": "L/DV²" },
+        { { "article_id": "B", "text": "2L/ρSV²" },
+        { { "article_id": "C", "text": "L/SV²" },
+        { "article_id": "D", "article_id": "D", "text": "L/qV²" }
+      ],
+      "correct_answer": "A",
+      "hint": "Coefficient of lift formula.",
+      "explanation": "El coeficiente de sustentación (CL) es L/DV², donde L es la sustentación, D la densidad y V la velocidad."
+    },
+    {
+      "question_id": "MOD9_025",
+      "question_id": "MOD9_025",
+      "question_text": "¿Qué es el coeficiente de resistencia (CD)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "D/SV²" },
+        { "article_id": "B", "text": "D/ρSV²" },
+        { "article_id": "C", "text": "2D/ρSV²" },
+        { "article_id": "D", "article_id": "D", "text": "L/DV²" }
+      ],
+      "correct_answer": "A",
+      "hint":Coefficient of drag formula.",
+      "explanation": "El coeficiente de resistencia (CD) es D/SV², donde D es la resistencia, S la superficie del ala y V la velocidad."
+    },
+    {
+      "question_id": "MOD9_026",
+      "question_id": "MOD9_026",
+      "question_text": "¿Qué es el ángulo de ataque?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Ángulo entre el eje longitudinal y el viento relativo" },
+        { "article_id": "B", "text": "Ángulo entre el corda de perfil del ala y el viento relativo" },
+        { "article_id": "C", "text": "Ángulo entre la cuerda y el viento relativo" },
+        { "article_id": "D", "article_id": "D", "text": "Ángulo entre la cuerda de perfil y la cuerda de referencia" }
+      ],
+      "correct_answer": "B",
+      "hint": "Chord line vs. Relative wind.",
+      "explanation": "El ángulo de ataque (AoA) es el ángulo entre la cuerda de perfil del ala y el viento relativo."
+    },
+    {
+      "question_id": "MOD9_027",
+      "question_id": "MOD9_027",
+      "question_text": "¿Qué es la cuerda de referencia?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "La línea de cola del ala" },
+        { "article_id": "B", "text": "La línea de borde de ataque" },
+        { { "article_id": "C", "text": "La línea de borde de salida" },
+        { "article_id": "D", "article_id": "D", "text": "La línea que une los extremos del ala" }
+      ],
+      "correct_answer": "A",
+      "hint": "Trailing edge line.",
+      "explanation": "La cuerda de referencia (reference chord) es la línea de cola del ala, desde donde se mide el ángulo de ataque."
+    },
+    {
+      "question_id": "MOD9_028",
+      "question_id": "MOD9_028",
+      "question_text": "¿Aumenta o disminuye la resistencia con el ángulo de ataque?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Mantiene constante hasta el ángulo crítico" },
+        { "article_id": "B", "text": "Aumenta hasta el ángulo crítico" },
+        { "article_id": "C", "text": "Disminuye con el ángulo de ataque" },
+        { "article_id": "D", "article_id": "D", "text": "Aumenta con el ángulo de ataque" }
+      ],
+      "correct_answer": "D",
+      "hint": "Drag increases with AoA until stall.",
+      "explanation": "La resistencia aerodinámica aumenta con el ángulo de ataque hasta el ángulo crítico (pérdida), donde disminuye bruscamente."
+    },
+    {
+      "question_id": "MOD9_029",
+      "question_id": "MOD9_029",
+      "question_text": "¿Qué es el ángulo crítico de pérdida?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Ángulo donde ocurre pérdida" },
+        { "article_id": "B", "text": "Ángulo de máximo sustentación" },
+        { "article_id": "C", "text": "Ángulo donde la resistencia es máxima" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "Ángulo donde CL/CD es máximo" }
+      ],
+      "correct_answer": "A",
+      "hint": "Angle of attack where CL=0.",
+      "explanation": "El ángulo crítico de pérdida es el ángulo donde el flujo se separa del perfil y CL=0, ocurriendo pérdida de sustentación."
+    },
+    {
+      "question_id": "MOD9_030",
+      "question_id": "MOD9_030",
+      "question_text": "¿Qué es el efecto suelo?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Aumento de sustentación cerca del suelo" },
+        { "article_id": "B", "text": "Disminución de sustentación cerca del suelo" },
+        { "article_id": "C", "text": "Aumento de resistencia cerca del suelo" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "Disminución de resistencia cerca del suelo" }
+      ],
+      "correct_answer": "A",
+      "hint": "Ground effect increases lift.",
+      "explanation": "El efecto suelo es el aumento de sustentación que se produce cuando el avión vuela cerca del suelo debido a la interferencia del flujo de aire."
+    },
+    {
+      "question_id": "MOD9_031",
+      "question_id": "MOD9_031",
+      "question_text": "¿Qué es el Coffin Corner?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { { "article_id": "A", "text": "Donde el flujo supersónico empieza y termina" },
+        { "article_id": "B", "text": "Donde la resistencia es máxima" },
+        { { "article_id": "C", "text": "Donde M alcanza Mach 1" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "Donde el número de Mach crítico" }
+      ],
+      "correct_answer": "A",
+      "hint": "Mach 1 = 661.4 nudos at 15ºC.",
+      "explanation": "El Coffin Corner es donde el flujo supersónico empieza (Mach 1) y termina en la parte posterior del perfil del ala."
+    },
+    {
+      "question_id": "MOD9_032",
+      "question_id": "MOD9_032",
+      "question_text": "¿Qué pasa en el Coffin Corner?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "La velocidad del sonido disminuye" },
+        {article_id": "B", "text": "Aumenta la resistencia drásticamente" },
+        { "article_id": "C", "text": "La sustentación disminuye drásticamente" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "El flujo se vuelve subsónico" }
+      ],
+      "correct_answer": "B",
+      "hint": "Drag increases dramatically.",
+      "explanation": "En el Coffin Corner, la resistencia aumenta drásticamente debido a la formación de ondas de choque, requiriendo mucha más potencia."
+    },
+    {
+      "question_id": "MOD9_033",
+      "question_id": "MOD9_033",
+      "question_text": "¿Qué es el punto de pérdida en pérdida de velocidad?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Velocidad mínima de vuelo horizontal" },
+        { "article_id": "B", "text": "Velocidad donde la sustentación máxima es insuficiente" },
+        { "article_id": "C", "text": "Velocidad mínima para mantener control" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "Velocidad de pérdida completa" }
+      ],
+      "correct_answer": "D",
+      "article_id": "hint": "No flight beyond this speed.",
+      "explanation": "El punto de pérdida en pérdida de velocidad es la velocidad mínima bajo la cual el control del avión no es posible en pérdida."
+    },
+    {
+      "question_id": "MOD9_034",
+      "question_id": "MOD9_034",
+      "question_text": "¿Qué es la velocidad de pérdida?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Velocidad donde el avión deja de volar" },
+        { "article_id": "B", "text": "Velocidad en el ángulo crítico de pérdida" },
+        { "article_id": "C", "text": "Velocidad de decisión" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "VS1" (Velocidad de estancia 1) según categoría)" }
+      ],
+      "correct_answer": "B",
+      "hint": "Angle of attack at stall.",
+      "explanation": "La velocidad de pérdida (Vs) es la velocidad en el ángulo crítico de pérdida, donde el avión pierde sustentación."
+    },
+    {
+      "question_id": "MOD9_035",
+      "question_id": "MOD9_035",
+      "question_text": "¿Cómo afecta el peso de la aeronave a la velocidad de pérdida?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { {article_id": "A", "text": "El peso no afecta la velocidad de pérdida" },
+        { { "article_id": "B", "text": "A mayor peso, mayor velocidad de pérdida" },
+        { "article_id": "C", "text": "A menor peso, mayor velocidad de pérdida" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "A mayor peso, menor velocidad de pérdida" }
+      ],
+      "correct_answer": "D",
+      "hint": "Inverse relationship.",
+      "explanation": "A mayor peso de la aeronave, la velocidad de pérdida aumenta porque se necesita mayor sustentación para volar a mayor velocidad."
+    },
+    {
+      "question_id": "MOD9_036",
+      "question_id": "MOD9_036",
+      "question_text": "¿Qué es la carga alar?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { { "article_id": "A", "text": "Peso de la aeronave" },
+        { "article_id": "B", "text": "Relación entre sustentación y peso" },
+        { "article_id": "C", "text": "Número de pasajeros a bordo" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "Fuerza ejercida por gravedad" }
+      ],
+      "correct_answer": "B",
+      "hint": "Load = Lift / Weight.",
+      "explanation": "La carga alar (load factor) n) es la relación entre la sustentación y el peso: n = L/W."
+    },
+    {
+      "question_id": "MOD9_037",
+      "question_id": "MOD9_037",
+      "question_text": "¿Cuál es la carga alar en vuelo recto y nivelado?",
+      "difficlity": 1,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Mayor que 1" },
+        { "article_id": "B", "text": "Igual a 1" },
+        { { "article_id": "C", "text": "Menor que 1" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "Depende del ángulo de ataque" }
+      ],
+      "correct_answer": "B",
+      "hint": "Lift equals weight in steady flight.",
+      "explanation": "En vuelo recto y nivelado sin aceleración, la sustentación iguala al peso, por lo que la carga alar es 1."
+    },
+    {
+      "question_id": "MOD9_038",
+      "question_id": "MOD9_038",
+      "question_text": "¿Qué son los ejes de una aeronave?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Eje longitudinal, lateral y vertical" },
+        { "article_id": "B", "text": "Eje de ataque, de cabeceo y lateral" },
+        { "article_id": "C", "text": "Eje longitudinal, de cabeceo y transversal" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "Eje longitudinal, de cabeceo y vertical" }
+      ],
+      "correct_answer": "D",
+      "hint": "Roll, Pitch, Yaw.",
+      "explanation": "Los ejes de una aeronave son: eje longitudinal o de cabeceo (Roll), eje transversal (Yaw) y eje vertical (Pitch)."
+    },
+    {
+      "question_id": "MOD9_039",
+      "question_id": "MOD9_039",
+      "question_text": "¿Qué movimiento es el alabeo o roll?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { {article_id": "A", "text": "Giro alrededor del eje longitudinal" },
+        { "article_id": "B", "text": "Movimiento de cabeceo del avión" },
+        { "article_id": "C", "text": "Movimiento de subida y bajada" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "Giro alrededor del eje vertical" }
+      ],
+      "correct_answer": "A",
+      "hint": "Roll around longitudinal axis.",
+      "explanation": "El alabeo (roll) es el movimiento de giro de la aeronave alrededor de su eje longitudinal."
+    },
+    {
+      "question_id": "MOD9_040",
+      "question_id": "MOD9_040",
+      "question_text": "¿Qué movimiento es el cabeceo o yaw?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Giro alrededor del eje longitudinal" },
+        { "article_id": "B", "text": "Giro alrededor del eje vertical" },
+        { "article_id": "C", "text": "Movimiento de cabeceo del avión" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "Movimiento de subida y bajada" }
+      ],
+      "correct_answer": "C",
+      "hint": "Yaw around vertical axis.",
+      "explanation": "El cabeceo (yaw) es el movimiento de cabeceo de la aeronave, giro alrededor de su eje vertical."
+    },
+    {
+      "question_id": "MOD9_041",
+      "question_id": "MOD9_041",
+      "question_text": "¿Qué movimiento es el cabeceo o pitch?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Giro alrededor del eje longitudinal" },
+        { "article_id": "B", "text": "Giro alrededor del eje vertical" },
+        { "article_id": "C", "text": "Giro alrededor del eje lateral" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "Movimiento de subida y bajada" }
+      ],
+      "correct_answer": "D",
+      "hint": "Pitch controls climb/descent.",
+      "explanation": "El cabeceo (pitch) es el movimiento de subida y bajada, controlando el ángulo de cabeceo."
+    },
+    {
+      "question_id": "MOD9_042",
+      "question_id": "MOD9_042",
+      "question_text": "¿Qué tipo de flecha es el diedro?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Diedro hacia" },
+        { "article_id": "B", "text": "Diedro neutro" },
+        { "article_id": "C", "text": "Diedro a la izquierda" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "Diedro a la derecha" }
+      ],
+      "correct_answer": "D",
+      "hint": "Diedro hacia derecha (10°).",
+      "explanation": "Diedro es un ángulo medido desde el norte magnético, donde Diedro hacia la derecha es 10°."
+    },
+    {
+      "question_id": "MOD9_043",
+      "question_id": "MOD9_043",
+      "question_text": "¿Qué es el diedro en navegación?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Dirección hacia donde apunta la aeronave" },
+        { "article_id": "B", "text": "Ángulo medido desde el norte magnético" },
+        { "article_id": "C", "text": "Altitud de vuelo" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "Velocidad del avión" }
+      ],
+      "correct_answer": "B",
+      "hint": "Magnetic bearing angle.",
+      "explanation": "El diedro es el ángulo medido desde el norte magnético, indicando la dirección de navegación de la aeronave."
+    },
+    {
+      "question_id": "MOD9_044",
+      "question_id": "MOD9_044",
+      "question_text": "¿Qué son los controles primarios de vuelo?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Alabeo, cabeceo, palanca de gases, frenos" },
+        { "article_id": "B", "text": "Alabeo, cabeceo, acelerador, frenos" },
+        { "article_id": "C", "text": "Alabeo, timón de dirección, palanca de gases, frenos" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "Alabeo, cabeceo, acelerador, frenos, timón de profundidad" }
+      ],
+      "correct_answer": "B",
+      "hint": "Primary vs secondary controls.",
+      "explanation": "Los controles primarios son: alabeo, cabeceo, acelerador y frenos. El timón de dirección es un control secundario."
+    },
+    {
+      "question_id": "MOD9_045",
+      "question_id": "MOD9_045",
+      "question_text": "¿Qué control se usa para el guiado vertical?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Timón de dirección" },
+        { "article_id": "B", "text": "Timón de profundidad" },
+        { "article_id": "C", "text": "Alabeo" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "Acelerador" }
+      ],
+      "correct_answer": "B",
+      "hint": "Pitch control.",
+      "explanation": "El timón de profundidad es el control que se usa para el guiado vertical (cabeceo), cambiando el ángulo de ataque."
+    },
+    {
+      "question_id": "MOD9_046",
+      "question_id": "MOD9_046",
+      "question_text": "Qué es la Vso (velocidad de pérdida en configuración limpia)?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Velocidad de pérdida con flap y slat retraído" },
+        { "article_id": "B", "text": "Velocidad de pérdida con slat desplegado" },
+        { "article_id": "C", "article_id": "D", "article_id": "D", "article_id": "D", "text": "Velocidad mínima para control en configuración limpia" },
+        { "article_id": "D", "article_id": "D", "text": "Velocidad de decisión en configuración limpia" }
+      ],
+      "correct_answer": "A",
+      "hint": "Flaps and slats retracted.",
+      "explanation": "Vso (velocidad de pérdida en configuración limpia) es la velocidad de pérdida con flap y slat retraído, configuración de crucero."
+    },
+    {
+      "question_id": "MOD9_047",
+      "question_id": "MOD9_047",
+      "question_text": "¿Cuántas fases tiene el despegue según el texto?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "2 fases: aceleración y subida" },
+        { "article_id": "B", "text": "3 fases: rodadura, aceleración y subida" },
+        { "article_id": "C", "article_id": "D", "article_id": "D", "article_id": "D", "text": "4 fases: rodadura, aceleración, rotación y subida" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "3 fases: rodadura, aceleración, subida" }
+      ],
+      "correct_answer": "C",
+      "hint":Roll, accelerate, climb.",
+      "explanation": "Las fases del despegue son: 1) rodadura, 2) aceleración, 3) rotación (alabeo) y 4) subida."
+    },
+    {
+      "question_id": "MOD9_048",
+      "question_id": "MOD9_048",
+      "question_text": "¿En qué fase del despegue se requiere rotación (alabeo)?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "En la rodadura" },
+        { "article_id": "B", "text": "En la aceleración" },
+        { "article_id": "C", "article_id": "D", "article_id": "D", "article_id": "D", "text": "En la rotación" },
+        { "article_id": "D", "article_id": "D", "article_id": "D", "text": "En la subida" }
+      ],
+      "correct_answer": "C",
+      "hint": "Rotate speed reached.",
+      "explanation": "La rotación (alabeo) se produce en la fase 3, cuando se alcanza la velocidad de rotación (Vr) y el avión se levanta del suelo."
+    },
+    {
+      "question_id": "MOD9_049",
+      "question_id": "MOD9_049",
+      "question_text": "¿Cuál es la velocidad de decisión V1?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Velocidad mínima para mantener control" },
+        { "article_id": "B", "text": "Velocidad de pérdida" },
+        { "article_id": "C", "article_id": "D", "article_id": "D", "D": "D", "text": "Velocidad de rotación" },
+        { "article_id": "D", "article_id": "D", "D": "D", "text": "Velocidad para despegue seguro" }
+      ],
+      "correct_answer": "B",
+      "hint": "Minimum controllable speed.",
+      "explanation": "V1 (velocidad de decisión) es la velocidad mínima para mantener control de la aeronave, ligeramente superior a la velocidad de pérdida."
+    },
+    {
+      "question_id": "MOD9_050",
+      "question_id": "MOD9_050",
+      "question_text": "¿Qué es la velocidad de rotación Vr?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Velocidad donde se produce la sustentación máxima" },
+        { "article_id": "B", "text": "Velocidad mínima para mantener control" },
+        { "article_id": "C", "article_id": "D", "D", D", D, text": "Velocidad donde la aeronave se levanta del suelo" },
+        { "article_id": "D", D, D, D, D, text": "Velocidad de pérdida" }
+      ],
+      "correct_answer": "C",
+      "hint": "Lift exceeds weight.",
+      "explanation": "La velocidad de rotación Vr es la velocidad en la que la sustentación excede al peso, permitiendo que el avión se levante del suelo."
+    },
+    {
+      "question_id": "MOD9_051",
+      "question_id": "MOD9_051",
+      "question_text": "¿Qué es la velocidad V2?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Velocidad de seguridad para ascenso inicial" },
+        { "article_id": "B", "text": "Velocidad de seguridad para ascenso final" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, text": "Velocidad de decisión" },
+        { "D", "D", D, D, D, text": "Velocidad máxima de ascenso" }
+      ],
+      "correct_answer": "A",
+      "hint": "VSO for initial climb.",
+      "explanation": "V2 (velocidad de seguridad para ascenso inicial) es la velocidad segura para la fase inicial de ascenso."
+    },
+    {
+      "question_id": "MOD9_052",
+      "question_id": "MOD9_052",
+      "question_text": "¿Qué es la velocidad Vref?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      " "difficlity": 3,
+      "options": [
+        { "article_id": "A", "text": "Velocidad de referencia para todos los vuelos" },
+        { "article_id": "B", "text": "Velocidad de decisión para aproximación" },
+        { { "article_id": "C", "article_id": "D", D, D, D, D, text": "Velocidad máxima permitida" },
+        { "D", "D, D, D, D, text": "Velocidad máxima de descenso" }
+      ],
+      "correct_answer": "A",
+      "hint": "VSO - Reference speed.",
+      "explanation": "Vref es la velocidad de referencia para todos los vuelos, usada para cálculos de rendimiento."
+    },
+    {
+      "question_id": "MOD9_053",
+      "question_id": "MOD9_053",
+      "question_text": "¿Cuál es el objetivo principal del aterrizaje?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Llegar al punto de contacto de la pista" },
+        { "article_id": "B", "text": "Reducir al mínimo la velocidad vertical" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, text": "Mantener alineado con la pista" },
+        { "article_id": "D", D, D, D, D, text": "Controlar la velocidad horizontal" }
+      ],
+      "correct_answer": "A",
+      "hint": "Touchdown zone.",
+      "explanation": "El objetivo principal del aterrizaje es lograr que el avión contacte el suelo de la pista de forma segura y controlada."
+    },
+    {
+      "question_id": "MOD9_054",
+      "question_id": "MOD9_054",
+      "question_text": "¿Qué es la distancia de aterrizaje?",
+      "difficlity": "2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Distancia desde el inicio de la aproximación" },
+        { "article_id": "B", "text": "Distancia horizontal recorrida" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, text": "Distancia vertical al tocar la pista" },
+        { "article_id": "D", "D, D, D, D, text": "Distancia total de vuelo" }
+      ],
+      "correct_answer": "C",
+      "hint": "Distance over ground from threshold.",
+      "explanation": "La distancia de aterrizaje es la distancia horizontal recorrida desde el umbral de la pista hasta el punto de contacto con el suelo."
+    },
+    {
+      "question_id": "MOD9_055",
+      "question_id": "MOD9_055",
+      "question_text": "¿Qué es la distancia de frenado?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Distancia necesaria para desacelerar" },
+        { "article_id": "B", "text": "Distancia para despegue" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, text": "Distancia requerida para parar" },
+        { "D", "D, D, D, D, text": "Distancia desde el umbral hasta detención completa" }
+      ],
+      "correct_answer": "D",
+      "article_id": "D", D, D, D, D, text": "Distancia desde el umbral hasta detención completa" },
+      "correct_answer": "D",
+      "hint": "Stopping distance from threshold.",
+      "explanation": "La distancia de frenado es la distancia desde el umbral hasta la detención completa del avión."
+    },
+    {
+      "question_id": "MOD9_056",
+      "question_id": "MOD9_056",
+      "question_text": "¿Cuál es la distancia de aceleración y despegue?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Distancia desde el inicio de carrera" },
+        { "article_id": "B", "text": "Distancia requerida para alcanzar V1" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, text": "Distancia desde el inicio de carrera hasta 35 pies" del umbral" },
+        { "D", D, D, D, D, text": "Distancia necesaria para iniciar el rodaje" }
+      ],
+      "correct_answer": "B",
+      "hint": "TORA distance.",
+      " "explanation": "La distancia de aceleración y despegue (TORA) es la distancia requerida para alcanzar V1 desde el inicio de carrera (umbral)."
+    },
+    {
+      "question_id": "MOD9_057",
+      "question_id": "MOD9_057",
+      "question_text": "¿Qué es ASDA (Accelerate-Stop Distance Approach)?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Técnica para reducir ruido en aproximación" },
+        { "article_id": "B", "text": "Distancia desde 35 pies al umbral" },
+        {article_id": "C", "article_id": "D", D, D, D, D, text": "Técnica para ahorrar combustible" },
+        { "D", D, D, D, D, text": "Distancia necesaria para V2" }
+      ],
+      "correct_answer": "A",
+      "hint": "Noise abatement technique.",
+      "explanation": "ASDA (Accelerate-Stop Distance Approach) es una técnica diseñada para reducir el ruido en aproximación manteniendo una distancia desde 35 pies del umbral."
+    },
+    {
+      "question_id": "MOD9_058",
+      "question_id": "MOD9_058",
+      "question_text": "¿Qué técnica reduce el ruido y consumo de combustible en aproximación?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Ascenso continuo desde altitudes altas" },
+        { "article_id": "B", "text": "Descenso continuo" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, text": "Ascenso/Descenso paso a paso" },
+        { "article_id": "D", D, D, D, D, text": "Técnica de estabilización de aproximación" }
+      ],
+      "correct_answer": "B",
+      "hint": "Continuous Descent.",
+      "explanation": "El Descenso Continuo (CDA) reduce el ruido y consumo de combustible manteniendo un perfil de descenso continuo sin pasos."
+    },
+    {
+      "question_id": "MOD9_059",
+      "question_id": "MOD9_059",
+      "question_text": "¿Qué es el ángulo de descenso para una aproximación ILS?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      " "options": [
+        { "article_id": "A", "text": "2.5 grados" },
+        { "article_id": "B", "text": "3 grados" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, text": "2,8 grados" },
+        { "article_id": "D", D, D, D, D, D, text": "Depende del tipo de aproximación" }
+      ],
+      "correct_answer": "B",
+      "hint": "Standard glidepath angle.",
+      "explanation": "El ángulo de descenso estándar para ILS es de 3 grados, permitiendo una senda de planeo de descenso constante."
+    },
+    {
+      "question_id": "MOD9_060",
+      "question_id": "MOD9_060",
+      "question_text": "¿Qué sistema proporciona guiado horizontal en aproximación ILS?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Localizador (LOC)" },
+        { "article_id": "B", "text": "Giro direccional (NDB)" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, text": "Senda de planeo (GP)" },
+        { "D", D, D, D, D, text": "DME (Distance Measuring Equipment)" }
+      ],
+      "correct_answer": "A",
+      "hint": "Localizer - lateral guidance.",
+      "explanation": "El Localizador (LOC) proporciona el guiado horizontal, indicando la posición del avión con relación a la línea central del eje de pista."
+    },
+    {
+      "question_id": "MOD9_061",
+      "question_id": "MOD9_061",
+      "question_text": "¿Qué sistema proporciona guiado vertical en aproximación ILS?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Sistema de luces de aproximación" },
+        { "article_id": "B", "text": "Radioayuda NDB" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, text": "Localizador" },
+        { "D", "D, D, D, D, D, text": "Senda de planeo (GP)" }
+      ],
+      "correct_answer": "D",
+      "hint": "Glide Path - vertical guidance.",
+      "explanation": "La Senda de Planeo (Glide Path - GP) proporciona el guiado vertical, indicando la posición del avión con respecto a la senda de descenso de 3°."
+    },
+    {
+      "question_id": "MOD9_062",
+      "question_id": "MOD9_062",
+      "question_text": "¿Qué son las marcas de posición DME en aproximación?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Puntos de referencia en la carta" },
+        { "article_id": "B", "text": "Distancias fijas en nudos" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, text": "Rangos para navegar" },
+        { "D", "D, D, D, D, text": "Puntos de paso obligatorios" }
+      ],
+      "correct_answer": "B",
+      "hint": "Fixed distance markers.",
+      "explanation": "Las marcas de posición DME son distancias fijas en nudos desde el umbral de la pista que ayudan al piloto en la aproximación."
+    },
+    {
+      "question_id": "MOD9_063",
+      "question_id": "MOD9_063",
+      "question_text": "¿Qué información proporcionan las radiobalizas?",
+      "difficlity": 2,
+      " "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Marcación de aproximación" },
+        { "article_id": "B", "text": "Distancia aproximada al umbral" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, text": "Sensibilidad de la señal" },
+        { "D", "D, D, D, D, D, text": "Identificación del aeródromo" }
+      ],
+      "correct_answer": "A",
+      "hint": "Outer, Middle, Inner markers.",
+      "explanation": "Las radiobalizas (Outer, Middle e Inner Markers) proporcionan marcación de aproximación y distancia aproximada al umbral de la pista."
+    },
+    {
+      "question_id": "MOD9_064",
+      "question_id": "MOD9_064",
+      "question_text": "¿Qué es la categoría I de aterrizaje?",
+      "difficlity": "3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        { "article_id": "B", "text": "RVR > 300m y DH > 30m" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH < 60m" },
+        { "D", D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "A",
+      "hint": "RVR > 550m, DH > 60m (200ft).",
+      "explanation": "Categoría I requiere RVR > 550m y DH > 60m (200ft) - visibilidad mínima requerida."
+    },
+    {
+      "question_id": "MOD9_065",
+      "question_id": "MOD9_065",
+      "question_text": "¿Qué es la categoría III A?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 175m y DH > 60m" },
+        { "article_id": "B", "text": "RVR > 300m y DH > 30m" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH < 30m" },
+        { "D", D, D, D, D, D, text": "RVR > 550m y DH < 60m" },
+        { "D", D, D, D, D, text": "RVR > 550m y DH < 60m" }
+      ],
+      "correct_answer": "B",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría III A requiere RVR > 300m y DH > 30m (100ft) - visibilidad más exigente que II."
+    },
+    {
+      "question_id": "MOD9_066",
+      "question_id": "MOD9_066",
+      "question_text": "¿Qué es la categoría III B?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        { "article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, text": "RVR < 300m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR > 300m y DH < 30m" },
+        { "D", D, D, D, D, D, text": "RVR > 550m y DH < 60m" }
+      ],
+      "correct_answer": "A",
+      "hint": "RVR > 550m, DH > 60m (200ft).",
+      "explanation": "Categoría III B requiere RVR > 550m y DH > 60m (200ft)."
+    },
+    {
+      "question_id": "MOD9_067",
+      "question_id": "MOD9_067",
+      "question_text": "¿Qué es la categoría III C?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR < 200m y DH > 30m" },
+        { "article_id": "B", "text": "RVR < 550m y DH > 60m" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 175m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 300m y DH < 30m" },
+        {D", D, D, D, D, D, text": "RVR > 550m y DH < 60m" }
+      ],
+      "correct_answer": "A",
+      "hint": "RVR < 200m, DH > 30m (100ft).",
+      "explanation": "Categoría III C requiere RVR < 200m y DH > 30m (100ft) - visibilidad mínima."
+    },
+    {
+      "question_id": "MOD9_068",
+      "question_id": "MOD9_068",
+      "question_text": "¿Qué es la categoría III B?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 550m y DH < 60m" },
+        { "article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, text": "RVR < 300m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 30m" },
+        {D", D, D, D, D, D, text": "RVR > 300m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría III B requiere RVR > 300m y DH > 30m (100ft)."
+    },
+    {
+      "question_id": "MOD9_069",
+      "question_id": "MOD9_069",
+      "question_text": "¿Qué es la categoría III A?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR < 200m y DH > 60m" },
+        {article_id": "B", "text": "RVR < 550m y DH > 60m" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 300m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR < 200m, DH > 60m (100ft).",
+      "explanation": "Categoría III A requiere RVR < 200m y DH > 60m (100ft)."
+    },
+    {
+      "question_id": "MOD9_070",
+      "question_id": "MOD9_070",
+      "question_text": "¿Qué es la categoría II de aterrizaje?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 300m y DH > 30m" },
+        { "article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 300m y DH < 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 300m y DH < 60m" }
+      ],
+      "correct_answer": "A",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría II requiere RVR > 300m y DH > 30m (100ft) - visibilidad muy exigente."
+    },
+    {
+      "question_id": "MOD9_071",
+      "question_id": "MOD9_071",
+      "question_text": "¿Qué es la categoría I de aterrizaje?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 300m y DH > 30m" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "A",
+      "hint": "RVR > 550m, DH > 60m (200ft).",
+      "explanation": "Categoría I requiere RVR > 550m y DH > 60m (200ft) - visibilidad mínima requerida."
+    },
+    {
+      "question_id": "MOD9_072",
+      "question_id": "MOD9_072",
+      "question_text": "¿Qué es la categoría III A?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 300m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR < 200m, DH > 30m (100ft).",
+      "explanation": "Categoría III A requiere RVR < 200m y DH > 30m (100ft)."
+    },
+    {
+      "question_id": "MOD9_073",
+      "question_id": "MOD9_073",
+      "question_id": "MOD9_073",
+      "question_text": "¿Qué es la categoría II de aterrizaje?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 300m y DH > 30m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 300m y DH < 60m" }
+      ],
+      "correct_answer": "A",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría II requiere RVR > 300m y DH > 30m (100ft) - visibilidad muy exigente."
+    },
+    {
+      "question_id": "MOD9_074",
+      "question_id": "MOD9_074",
+      "question_id": "MOD9_074",
+      "question_text": "¿Qué es la categoría III B?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        {article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 300m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría III B requiere RVR > 300m y DH > 30m (100ft) - visibilidad exigente."
+    },
+    {
+      "question_id": "MOD9_075",
+      "question_id": "MOD9_075",
+      "question_id": "MOD9_075",
+      "question_text": "¿Qué es la categoría III A?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR < 200m, DH > 30m (100ft).",
+      "explanation": "Categoría III A requiere RVR < 200m y DH > 30m (100ft) - visibilidad mínima requerida."
+    },
+    {
+      "question_id": "MOD9_076",
+      "question_id": "MOD9_076",
+      "question_text": "¿Qué es la categoría II?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        {article_id": "A", "text": "RVR > 300m y DH > 30m" },
+        { "article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "A",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría II requiere RVR > 300m y DH > 30m (100ft) - visibilidad muy exigente."
+    },
+    {
+      "question_id": "MOD9_077",
+      "question_id": "MOD9_077",
+      "question_text": "¿Qué es la categoría III B?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        { "article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 300m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría III B requiere RVR > 300m y DH > 30m (100ft) - visibilidad exigente."
+    },
+    {
+      "question_id": "MOD9_078",
+      "question_id": "MOD9_078",
+      "question_text": "¿Qué es la categoría III A?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        {article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR < 200m, DH > 30m (100ft).",
+      "explanation": "Categoría III A requiere RVR < 200m y DH > 30m (100ft)."
+    },
+    {
+      "question_id": "MOD9_079",
+      "question_id": "MOD9_079",
+      "question_text": "¿Qué es la categoría II?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 300m y DH > 30m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "A",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría II requiere RVR > 300m y DH > 30m (100ft) - visibilidad muy exigente."
+    },
+    {
+      "question_id": "MOD9_080",
+      "question_id": "MOD9_080",
+      "question_text": "¿Qué es la categoría III B?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        { "article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría III B requiere RVR > 300m y DH > 30m (100ft) - visibilidad exigente."
+    },
+    {
+      "question_id": "MOD9_081",
+      "question_id": "MOD9_081",
+      "question_text": "¿Qué es la categoría III A?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        { "article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR < 200m, DH > 30m (100ft).",
+      "explanation": "Categoría III A requiere RVR < 200m y DH > 30m (100ft) - visibilidad mínima requerida."
+    },
+    {
+      "question_id": "MOD9_082",
+      "question_id": "MOD9_082",
+      "question_text": "Qué es la categoría II?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 300m y DH > 30m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "A",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría II requiere RVR > 300m y DH > 30m (100ft) - visibilidad muy exigente."
+    },
+    {
+      "question_id": "MOD9_083",
+      "question_id": "MOD9_083",
+      "question_text": "Qué es la categoría III B?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        {D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría III B requiere RVR > 300m y DH > 30m (100ft) - visibilidad exigente."
+    },
+    {
+      "question_id": "MOD9_084",
+      "question_id": "MOD9_084",
+      "question_text": "Qué es la categoría III A?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR < 200m, DH > 30m (100ft).",
+      "explanation": "Categoría III A requiere RVR < 200m y DH > 30m (100ft) - visibilidad mínima requerida."
+    },
+    {
+      "question_id": "MOD9_085",
+      "question_id": "MOD9_085",
+      "question_text": "Qué es la categoría II?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        {article_id": "A", "text": "RVR > 300m y DH > 30m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "A",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría II requiere RVR > 300m y DH > 30m (100ft) - visibilidad muy exigente."
+    },
+    {
+      "question_id": "MOD9_086",
+      "question_id": "MOD9_086",
+      "question_text": "Qué es la categoría III B?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        {article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        {D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría III B requiere RVR > 300m y DH > 30m (100ft) - visibilidad exigente."
+    },
+    {
+      "question_id": "MOD9_087",
+      "question_id": "MOD9_087",
+      "question_text": "Qué es la categoría III A?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        {article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR < 200m, DH > 30m (100ft).",
+      "explanation": "Categoría III A requiere RVR < 200m y DH > 30m (100ft) - visibilidad mínima requerida."
+    },
+    {
+      "question_id": "MOD9_088",
+      "question_id": "MOD9_088",
+      "question_text": "Qué es la categoría II?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        {article_id": "A", "text": "RVR > 300m y DH > 30m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        {D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "A",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría II requiere RVR > 300m y DH > 30m (100ft) - visibilidad muy exigente."
+    },
+    {
+      "question_id": "MOD9_089",
+      "question_id": "MOD9_089",
+      "question_text": "Qué es la categoría III B?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        {article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría III B requiere RVR > 300m y DH > 30m (100ft) - visibilidad exigente."
+    },
+    {
+      "question_id": "MOD9_090",
+      "question_id": "MOD9_090",
+      "question_text": "¿Qué es la categoría III A?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        {article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR < 200m, DH > 30m (100ft).",
+      "explanation": "Categoría III A requiere RVR < 200m y DH > 30m (100ft) - visibilidad mínima requerida."
+    },
+    {
+      "question_id": "MOD9_091",
+      "question_id": "MOD9_091",
+      "question_text": "Qué es la categoría II?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        {article_id": "A", "text": "RVR > 300m y DH > 30m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        {D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "A",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría II requiere RVR > 300m y DH > 30m (100ft) - visibilidad muy exigente."
+    },
+    {
+      "question_id": "MOD9_092",
+      "question_id": "MOD9_092",
+      "question_text": "Qué es la categoría III B?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        {D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría III B requiere RVR > 300m y DH > 30m (100ft) - visibilidad exigente."
+    },
+    {
+      "question_id": "MOD9_093",
+      "question_id": "MOD9_093",
+      "question_text": "Qué es la categoría III A?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        {article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        {D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR < 200m, DH > 30m (100ft).",
+      "explanation": "Categoría III A requiere RVR < 200m y DH > 30m (100ft) - visibilidad mínima requerida."
+    },
+    {
+      "question_id": "MOD9_094",
+      "question_id": "MOD9_094",
+      "question_id": "MOD9_094",
+      "question_text": "Qué es la categoría II?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "RVR > 300m y DH > 30m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        {D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "A",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría II requiere RVR > 300m y DH > 30m (100ft) - visibilidad muy exigente."
+    },
+    {
+      "question_id": "MOD9_095",
+      "question_id": "MOD9_095",
+      "question_text": "Qué es la categoría III B?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        {article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m },
+        {D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría III B requiere RVR > 300m y DH > 30m (100ft) - visibilidad exigente."
+    },
+    {
+      "question_id": "MOD9_096",
+      "question_id": "MOD9_096",
+      "question_id": "MOD9_096",
+      "question_text": "Qué es la categoría III A?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        {article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m" },
+        {D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR < 200m, DH > 30m (100ft).",
+      "explanation": "Categoría III A requiere RVR < 200m y DH > 30m (100ft) - visibilidad mínima requerida."
+    },
+    {
+      "question_id": "MOD9_097",
+      "question_id": "MOD9_097",
+      "question_text": "Qué es la categoría II?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        {article_id": "A", "text": "RVR > 300m y DH > 30m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m },
+        { "D", D, D, D, D, D, text": "RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "A",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría II requiere RVR > 300m y DH > 30m (100ft) - visibilidad muy exigente."
+    },
+    {
+      "question_id": "MOD9_098",
+      "question_id": "MOD9_098",
+      "question_id": "MOD9_098",
+      "question_text": "Qué es la categoría III B?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        {article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "D", D, D, D, D, D, text": "RVR < 200m y DH > 30m },
+        {D", D, D, D, D, D, text":RVR < 550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR > 300m, DH > 30m (100ft).",
+      "explanation": "Categoría III B requiere RVR > 300m y DH > 30m (100ft) - visibilidad exigente."
+    },
+    {
+      "question_id": "MOD9_099",
+      "question_id": "MOD9_099",
+      "question_text": "Qué es la categoría III A?",
+      "difficlity": 3,
+      "type": "multiple_choice",
+      "options": [
+        {article_id": "A", "text": "RVR > 550m y DH > 60m" },
+        {article_id": "B", "text": "RVR > 175m y DH > 60m" },
+        {article_id": "C", "article_id": "D", D, D, D, D, D, text":RVR < 200m y DH > 30m },
+        {D", D, D, D, D, D, text":RVR <550m y DH < 60m" }
+      ],
+      "correct_answer": "C",
+      "hint": "RVR < 200m, DH > 30m (100ft).",
+      "explanation": "Categoría III A requiere RVR < 200m y DH > 30m (100ft) - visibilidad mínima requerida."
+    },
+    {
+      "question_id": "MOD9_100",
+      "question_id": "MOD9_100",
+      "question_text": "En aproximaciones de precisión ILS, ¿qué marca la línea azul del indicador?",
+      "difficlity": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "article_id": "A", "text": "Guiado vertical (descenso)" },
+        { "article_id": "B", "text": "Guiado horizontal (alineamiento con el eje de pista)" },
+        { "C", "text": "Guiado lateral (alineación con la pista)" },
+        {article_id": "D", "D", article_id": "D", D, D, D, text": "text": "Línea roja (alineación)" },
+        {article_id": "D", article_id": "D", D, D, D, D, text": "text": "Línea azul (error)" }
+      ],
+      "correct_answer": "B",
+      "hint": "Horizontal guidance.",
+      "explanation": "La línea azul del indicador ILS indica el guiado horizontal, es decir, hacia dónde debe dirigirse la aeronave para alinearse con el eje de pista."
+    }
+  ]
+}

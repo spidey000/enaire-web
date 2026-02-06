@@ -37,3 +37,9 @@ secrets/
 # Temp files
 *.tmp
 .cache/
+
+# Test results
+test-results/
+
+# Backups
+*.backup

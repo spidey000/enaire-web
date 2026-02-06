@@ -1,0 +1,1507 @@
+{
+  "module_id": "MOD_008",
+  "module_name": "Factores Humanos",
+  "mcq_set": [
+    {
+      "question_id": "MOD8_001",
+      "question_text": "Según OACI Doc. 10151, ¿qué son las actuaciones humanas (human performance)?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Capacidades y limitaciones del ser humano" },
+        { "option_id": "B", "text": "Cómo las personas realizan sus actividades y su contribución al funcionamiento del sistema" },
+        { "option_id": "C", "text": "Diseño de equipos" },
+        { "option_id": "D", "text": "Solo aspectos psicológicos" }
+      ],
+      "correct_answer": "B",
+      "hint": "Focus on human contribution.",
+      "explanation": "Las actuaciones humanas hacen referencia a cómo las personas realizan sus actividades, y representan la contribución humana al funcionamiento del sistema."
+    },
+    {
+      "question_id": "MOD8_002",
+      "question_text": "¿Qué estudian los factores humanos según OACI?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo aspectos físicos" },
+        { "option_id": "B", "text": "Aplicación del conocimiento sobre capacidades, características y limitaciones humanas al diseño" },
+        { "option_id": "C", "text": "Solo psicología conductual" },
+        { "option_id": "D", "text": "Solo ergonomía" }
+      ],
+      "correct_answer": "B",
+      "hint": "Design focus.",
+      "explanation": "Los factores humanos se ocupan de la aplicación del conocimiento sobre capacidades, características y limitaciones humanas al diseño del equipamiento, entornos y actividades."
+    },
+    {
+      "question_id": "MOD8_003",
+      "question_text": "El modelo del 'queso suizo' de Reason presenta:",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Cada capa de protección tiene debilidades (agujeros)" },
+        { "option_id": "B", "text": "Solo errores individuales" },
+        { "option_id": "C", "text": "Solo factores técnicos" },
+        { "option_id": "D", "text": "Sin relación con organización" }
+      ],
+      "correct_answer": "A",
+      "hint": "Holes aligning.",
+      "explanation": "El modelo del queso suizo determina que cada capa de protección de un sistema tiene debilidades (agujeros), y el suceso ocurre cuando estos agujeros se alinean."
+    },
+    {
+      "question_id": "MOD8_004",
+      "question_text": "¿Qué tipo de conducta según Rasmussen es automática y no consciente?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Basada en conocimiento" },
+        { "option_id": "B", "text": "Basada en reglas" },
+        { "option_id": "C", "text": "Basada en habilidades (skill-based)" },
+        { "option_id": "D", "text": "Conducta aleatoria" }
+      ],
+      "correct_answer": "C",
+      "hint": "Skill-based.",
+      "explanation": "La conducta basada en habilidades interviene procesos automatizados de control cognitivo, sin acciones conscientes (ejemplo: conducir un coche con experiencia)."
+    },
+    {
+      "question_id": "MOD8_005",
+      "question_text": "¿En qué modo de rendimiento según Rasmussen se seleccionan reglas conscientemente?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Skill-based" },
+        { "option_id": "B", "text": "Rule-based" },
+        { "option_id": "C", "text": "Knowledge-based" },
+        { "option_id": "D", "text": "Automatic" }
+      ],
+      "correct_answer": "B",
+      "hint": "Rule application.",
+      "explanation": "La conducta basada en reglas interviene procesos conscientes de toma de decisiones para la selección de reglas a aplicar en una situación."
+    },
+    {
+      "question_id": "MOD8_006",
+      "question_text": "¿En qué modo de rendimiento según Rasmussen se requiere gran esfuerzo consciente de análisis?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Skill-based" },
+        { "option_id": "B", "text": "Rule-based" },
+        { "option_id": "C", "text": "Knowledge-based" },
+        { "option_id": "D", "text": "Skill-aware" }
+      ],
+      "correct_answer": "C",
+      "hint": "No reglas almacenadas.",
+      "explanation": "La conducta basada en conocimiento requiere gran esfuerzo consciente de análisis de situación y elección entre alternativas, en situaciones de aprendizaje de habilidades nuevas."
+    },
+    {
+      "question_id": "MOD8_007",
+      "question_text": "En el modelo SHELL-O, ¿qué representa 'S'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Hardware" },
+        { "option_id": "B", "text": "Software – Soporte lógico (procedimientos)" },
+        { "option_id": "C", "text": "Entorno" },
+        { "option_id": "D", "text": "Elemento humano" }
+      ],
+      "correct_answer": "B",
+      "hint": "Procedures, manuals.",
+      "explanation": "En el modelo SHELL-O, 'S' representa Software – Soporte lógico (procedimientos, manuales, listas de verificación)."
+    },
+    {
+      "question_id": "MOD8_008",
+      "question_text": "En el modelo SHELL-O, ¿qué representa 'L'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Software" },
+        { "option_id": "B", "text": "Hardware" },
+        { "option_id": "C", "text": "Liveware – Elemento Humano" },
+        { "option_id": "D", "text": "Environment" }
+      ],
+      "correct_answer": "C",
+      "hint": "Human element.",
+      "explanation": "En el modelo SHELL-O, 'L' representa Liveware – Elemento Humano, el componente central y más flexible del sistema."
+    },
+    {
+      "question_id": "MOD8_009",
+      "question_text": "En el modelo SHELL-O, ¿qué representa 'H'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Hardware – Soporte físico (sistemas técnicos)" },
+        { "option_id": "B", "text": "Software" },
+        { "option_id": "C", "text": "Entorno" },
+        { "option_id": "D", "text": "Organización" }
+      ],
+      "correct_answer": "A",
+      "hint": "Physical equipment.",
+      "explanation": "En el modelo SHELL-O, 'H' representa Hardware – Soporte físico (sistemas técnicos, consolas, pantallas)."
+    },
+    {
+      "question_id": "MOD8_010",
+      "question_text": "En el modelo SHELL-O, ¿qué representa 'E'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Entorno – Environment" },
+        { "option_id": "B", "text": "Software" },
+        { "option_id": "C", "text": "Organización" },
+        { "option_id": "D", "text": "Hardware" }
+      ],
+      "correct_answer": "A",
+      "hint": "Working environment.",
+      "explanation": "En el modelo SHELL-O, 'E' representa Environment – Entorno de trabajo (temperatura, ruido, ambiente, condiciones meteorológicas)."
+    },
+    {
+      "question_id": "MOD8_011",
+      "question_text": "En el modelo SHELL-O, ¿qué representa 'O'?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Environment" },
+        { "option_id": "B", "text": "Organization – Organización" },
+        { "option_id": "C", "text": "Organizational" },
+        { "option_id": "D", "text": "Both B and C" }
+      ],
+      "correct_answer": "D",
+      "hint": "Management and policies.",
+      "explanation": "En el modelo SHELL-O, 'O' representa Organization – Organización (políticas organizacionales, gestión de procedimientos)."
+    },
+    {
+      "question_id": "MOD8_012",
+      "question_text": "¿Qué relación SHELL-O representa la interfaz humano-máquina?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "L-S" },
+        { "option_id": "B", "text": "L-H" },
+        { "option_id": "C", "text": "L-E" },
+        { "option_id": "D", "text": "L-L" }
+      ],
+      "correct_answer": "B",
+      "hint": "Liveware-Hardware.",
+      "explanation": "La relación L-H representa la interfaz entre el ser humano y 'la máquina' (diseño del equipo, consolas, pantallas, ergonomía)."
+    },
+    {
+      "question_id": "MOD8_013",
+      "question_text": "¿Qué relación SHELL-O representa la relación humano-humano?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "L-L" },
+        { "option_id": "B", "text": "L-H" },
+        { "option_id": "C", "text": "L-S" },
+        { "option_id": "D", "text": "L-E" }
+      ],
+      "correct_answer": "A",
+      "hint": "Person to person.",
+      "explanation": "La relación L-L representa la relación entre el individuo y el resto de personas en su lugar de trabajo (trabajo en equipo, liderazgo, cooperación)."
+    },
+    {
+      "question_id": "MOD8_014",
+      "question_text": "¿Cuántos principios sistémicos propone EUROCONTROL?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "5" },
+        { "option_id": "B", "text": "10" },
+        { "option_id": "C", "text": "8" },
+        { "option_id": "D", "text": "12" }
+      ],
+      "correct_answer": "B",
+      "hint": "Systems Thinking for Safety.",
+      "explanation": "EUROCONTROL propone 10 principios básicos para una visión sistémica de la Seguridad Operacional (Systems Thinking for Safety)."
+    },
+    {
+      "question_id": "MOD8_015",
+      "question_text": "¿Qué es Safety-I?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Que el máximo posible de cosas salgan bien" },
+        { "option_id": "B", "text": "Que el mínimo posible de cosas salgan mal" },
+        { "option_id": "C", "text": "Reactiva y proactiva combinadas" },
+        { "option_id": "D", "text": "Sin foco en humano" }
+      ],
+      "correct_answer": "B",
+      "hint": "Things going wrong.",
+      "explanation": "Safety-I es la visión de seguridad basada en la existencia o ausencia de accidentes o incidentes (el mínimo posible de cosas salgan mal)."
+    },
+    {
+      "question_id": "MOD8_016",
+      "question_text": "¿Qué es Safety-II?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Que el mínimo posible de cosas salgan mal" },
+        { "option_id": "B", "text": "Que el máximo posible de cosas salgan bien" },
+        { "option_id": "C", "text": "Solo reactivo" },
+        { "option_id": "D", "text": "Solo enfocado en culpa" }
+      ],
+      "correct_answer": "B",
+      "hint": "Things going right.",
+      "explanation": "Safety-II es la habilidad de las personas para ajustar su rendimiento a las condiciones del entorno (el máximo posible de cosas salgan bien)."
+    },
+    {
+      "question_id": "MOD8_017",
+      "question_text": "¿Qué es 'Work as Imagined'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Lo que realmente sucede en el día a día" },
+        { "option_id": "B", "text": "Lo que debería ocurrir en un entorno operativo según diseño" },
+        { "option_id": "C", "text": "Solo errores cometidos" },
+        { "option_id": "D", "text": "Documentos operativos" }
+      ],
+      "correct_answer": "B",
+      "hint": "Design perspective.",
+      "explanation": "Work as Imagined es el trabajo tal como se conceptualiza y diseña, lo que debería ocurrir en un entorno operativo."
+    },
+    {
+      "question_id": "MOD8_018",
+      "question_text": "¿Qué es 'Work as Done'?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Lo que debería ocurrir según diseño" },
+        { "option_id": "B", "text": "Lo que realmente sucede en el día a día operativo" },
+        { "option_id": "C", "text": "Solo documentación" },
+        { "option_id": "D", "text": "Solo procedimientos estándar" }
+      ],
+      "correct_answer": "B",
+      "hint": "Real operation.",
+      "explanation": "Work as Done representa el trabajo tal como se opera realmente en el día a día, lo que sucede en la práctica."
+    },
+    {
+      "question_id": "MOD8_019",
+      "question_text": "¿Qué reglamento europeo establece requisitos sobre fatiga, estrés y sustancias psicoactivas?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Reglamento (UE) 2015/340" },
+        { "option_id": "B", "text": "Reglamento (UE) 2017/373" },
+        { "option_id": "C", "text": "Reglamento (UE) 2016/1199" },
+        { "option_id": "D", "text": "Reglamento (UE) 2018/1139" }
+      ],
+      "correct_answer": "B",
+      "hint": "2017/373.",
+      "explanation": "El Reglamento Europeo (UE) 2017/373 establece los requisitos comunes para la gestión de fatiga, estrés y sustancias psicoactivas."
+    },
+    {
+      "question_id": "MOD8_020",
+      "question_text": "¿Qué significa TRM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Team Risk Management" },
+        { "option_id": "B", "text": "Team Resource Management" },
+        { "option_id": "C", "text": "Training Resource Management" },
+        { "option_id": "D", "text": "Technical Resource Management" }
+      ],
+      "correct_answer": "B",
+      "hint": "Team resources.",
+      "explanation": "TRM significa Team Resource Management o Gestión de Recursos de Equipo."
+    },
+    {
+      "question_id": "MOD8_021",
+      "question_text": "¿De qué concepto deriva TRM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "De la psicología organizacional" },
+        { "option_id": "B", "text": "Del CRM (Cockpit/Crew Resource Management) en aviación" },
+        { "option_id": "C", "text": "De la medicina aeronáutica" },
+        { "option_id": "D", "text": "De la ergonomía" }
+      ],
+      "correct_answer": "B",
+      "hint": "Cockpit/Crew Resource Management.",
+      "explanation": "TRM es un concepto derivado del CRM (Cockpit/Crew Resource Management) en aviación, transpuesto al ámbito de control."
+    },
+    {
+      "question_id": "MOD8_022",
+      "question_text": "¿Qué categoría NO incluye las habilidades TRM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Trabajo en equipo" },
+        { "option_id": "B", "text": "Comunicación interpersonal" },
+        { "option_id": "C", "text": "Técnicas de programación" },
+        { "option_id": "D", "text": "Gestión del estrés" }
+      ],
+      "correct_answer": "C",
+      "hint": "Not a human factor skill.",
+      "explanation": "Las habilidades TRM incluyen trabajo en equipo, gestión de roles, comunicación interpersonal, consciencia situacional, resolución de problemas y gestión del estrés."
+    },
+    {
+      "question_id": "MOD8_023",
+      "question_text": "¿Cuál es la capacidad de la memoria a corto plazo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Ilimitada" },
+        { "option_id": "B", "text": "5 a 10 segundos" },
+        { "option_id": "C", "text": "20 a 30 segundos" },
+        { "option_id": "D", "text": "1 a 2 minutos" }
+      ],
+      "correct_answer": "C",
+      "hint": "Working memory.",
+      "explanation": "La memoria a corto plazo apenas permite guardar información limitada durante 20 a 30 segundos."
+    },
+    {
+      "question_id": "MOD8_024",
+      "question_text": "¿Para qué sirve la memoria a largo plazo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Procesos inmediatos" },
+        { "option_id": "B", "text": "Salvar información para el futuro" },
+        { "option_id": "C", "text": "Solo datos visuales" },
+        { "option_id": "D", "text": "Solo procesamiento auditivo" }
+      ],
+      "correct_answer": "B",
+      "hint": "Long-term storage.",
+      "explanation": "Si queremos 'salvar la información' para el futuro, nuestro cerebro recurre a la memoria a largo plazo, que tiene capacidad ilimitada pero necesita más tiempo."
+    },
+    {
+      "question_id": "MOD8_025",
+      "question_text": "¿Qué es la consciencia situacional?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Conocimiento de todos los procedimientos" },
+        { "option_id": "B", "text": "Percepción y comprensión de los elementos en el entorno operativo" },
+        { "option_id": "C", "text": "Solo coordinación visual" },
+        { "option_id": "D", "text": "Solo memoria a largo plazo" }
+      ],
+      "correct_answer": "B",
+      "hint": "Awareness of situation.",
+      "explanation": "La consciencia situacional es la percepción y comprensión de todos los elementos relevantes en el entorno operativo dentro de un volumen de tiempo y espacio."
+    },
+    {
+      "question_id": "MOD8_026",
+      "question_text": "¿Qué es la carga de trabajo mental?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Esficio físico únicamente" },
+        { "option_id": "B", "text": "Relación entre demandas de la tarea y capacidades mentales disponibles" },
+        { "option_id": "C", "text": "Solo presión del trabajo" },
+        { "option_id": "D", "text": "Horas de trabajo diarias" }
+      ],
+      "correct_answer": "B",
+      "hint": "Task demands vs. mental capacity.",
+      "explanation": "La carga de trabajo mental se define como la relación entre las demandas de la tarea y los recursos mentales disponibles para realizarlas."
+    },
+    {
+      "question_id": "MOD8_027",
+      "question_text": "¿Cuántos ítems puede manejar la memoria de trabajo humana?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "3 o 4" },
+        { "option_id": "B", "text": "6 o 7" },
+        { "option_id": "C", "text": "10 o 12" },
+        { "option_id": "D", "text": "15 o más" }
+      ],
+      "correct_answer": "B",
+      "hint": "Limited capacity.",
+      "explanation": "Como seres humanos tenemos una capacidad de atención limitada, nuestra memoria de trabajo no puede manejar más de 6 o 7 ítems."
+    },
+    {
+      "question_id": "MOD8_028",
+      "question_text": "¿Qué efecto tiene la falta de sueño en los controladores?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Aumento de la toma de decisiones" },
+        { "option_id": "B", "text": "Disminución de la capacidad en la toma de decisiones" },
+        { "option_id": "C", "text": "Sin efecto" },
+        { "option_id": "D", "text": "Mejora de la memoria" }
+      ],
+      "correct_answer": "B",
+      "hint": "Cognitive impairment.",
+      "explanation": "La falta de horas de sueño conduce a una disminución de la capacidad en la toma de decisiones, que es la tarea principal del controlador aéreo."
+    },
+    {
+      "question_id": "MOD8_029",
+      "question_text": "¿Cuántos ciclos de sueño tiene una persona normalmente?",
+      "difficulty": 1,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "1-2 ciclos" },
+        { "option_id": "B", "text": "3-5 ciclos" },
+        { "option_id": "C", "text": "6-7 ciclos" },
+        { "option_id": "D", "text": "8-10 ciclos" }
+      ],
+      "correct_answer": "B",
+      "hint": "4-6 hours total.",
+      "explanation": "Una persona completa normalmente 4-6 ciclos de sueño por noche, cada ciclo durando aproximadamente 90 minutos."
+    },
+    {
+      "question_id": "MOD8_030",
+      "question_text": "¿Qué es el estrés según la explicación sencilla?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo emoción positiva" },
+        { "option_id": "B", "text": "Respuesta psico-fisiológica ante estímulo cuando recursos no son suficientes" },
+        { "option_id": "C", "text": "Solo cansancio" },
+        { "option_id": "D", "text": "Miedo únicamente" }
+      ],
+      "correct_answer": "B",
+      "hint": "Insufficient resources.",
+      "explanation": "El estrés es una respuesta psico-fisiológica ante un estímulo que emerge cuando el organismo interpreta que los recursos disponibles no son suficientes para adaptarse."
+    },
+    {
+      "question_id": "MOD8_031",
+      "question_text": "¿Cuál es un tipo de estrés según su duración?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Agudo y Crónico" },
+        { "option_id": "B", "text": "Positivo y Negativo" },
+        { "option_id": "C", "text": "Solo crónico" },
+        { "option_id": "D", "text": "Solo agudo" }
+      ],
+      "correct_answer": "A",
+      "hint": "Duration-based classification.",
+      "explanation": "Los tipos de estrés según duración son: Agudo (puntual) y Crónico (presiones mantenidas a largo tiempo)."
+    },
+    {
+      "question_id": "MOD8_032",
+      "question_text": "¿Qué componente del estrés está relacionado con cambios hormonales?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo conductual" },
+        { "option_id": "B", "text": "Solo autónomo" },
+        { "option_id": "C", "text": "Endocrino" },
+        { "option_id": "D", "text": "Solo cognitivo" }
+      ],
+      "correct_answer": "C",
+      "hint": "Hormonal system.",
+      "explanation": "El componente endocrino incluye cambios en el equilibrio hormonal, neurotransmisores y neuromoduladores."
+    },
+    {
+      "question_id": "MOD8_033",
+      "question_text": "¿Qué componente del estrés está relacionado con el sistema nervioso autónomo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Endocrino" },
+        { "option_id": "B", "text": "Autónomo" },
+        { "option_id": "C", "text": "Conductual" },
+        { "option_id": "D", "text": "Cognitivo" }
+      ],
+      "correct_answer": "B",
+      "hint": "Nervous system affecting muscles.",
+      "explanation": "El componente autónomo implica el sistema nervioso autónomo que actúa para preparar al organismo afectando fundamentalmente a la musculatura lisa."
+    },
+    {
+      "question_id": "MOD8_034",
+      "question_text": "¿Qué síntoma del estrés NO es fisiológico?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Palpitaciones" },
+        { "option_id": "B", "text": "Ansiedad" },
+        { "option_id": "C", "text": "Aumento de la frecuencia cardiaca" },
+        { "option_id": "D", "text": "Trastornos digestivos" }
+      ],
+      "correct_answer": "B",
+      "hint": "Psychological symptom.",
+      "explanation": "Ansiedad es un síntoma psicológico del estrés, mientras que los otros (palpitaciones, frecuencia cardiaca, digestivos) son fisiológicos."
+    },
+    {
+      "question_id": "MOD8_035",
+      "question_text": "¿Qué es el hiperestrés?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Cuando el controlador se aburre" },
+        { "option_id": "B", "text": "Cuando la tarea sobrepasa la capacidad generando ansiedad y sensación de pérdida de control" },
+        { "option_id": "C", "text": "Estado de mejor rendimiento" },
+        { "option_id": "D", "text": "Solo fatiga leve" }
+      ],
+      "correct_answer": "B",
+      "hint": "Overwhelmed.",
+      "explanation": "El hiperestrés ocurre cuando la tarea sobrepasa la capacidad por sobrecarga de trabajo o conflicto, generando ansiedad, sensación de inseguridad y pérdida de control."
+    },
+    {
+      "question_id": "MOD8_036",
+      "question_text": "¿Qué es el hipoestrés?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Estado de tensión máxima" },
+        { "option_id": "B", "text": "Cuando el controlador se aburre y desempeña tarea rutinaria con poco interés" },
+        { "option_id": "C", "text": "Zona de mejor rendimiento" },
+        { "option_id": "D", "text": "Sobrecarga de trabajo" }
+      ],
+      "correct_answer": "B",
+      "hint": "Boredom.",
+      "explanation": "El hipoestrés ocurre cuando el controlador se aburre o desempeña una tarea rutinaria con poco interés y tensión, con desempeño pobre."
+    },
+    {
+      "question_id": "MOD8_037",
+      "question_text": "¿Qué es el eustrés?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Tarea aburrida" },
+        { "option_id": "B", "text": "Tarea interesante o urgente que produce tensión positiva (mejor rendimiento)" },
+        { "option_id": "C", "text": "Sobrecarga negativa" },
+        { "option_id": "D", "text": "Solo cansancio" }
+      ],
+      "correct_answer": "B",
+      "hint": "Positive stress.",
+      "explanation": "El eustrés ocurre cuando la tarea es interesante o urgente, produciendo tensión positiva y entrando en la zona de mejor rendimiento."
+    },
+    {
+      "question_id": "MOD8_038",
+      "question_text": "¿Qué es CISM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Critical Incident Safety Management" },
+        { "option_id": "B", "text": "Critical Incident Stress Management" },
+        { "option_id": "C", "text": "Critical Incident System Management" },
+        { "option_id": "D", "text": "Critical Incident Skills Management" }
+      ],
+      "correct_answer": "B",
+      "hint": "Critical Incident Stress.",
+      "explanation": "CISM significa Critical Incident Stress Management (Gestión del Estrés por Incidente Crítico)."
+    },
+    {
+      "question_id": "MOD8_039",
+      "question_text": "¿Qué es un incidente crítico?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Un evento rutinario de trabajo" },
+        { "option_id": "B", "text": "Un evento repentino o inesperado con potencial de crear estrés severo" },
+        { "option_id": "C", "text": "Solo un accidente grave" },
+        { "option_id": "D", "text": "Un procedimiento estándar" }
+      ],
+      "correct_answer": "B",
+      "hint": "Traumatic stressor.",
+      "explanation": "Un incidente crítico se define como un evento que sucede repentinamente o inesperadamente y tiene el potencial de crear estrés severo o inhabilitación."
+    },
+    {
+      "question_id": "MOD8_040",
+      "question_text": "¿Qué es un Peer en el programa CISM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Un controlador en formación" },
+        { "option_id": "B", "text": "Un controlador de apoyo formado para atender psicológicamente a otros controladores tras incidente crítico" },
+        { "option_id": "C", "text": "Un supervisor de sala" },
+        { "option_id": "D", "text": "Un psicólogo externo" }
+      ],
+      "correct_answer": "B",
+      "hint": "Support controller.",
+      "explanation": "Peer es la denominación para un controlador de apoyo, formado específicamente para atender psicológicamente a otros controladores tras incidente crítico."
+    },
+    {
+      "question_id": "MOD8_041",
+      "question_text": "¿Cuántas fases tiene el programa CISM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "3 fases" },
+        { "option_id": "B", "text": "5 fases" },
+        { "option_id": "C", "text": "7 fases" },
+        { "option_id": "D", "text": "10 fases" }
+      ],
+      "correct_answer": "B",
+      "hint": "Structured process.",
+      "explanation": "El programa CISM se resume en cinco fases: Comunicación y divulgación, Selección y Formación, Intervención, Derivación profesional, Evaluación periódica."
+    },
+    {
+      "question_id": "MOD8_042",
+      "question_text": "¿Qué es el modelo GEMS de Reason?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "General Error Modeling System" },
+        { "option_id": "B", "text": "General Error Management System" },
+        { "option_id": "C", "text": "General Error Modelling System" },
+        { "option_id": "D", "text": "Global Error Management System" }
+      ],
+      "correct_answer": "C",
+      "hint": "Error classification.",
+      "explanation": "GEMS significa General Error Modelling System, una clasificación de tipos de error según Reason."
+    },
+    {
+      "question_id": "MOD8_043",
+      "question_text": "¿Qué tipo de error según GEMS es una acción no intencional por fallo en la atención?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Equivocación" },
+        { "option_id": "B", "text": "Desliz (slip)" },
+        { "option_id": "C", "text": "Lapsus" },
+        { "option_id": "D", "text": "Error intencional" }
+      ],
+      "correct_answer": "B",
+      "hint": "Attentional failure.",
+      "explanation": "Los deslices (slips) son acciones no intencionales resultantes de un fallo o laguna en la atención, como una omisión, inversión o alteración."
+    },
+    {
+      "question_id": "MOD8_044",
+      "question_text": "¿Qué tipo de error según GEMS es un fallo en la memoria por olvido?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Desliz" },
+        { "option_id": "B", "text": "Lapsus" },
+        { "option_id": "C", "text": "Equivocación" },
+        { "option_id": "D", "text": "Automático correcto" }
+      ],
+      "correct_answer": "B",
+      "hint": "Memory failure.",
+      "explanation": "Los lapsus son acciones no intencionales resultantes de fallos en la memoria debida al olvido de una intención u omisión de aspectos previstos."
+    },
+    {
+      "question_id": "MOD8_045",
+      "question_text": "¿Qué tipo de error según GEMS es intencional pero incorrecto?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Desliz" },
+        { "option_id": "B", "text": "Lapsus" },
+        { "option_id": "C", "text": "Equivocación (mistake)" },
+        { "option_id": "D", "text": "Automático" }
+      ],
+      "correct_answer": "C",
+      "hint": "Wrong application of correct rule.",
+      "explanation": "Las equivocaciones son acciones intencionales resultantes de errores de planificación: aplicar incorrectamente una regla correcta o aplicar una regla correctamente en situación inadecuada."
+    },
+    {
+      "question_id": "MOD8_046",
+      "question_text": "¿Qué es el modelo TEM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Threat Evaluation Management" },
+        { "option_id": "B", "text": "Threat and Error Management" },
+        { "option_id": "C", "text": "Threat Elimination Management" },
+        { "option_id": "D", "text": "Team Error Management" }
+      ],
+      "correct_answer": "B",
+      "hint": "Managing threats and errors.",
+      "explanation": "TEM significa Threat and Error Management, un concepto de OACI para identificar y gestionar amenazas y errores."
+    },
+    {
+      "question_id": "MOD8_047",
+      "question_text": "¿Qué son las amenazas según TEM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo errores cometidos por el controlador" },
+        { "option_id": "B", "text": "Errores externos o incidencias que aumentan la complejidad de la situación operacional" },
+        { "option_id": "C", "text": "Solo condiciones meteorológicas" },
+        { "option_id": "D", "text": "Solo problemas técnicos" }
+      ],
+      "correct_answer": "B",
+      "hint": "External factors increasing complexity.",
+      "explanation": "Las amenazas son errores externos o incidencias que aumentan la complejidad de la situación operacional y ocurren sin que las haya propiciado el controlador."
+    },
+    {
+      "question_id": "MOD8_048",
+      "question_text": "¿Qué es un estado no deseado según TEM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Situación normal de operación" },
+        { "option_id": "B", "text": "Circunstancias donde ha fallado la planificación y se reducen los límites de seguridad" },
+        { "option_id": "C", "text": "Solo errores leves" },
+        { "option_id": "D", "text": "Sin riesgo" }
+      ],
+      "correct_answer": "B",
+      "hint": "Safety margin reduction.",
+      "explanation": "Los estados no deseados son circunstancias donde ha fallado la planificación prevista y como consecuencia se reducen los límites de seguridad."
+    },
+    {
+      "question_id": "MOD8_049",
+      "question_text": "¿En qué principio sistémico de EUROCONTROL se dice que el éxito y fracaso se originan en los mismos procesos?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Emergencia del sistema" },
+        { "option_id": "B", "text": "Equivalencia" },
+        { "option_id": "C", "text": "Variabilidad del rendimiento" },
+        { "option_id": "D", "text": "Interacciones y flujos" }
+      ],
+      "correct_answer": "B",
+      "hint": "Same processes, different outcomes.",
+      "explanation": "El principio de Equivalencia establece que el éxito y el fracaso se originan en los mismos procesos, y el resultado no está ligado necesariamente a las acciones que lo desencadenan."
+    },
+    {
+      "question_id": "MOD8_050",
+      "question_text": "¿En qué principio sistémico se menciona que pequeños cambios pueden tener grandes efectos?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Equivalencia" },
+        { "option_id": "B", "text": "Emergencia del sistema" },
+        { "option_id": "C", "text": "Contrapartidas" },
+        { "option_id": "D", "text": "Recursos y limitaciones" }
+      ],
+      "correct_answer": "B",
+      "hint": "Emergentent behavior.",
+      "explanation": "El principio de Emergencia del sistema indica que en sistemas complejos, el comportamiento es emergente y una pequeña acción puede tener grandes efectos a menudo no esperados."
+    },
+    {
+      "question_id": "MOD8_051",
+      "question_text": "¿Qué significa ATS.OR.315 del Reglamento (UE) 2017/373?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo gestión de sustancias" },
+        { "option_id": "B", "text": "Gestión de la fatiga de los controladores" },
+        { "option_id": "C", "text": "Solo formación" },
+        { "option_id": "D", "text": "Solo sistemas de turnos" }
+      ],
+      "correct_answer": "B",
+      "hint": "Fatigue management.",
+      "explanation": "ATS.OR.315 establece los requisitos para la política de gestión de la fatiga de los controladores de tránsito aéreo."
+    },
+    {
+      "question_id": "MOD8_052",
+      "question_text": "¿Qué significa ATS.OR.320 del Reglamento (UE) 2017/373?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Sistemas de evaluación" },
+        { "option_id": "B", "text": "Sistemas de turnos de los controladores" },
+        { "option_id": "C", "text": "Solo comunicación" },
+        { "option_id": "D", "text": "Solo equipo" }
+      ],
+      "correct_answer": "B",
+      "hint": "Shift systems.",
+      "explanation": "ATS.OR.320 establece los requisitos para desarrollar, aplicar y supervisar un sistema de turnos para gestionar los riesgos de la fatiga ocupacional."
+    },
+    {
+      "question_id": "MOD8_053",
+      "question_text": "¿Qué principio EUROCONTROL indica que cada experto debe ser entendido desde su propia perspectiva?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Implicación de expertos" },
+        { "option_id": "B", "text": "Racionalidad local" },
+        { "option_id": "C", "text": "Cultura justa" },
+        { "option_id": "D", "text": "Demanda y presión" }
+      ],
+      "correct_answer": "B",
+      "hint": "Local perspective.",
+      "explanation": "El principio de Racionalidad local indica que la aportación de cada experto debe ser entendida desde su propia perspectiva, ya que cada persona actúa según sus propios objetivos y limitaciones."
+    },
+    {
+      "question_id": "MOD8_054",
+      "question_text": "¿Qué principio EUROCONTROL indica que las organizaciones deben tener una mentalidad abierta y de confianza?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Implicación de expertos" },
+        { "option_id": "B", "text": "Cultura justa" },
+        { "option_id": "C", "text": "Demanda y presión" },
+        { "option_id": "D", "text": "Recursos y limitaciones" }
+      ],
+      "correct_answer": "B",
+      "hint": "Fair and trusting culture.",
+      "explanation": "El principio de Cultura justa indica que las organizaciones e individuos deben asumir una mentalidad abierta, justa y de confianza, evitando juicios de valor."
+    },
+    {
+      "question_id": "MOD8_055",
+      "question_text": "¿Qué tipo de sesgos cognitivos deciden qué recordar?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Sesgos de filtrado" },
+        { "option_id": "B", "text": "Sesgos que afectan la memoria" },
+        { "option_id": "C", "text": "Sesgos que surgen cuando hay demasiada información" },
+        { "option_id": "D", "text": "Sesgos que aparecen al actuar rápido" }
+      ],
+      "correct_answer": "A",
+      "hint": "Memory filtering.",
+      "explanation": "Los sesgos cognitivos que deciden qué recordar son aquellos que filtran la información que entra en la memoria y orientan la atención hacia determinados estímulos."
+    },
+    {
+      "question_id": "MOD8_056",
+      "question_text": "¿Qué tipo de sesgos cognitivos aparecen cuando la información tiene poco significado?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Sesgos que deciden qué recordar" },
+        { "option_id": "B", "text": "Sesgos que surgen cuando la información manejada no tiene suficiente significado" },
+        { "option_id": "C", "text": "Sesgos de actuación rápida" },
+        { "option_id": "D", "text": "Sesgos de demasiada información" }
+      ],
+      "correct_answer": "B",
+      "hint": "Meaning-based.",
+      "explanation": "Los sesgos que aparecen cuando la información que manejamos no tiene suficiente significado afectan cómo interpretamos y procesamos esa información."
+    },
+    {
+      "question_id": "MOD8_057",
+      "question_text": "¿Qué es el modelo transaccional del estrés de Cox-Mackay?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo considera demanda y capacidad" },
+        { "option_id": "B", "text": "Considera demanda, capacidad real y autopercepción del individuo" },
+        { "option_id": "C", "text": "Solo factores externos" },
+        { "option_id": "D", "text": "Solo factores internos" }
+      ],
+      "correct_answer": "B",
+      "hint": "Self-perception included.",
+      "explanation": "El modelo transaccional de Cox-Mackay considera no solo la demanda y capacidad real, sino también la autopercepción del individuo de su capacidad."
+    },
+    {
+      "question_id": "MOD8_058",
+      "question_text": "¿Qué efecto tiene el estrés en la toma de decisiones del controlador?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Aumenta la calidad de las decisiones" },
+        { "option_id": "B", "text": "Precipitación a la hora de tomar decisiones por efecto de la adrenalina" },
+        { "option_id": "C", "text": "Mejora la planificación" },
+        { "option_id": "D", "text": "Sin efecto" }
+      ],
+      "correct_answer": "B",
+      "hint": "Haste.",
+      "explanation": "En casos de niveles de estrés significativos, el controlador tiende a precipitarse a la hora de tomar decisiones debido al efecto de la adrenalina, lo que puede incrementar errores."
+    },
+    {
+      "question_id": "MOD8_059",
+      "question_text": "¿Qué es el distrés según el contexto de controladores?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Estado óptimo de concentración" },
+        { "option_id": "B", "text": "Cuando los procedimientos son nuevos y la calidad de gestión se resiente" },
+        { "option_id": "C", "text": "Solo fatiga física" },
+        { "option_id": "D", "text": "Solo aburrimiento" }
+      ],
+      "correct_answer": "B",
+      "hint": "New procedures.",
+      "explanation": "El distrés ocurre cuando los procedimientos que se emplean son nuevos y todavía no se está familiarizado, resintiéndose la calidad de gestión."
+    },
+    {
+      "question_id": "MOD8_060",
+      "question_text": "¿Cuál de los siguientes NO es un estresor ambiental/físico?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Temperatura inadecuada" },
+        { "option_id": "B", "text": "Muerte de un familiar" },
+        { "option_id": "C", "text": "Ruido intrusivo" },
+        { "option_id": "D", "text": "Iluminación deficiente" }
+      ],
+      "correct_answer": "B",
+      "hint": "Personal stressor.",
+      "explanation": "La muerte de un familiar es un estresor personal/individual, no ambiental/físico. Los otros son condiciones ambientales de la sala de control."
+    },
+    {
+      "question_id": "MOD8_061",
+      "question_id": "MOD8_061",
+      "question_text": "¿Qué es un estresor relacionado con la tarea?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Cuestiones personales de vida" },
+        { "option_id": "B", "text": "Alta carga de trabajo sostenida" },
+        { "option_id": "C", "text": "Solo temperatura" },
+        { "option_id": "D", "text": "Solo ruido" }
+      ],
+      "correct_answer": "B",
+      "hint": "Work-related stressors.",
+      "explanation": "Los estresores relacionados con la tarea incluyen alta carga de trabajo sostenida, tráfico muy heterogéneo, equipos inadecuados, procedimientos inapropiados, etc."
+    },
+    {
+      "question_id": "MOD8_062",
+      "question_text": "¿Qué efecto tiene la fatiga en los controladores según el texto?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Mejora de la atención" },
+        { "option_id": "B", "text": "Aumento de los tiempos de reacción y toma de decisiones" },
+        { "option_id": "C", "text": "Mejora de la memoria a corto plazo" },
+        { "option_id": "D", "text": "Mejora del rendimiento operativo" }
+      ],
+      "correct_answer": "B",
+      "hint": "Cognitive impairment.",
+      "explanation": "La fatiga en los controladores conlleva una disminución del estado de alerta y atención, y un aumento de los tiempos de reacción y toma de decisiones."
+    },
+    {
+      "question_id": "MOD8_063",
+      "question_text": "¿Qué es el sueño nocturno según el texto?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Igual al sueño diurno" },
+        { "option_id": "B", "text": "Es el auténticamente reparador y su ausencia produce fatiga crónica" },
+        { "option_id": "C", "text": "Menos importante que el diurno" },
+        { "option_id": "D", "text": "No afecta a la salud" }
+      ],
+      "correct_answer": "B",
+      "hint": "Restorative sleep.",
+      "explanation": "El sueño nocturno es el auténticamente reparador y su ausencia produce fatiga crónica, ya que la calidad del sueño diurno no es la misma."
+    },
+    {
+      "question_id": "MOD8_064",
+      "question_text": "¿Qué síntomas psicológicos del estrés se mencionan?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Palpitaciones" },
+        { "option_id": "B", "text": "Ansiedad, depresión, sensación de pánico" },
+        { "option_id": "C", "text": "Diarrea" },
+        { "option_id": "D", "text": "Sudoración" }
+      ],
+      "correct_answer": "B",
+      "hint": "Emotional symptoms.",
+      "explanation": "Los síntomas psicológicos incluyen alteración de estados de ánimo, irritabilidad, impaciencia, frustración, pesimismo, ansiedad, depresión y sensación de pánico o miedo."
+    },
+    {
+      "question_id": "MOD8_065",
+      "question_text": "¿Qué síntomas conductuales del estrés se mencionan?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Aumento de la presión arterial" },
+        { "option_id": "B", "text": "Ansiedad" },
+        { "option_id": "C", "text": "Autocontrol reducido, consumo de alcohol/drogas, ausentismo, aislamiento social" },
+        { "option_id": "D", "text": "Dolor de cabeza" }
+      ],
+      "correct_answer": "C",
+      "hint": "Behavior changes.",
+      "explanation": "Los síntomas conductuales incluyen problemas de autocontrol, confianza o autoestima, automedicación, consumo de alcohol/drogas, fatiga, ausentismo, aislamiento social."
+    },
+    {
+      "question_id": "MOD8_066",
+      "question_text": "¿Cuál es el objetivo principal del programa CISM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Investigar accidentes" },
+        { "option_id": "B", "text": "Apoyo psicológico tras incidente crítico para moderar el impacto y acelerar el regreso a la normalidad" },
+        { "option_id": "C", "text": "Formación técnica" },
+        { "option_id": "D", "text": "Solo control de sustancias" }
+      ],
+      "correct_answer": "B",
+      "hint": "Psychological support.",
+      "explanation": "El objetivo del programa CISM es proporcionar apoyo estructurado para moderar el impacto del estrés post-traumático derivado de un incidente crítico y acelerar el regreso a la normalidad laboral."
+    },
+    {
+      "question_id": "MOD8_067",
+      "question_text": "¿Qué requisitos especifica ATS.OR.305 sobre sustancias psicoactivas?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo política escrita" },
+        { "option_id": "B", "text": "Procedimiento objetivo, transparente y no discriminatorio para la detección de casos" },
+        { "option_id": "C", "text": "Solo formación teórica" },
+        { "option_id": "D", "text": "Solo sanciones" }
+      ],
+      "correct_answer": "B",
+      "hint": "Detection procedure.",
+      "explanation": "ATS.OR.305 establece que el proveedor debe desarrollar y aplicar un procedimiento objetivo, transparente y no discriminatorio para la detección de casos de uso problemático de sustancias psicoactivas."
+    },
+    {
+      "question_id": "MOD8_068",
+      "question_text": "¿Qué habilidades son necesarias en el control de tránsito aéreo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo conocimientos técnicos" },
+        { "option_id": "B", "text": "Habilidades espaciales visuales, percepción, resolución lógica, toma de decisiones, comunicación, trabajo en equipo" },
+        { "option_id": "C", "text": "Solo manejo de equipos" },
+        { "option_id": "D", "text": "Solo conocimiento de inglés" }
+      ],
+      "correct_answer": "B",
+      "hint": "Multiple skills required.",
+      "explanation": "El control de tránsito aéreo requiere habilidades espaciales visuales, percepción, reconocimiento de patrones, priorización, resolución lógica, toma de decisiones, comunicación, trabajo en equipo y uso de vocabulario técnico."
+    },
+    {
+      "question_id": "MOD8_069",
+      "question_text": "¿Qué es el sesgo de familiaridad?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Tendencia a seguir usando procedimientos que funcionaron en el pasado" },
+        { "option_id": "B", "text": "Tendencia a considerar familiar lo que no lo es" },
+        { "option_id": "C", "text": "Solo sesgo cognitivo aleatorio" },
+        { "option_id": "D", "text": "Sin efecto en decisiones" }
+      ],
+      "correct_answer": "A",
+      "hint": "Past success bias.",
+      "explanation": "El sesgo de familiaridad es la tendencia a aplicar reglas o métodos que han funcionado correctamente en el pasado en situaciones similares."
+    },
+    {
+      "question_id": "MOD8_070",
+      "question_text": "¿Qué es el sesgo de expectativa?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Tendencia a aplicar reglas familiares" },
+        { "option_id": "B", "text": "Tendencia a esperar que ocurra lo que esperamos" },
+        { "option_id": "C", "text": "Sin influencia en percepción" },
+        { "option_id": "D", "text": "Solo sesgo de memoria" }
+      ],
+      "correct_answer": "B",
+      "hint": "Expected outcomes.",
+      "explanation": "El sesgo de expectativa hace que percibamos lo que esperamos percibir, influenciando cómo interpretamos la información del entorno."
+    },
+    {
+      "question_id": "MOD8_071",
+      "question_text": "¿Qué efecto tiene el hiperestrés en la comunicación?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Mejora la comunicación" },
+        { "option_id": "B", "text": "Dificultad para comunicar, uso de lengua materna, olvido de fraseología normalizada" },
+        { "option_id": "C", "text": "Sin efecto" },
+        { "option_id": "D", "text": "Mejora la claridad" }
+      ],
+      "correct_answer": "B",
+      "hint": "Communication degradation.",
+      "explanation": "En casos de niveles de estrés significativos, el controlador va a tender a utilizar procedimientos que ya no están operativos, olvidar el uso de fraseología normalizada y utilizar su lengua materna."
+    },
+    {
+      "question_id": "MOD8_072",
+      "question_text": "¿Qué característica diferencia un equipo de un grupo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "El grupo trabaja con alto grado de autonomía" },
+        { "option_id": "B", "text": "El equipo trabaja con alto grado de autonomía, preocupándose del proceso y resultado, con comunicación abierta" },
+        { "option_id": "C", "text": "No hay diferencia" },
+        { "option_id": "D", "text": "El grupo solo busca el resultado" }
+      ],
+      "correct_answer": "B",
+      "hint": "Autonomy and process focus.",
+      "explanation": "El equipo actúa con alto grado de autonomía, se preocupa tanto del resultado como del proceso, potencia la comunicación abierta y el esfuerzo colectivo."
+    },
+    {
+      "question_id": "MOD8_073",
+      "question_text": "¿Qué beneficio principal aporta TRM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Aumentar el número de controladores" },
+        { "option_id": "B", "text": "Maximizar eficiencia en interacciones interpersonales y uso de recursos personales" },
+        { "option_id": "C", "text": "Reducir la formación" },
+        { "option_id": "D", "text": "Solo mejorar tecnología" }
+      ],
+      "correct_answer": "B",
+      "hint": "Resource efficiency.",
+      "explanation": "El concepto TRM es una filosofía de trabajo que trata de maximizar la eficiencia en las interacciones interpersonales y en el uso de los recursos personales."
+    },
+    {
+      "question_id": "MOD8_074",
+      "question_text": "¿Cómo se define el error humano en una visión contemporánea?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Como acto criminal" },
+        { "option_id": "B", "text": "Como actuación humana que no consigue sus objetivos, despojada de juicio de valor" },
+        { "option_id": "C", "text": "Como negligencia siempre" },
+        { "option_id": "D", "text": "Como acto intencional malicioso" }
+      ],
+      "correct_answer": "B",
+      "hint": "No value judgment.",
+      "explanation": "Las visiones actuales del error humano lo definen como una actuación humana que no consigue sus objetivos, despojándolo de todo juicio de valor."
+    },
+    {
+      "question_id": "MOD8_075",
+      "question_text": "¿Qué es la bounded rationality de Simon?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Capacidad ilimitada de toma de decisiones" },
+        { "option_id": "B", "text": "Racionalidad limitada por información limitada, capacidad mental limitada y tiempo limitado" },
+        { "option_id": "C", "text": "Sin límites cognitivos" },
+        { "option_id": "D", "text": "Solo decisión rápida" }
+      ],
+      "correct_answer": "B",
+      "hint": "Limited rationality.",
+      "explanation": "La bounded rationality describe que los profesionales operativos están restringidos en su toma de decisiones por información limitada, capacidad limitada de la mente y limitación del tiempo."
+    },
+    {
+      "question_id": "MOD8_076",
+      "question_text": "¿Qué es la 'brecha' entre Work as Imagined y Work as Done?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "No existe brecha" },
+        { "option_id": "B", "text": "Desfase entre cómo se conceptualiza el sistema y cómo opera realmente" },
+        { "option_id": "C", "text": "Solo diferencia de idioma" },
+        { "option_id": "D", "text": "Solo diferencia técnica" }
+      ],
+      "correct_answer": "B",
+      "hint": "Gap between design and reality.",
+      "explanation": "La brecha es el desfase entre el sistema tal como se conceptualiza y diseña (Work as Imagined) y el sistema como se opera realmente (Work as Done)."
+    },
+    {
+      "question_id": "MOD8_077",
+      "question_text": "¿Cuándo se dice que la clasificación de una actuación como error depende de las consecuencias?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Siempre se clasifica igual" },
+        { "option_id": "B", "text": "Una instrucción errónea corregida a tiempo no se considera error, pero la misma instrucción que causa incidente sí" },
+        { "option_id": "C", "text": "Solo depende de la intención" },
+        { "option_id": "D", "text": "Siempre es error si falla" }
+      ],
+      "correct_answer": "B",
+      "hint": "Outcome-based classification.",
+      "explanation": "El concepto de error humano es resbaladizo: una instrucción errónea pero corregida a tiempo rara vez se considera error humano, mientras que la misma actuación que termina en incidente sí lo es."
+    },
+    {
+      "question_id": "MOD8_078",
+      "question_text": "¿Qué principio sistémico se refiere a mantener el equilibrio entre recursos adecuados y limitaciones?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Recursos y limitaciones" },
+        { "option_id": "B", "text": "Interacciones y flujos" },
+        { "option_id": "C", "text": "Variabilidad del rendimiento" },
+        { "option_id": "D", "text": "Emergencia del sistema" }
+      ],
+      "correct_answer": "A",
+      "hint": "Resource balance.",
+      "explanation": "El principio de Recursos y limitaciones establece que el éxito depende de mantener el equilibrio entre los recursos adecuados en relación con unas determinadas limitaciones."
+    },
+    {
+      "question_id": "MOD8_079",
+      "question_text": "¿Qué es la aptitud física en relación con la fatiga?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo capacidad física general" },
+        { "option_id": "B", "text": "Estado físico para cumplir con los requisitos del servicio y recuperarse del trabajo" },
+        { "option_id": "C", "text": "Solo resistencia al cansancio mental" },
+        { "option_id": "D", "text": "Solo salud general" }
+      ],
+      "correct_answer": "B",
+      "hint": "Physical readiness for duty.",
+      "explanation": "La aptitud física se refiere al estado físico para cumplir con los requisitos del servicio y recuperarse adecuadamente del trabajo, incluyendo tolerancia al trabajo a turnos."
+    },
+    {
+      "question_id": "MOD8_080",
+      "question_text": "¿Qué es un equipo según la definición de factores organizacionales?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Grupo de personas sin interacción" },
+        { "option_id": "B", "text": "Grupo de personas que interactúan dinámicamente, son interdependientes y tienen objetivo común" },
+        { "option_id": "C", "text": "Personas trabajando juntas sin roles" },
+        { "option_id": "D", "text": "Solo personas físicamente cercanas" }
+      ],
+      "correct_answer": "B",
+      "hint": "Dynamic interaction, common goal.",
+      "explanation": "Un equipo es un grupo de personas que interactúan dinámicamente entre sí, sus miembros son interdependientes y tienen un objetivo común, con diferentes tareas y roles."
+    },
+    {
+      "question_id": "MOD8_081",
+      "question_text": "¿Qué elementos debe incluir un sistema de turnos según ATS.OR.320?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo horario de entrada" },
+        { "option_id": "B", "text": "Número máximo de días hábiles consecutivos, máximo horas por período, duración máxima sin descansos, relación servicio/descanso, etc." },
+        { "option_id": "C", "text": "Solo número de personas" },
+        { "option_id": "D", "text": "Solo vacaciones" }
+      ],
+      "correct_answer": "B",
+      "hint": "Multiple limits.",
+      "explanation": "El sistema de turnos debe especificar: número máximo de días hábiles consecutivos, número máximo de horas por período, duración máxima del servicio sin descansos, relación entre períodos de servicio y descansos, períodos de descanso mínimos, etc."
+    },
+    {
+      "question_id": "MOD8_082",
+      "question_text": "¿Qué es la fase de intervención inmediata en CISM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Selección de peers" },
+        { "option_id": "B", "text": "Proporcionar intervención inmediata a la crisis" },
+        { "option_id": "C", "text": "Evaluación periódica" },
+        { "option_id": "D", "text": "Derivación profesional" }
+      ],
+      "correct_answer": "B",
+      "hint": "Immediate crisis support.",
+      "explanation": "La fase de intervención inmediata consiste en proporcionar intervención inmediata a la crisis al controlador aéreo que ha experimentado un incidente crítico."
+    },
+    {
+      "question_id": "MOD8_083",
+      "question_text": "¿Qué perfil debe tener un Peer según EUROCONTROL?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo mayor experiencia operativa" },
+        { "option_id": "B", "text": "Emocionalmente estable, sensible, actitud abierta, disponible, fiable, respetado, conoce limitaciones, habilidades sociales, conocimiento operacional" },
+        { "option_id": "C", "text": "Solo conocimientos técnicos" },
+        { "option_id": "D", "text": "Solo formación en psicología" }
+      ],
+      "correct_answer": "B",
+      "hint": "Multiple qualities required.",
+      "explanation": "El perfil ideal incluye ser emocionalmente estable, sensible, saber escuchar, actitud abierta al aprendizaje, disponible, fiable, respetado, entender la confidencialidad, tener habilidades sociales y conocimiento operacional adecuado."
+    },
+    {
+      "question_id": "MOD8_084",
+      "question_text": "¿Qué suceso puede considerarse incidente crítico en ATM?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Operación rutinaria normal" },
+        { "option_id": "B", "text": "Situación de vulneración mínima de separación" },
+        { "option_id": "C", "text": "Situación que resulta en fallecimiento" },
+        { "option_id": "D", "text": "Pequeño retraso de un vuelo" }
+      ],
+      "correct_answer": "C",
+      "hint": "Fatal event.",
+      "explanation": "Los incidentes críticos en ATM incluyen situaciones de vulneración mínima de separación, fallecimientos, desastres devastadores, situaciones de violencia, y hechos delictivos."
+    },
+    {
+      "question_id": "MOD8_085",
+      "question_text": "¿Qué relación L-S del modelo SHELL-O representa?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Humano-máquina" },
+        { "option_id": "B", "text": "Humano-procedimientos" },
+        { "option_id": "C", "text": "Humano-entorno" },
+        { "option_id": "D", "text": "Humano-humano" }
+      ],
+      "correct_answer": "B",
+      "hint": "Liveware-Software.",
+      "explanation": "La relación L-S representa la relación entre el controlador aéreo y todos los sistemas de apoyo como reglamentos, manuales, listas de verificación y procedimientos operacionales normalizados."
+    },
+    {
+      "question_id": "MOD8_086",
+      "question_text": "¿Qué relación L-E del modelo SHELL-O representa?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Humano-software" },
+        { "option_id": "B", "text": "Humano-hardware" },
+        { "option_id": "C", "text": "Humano-entorno" },
+        { "option_id": "D", "text": "Humano-humano" }
+      ],
+      "correct_answer": "C",
+      "hint": "Liveware-Environment.",
+      "explanation": "La relación L-E comprende la relación entre el individuo y el entorno de trabajo tanto interno (temperatura, ruido, ambiente empresarial) como externo (condiciones meteorológicas)."
+    },
+    {
+      "question_id": "MOD8_087",
+      "question_text": "¿Qué indica el principio de variabilidad del rendimiento?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "El rendimiento siempre es constante" },
+        { "option_id": "B", "text": "Entender las fuentes de variabilidad para comprender y mejorar el desempeño y tolerancia del sistema" },
+        { "option_id": "C", "text": "Solo considerar fracasos" },
+        { "option_id": "D", "text": "Solo considerar éxito" }
+      ],
+      "correct_answer": "B",
+      "hint": "Variability understanding.",
+      "explanation": "El principio de variabilidad del rendimiento indica que la mejora continua es crucial para afrontar la variabilidad de las condiciones. Entender las fuentes de variabilidad permite comprender y mejorar el desempeño."
+    },
+    {
+      "question_id": "MOD8_088",
+      "question_text": "¿Qué son los contrapesos o 'trade-offs' en el control de tránsito aéreo?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo decisiones fáciles" },
+        { "option_id": "B", "text": "Dilemas entre objetivos potencialmente conflictivos como elegir entre ser más seguro o más eficiente" },
+        { "option_id": "C", "text": "Solo decisiones técnicas" },
+        { "option_id": "D", "text": "Sin conflicto" }
+      ],
+      "correct_answer": "B",
+      "hint": "Conflicting objectives.",
+      "explanation": "Los controladores frecuentemente tienen que afrontar contrapartidas o 'trade-offs' en sus decisiones ante objetivos potencialmente conflictivos como puede ser elegir entre ser más seguro o más eficiente."
+    },
+    {
+      "question_id": "MOD8_089",
+      "question_text": "¿Qué indica el principio de demanda y presión?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo la presión del trabajo" },
+        { "option_id": "B", "text": "El binomio demanda-presión en relación con eficiencia y capacidad afecta directamente al desempeño" },
+        { "option_id": "C", "text": "Solo la cantidad de trabajo" },
+        { "option_id": "D", "text": "Sin relación con rendimiento" }
+      ],
+      "correct_answer": "B",
+      "hint": "Demand-pressure relationship.",
+      "explanation": "El principio de demanda y presión establece que es crucial entender la demanda para comprender el desarrollo de las operaciones, ya que el binomio demanda-presión en relación con eficiencia y capacidad afecta directamente al desempeño."
+    },
+    {
+      "question_id": "MOD8_090",
+      "question_text": "¿Qué porcentaje del coste de un proyecto se fija en el primer 10% del ciclo de vida?",
+      "difficulty": 3,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "30%" },
+        { "option_id": "B", "text": "50%" },
+        { "option_id": "C", "text": "70%" },
+        { "option_id": "D", "text": "90%" }
+      ],
+      "correct_answer": "C",
+      "hint": "Early phase is critical.",
+      "explanation": "Está demostrado que aproximadamente el 70% del coste final del proyecto se fija por el desarrollo en el primer 10% del ciclo de vida del proyecto."
+    },
+    {
+      "question_id": "MOD8_091",
+      "question_text": "¿Por qué es más efectivo cambiar el diseño de un sistema en las fases iniciales?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Porque cuesta menos cambiar más tarde" },
+        { "option_id": "B", "text": "Porque cambiar el diseño en las fases iniciales de desarrollo es más efectivo que una vez está implementado y operativo" },
+        { "option_id": "C", "text": "No hay diferencia" },
+        { "option_id": "D", "text": "Porque la tecnología está más cara" }
+      ],
+      "correct_answer": "B",
+      "hint": "Design early change.",
+      "explanation": "Es mucho más efectivo cambiar el diseño de un sistema en las fases iniciales de desarrollo que una vez está implementado y operativo, y ahí es donde la intervención de Factores Humanos es crítica."
+    },
+    {
+      "question_id": "MOD8_092",
+      "question_text": "¿Qué rol tiene la integración de Factores Humanos en el Sistema de Gestión de la Seguridad?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo en la formación" },
+        { "option_id": "B", "text": "Identificar y entender la variabilidad del desempeño, tanto humano como del propio sistema, e incidir en la mejora de la investigación de sucesos" },
+        { "option_id": "C", "text": "Solo en selección de personal" },
+        { "option_id": "D", "text": "Solo en diseño de equipos" }
+      ],
+      "correct_answer": "B",
+      "hint": "Performance variation understanding.",
+      "explanation": "La integración de los Factores Humanos en el Sistema de Gestión de la Seguridad permite identificar y entender la variabilidad del desempeño, tanto humano como del propio sistema, e incidir en la mejora de la investigación de sucesos."
+    },
+    {
+      "question_id": "MOD8_093",
+      "question_text": "¿Qué efecto tiene la integración transversal de Factores Humanos en la organización?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo mejora de seguridad" },
+        { "option_id": "B", "text": "Mejora de seguridad, optimización de organización y personal, mejora de capacidad y eficiencia, reducción de costes" },
+        { "option_id": "C", "text": "Solo reducción de costes" },
+        { "option_id": "D", "text": "Sin efecto medible" }
+      ],
+      "correct_answer": "B",
+      "hint": "Multiple organizational benefits.",
+      "explanation": "La integración transversal de los Factores Humanos tiene impacto positivo directo en: mejora de seguridad, optimización de organización y personal, mejora de capacidad y eficiencia, reducción de costes y cumplimiento de normativa."
+    },
+    {
+      "question_id": "MOD8_094",
+      "question_text": "¿Qué problema puede causar una gestión inadecuada de Factores Humanos?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo problemas menores" },
+        { "option_id": "B", "text": "Incidentes por error humano, comprometido de empleados, rendimiento y productividad reducidos, ausentismo, daño a imagen y reputación" },
+        { "option_id": "C", "text": "Solo impacto en formación" },
+        { "option_id": "D", "text": "Sin consecuencias" }
+      ],
+      "correct_answer": "B",
+      "hint": "Multiple negative impacts.",
+      "explanation": "Si los Factores Humanos no se gestionan adecuadamente, esto pasa factura a la organización en: incidentes por error humano, compromiso de empleados, rendimiento y productividad reducidos, ausentismo, y daño a imagen y reputación."
+    },
+    {
+      "question_id": "MOD8_095",
+      "question_text": "¿Qué habilidades cognitivas requiere el trabajo de controlador?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Solo memoria" },
+        { "option_id": "B", "text": "Percepción, atención, vigilancia, planificación, ejecución de planes, procesamiento de información" },
+        { "option_id": "C", "text": "Solo comunicación" },
+        { "option_id": "D", "text": "Solo coordinación física" }
+      ],
+      "correct_answer": "B",
+      "hint": "Multiple cognitive processes.",
+      "explanation": "El trabajo de controlador requiere habilidades cognitivas como percepción o proceso de la información, reconocimiento de imágenes y patrones, priorización adecuada, resolución lógica de problemas, aplicación de reglas, toma de decisiones, y comunicación interpersonal."
+    },
+    {
+      "question_id": "MOD8_096",
+      "question_text": "¿Qué impacto tiene el trabajo a turnos en los controladores?",
+      "difficulty": 2",
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Sin impacto" },
+        { "option_id": "B", "text": "Alteraciones del sueño, problemas de salud física y psicológica, dificultades en vida familiar y social" },
+        { "option_id": "C", "text": "Solo mejora del rendimiento" },
+        { "option_id": "D", "text": "Solo beneficios sociales" }
+      ],
+      "correct_answer": "B",
+      "hint": "Circadian disruption effects.",
+      "explanation": "El trabajo a turnos puede perjudicar la salud, causando alteraciones del sueño, problemas de salud física y psicológica, y dificultades en la vida familiar y social debido a la falta de adaptación a horarios."
+    },
+    {
+      "question_id": "MOD8_097",
+      "question_text": "¿Qué son los lapsus según GEMS?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Acciones intencionales" },
+        { "option_id": "B", "text": "Acciones no intencionales por fallo en la memoria" },
+        { "option_id": "C", "text": "Solo errores de planificación" },
+        { "option_id": "D", "text": "Errores de aplicación de reglas" }
+      ],
+      "correct_answer": "B",
+      "hint": "Memory failures.",
+      "explanation": "Los lapsus son acciones no intencionales resultantes de fallos en la memoria debida al olvido de una intención o la omisión de aspectos previstos, como olvidos de información reciente o fallos en memoria prospectiva."
+    },
+    {
+      "question_id": "MOD8_098",
+      "question_text": "¿Qué son los deslices (slips) según GEMS?",
+      "difficulty": 2",
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Errores de planificación" },
+        { "option_id": "B", "text": "Acciones no intencionales por fallo en la atención (omisión, inversión, alteración)" },
+        { "option_id": "C", "text": "Aplicación incorrecta de regla" },
+        { "option_id": "D", "text": "Decisiones correctas" }
+      ],
+      "correct_answer": "B",
+      "hint": "Attentional failures.",
+      "explanation": "Los deslices (slips) son acciones no intencionales resultantes de un fallo o laguna en la atención, como pueden ser una omisión, una inversión o una alteración en el orden o el tiempo en una secuencia."
+    },
+    {
+      "question_id": "MOD8_099",
+      "question_text": "¿Qué relación hay entre TEM y la detección de errores?",
+      "difficulty": 2,
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "TEM no trata de errores" },
+        { "option_id": "B", "text": "TEM analiza acciones u omisiones que generan un estado inseguro para detectar y capturar posibles errores individuales y de equipo" },
+        { "option_id": "C", "text": "TEM solo trata de amenazas" },
+        "option_id": "D", "text": "TEM es solo documentación" }
+      ],
+      "correct_answer": "B",
+      "hint": "Error detection mechanism.",
+      "explanation": "TEM analiza acciones u omisiones que generan un estado inseguro, con el fin de detectar y capturar posibles errores individuales y de equipo como mecanismo para crear seguridad."
+    },
+    {
+      "question_id": "MOD8_100",
+      "question_text": "¿Qué indica el principio de contrapartidas?",
+      "difficulty": 2",
+      "type": "multiple_choice",
+      "options": [
+        { "option_id": "A", "text": "Que siempre hay una solución única" },
+        { "option_id": "B", "text": "Los profesionales deben asumir contrapartidas para resolver conflictos con objetivos contrapuestos (como eficiencia vs precisión)" },
+        { "option_id": "C", "text": "Que no hay conflicto en la organización" },
+        { "option_id": "D", "text": "Que los objetivos siempre coinciden" }
+      ],
+      "correct_answer": "B",
+      "hint": "Managing conflicting objectives.",
+      "explanation": "El principio de contrapartidas indica que para hacer frente a los conflictos y complejidad es necesario que los profesionales asuman contrapartidas para resolver conflictos con objetivos contrapuestos (como eficiencia y precisión bajo circunstancias específicas)."
+    }
+  ]
+}
