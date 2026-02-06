@@ -115,6 +115,29 @@ function annotateMarkdown(content, filename) {
     }
   });
 
+  // Clean punctuation (commas, points, etc.) from text content
+  // We protect FORMULA, IMAGE, and TABLE blocks from modification
+  const parts = annotated.split(/({{PAUSE:(?:FORMULA|IMAGE|TABLE)}}[\s\S]*?{{PAUSE:END}})/g);
+  
+  annotated = parts.map(part => {
+    // If it's a protected block, return as is
+    if (part.match(/^{{PAUSE:(?:FORMULA|IMAGE|TABLE)}}/)) {
+      return part;
+    }
+    
+    // Otherwise, remove punctuation
+    // Matches: , . ; : ! ? followed by whitespace or end of string
+    // This removes punctuation that acts as a pause/stop while preserving
+    // structural punctuation (like dots in version numbers 1.2.3 or URLs)
+    let clean = part.replace(/[.,;:!?]+(?=\s|$)/g, '');
+    
+    // Also remove any explicit pause markers related to punctuation that might have been added
+    // by previous versions or other logic
+    clean = clean.replace(/{{PAUSE:(?:SHORT|LONG|MEDIUM|COMMA|SEMICOLON|POINT)}}/g, '');
+    
+    return clean;
+  }).join('');
+
   // Annotate acronyms (more careful - need to avoid already annotated parts)
   // We'll process line by line and skip lines with existing markers
   const lines = annotated.split('\n');

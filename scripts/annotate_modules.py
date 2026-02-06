@@ -34,25 +34,29 @@ def annotate_text(text):
         if re.match(r'^\s*([-*+]|\d+\.)\s+', line):
             line = re.sub(r'^(\s*)([-*+]|\d+\.)', r'\1__pause_list__\2', line, count=1)
             
-        # 4. Punctuation
+        # 4. Punctuation Removal (as requested)
+        # We replace them with empty string to remove them completely
+        
         # Periods: Not preceded/followed by digit (3.5), not part of ellipsis (...)
-        line = re.sub(r'(?<![\d\.])\.(?![\d\.])', r'.__pause_long__', line)
+        line = re.sub(r'(?<![\d\.])\.(?![\d\.])', r'', line)
         
         # Commas
-        line = re.sub(r',', r',__pause_short__', line)
+        line = re.sub(r',', r'', line)
         
         # Colons
-        line = re.sub(r':', r':__pause_long__', line)
+        line = re.sub(r':', r'', line)
         
         # Semicolons
-        line = re.sub(r';', r';__pause_long__', line)
+        line = re.sub(r';', r'', line)
         
         # Step 2: Finalize placeholders to actual tags
         line = line.replace('__pause_doc__', '{{PAUSE:DOC}}')
         line = line.replace('__pause_acronym__', '{{PAUSE:ACRONYM}}')
         line = line.replace('__pause_list__', '{{PAUSE:LIST}}')
-        line = line.replace('__pause_long__', '{{PAUSE:LONG}}')
-        line = line.replace('__pause_short__', '{{PAUSE:SHORT}}')
+        # We don't need to replace punctuation placeholders anymore as we don't generate them
+        # But for safety in case other logic adds them:
+        line = line.replace('__pause_long__', '')
+        line = line.replace('__pause_short__', '')
         
         annotated_lines.append(line)
     
