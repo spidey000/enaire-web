@@ -39,6 +39,17 @@
   --spritz-transition-slow: 300ms;
 }
 
+/* RSVP Dark Mode Overrides */
+[data-theme="dark"] {
+  --spritz-background: #1e293b;
+  --spritz-white: #0f172a;
+  --spritz-black: #f1f5f9;
+  --spritz-gray-light: #334155;
+  --spritz-gray-medium: #475569;
+  --spritz-gray-dark: #cbd5e1;
+  --spritz-shadow: rgba(0, 0, 0, 0.4);
+}
+
 /* ============================================
    MAIN BANNER CONTAINER
    ============================================ */
@@ -391,7 +402,8 @@
 }
 
 .spritz-modal-content {
-  background-color: white;
+  background-color: var(--spritz-white);
+  color: var(--spritz-black);
   padding: var(--spritz-spacing-lg);
   border-radius: var(--spritz-radius-lg);
   max-width: 500px;
@@ -413,10 +425,12 @@
   border: none;
   font-size: 24px;
   cursor: pointer;
+  color: var(--spritz-black);
 }
 
 .spritz-shortcuts-table {
   width: 100%;
+  color: var(--spritz-black);
 }
 
 .spritz-shortcuts-table td {
@@ -425,6 +439,7 @@
 
 .spritz-shortcuts-table kbd {
   background-color: var(--spritz-gray-light);
+  color: var(--spritz-black);
   padding: 2px 6px;
   border-radius: 4px;
   font-family: monospace;
@@ -437,7 +452,8 @@
   position: absolute;
   top: 100%;
   right: 0;
-  background-color: white;
+  background-color: var(--spritz-white);
+  color: var(--spritz-black);
   border-radius: var(--spritz-radius-md);
   box-shadow: 0 5px 15px rgba(0,0,0,0.2);
   z-index: 1000;

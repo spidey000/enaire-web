@@ -9,6 +9,35 @@ console.log('🚀 ENAIRE Study - Iniciando aplicación...');
 // Initialize router
 router.init();
 
+// ==================== THEME MANAGEMENT ====================
+
+const themeManager = {
+  init() {
+    const settings = stateManager.getSettings();
+    const savedTheme = settings.theme || 'light';
+    this.applyTheme(savedTheme);
+    this.setupListeners();
+  },
+
+  applyTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    stateManager.updateSettings({ theme });
+  },
+
+  toggle() {
+    const currentTheme = document.documentElement.getAttribute('data-theme');
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+    this.applyTheme(newTheme);
+  },
+
+  setupListeners() {
+    const toggleBtn = document.getElementById('theme-toggle');
+    if (toggleBtn) {
+      toggleBtn.addEventListener('click', () => this.toggle());
+    }
+  }
+};
+
 // ==================== AUTO-GUARDADO ====================
 
 // Guardar posición de scroll automáticamente
@@ -83,6 +112,7 @@ router.handleRoute = async function() {
 
 // Handle initial route
 window.addEventListener('load', () => {
+  themeManager.init();
   router.handleRoute();
 
   // Registrar tiempo de inicio de sesión
