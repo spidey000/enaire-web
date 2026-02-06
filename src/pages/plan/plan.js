@@ -107,22 +107,8 @@ async function loadPlanData() {
   }
 }
 
-function loadState() {
-  const saved = storage.get('enaire_plan_state', {});
-  planState = {
-    tasksCompleted: saved.tasksCompleted || {},
-    tasksNotes: saved.tasksNotes || {},
-    expandedSections: saved.expandedSections || {},
-    lastVisit: saved.lastVisit
-  };
-}
-
-function saveState(key, value) {
-  if (key) {
-    planState[key] = value;
-  }
-  storage.set('enaire_plan_state', planState);
-}
+// loadState and saveState are now handled by stateManager
+// These functions are kept for reference but not used
 
 function calculateCompletion(plan) {
   const totalTasks = countTasks(plan);
@@ -156,6 +142,7 @@ function countCompletedTasks(plan) {
 }
 
 function renderPhaseCard(phase, plan) {
+  const planState = stateManager.getPlanState();
   const phaseTasks = phase.tasks || [];
   const completedTasks = phaseTasks.filter(t =>
     t.completed || planState.tasksCompleted[t.id]
