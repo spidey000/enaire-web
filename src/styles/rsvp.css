@@ -129,13 +129,20 @@
 }
 
 .spritz-banner.fullscreen .spritz-display {
-  height: 300px; /* Fixed height in fullscreen too */
+  height: clamp(150px, 25vh, 350px); /* Responsive height that adapts to viewport */
+  width: 95vw;
+  max-width: 95vw;
+}
+
+.spritz-banner.fullscreen .spritz-display-area {
+  width: 95vw;
+  max-width: 95vw;
 }
 
 .spritz-banner.fullscreen .spritz-display::before,
 .spritz-banner.fullscreen .spritz-display::after {
-  height: 40px;
-  width: 4px;
+  height: clamp(20px, 4vh, 50px);
+  width: clamp(2px, 0.3vw, 4px);
 }
 
 /* ============================================
@@ -194,7 +201,37 @@
 }
 
 .spritz-banner.fullscreen .spritz-word {
-  font-size: 120px;
+  /* Responsive font size that adapts to viewport width and orientation */
+  font-size: clamp(40px, 10vw, 120px);
+  max-width: 95vw; /* Never exceed viewport width */
+}
+
+/* Landscape orientation - use height as limiting factor since width is larger */
+@media (orientation: landscape) {
+  .spritz-banner.fullscreen .spritz-word {
+    font-size: clamp(40px, 12vh, 120px);
+  }
+}
+
+/* Portrait orientation - use width as limiting factor */
+@media (orientation: portrait) {
+  .spritz-banner.fullscreen .spritz-word {
+    font-size: clamp(32px, 8vw, 100px);
+  }
+}
+
+/* Extra small screens (phones) */
+@media (max-width: 480px) and (orientation: portrait) {
+  .spritz-banner.fullscreen .spritz-word {
+    font-size: clamp(24px, 7vw, 60px);
+  }
+}
+
+/* Tablets in landscape */
+@media (min-width: 768px) and (orientation: landscape) {
+  .spritz-banner.fullscreen .spritz-word {
+    font-size: clamp(50px, 10vh, 120px);
+  }
 }
 
 /* ============================================
