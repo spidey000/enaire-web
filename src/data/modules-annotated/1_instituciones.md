@@ -2,7 +2,7 @@
 
 La regulación de los servicios de  aérea es la función encargada de preservar tanto el orden como la seguridad en la provisión de dichos servicios así como los derechos e intereses legítimos de los usuarios del transporte aéreo mediante la ordenación supervisión y control de sus diferentes sectores de actividad
 
-En la actualidad la Organización de Aviación Civil Internacional ({{PAUSEACRONYM}}OACI) se erige como el mayor órgano de regulación mundial para la aviación civil Además existe otras instituciones europeas y nacionales que emiten normativa en sus respectivos ámbitos de responsabilidad
+En la actualidad la Organización de Aviación Civil Internacional (OACI{{pause:acronym}}) se erige como el mayor órgano de regulación mundial para la aviación civil Además existe otras instituciones europeas y nacionales que emiten normativa en sus respectivos ámbitos de responsabilidad
 
 # 2. INSTITUCIONES INTERNACIONALES
 
@@ -10,105 +10,105 @@ La  Aérea como fenómeno que va más allá de las fronteras de los Estados nece
 
 Las organizaciones internacionales son creadas para gestionar intereses colectivos por medio de un tratado y dotadas de órganos para cumplir sus fines Están compuestas por Estados y tanto su organización como fines se determinan mediante tratados cartas convenciones etc
 
-## 2.1 {{PAUSEACRONYM}}OACI
+## 2.1 OACI{{pause:acronym}}
 
-### 2.1.1 Sobre la {{PAUSEACRONYM}}OACI
+### 2.1.1 Sobre la OACI{{pause:acronym}}
 
-La Organización de Aviación Civil Internacional - {{PAUSEACRONYM}}OACI ({{PAUSEACRONYM}}ICAO –International Civil Aviation Organization) es un organismo especializado de las Naciones Unidas ({{PAUSEACRONYM}}ONU) creado por los Estados en 1944 para ejercer la administración y velar por la aplicación del Convenio sobre Aviación Civil Internacional (Convenio de Chicago)
+La Organización de Aviación Civil Internacional - OACI{{pause:acronym}} (ICAO{{pause:acronym}} –International Civil Aviation Organization) es un organismo especializado de las Naciones Unidas (ONU{{pause:acronym}}) creado por los Estados en 1944 para ejercer la administración y velar por la aplicación del Convenio sobre Aviación Civil Internacional (Convenio de Chicago)
 
-La {{PAUSEACRONYM}}OACI trabaja junto a los 193 Estados miembros del Convenio y a grupos de la industria para alcanzar un consenso sobre las Normas y métodos recomendados (SARPs) para la aviación civil internacional y sobre políticas que hagan posible que el sector de la aviación civil sea operacionalmente seguro eficiente protegido económicamente sostenible y ambientalmente responsable
+La OACI{{pause:acronym}} trabaja junto a los 193 Estados miembros del Convenio y a grupos de la industria para alcanzar un consenso sobre las Normas y métodos recomendados (SARPs) para la aviación civil internacional y sobre políticas que hagan posible que el sector de la aviación civil sea operacionalmente seguro eficiente protegido económicamente sostenible y ambientalmente responsable
 
 ### 2.1.2 Orígenes La Conferencia de Chicago
 
 El marco actual de la regulación del transporte aéreo internacional tiene su origen en la Conferencia de Chicago convocada a iniciativa del Gobierno de Estados Unidos en 1944 a fin de reunificar varios acuerdos vigentes hasta entonces y lograr una legislación de carácter internacional que regulase la  aérea y facilitase su desarrollo de cara a las décadas siguientes
 
-Representantes de 54 países se reunieron en la ciudad estadounidense de Chicago entre el 1 de noviembre y el 7 de diciembre de 1944 con la intención de
+Representantes de 54 países se reunieron en la ciudad estadounidense de Chicago entre el 1 de noviembre y el 7 de diciembre de 1944 con la intención de:
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Llegar a acuerdos que permitieran el establecimiento de rutas y servicios aéreos provisionales a nivel mundial
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Establecer una junta o grupo interino responsable de recoger registrar y estudiar datos relativos a la aviación internacional y hacer recomendaciones para sus mejoras
+-{{pause:list}} Llegar a acuerdos que permitieran el establecimiento de rutas y servicios aéreos provisionales a nivel mundial
+-{{pause:list}} Establecer una junta o grupo interino responsable de recoger registrar y estudiar datos relativos a la aviación internacional y hacer recomendaciones para sus mejoras
 
 Para el día de su clausura 52 de ellos habían firmado el nuevo Convenio sobre Aviación Civil Internacional que se había concertado
 
-Este acuerdo histórico más conocido entonces y ahora como el “Convenio de Chicago”
+Este acuerdo histórico más conocido entonces y ahora como el “Convenio de Chicago”:
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Sentó la base de las normas y procedimientos de la  aérea mundial en tiempos de paz
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Establecía como su objetivo principal que la aviación civil internacional debe desarrollarse “de manera segura y ordenada” y que los servicios de transporte aéreo deben establecerse “sobre una base de igualdad de oportunidades y realizarse de modo sólido y económico”
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Dio lugar a la creación del organismo especializado que desde entonces se encarga de su supervisión – la Organización de Aviación Civil Internacional ({{PAUSEACRONYM}}OACI)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Consta de una primera parte dedicada a regular la  internacional y una segunda que se centra en las características y funcionamiento de {{PAUSEACRONYM}}OACI
+-{{pause:list}} Sentó la base de las normas y procedimientos de la  aérea mundial en tiempos de paz
+-{{pause:list}} Establecía como su objetivo principal que la aviación civil internacional debe desarrollarse “de manera segura y ordenada” y que los servicios de transporte aéreo deben establecerse “sobre una base de igualdad de oportunidades y realizarse de modo sólido y económico”
+-{{pause:list}} Dio lugar a la creación del organismo especializado que desde entonces se encarga de su supervisión – la Organización de Aviación Civil Internacional (OACI{{pause:acronym}})
+-{{pause:list}} Consta de una primera parte dedicada a regular la  internacional y una segunda que se centra en las características y funcionamiento de OACI{{pause:acronym}}
 
-Debido a los retrasos en la ratificación de la Convención la Conferencia de Chicago firmó un Acuerdo Interino que preveía la creación de una {{PAUSEACRONYM}}OACI Provisional ({{PAUSEACRONYM}}PICAO) que serviría como órgano asesor y coordinador temporal El 4 de abril de 1947 al obtenerse el número suficiente de ratificaciones del Convenio de Chicago los aspectos provisionales de la {{PAUSEACRONYM}}PICAO dejaron de ser pertinentes y pasó a denominarse oficialmente {{PAUSEACRONYM}}OACI ({{PAUSEACRONYM}}ICAO) celebrándose la primera Asamblea oficial de la {{PAUSEACRONYM}}OACI en Montreal en mayo de dicho año
+Debido a los retrasos en la ratificación de la Convención la Conferencia de Chicago firmó un Acuerdo Interino que preveía la creación de una OACI{{pause:acronym}} Provisional (PICAO{{pause:acronym}}) que serviría como órgano asesor y coordinador temporal El 4 de abril de 1947 al obtenerse el número suficiente de ratificaciones del Convenio de Chicago los aspectos provisionales de la PICAO{{pause:acronym}} dejaron de ser pertinentes y pasó a denominarse oficialmente OACI{{pause:acronym}} (ICAO{{pause:acronym}}) celebrándose la primera Asamblea oficial de la OACI{{pause:acronym}} en Montreal en mayo de dicho año
 
 ### 2.1.3 Misión
 
-Tiene como misión
+Tiene como misión:
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Velar por todos los aspectos relacionados con la armonización y normalización de métodos de operación de los servicios aéreos civiles internacionales
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Desarrollar los principios y técnicas de la  aérea internacional
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Fomentar la organización y desarrollo del transporte aéreo internacional mediante el establecimiento de principios acuerdos normas y reglamentos necesarios para la seguridad regularidad y economía del transporte aéreo
+-{{pause:list}} Velar por todos los aspectos relacionados con la armonización y normalización de métodos de operación de los servicios aéreos civiles internacionales
+-{{pause:list}} Desarrollar los principios y técnicas de la  aérea internacional
+-{{pause:list}} Fomentar la organización y desarrollo del transporte aéreo internacional mediante el establecimiento de principios acuerdos normas y reglamentos necesarios para la seguridad regularidad y economía del transporte aéreo
 
 ### 2.1.4 Objetivos
 
-Para apoyar y facilitar una red mundial de transporte aéreo que
+Para apoyar y facilitar una red mundial de transporte aéreo que:
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- satisfaga o supere las necesidades de desarrollo social y económico y de una conectividad más amplia de empresas y pasajeros en todo el mundo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- reconozca la clara necesidad de prever y manejar la duplicación proyectada de la capacidad del transporte aéreo mundial para 2030
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- no tenga repercusiones adversas innecesarias en la seguridad operacional la eficiencia la conveniencia y el comportamiento medioambiental del sistema
+-{{pause:list}} satisfaga o supere las necesidades de desarrollo social y económico y de una conectividad más amplia de empresas y pasajeros en todo el mundo
+-{{pause:list}} reconozca la clara necesidad de prever y manejar la duplicación proyectada de la capacidad del transporte aéreo mundial para 2030
+-{{pause:list}} no tenga repercusiones adversas innecesarias en la seguridad operacional la eficiencia la conveniencia y el comportamiento medioambiental del sistema
 
-La {{PAUSEACRONYM}}OACI ha establecido los siguientes objetivos estratégicos generales
+La OACI{{pause:acronym}} ha establecido los siguientes objetivos estratégicos generales:
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Seguridad operacional Fortalecer la seguridad operacional de la aviación civil mundial
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Capacidad y eficiencia de la  aérea Aumentar la capacidad y mejorar la eficiencia del sistema de la aviación civil mundial
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Seguridad y Facilitación Fortalecer la facilitación y la seguridad de la aviación civil mundial
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Desarrollo económico del transporte aéreo Fomentar el desarrollo de un sistema de aviación civil sólido y económicamente viable
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Protección del medio ambiente Minimizar los efectos ambientales adversos de las actividades de la aviación civil
+-{{pause:list}} Seguridad operacional: Fortalecer la seguridad operacional de la aviación civil mundial
+-{{pause:list}} Capacidad y eficiencia de la  aérea: Aumentar la capacidad y mejorar la eficiencia del sistema de la aviación civil mundial
+-{{pause:list}} Seguridad y Facilitación: Fortalecer la facilitación y la seguridad de la aviación civil mundial
+-{{pause:list}} Desarrollo económico del transporte aéreo: Fomentar el desarrollo de un sistema de aviación civil sólido y económicamente viable
+-{{pause:list}} Protección del medio ambiente: Minimizar los efectos ambientales adversos de las actividades de la aviación civil
 
-### 2.1.5 Estructura de {{PAUSEACRONYM}}OACI
+### 2.1.5 Estructura de OACI{{pause:acronym}}
 
 a) Asamblea Consejo y Secretaría General
 
-Desde su fundación {{PAUSEACRONYM}}OACI tiene su sede permanente en Montreal (Canadá) Está compuesta por
+Desde su fundación OACI{{pause:acronym}} tiene su sede permanente en Montreal (Canadá) Está compuesta por:
 
 #### Asamblea
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Es el órgano soberano de la Organización constituido por todos los Estados Miembros de la {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Se reúne al menos una vez cada tres años convocada por el Consejo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Todos los Estados tienen igual derecho a estar representados y ninguna persona podrá representar a más de un Estado
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Cada Estado tiene derecho a un voto y las decisiones se toman por mayoría de los votos emitidos salvo cuando el Consejo establezca lo contrario
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- revisan y adoptan las prioridades del programa de trabajo y el presupuesto de la {{PAUSEACRONYM}}OACI establecen políticas y objetivos del sector público para el transporte aéreo internacional y respaldan la planificación estratégica global desarrollada por la Secretaría de la {{PAUSEACRONYM}}OACI entre otras acciones y decisiones para el trienio próximo
+-{{pause:list}} Es el órgano soberano de la Organización constituido por todos los Estados Miembros de la OACI{{pause:acronym}}
+-{{pause:list}} Se reúne al menos una vez cada tres años convocada por el Consejo
+-{{pause:list}} Todos los Estados tienen igual derecho a estar representados y ninguna persona podrá representar a más de un Estado
+-{{pause:list}} Cada Estado tiene derecho a un voto y las decisiones se toman por mayoría de los votos emitidos salvo cuando el Consejo establezca lo contrario
+-{{pause:list}} revisan y adoptan las prioridades del programa de trabajo y el presupuesto de la OACI{{pause:acronym}} establecen políticas y objetivos del sector público para el transporte aéreo internacional y respaldan la planificación estratégica global desarrollada por la Secretaría de la OACI{{pause:acronym}} entre otras acciones y decisiones para el trienio próximo
 
 #### Consejo
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Es un órgano ejecutivo permanente responsable ante la Asamblea y está integrado por representantes de 36 Estados contratantes elegidos por la Asamblea para un mandato de tres años
+-{{pause:list}} Es un órgano ejecutivo permanente responsable ante la Asamblea y está integrado por representantes de 36 Estados contratantes elegidos por la Asamblea para un mandato de tres años
 
-**Principales funciones**
+**Principales funciones:**
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Convocar a la Asamblea
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Adoptar normas internacionales y métodos recomendados e incorporarlos a los Anexos al Convenio sobre Aviación Civil Internacional que cubren todos los aspectos de la aviación civil internacional
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Oficiar de árbitro entre los Estados Miembros en cuestiones relacionadas con la aviación y la aplicación de las disposiciones del Convenio
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Puede investigar cualquier situación que presente obstáculos evitables al desarrollo de la  aérea internacional
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- tomar las medidas necesarias para mantener la seguridad operacional y regularidad del transporte aéreo internacional
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- España forma parte del Consejo
+-{{pause:list}} Convocar a la Asamblea
+-{{pause:list}} Adoptar normas internacionales y métodos recomendados e incorporarlos a los Anexos al Convenio sobre Aviación Civil Internacional que cubren todos los aspectos de la aviación civil internacional
+-{{pause:list}} Oficiar de árbitro entre los Estados Miembros en cuestiones relacionadas con la aviación y la aplicación de las disposiciones del Convenio
+-{{pause:list}} Puede investigar cualquier situación que presente obstáculos evitables al desarrollo de la  aérea internacional
+-{{pause:list}} tomar las medidas necesarias para mantener la seguridad operacional y regularidad del transporte aéreo internacional
+-{{pause:list}} España forma parte del Consejo
 
 #### Secretaría general
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Ejerce el liderazgo del personal internacional especializado en el ámbito de la aviación civil internacional
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- También oficia de Secretaría del Consejo de la {{PAUSEACRONYM}}OACI responsable ante el Consejo en su conjunto
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Lleva a cabo las funciones que le asigna el Consejo respetando las políticas establecidas
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Prepara informes periódicos al Consejo sobre el desarrollo de las actividades de la Secretaría
+-{{pause:list}} Ejerce el liderazgo del personal internacional especializado en el ámbito de la aviación civil internacional
+-{{pause:list}} También oficia de Secretaría del Consejo de la OACI{{pause:acronym}} responsable ante el Consejo en su conjunto
+-{{pause:list}} Lleva a cabo las funciones que le asigna el Consejo respetando las políticas establecidas
+-{{pause:list}} Prepara informes periódicos al Consejo sobre el desarrollo de las actividades de la Secretaría
 
-Se compone de cinco oficinas
+Se compone de cinco oficinas:
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Oficina de  aérea
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Oficina de transporte aéreo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Oficina de desarrollo de capacidades e implementación
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Oficina de asuntos jurídicos y relaciones externas
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Oficina de administración y servicios
+-{{pause:list}} Oficina de  aérea
+-{{pause:list}} Oficina de transporte aéreo
+-{{pause:list}} Oficina de desarrollo de capacidades e implementación
+-{{pause:list}} Oficina de asuntos jurídicos y relaciones externas
+-{{pause:list}} Oficina de administración y servicios
 
 b) Regiones
 
-Con el objetivo de descentralizar la gestión y estar más próxima a los problemas de las diferentes zonas del mundo {{PAUSEACRONYM}}OACI se configura en nueve regiones de  aérea que son dirigidas a través de siete oficinas
+Con el objetivo de descentralizar la gestión y estar más próxima a los problemas de las diferentes zonas del mundo OACI{{pause:acronym}} se configura en nueve regiones de  aérea que son dirigidas a través de siete oficinas:
 
-{{PAUSE:TABLE}}| REGIONES | OFICINAS |
+{{pause:table}}| REGIONES | OFICINAS |
 | :--- | :--- |
 | Región del Pacífico (PAC) | la Oficina Asia y Pacífico, en Bangkok, Tailandia |
 | Región de Asia (ASIA) | |
@@ -119,19 +119,19 @@ Con el objetivo de descentralizar la gestión y estar más próxima a los proble
 | Región del Oriente Medio (MID) | la Oficina Oriente Medio, en El Cairo, Egipto |
 | Región de América del Norte (NAM) | la Oficina América del Norte, América Central y Caribe, en la Ciudad de México, México |
 | Región del Caribe (CAR) | |
-| Región de América del Sur (SAM) | la Oficina América del Sur, en Lima, Perú. |{{PAUSE:END}}
+| Región de América del Sur (SAM) | la Oficina América del Sur, en Lima, Perú. |{{pause:end}}
 
 ### 2.1.6 Documentación
 
-Se compone de anexos documentos y circulares
+Se compone de anexos documentos y circulares:
 
 #### 2.1.6.1 Anexos
 
-Para la consecución de los fines establecidos en el Convenio de Chicago {{PAUSEACRONYM}}OACI tiene establecidos 19 anexos en los que se detallan con carácter general los distintos aspectos relacionados con la regulación de la aviación civil
+Para la consecución de los fines establecidos en el Convenio de Chicago OACI{{pause:acronym}} tiene establecidos 19 anexos en los que se detallan con carácter general los distintos aspectos relacionados con la regulación de la aviación civil
 
 Los anexos tienen por objeto el establecimiento de ciertos niveles mínimos de actuación y prestación de servicios mediante normas y métodos recomendados así como la consecución de determinada uniformidad en su aplicación
 
-{{PAUSE:TABLE}}| ANEXO | NOMBRE |
+{{pause:table}}| ANEXO | NOMBRE |
 | :--- | :--- |
 | 1 | Licencias al personal |
 | 2 | Reglamento del aire |
@@ -151,50 +151,50 @@ Los anexos tienen por objeto el establecimiento de ciertos niveles mínimos de a
 | 16 | Protección del medio ambiente |
 | 17 | Seguridad — Protección de la aviación civil internacional contra actos de interferencia ilícita |
 | 18 | Transporte sin riesgos de mercancías peligrosas por vía aérea |
-| 19 | Gestión de la seguridad operacional. |{{PAUSE:END}}
+| 19 | Gestión de la seguridad operacional. |{{pause:end}}
 
 #### 2.1.6.2 Documentos
 
-Además de los 19 anexos {{PAUSEACRONYM}}OACI produce los llamados documentos en los que se desarrolla al detalle el contenido de los Anexos
+Además de los 19 anexos OACI{{pause:acronym}} produce los llamados documentos en los que se desarrolla al detalle el contenido de los Anexos
 
-Un Anexo puede tener varios desarrollos en manuales
+Un Anexo puede tener varios desarrollos en manuales:
 
-{{PAUSE:TABLE}}| ANEXO | MANUAL QUE LO DESARROLLA |
+{{pause:table}}| ANEXO | MANUAL QUE LO DESARROLLA |
 | :--- | :--- |
 | Anexo 2 Reglamento del aire | Doc. 4444 Gestión del Tránsito Aéreo |
 | | Doc. 7030 Procedimientos suplementarios regionales |
-| Anexo 4 Cartas aeronáuticas | Doc. 8697 Manual de cartas aeronáuticas |{{PAUSE:END}}
+| Anexo 4 Cartas aeronáuticas | Doc. 8697 Manual de cartas aeronáuticas |{{pause:end}}
 
-Algunos ejemplos son
+Algunos ejemplos son:
 
-**{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}DOC}}Doc.9750 Plan mundial de  aérea ({{PAUSEACRONYM}}GANP)**
+**Doc 9750{{pause:doc}} Plan mundial de  aérea (GANP{{pause:acronym}})**
 
-Es un marco general que incluye los principios clave de la política de aviación civil en el periodo 2016-2030 para ayudar a las Regiones subregiones y Estados de la {{PAUSEACRONYM}}OACI a preparar sus planes Regionales y Estatales de  aérea
-El objetivo del {{PAUSEACRONYM}}GANP es aumentar la capacidad y mejorar la eficiencia del sistema mundial de aviación civil mejorando o al menos manteniendo la seguridad operacional e incluye estrategias para abordar los otros Objetivos Estratégicos de la {{PAUSEACRONYM}}OACI
+Es un marco general que incluye los principios clave de la política de aviación civil en el periodo 2016-2030 para ayudar a las Regiones subregiones y Estados de la OACI{{pause:acronym}} a preparar sus planes Regionales y Estatales de  aérea
+El objetivo del GANP{{pause:acronym}} es aumentar la capacidad y mejorar la eficiencia del sistema mundial de aviación civil mejorando o al menos manteniendo la seguridad operacional e incluye estrategias para abordar los otros Objetivos Estratégicos de la OACI{{pause:acronym}}
 
-**{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}DOC}}Doc.4444 Gestión del tránsito aéreo ({{PAUSEACRONYM}}PANS–{{PAUSEACRONYM}}ATM)**
+**Doc 4444{{pause:doc}} Gestión del tránsito aéreo (PANS{{pause:acronym}}–ATM{{pause:acronym}})**
 
 Estos procedimientos complementan las normas y métodos recomendados contenidos en los Anexos 2 y 11.
 Se especifican más detalladamente los procedimientos efectivos que han de aplicar las dependencias de los servicios de tránsito aéreo al tráfico aéreo para facilitar los diversos servicios de su ramo
 
-**{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}DOC}}Doc.8168 Operación de aeronaves ({{PAUSEACRONYM}}PANS – {{PAUSEACRONYM}}OPS)**
+**Doc 8168{{pause:doc}} Operación de aeronaves (PANS{{pause:acronym}} – OPS{{pause:acronym}})**
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Volumen I - Procedimientos de vuelo Describe los procedimientos operacionales recomendados para guía del personal de operaciones de vuelo Marca la necesidad de que el personal de operaciones y las tripulaciones de vuelo respeten estrictamente los procedimientos publicados con el fin de lograr y preservar un nivel aceptable de seguridad en las operaciones
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Volumen {{PAUSEACRONYM}}II — Construcción de procedimientos de vuelo visual y por instrumentos Sirve de guía para los especialistas en procedimientos ya que
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Describe las áreas esenciales y las condiciones que deben satisfacer los márgenes de franqueamiento de obstáculos para poder hacer regularmente y con seguridad vuelos por instrumentos
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Proporciona orientación básica a los Estados y a los explotadores y organismos que editan cartas de vuelo por instrumentos
+-{{pause:list}} Volumen I - Procedimientos de vuelo: Describe los procedimientos operacionales recomendados para guía del personal de operaciones de vuelo Marca la necesidad de que el personal de operaciones y las tripulaciones de vuelo respeten estrictamente los procedimientos publicados con el fin de lograr y preservar un nivel aceptable de seguridad en las operaciones
+-{{pause:list}} Volumen II{{pause:acronym}} — Construcción de procedimientos de vuelo visual y por instrumentos: Sirve de guía para los especialistas en procedimientos ya que:
+    -{{pause:list}} Describe las áreas esenciales y las condiciones que deben satisfacer los márgenes de franqueamiento de obstáculos para poder hacer regularmente y con seguridad vuelos por instrumentos
+    -{{pause:list}} Proporciona orientación básica a los Estados y a los explotadores y organismos que editan cartas de vuelo por instrumentos
 
-**{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}DOC}}Doc.8126 Manual para los servicios de información aeronáutica ({{PAUSEACRONYM}}AIS)**
+**Doc 8126{{pause:doc}} Manual para los servicios de información aeronáutica (AIS{{pause:acronym}})**
 
-Su objetivo es explicar las funciones básicas del {{PAUSEACRONYM}}AIS y describir el tipo de organización básica que se requiere y ayudar a que se instruya al personal {{PAUSEACRONYM}}AIS
+Su objetivo es explicar las funciones básicas del AIS{{pause:acronym}} y describir el tipo de organización básica que se requiere y ayudar a que se instruya al personal AIS{{pause:acronym}}
 
 #### 2.1.6.3 Circulares
 
-Funcionan como textos de orientación sobre determinados aspectos en materia de  aérea y aviación civil Son ejemplos de circulares
+Funcionan como textos de orientación sobre determinados aspectos en materia de  aérea y aviación civil Son ejemplos de circulares:
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Circular 207 Operaciones simultaneas en pistas instrumentales paralelas o casi paralelas ({{PAUSEACRONYM}}SOIR)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Circular 247 Factores humanos gestión y organización
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Circular 257 Aspectos económicos en la  por satélite
+-{{pause:list}} Circular 207 Operaciones simultaneas en pistas instrumentales paralelas o casi paralelas (SOIR{{pause:acronym}})
+-{{pause:list}} Circular 247 Factores humanos gestión y organización
+-{{pause:list}} Circular 257 Aspectos económicos en la  por satélite
 
 ## 2.2 EUROCONTROL
 
@@ -205,86 +205,86 @@ España es miembro desde 1997 y el 8 de octubre de 2002 se firmó el protocolo d
 
 ### 2.2.2 Misión
 
-EUROCONTROL tiene como misión armonizar e integrar los servicios de  aérea en Europa con miras a la creación de un sistema uniforme de gestión del tráfico aéreo ({{PAUSEACRONYM}}ATM) para los usuarios civiles y militares a fin de lograr el desarrollo seguro ordenado rápido y económico del flujo de tráfico aéreo en toda Europa al tiempo que minimiza el impacto medioambiental adverso
+EUROCONTROL tiene como misión armonizar e integrar los servicios de  aérea en Europa con miras a la creación de un sistema uniforme de gestión del tráfico aéreo (ATM{{pause:acronym}}) para los usuarios civiles y militares a fin de lograr el desarrollo seguro ordenado rápido y económico del flujo de tráfico aéreo en toda Europa al tiempo que minimiza el impacto medioambiental adverso
 
 ### 2.2.3 Objetivos
 
-EUROCONTROL tiene como objetivos y prioridades estratégicas
+EUROCONTROL tiene como objetivos y prioridades estratégicas:
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Liderar el diseño y la aplicación de la futura red de gestión del tráfico aéreo ({{PAUSEACRONYM}}ATM) en todo el continente europeo en cooperación con partes interesadas de la aviación
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Continuar con la gestión eficiente de las funciones paneuropeas como la función centralizada de los flujos de tráfico aéreo y de capacidad ({{PAUSEACRONYM}}ATFCM)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Utilizar sus conocimientos especializados para apoyar las actividades de regulación {{PAUSEACRONYM}}ATM
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Proporcionar control regional de los servicios de tráfico aéreo cuando así se solicite por los Estados
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Asegurar el éxito del programa {{PAUSEACRONYM}}SESAR (Single European Sky {{PAUSEACRONYM}}ATM Research / Investigación del Cielo Único Europeo {{PAUSEACRONYM}}ATM)
+-{{pause:list}} Liderar el diseño y la aplicación de la futura red de gestión del tráfico aéreo (ATM{{pause:acronym}}) en todo el continente europeo en cooperación con partes interesadas de la aviación
+-{{pause:list}} Continuar con la gestión eficiente de las funciones paneuropeas como la función centralizada de los flujos de tráfico aéreo y de capacidad (ATFCM{{pause:acronym}})
+-{{pause:list}} Utilizar sus conocimientos especializados para apoyar las actividades de regulación ATM{{pause:acronym}}
+-{{pause:list}} Proporcionar control regional de los servicios de tráfico aéreo cuando así se solicite por los Estados
+-{{pause:list}} Asegurar el éxito del programa SESAR{{pause:acronym}} (Single European Sky ATM{{pause:acronym}} Research / Investigación del Cielo Único Europeo ATM{{pause:acronym}})
 
 ### 2.2.4 Estructura
 
 #### ESTRUCTURA DE GOBIERNO
 
-**Comisión Permanente ({{PAUSEACRONYM}}CN - Permanent Commission)** Máximo Órgano de decisión
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Está compuesto por representantes de los estados a nivel ministerial
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Formula las políticas generales de la Organización
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Aprueba el presupuesto anual el programa de cinco años las normas contractuales las normas financieras y de personal
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Es responsable del nombramiento del Director General
+**Comisión Permanente (CN{{pause:acronym}} - Permanent Commission)**: Máximo Órgano de decisión
+-{{pause:list}} Está compuesto por representantes de los estados a nivel ministerial
+-{{pause:list}} Formula las políticas generales de la Organización
+-{{pause:list}} Aprueba el presupuesto anual el programa de cinco años las normas contractuales las normas financieras y de personal
+-{{pause:list}} Es responsable del nombramiento del Director General
 
-**Consejo Provisional ({{PAUSEACRONYM}}PC - Provisional Council)**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Está compuesto por representantes de los estados a nivel de Directores Generales de Aviación Civil
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Se encarga de la aplicación y funcionamiento de la política general establecida por la Comisión Permanente así como de supervisar el trabajo de la Agencia
+**Consejo Provisional (PC{{pause:acronym}} - Provisional Council)**
+-{{pause:list}} Está compuesto por representantes de los estados a nivel de Directores Generales de Aviación Civil
+-{{pause:list}} Se encarga de la aplicación y funcionamiento de la política general establecida por la Comisión Permanente así como de supervisar el trabajo de la Agencia
 
 #### ESTRUCTURA EJECUTIVA
 
 **La Agencia**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Es responsable de la ejecución de tareas previstas en el Convenio o que le encomiende la Comisión Permanente o el Consejo Provisional
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Se compone
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Director General responsable de su gestión
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Network Manager Directorate
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Directorate Air Traffic Management
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Directorate Pan-European Single Sky
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Directorate Central Route Charges Office
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Maastricht Upper Area Control Centre ({{PAUSEACRONYM}}MUAC)
+-{{pause:list}} Es responsable de la ejecución de tareas previstas en el Convenio o que le encomiende la Comisión Permanente o el Consejo Provisional
+-{{pause:list}} Se compone:
+    -{{pause:list}} Director General: responsable de su gestión
+    -{{pause:list}} Network Manager Directorate
+    -{{pause:list}} Directorate Air Traffic Management
+    -{{pause:list}} Directorate Pan-European Single Sky
+    -{{pause:list}} Directorate Central Route Charges Office
+    -{{pause:list}} Maastricht Upper Area Control Centre (MUAC{{pause:acronym}})
 
 #### ESTRUCTURA CONSULTIVA
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Comisión de Cuentas (Audit Board)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Comisión de evaluación de resultados ({{PAUSEACRONYM}}PRC - Performance Review Commission)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Comisión de Regulación de seguridad ({{PAUSEACRONYM}}SRC - Safety Regulation Commission)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Comité de partes interesadas Civil-Militar ({{PAUSEACRONYM}}CMSC - Civil-military Stakeholder Committee)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Comité Permanente de Finanzas ({{PAUSEACRONYM}}SCF - Standing Committee on Finance)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Junta de los Servicios de  Aérea ({{PAUSEACRONYM}}ANSB - Air Navigation Services Board)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Junta de la Gestión de Tráfico Aéreo Militar ({{PAUSEACRONYM}}MAB - Military {{PAUSEACRONYM}}ATM Board)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Órgano Asesor de la Agencia ({{PAUSEACRONYM}}AAB - Agency Advisory Body)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Conferencia de Representantes de Personal {{PAUSEACRONYM}}ATM europeo ({{PAUSEACRONYM}}ESAC - European {{PAUSEACRONYM}}ATM Staff Representatives Conference)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Consejos Supervisores ({{PAUSEACRONYM}}SB - Supervisory Boards)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Comité de Coordinación del Consejo Provisional ({{PAUSEACRONYM}}PCC - {{PAUSEACRONYM}}PC Coordinating Committee)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Auditoría Interna (Internal Audit)
+-{{pause:list}} Comisión de Cuentas (Audit Board)
+-{{pause:list}} Comisión de evaluación de resultados (PRC{{pause:acronym}} - Performance Review Commission)
+-{{pause:list}} Comisión de Regulación de seguridad (SRC{{pause:acronym}} - Safety Regulation Commission)
+-{{pause:list}} Comité de partes interesadas Civil-Militar (CMSC{{pause:acronym}} - Civil-military Stakeholder Committee)
+-{{pause:list}} Comité Permanente de Finanzas (SCF{{pause:acronym}} - Standing Committee on Finance)
+-{{pause:list}} Junta de los Servicios de  Aérea (ANSB{{pause:acronym}} - Air Navigation Services Board)
+-{{pause:list}} Junta de la Gestión de Tráfico Aéreo Militar (MAB{{pause:acronym}} - Military ATM{{pause:acronym}} Board)
+-{{pause:list}} Órgano Asesor de la Agencia (AAB{{pause:acronym}} - Agency Advisory Body)
+-{{pause:list}} Conferencia de Representantes de Personal ATM{{pause:acronym}} europeo (ESAC{{pause:acronym}} - European ATM{{pause:acronym}} Staff Representatives Conference)
+-{{pause:list}} Consejos Supervisores (SB{{pause:acronym}} - Supervisory Boards)
+-{{pause:list}} Comité de Coordinación del Consejo Provisional (PCC{{pause:acronym}} - PC{{pause:acronym}} Coordinating Committee)
+-{{pause:list}} Auditoría Interna (Internal Audit)
 
 ### 2.2.5 Normativa
 
-Las normas {{PAUSEACRONYM}}ESARR son adoptadas por el Consejo Provisional y aprobadas por la Comisión de EUROCONTROL
+Las normas ESARR{{pause:acronym}} son adoptadas por el Consejo Provisional y aprobadas por la Comisión de EUROCONTROL
 Una vez aprobadas los Estados miembros deberán incorporarlas a sus regulaciones internas al tiempo que se recomienda a los Estados no miembros de la organización que hagan lo mismo
 
 ### 2.2.6 Documentación
 
-El principal mecanismo de armonización puesto en marcha por la Comisión de Regulación de seguridad son las normas {{PAUSEACRONYM}}ESARR (EUROCONTROL Safety Regulation Requirements / Requerimientos reglamentarios de seguridad de Eurocontrol)
+El principal mecanismo de armonización puesto en marcha por la Comisión de Regulación de seguridad son las normas ESARR{{pause:acronym}} (EUROCONTROL Safety Regulation Requirements / Requerimientos reglamentarios de seguridad de Eurocontrol)
 
-Hasta el momento se han aprobado seis normas {{PAUSEACRONYM}}ESARR que se han ido integrando en Reglamentos Directivas y Leyes
+Hasta el momento se han aprobado seis normas ESARR{{pause:acronym}} que se han ido integrando en Reglamentos Directivas y Leyes:
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- {{PAUSEACRONYM}}ESARR 1 Safety Oversight in {{PAUSEACRONYM}}ATM
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- {{PAUSEACRONYM}}ESARR 2 Reporting and Assessment of Safety Occurrences in {{PAUSEACRONYM}}ATM
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- {{PAUSEACRONYM}}ESARR 3 Use of Safety Management System by {{PAUSEACRONYM}}ATM Service Providers
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- {{PAUSEACRONYM}}ESARR 4 Risk Assessment and Mitigation in {{PAUSEACRONYM}}ATM
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- {{PAUSEACRONYM}}ESARR 5 {{PAUSEACRONYM}}ATM Services’ Personnel
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- {{PAUSEACRONYM}}ESARR 6 Software in {{PAUSEACRONYM}}ATM Functional Systems
+-{{pause:list}} ESARR{{pause:acronym}} 1 Safety Oversight in ATM{{pause:acronym}}
+-{{pause:list}} ESARR{{pause:acronym}} 2 Reporting and Assessment of Safety Occurrences in ATM{{pause:acronym}}
+-{{pause:list}} ESARR{{pause:acronym}} 3 Use of Safety Management System by ATM{{pause:acronym}} Service Providers
+-{{pause:list}} ESARR{{pause:acronym}} 4 Risk Assessment and Mitigation in ATM{{pause:acronym}}
+-{{pause:list}} ESARR{{pause:acronym}} 5 ATM{{pause:acronym}} Services’ Personnel
+-{{pause:list}} ESARR{{pause:acronym}} 6 Software in ATM{{pause:acronym}} Functional Systems
 
-### 2.2.7 {{PAUSEACRONYM}}EAD (European {{PAUSEACRONYM}}AIS Database / Base de datos {{PAUSEACRONYM}}AIS a nivel europeo)
+### 2.2.7 EAD{{pause:acronym}} (European AIS{{pause:acronym}} Database / Base de datos AIS{{pause:acronym}} a nivel europeo)
 
 EUROCONTROL tiene una posición particular en Europa ya que tiene una visión europea global sobre los asuntos de gestión del tráfico aéreo en sus 42 Estados Miembros y una serie de acuerdos bilaterales con otros proveedores
 
-A este respecto cabe mencionar los servicios {{PAUSEACRONYM}}EAD la base de datos {{PAUSEACRONYM}}AIS desarrollada por los estados miembros de EUROCONTROL con vista a asegurar la calidad de los datos aeronáuticos que contiene y destinada a su uso compartido por todos los usuarios del espacio aéreo
+A este respecto cabe mencionar los servicios EAD{{pause:acronym}} la base de datos AIS{{pause:acronym}} desarrollada por los estados miembros de EUROCONTROL con vista a asegurar la calidad de los datos aeronáuticos que contiene y destinada a su uso compartido por todos los usuarios del espacio aéreo
 
-La {{PAUSEACRONYM}}EAD constituye una única fuente de referencia de información aeronáutica fiable ({{PAUSEACRONYM}}NOTAM y datos {{PAUSEACRONYM}}AIP) y de calidad que cubre la totalidad del continente europeo y más allá de sus fronteras y permite la generación de boletines de información previos al vuelo (PIBs)
+La EAD{{pause:acronym}} constituye una única fuente de referencia de información aeronáutica fiable (NOTAM{{pause:acronym}} y datos AIP{{pause:acronym}}) y de calidad que cubre la totalidad del continente europeo y más allá de sus fronteras y permite la generación de boletines de información previos al vuelo (PIBs)
 
-### 2.2.8 {{PAUSEACRONYM}}MUAC (Maastricht Upper Area Control Centre / Centro de control de área en espacio aéreo superior en Maastricht)
+### 2.2.8 MUAC{{pause:acronym}} (Maastricht Upper Area Control Centre / Centro de control de área en espacio aéreo superior en Maastricht)
 
 Es el centro de control de tráfico aéreo de EUROCONTROL y proporciona servicios de  aérea uniformes en el espacio aéreo superior de Bélgica Luxemburgo Países Bajos y el noroeste de Alemania
 
@@ -294,10 +294,10 @@ España como miembro de EUROCONTROL pertenece y tiene representación en la Comi
 
 ### 2.2.10 Participación ENAIRE
 
-ENAIRE participa en los siguientes grupos consultivos
+ENAIRE participa en los siguientes grupos consultivos:
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- {{PAUSEACRONYM}}ANSB es el Consejo Asesor creado por el Consejo Provisional para elaborar y coordinar el punto de vista a los objetivos estratégicos plan de negocios y presupuestos de EUROCONTROL de los Proveedores de Servicio de  Aérea Aerolíneas Aeropuertos y Militares (estos últimos sin derecho a voto)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- {{PAUSEACRONYM}}AAB es el Órgano Asesor del Director General de la Agencia en temas relacionados con los objetivos estratégicos del Consejo Provisional y la operación de la red {{PAUSEACRONYM}}ATM europea según lo establecido en el plan de negocio de EUROCONTROL Enaire participa como Proveedor de Servicios de  Aérea
+-{{pause:list}} ANSB{{pause:acronym}}: es el Consejo Asesor creado por el Consejo Provisional para elaborar y coordinar el punto de vista a los objetivos estratégicos plan de negocios y presupuestos de EUROCONTROL de los Proveedores de Servicio de  Aérea Aerolíneas Aeropuertos y Militares (estos últimos sin derecho a voto)
+-{{pause:list}} AAB{{pause:acronym}}: es el Órgano Asesor del Director General de la Agencia en temas relacionados con los objetivos estratégicos del Consejo Provisional y la operación de la red ATM{{pause:acronym}} europea según lo establecido en el plan de negocio de EUROCONTROL Enaire participa como Proveedor de Servicios de  Aérea
 
 ## 2.3 UNIÓN EUROPEA
 
@@ -311,24 +311,24 @@ Su misión final consiste en la convergencia política y económica del continen
 
 ### 2.3.3 Objetivos
 
-Los objetivos principales en cuanto al transporte y la  aérea son
+Los objetivos principales en cuanto al transporte y la  aérea son:
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}1. **Económicos**
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Libertad de acceso al mercado
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Libertad de tarifas en el campo de los transportes aéreos
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Desarrollo e implantación de las redes transeuropeas del transporte (conjunto planificado de redes prioritarias de transporte pensadas para facilitar la comunicación de personas y mercancías a lo largo de toda la Unión Europea)
+1.{{pause:list}} **Económicos:**
+    -{{pause:list}} Libertad de acceso al mercado
+    -{{pause:list}} Libertad de tarifas en el campo de los transportes aéreos
+    -{{pause:list}} Desarrollo e implantación de las redes transeuropeas del transporte (conjunto planificado de redes prioritarias de transporte pensadas para facilitar la comunicación de personas y mercancías a lo largo de toda la Unión Europea)
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}2. **Desarrollo de las políticas de seguridad**
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Seguridad operacional (aeronaves productos organizaciones que los operan mantienen diseñan y fabrican y licencias a personas relacionadas)
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Seguridad contra actos de interferencia ilícita  aérea medioambiente y de derechos de los pasajeros entre otros
+2.{{pause:list}} **Desarrollo de las políticas de seguridad**
+    -{{pause:list}} Seguridad operacional (aeronaves productos organizaciones que los operan mantienen diseñan y fabrican y licencias a personas relacionadas)
+    -{{pause:list}} Seguridad contra actos de interferencia ilícita  aérea medioambiente y de derechos de los pasajeros entre otros
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}3. **Impulso de la investigación y desarrollo**
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- El transporte aéreo es el medio de transporte que experimenta mayor crecimiento Sin embargo debe afrontar el problema de la saturación de sus infraestructuras En este sentido la Unión Europea pretende modernizar y adaptar las infraestructuras al creciente flujo de pasajeros reforzando el derecho y la seguridad de estos últimos Para ello la Unión trabaja para unificar el cielo europeo
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La introducción de tecnologías que favorecen la gestión óptima del tráfico también permite conciliar la rentabilidad económica la seguridad y el respeto del medio ambiente
+3.{{pause:list}} **Impulso de la investigación y desarrollo**
+    -{{pause:list}} El transporte aéreo es el medio de transporte que experimenta mayor crecimiento Sin embargo debe afrontar el problema de la saturación de sus infraestructuras En este sentido la Unión Europea pretende modernizar y adaptar las infraestructuras al creciente flujo de pasajeros reforzando el derecho y la seguridad de estos últimos Para ello la Unión trabaja para unificar el cielo europeo
+    -{{pause:list}} La introducción de tecnologías que favorecen la gestión óptima del tráfico también permite conciliar la rentabilidad económica la seguridad y el respeto del medio ambiente
 
 ### 2.3.4 Estructura
 
-{{PAUSE:TABLE}}| Institución | Descripción |
+{{pause:table}}| Institución | Descripción |
 | :--- | :--- |
 | Parlamento Europeo | Órgano de la UE elegido por sufragio directo, con responsabilidades legislativas, de supervisión y presupuestarias. Constituido por 720 eurodiputados. |
 | Consejo Europeo | Definir la orientación y las prioridades políticas generales de la Unión Europea. Constituido por Jefes de Estado o de Gobierno de los países de la UE, presidente de la Comisión Europea y alto representante para Asuntos Exteriores y Política de Seguridad. |
@@ -342,13 +342,13 @@ Los objetivos principales en cuanto al transporte y la  aérea son
 | Comité Europeo de las Regiones (CDR) | Organismo consultivo que representa a los entes regionales y locales de Europa. |
 | Banco Europeo de Inversiones (BEI) | Conceder financiación para proyectos que contribuyan a lograr los objetivos de la UE, tanto dentro como fuera de ella. |
 | Defensor del Pueblo Europeo | Investigar las reclamaciones contra las instituciones, organismos, oficinas y agencias de la UE. |
-| Supervisor Europeo de Protección de Datos (SEPD) | Garantizar que, a la hora de tratar datos personales, las instituciones y organismos de la UE respetan el derecho a la intimidad de los ciudadanos. |{{PAUSE:END}}
+| Supervisor Europeo de Protección de Datos (SEPD) | Garantizar que, a la hora de tratar datos personales, las instituciones y organismos de la UE respetan el derecho a la intimidad de los ciudadanos. |{{pause:end}}
 
 ### 2.3.5 Normativa en materia de transporte aéreo
 
-La {{PAUSEACRONYM}}UE ha creado distinta normativa en el campo de la aviación
+La UE{{pause:acronym}} ha creado distinta normativa en el campo de la aviación:
 
-{{PAUSE:TABLE}}| CAMPOS AFECTADOS | TEMAS DE LAS NORMAS |
+{{pause:table}}| CAMPOS AFECTADOS | TEMAS DE LAS NORMAS |
 | :--- | :--- |
 | Mercado interior | Normas comunes para la explotación de servicios aéreos. Tarifas y fletes de los servicios aéreos. Concesión de licencias a las compañías aéreas, etc. |
 | Prestación de servicios y licencias | Un marco común para las tasas aeroportuarias. Asignación de franjas horarias. Licencias del personal de aviación civil y controlador de tránsito aéreo, etc. |
@@ -357,104 +357,104 @@ La {{PAUSEACRONYM}}UE ha creado distinta normativa en el campo de la aviación
 | Cielo único y gestión del tráfico aéreo | - Paquete legislativo Cielo Único Europeo I: Marco para su creación. Prestación de servicios de  aérea en el mismo. Gestión del tráfico: Organización y utilización del espacio aéreo. Interoperabilidad de la red europea de gestión del tráfico aéreo.<br>- Paquete legislativo Cielo Único Europeo II: Establecimiento de un Sistema de Evaluación de Rendimientos. un Sistema Común de Tarificación, de los requisitos comunes para la prestación de servicios de  aérea. Ampliación de las competencias de la Agencia Europea de la Seguridad Aérea (EASA) a los ámbitos de aeródromos, control de tránsito aéreo y servicios de  aérea. Constitución de un Gestor de Red Europeo (Network Manager). Participación de las autoridades militares en la elaboración y aplicación del marco normativo. Establecimiento de Bloques Funcionales de Espacio Aéreo (FABs) |
 | Colaboración de la industria, compañías aéreas y proveedores de servicio de  aérea | En la definición de nuevas soluciones tecnológicas a través del programa tecnológico SESAR y protección del medio ambiente, tales como: Clean Sky, Integración del medio ambiente en el ámbito de los transportes aéreos. Gestión del ruido en los aeropuertos de la UE, etc. |
 | Dimensión internacional | Desarrollar la agenda de la política exterior comunitaria en el sector de la aviación. Acuerdos de servicio de transporte aéreo entre Estados miembros y países terceros, etc. |
-| Protección de la aviación | Normas comunes sobre la seguridad de la aviación civil. Uso de escáneres de protección en los aeropuertos de la UE, etc. |{{PAUSE:END}}
+| Protección de la aviación | Normas comunes sobre la seguridad de la aviación civil. Uso de escáneres de protección en los aeropuertos de la UE, etc. |{{pause:end}}
 
-### 2.3.6 Cielo Único Europeo (Single European Sky {{PAUSEACRONYM}}SES)
+### 2.3.6 Cielo Único Europeo (Single European Sky SES{{pause:acronym}})
 
 #### 2.3.6.1 Orígenes
 
-En el año 1999 la Comisión Europea propuso la creación del Cielo Único Europeo para reformar la arquitectura de la red de gestión de tránsito aéreo europea ({{PAUSEACRONYM}}ATM) con objeto de alcanzar las necesidades futuras en cuanto a capacidad y seguridad a nivel europeo desarrollando y poniendo en práctica una política común de transportes
+En el año 1999 la Comisión Europea propuso la creación del Cielo Único Europeo para reformar la arquitectura de la red de gestión de tránsito aéreo europea (ATM{{pause:acronym}}) con objeto de alcanzar las necesidades futuras en cuanto a capacidad y seguridad a nivel europeo desarrollando y poniendo en práctica una política común de transportes
 Ello entre otras cuestiones suponía la necesidad de la homogeneización de los criterios técnicos y operacionales en la prestación de servicios de  aérea por parte de todos los Estados miembros
 
-Los objetivos clave iniciales de esta iniciativa {{PAUSEACRONYM}}SES fueron
+Los objetivos clave iniciales de esta iniciativa SES{{pause:acronym}} fueron:
 a) Reestructurar el espacio aéreo europeo en función de los flujos de tráfico aéreo sin perjuicio de las fronteras nacionales
 b) Generar capacidad adicional para atender a la demanda futura prevista
 c) Aumentar la eficiencia global del sistema europeo de gestión de tránsito aéreo
 
-En el año 2000 las instituciones europeas comenzaron el desarrollo de un conjunto completo de medidas legislativas y de cooperación para lograr dichos objetivos {{PAUSEACRONYM}}SES de tal forma que en abril de 2004 entraron en vigor los cuatro reglamentos comunitarios pilares normativos de la iniciativa de Cielo Único Europeo teniendo como principal objetivo la mejora global de las prestaciones del Sistema de  Aérea europeo Estos reglamentos han sido modificados y posteriormente derogados por los actuales
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Reglamento {{PAUSEACRONYM}}UE 2018/1139 sobre normas comunes en el ámbito de la aviación civil y por el que se crea una Agencia de la Unión Europea para la Seguridad Aérea
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Reglamento {{PAUSEACRONYM}}UE 2024/2803 relativo a la realización del Cielo Único Europeo
+En el año 2000 las instituciones europeas comenzaron el desarrollo de un conjunto completo de medidas legislativas y de cooperación para lograr dichos objetivos SES{{pause:acronym}} de tal forma que en abril de 2004 entraron en vigor los cuatro reglamentos comunitarios pilares normativos de la iniciativa de Cielo Único Europeo teniendo como principal objetivo la mejora global de las prestaciones del Sistema de  Aérea europeo Estos reglamentos han sido modificados y posteriormente derogados por los actuales:
+-{{pause:list}} Reglamento UE{{pause:acronym}} 2018/1139 sobre normas comunes en el ámbito de la aviación civil y por el que se crea una Agencia de la Unión Europea para la Seguridad Aérea
+-{{pause:list}} Reglamento UE{{pause:acronym}} 2024/2803 relativo a la realización del Cielo Único Europeo
 
 #### 2.3.6.2 Principales objetivos alcanzados
 
 **Marco institucional**
-Establecimiento de un marco institucional que permita la participación de todas las partes interesadas en la iniciativa y que abarca
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- el Comité de Cielo Único (representados los Estados miembros)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- el Órgano Consultivo del Sector (donde está representada la industria operadores aéreos proveedores de servicio etc)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- el diálogo social (involucrando a las organizaciones profesionales y de trabajadores a nivel comunitario)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- EUROCONTROL
+Establecimiento de un marco institucional que permita la participación de todas las partes interesadas en la iniciativa y que abarca:
+-{{pause:list}} el Comité de Cielo Único (representados los Estados miembros)
+-{{pause:list}} el Órgano Consultivo del Sector (donde está representada la industria operadores aéreos proveedores de servicio etc)
+-{{pause:list}} el diálogo social (involucrando a las organizaciones profesionales y de trabajadores a nivel comunitario)
+-{{pause:list}} EUROCONTROL
 
 **Proveedores de servicios de  aérea**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Separación de las funciones de provisión de servicio de  aérea y supervisión cada Estado ha designado Autoridades Nacionales de Supervisión ({{PAUSEACRONYM}}ANS) España ha designado como {{PAUSEACRONYM}}ANS a la Agencia Estatal de Seguridad Aérea ({{PAUSEACRONYM}}AESA) para los servicios civiles de  excluyendo los servicios meteorológicos
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Certificación de proveedores de servicio de tránsito aéreo los proveedores de servicios de  aérea están sujetos a certificación por parte de las {{PAUSEACRONYM}}ANS estableciendo los requisitos comunes y el nivel exigible de calidad para la prestación de dichos servicios
+-{{pause:list}} Separación de las funciones de provisión de servicio de  aérea y supervisión: cada Estado ha designado Autoridades Nacionales de Supervisión (ANS{{pause:acronym}}) España ha designado como ANS{{pause:acronym}} a la Agencia Estatal de Seguridad Aérea (AESA{{pause:acronym}}) para los servicios civiles de  excluyendo los servicios meteorológicos
+-{{pause:list}} Certificación de proveedores de servicio de tránsito aéreo: los proveedores de servicios de  aérea están sujetos a certificación por parte de las ANS{{pause:acronym}} estableciendo los requisitos comunes y el nivel exigible de calidad para la prestación de dichos servicios
 
 **Creación de órganos**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Establecimiento de un regulador comunitario
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Que tenga suficientes recursos y autonomía respecto de los diferentes intereses que permitan definir normas de alto nivel y garantizar su cumplimiento
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Que defina objetivos ambiciosos o incluso mejore los niveles de seguridad
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Esta función es asumida por la Comisión Europea
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Establecimiento de un Gestor de Red Europeo (Network Manager- {{PAUSEACRONYM}}NM)
+-{{pause:list}} Establecimiento de un regulador comunitario:
+    -{{pause:list}} Que tenga suficientes recursos y autonomía respecto de los diferentes intereses que permitan definir normas de alto nivel y garantizar su cumplimiento
+    -{{pause:list}} Que defina objetivos ambiciosos o incluso mejore los niveles de seguridad
+    -{{pause:list}} Esta función es asumida por la Comisión Europea
+-{{pause:list}} Establecimiento de un Gestor de Red Europeo (Network Manager- NM{{pause:acronym}})
 
 **Sistemas de evaluación**
 Establecimiento de un sistema de evaluación de rendimientos que fija niveles de rendimiento requeridos para todos los actores del sector respecto a la seguridad el medio ambiente la capacidad y la rentabilidad
 
 **Espacio aéreo**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Considerar el espacio aéreo “europeo” como un único elemento continuo gestionado en aras de la eficiencia global del sistema empezando por el espacio aéreo superior y de forma coherente con el espacio aéreo inferior
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Avances en el uso eficiente del espacio aéreo se establecen normas comunes para la utilización flexible del espacio aéreo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Establecimiento de bloques funcionales de espacio aéreo ({{PAUSEACRONYM}}FAB) transfronterizos (bloque de espacio aéreo basado en exigencias operativas que reflejan la necesidad de garantizar una gestión más integrada del espacio aéreo con independencia de las fronteras nacionales existentes) diseñados en base a requisitos operacionales y establecidos independientemente de las fronteras estatales con el objeto de facilitar el uso óptimo del espacio aéreo a través de una cooperación reforzada de los prestadores de servicios de  aérea
+-{{pause:list}} Considerar el espacio aéreo “europeo” como un único elemento continuo gestionado en aras de la eficiencia global del sistema empezando por el espacio aéreo superior y de forma coherente con el espacio aéreo inferior
+-{{pause:list}} Avances en el uso eficiente del espacio aéreo: se establecen normas comunes para la utilización flexible del espacio aéreo
+-{{pause:list}} Establecimiento de bloques funcionales de espacio aéreo (FAB{{pause:acronym}}) transfronterizos (bloque de espacio aéreo basado en exigencias operativas que reflejan la necesidad de garantizar una gestión más integrada del espacio aéreo con independencia de las fronteras nacionales existentes): diseñados en base a requisitos operacionales y establecidos independientemente de las fronteras estatales con el objeto de facilitar el uso óptimo del espacio aéreo a través de una cooperación reforzada de los prestadores de servicios de  aérea
 
 **Tasas**
-Transparencia de las tasas se establece un sistema común de tarificación de los servicios de  aérea garantiza la plena transparencia en el establecimiento de las tasas aplicables a los servicios de  aérea ya que obliga a notificar las bases de costes de los proveedores de servicios y a consultar a los usuarios del espacio aéreo
+Transparencia de las tasas: se establece un sistema común de tarificación de los servicios de  aérea garantiza la plena transparencia en el establecimiento de las tasas aplicables a los servicios de  aérea ya que obliga a notificar las bases de costes de los proveedores de servicios y a consultar a los usuarios del espacio aéreo
 
-#### 2.3.6.3 {{PAUSEACRONYM}}SESAR (Single European Sky {{PAUSEACRONYM}}ATM Research)
+#### 2.3.6.3 SESAR{{pause:acronym}} (Single European Sky ATM{{pause:acronym}} Research)
 
-{{PAUSEACRONYM}}SESAR es un proyecto conjunto de la comunidad del transporte aéreo europea cuyo objetivo es la implantación de una red {{PAUSEACRONYM}}ATM europea de altas prestaciones
+SESAR{{pause:acronym}} es un proyecto conjunto de la comunidad del transporte aéreo europea cuyo objetivo es la implantación de una red ATM{{pause:acronym}} europea de altas prestaciones
 
-El objetivo del Programa {{PAUSEACRONYM}}SESAR como pilar tecnológico del Cielo Único Europeo es definir desarrollar y desplegar las nuevas tecnologías y procedimientos a poner en servicio en Europa en el ámbito de la gestión del Tránsito Aéreo La hoja de ruta la marca el llamado Plan Maestro Europeo para la Gestión del Tránsito Aéreo (European {{PAUSEACRONYM}}ATM Master Plan)
+El objetivo del Programa SESAR{{pause:acronym}} como pilar tecnológico del Cielo Único Europeo es definir desarrollar y desplegar las nuevas tecnologías y procedimientos a poner en servicio en Europa en el ámbito de la gestión del Tránsito Aéreo La hoja de ruta la marca el llamado Plan Maestro Europeo para la Gestión del Tránsito Aéreo (European ATM{{pause:acronym}} Master Plan)
 
-El Programa {{PAUSEACRONYM}}SESAR consta actualmente de dos fases que transcurren en paralelo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Fase de Investigación y Desarrollo (I+D) en la que se desarrollan y validan los nuevos componentes tecnológicos y las nuevas formas de trabajo hasta que se encuentran a un nivel de madurez que permite su puesta en servicio En esta fase se van generando progresivamente soluciones que se consideran listas para ser desplegadas denominadas “Soluciones {{PAUSEACRONYM}}SESAR”
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Fase de Despliegue se inició formalmente en 2014 año en el que la Comisión Europea publicó el Proyecto Común Piloto que establece una relación de funcionalidades esenciales del Plan Maestro Europeo para la Gestión del Tránsito Aéreo
+El Programa SESAR{{pause:acronym}} consta actualmente de dos fases que transcurren en paralelo
+-{{pause:list}} Fase de Investigación y Desarrollo (I+D): en la que se desarrollan y validan los nuevos componentes tecnológicos y las nuevas formas de trabajo hasta que se encuentran a un nivel de madurez que permite su puesta en servicio En esta fase se van generando progresivamente soluciones que se consideran listas para ser desplegadas denominadas “Soluciones SESAR{{pause:acronym}}”
+-{{pause:list}} Fase de Despliegue: se inició formalmente en 2014 año en el que la Comisión Europea publicó el Proyecto Común Piloto que establece una relación de funcionalidades esenciales del Plan Maestro Europeo para la Gestión del Tránsito Aéreo
 
-#### 2.3.6.4 {{PAUSEACRONYM}}NMOC (Network Manager Operations Center)
+#### 2.3.6.4 NMOC{{pause:acronym}} (Network Manager Operations Center)
 
-Con este programa que comenzó a estar operativo en marzo de 1996 se han centralizado las actividades de control de la afluencia en Europa Su última fase contempla la implantación de un sistema integrado o uniforme europeo {{PAUSEACRONYM}}EATMS (European Air Traffic Management System / Sistema europeo de gestión del tráfico aéreo)
+Con este programa que comenzó a estar operativo en marzo de 1996 se han centralizado las actividades de control de la afluencia en Europa Su última fase contempla la implantación de un sistema integrado o uniforme europeo: EATMS{{pause:acronym}} (European Air Traffic Management System / Sistema europeo de gestión del tráfico aéreo)
 
-Sus principales objetivos consisten en
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Equilibrar la demanda y la capacidad disponible de espacio aéreo reduciendo por lo tanto la congestión del espacio aéreo europeo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Centralizar y ejecutar los servicios de Gestión del flujo de tráfico aéreo ({{PAUSEACRONYM}}ATFCM) y de la capacidad en el área comprendida por los países miembros de la {{PAUSEACRONYM}}CEAC
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Actuar en coordinación con los operadores aéreos y las posiciones de gestión de afluencia ({{PAUSEACRONYM}}FMP) pertenecientes a su área de responsabilidad Las {{PAUSEACRONYM}}FMP se encargan dentro del proceso de gestión de afluencia del tráfico aéreo de funcionar como enlace entre la Unidad Central de Gestión del {{PAUSEACRONYM}}ACC y aeródromos asociados proporcionando la información local necesaria para cada fase del control de la afluencia
+Sus principales objetivos consisten en:
+-{{pause:list}} Equilibrar la demanda y la capacidad disponible de espacio aéreo reduciendo por lo tanto la congestión del espacio aéreo europeo
+-{{pause:list}} Centralizar y ejecutar los servicios de Gestión del flujo de tráfico aéreo (ATFCM{{pause:acronym}}) y de la capacidad en el área comprendida por los países miembros de la CEAC{{pause:acronym}}
+-{{pause:list}} Actuar en coordinación con los operadores aéreos y las posiciones de gestión de afluencia (FMP{{pause:acronym}}) pertenecientes a su área de responsabilidad Las FMP{{pause:acronym}} se encargan dentro del proceso de gestión de afluencia del tráfico aéreo de funcionar como enlace entre la Unidad Central de Gestión del ACC{{pause:acronym}} y aeródromos asociados proporcionando la información local necesaria para cada fase del control de la afluencia
 
-#### 2.3.6.5 Gestor de Red Europeo (Network Manager- {{PAUSEACRONYM}}NM)
+#### 2.3.6.5 Gestor de Red Europeo (Network Manager- NM{{pause:acronym}})
 
-La Comisión Europea ({{PAUSEACRONYM}}CE) creó el Gestor de Red Europeo ({{PAUSEACRONYM}}NM) dentro de la legislación del {{PAUSEACRONYM}}SES {{PAUSEACRONYM}}II como una entidad imparcial y competente para desarrollar y ejecutar las funciones de la red {{PAUSEACRONYM}}ATM europea
+La Comisión Europea (CE{{pause:acronym}}) creó el Gestor de Red Europeo (NM{{pause:acronym}}) dentro de la legislación del SES{{pause:acronym}} II{{pause:acronym}} como una entidad imparcial y competente para desarrollar y ejecutar las funciones de la red ATM{{pause:acronym}} europea
 
-El objetivo principal del {{PAUSEACRONYM}}NM es mejorar el rendimiento de la red {{PAUSEACRONYM}}ATM europea desempeñando las funciones siguientes en distintos apartados
+El objetivo principal del NM{{pause:acronym}} es mejorar el rendimiento de la red ATM{{pause:acronym}} europea desempeñando las funciones siguientes en distintos apartados:
 
 **Frecuencias y códigos**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- desempeñar la función central de coordinación de las radiofrecuencias
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- coordinar la mejora del proceso de atribución de códigos de transpondedor {{PAUSEACRONYM}}SSR
+-{{pause:list}} desempeñar la función central de coordinación de las radiofrecuencias
+-{{pause:list}} coordinar la mejora del proceso de atribución de códigos de transpondedor SSR{{pause:acronym}}
 
 **Gestión del tráfico aéreo**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- elaborar el diseño integrado de la red europea de rutas
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- organizar la gestión y el ejercicio de las funciones y ejecutar las obligaciones de la dependencia central de Gestión de Afluencia de Tráfico Aéreo (Air traffic flow management {{PAUSEACRONYM}}ATFM)
+-{{pause:list}} elaborar el diseño integrado de la red europea de rutas
+-{{pause:list}} organizar la gestión y el ejercicio de las funciones y ejecutar las obligaciones de la dependencia central de Gestión de Afluencia de Tráfico Aéreo (Air traffic flow management ATFM{{pause:acronym}})
 
-**Red {{PAUSEACRONYM}}ATM**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- aplicar un enfoque consolidado y coordinado a todas las actividades operativas y de planificación de la red entre ellas el seguimiento y la mejora de su rendimiento global
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- garantizar la coordinación con otras regiones y terceros países que no participen en las labores del Gestor de la Red
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- proporcionar apoyo en la gestión de las crisis de la red
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- apoyar a las diferentes partes interesadas operativas en el cumplimiento de las obligaciones que les incumben en el despliegue de sistemas y procedimientos en materia de servicios de gestión del tránsito aéreo y/o  aérea ({{PAUSEACRONYM}}ATM/{{PAUSEACRONYM}}ANS)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- identificar los riesgos para la seguridad de funcionamiento a nivel de la red y evaluar el riesgo correspondiente para la seguridad de la red
+**Red ATM{{pause:acronym}}**
+-{{pause:list}} aplicar un enfoque consolidado y coordinado a todas las actividades operativas y de planificación de la red entre ellas el seguimiento y la mejora de su rendimiento global
+-{{pause:list}} garantizar la coordinación con otras regiones y terceros países que no participen en las labores del Gestor de la Red
+-{{pause:list}} proporcionar apoyo en la gestión de las crisis de la red
+-{{pause:list}} apoyar a las diferentes partes interesadas operativas en el cumplimiento de las obligaciones que les incumben en el despliegue de sistemas y procedimientos en materia de servicios de gestión del tránsito aéreo y/o  aérea (ATM{{pause:acronym}}/ANS{{pause:acronym}})
+-{{pause:list}} identificar los riesgos para la seguridad de funcionamiento a nivel de la red y evaluar el riesgo correspondiente para la seguridad de la red
 
 **Planes y programas**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- elaborar mantener y aplicar el Plan estratégico de la red
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- contribuir al despliegue del {{PAUSEACRONYM}}SESAR
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- elaborar un Plan de Rendimiento de la Red
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- desarrollar mantener y aplicar su programa de trabajo y su presupuesto anual
+-{{pause:list}} elaborar mantener y aplicar el Plan estratégico de la red
+-{{pause:list}} contribuir al despliegue del SESAR{{pause:acronym}}
+-{{pause:list}} elaborar un Plan de Rendimiento de la Red
+-{{pause:list}} desarrollar mantener y aplicar su programa de trabajo y su presupuesto anual
 
 **Apoyo a entidades**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- asistir a las entidades habilitadas para la investigación de accidentes e incidentes en la aviación civil o para el análisis de los mismos cuando así lo soliciten
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- proporcionar a la Comisión un sistema de aviso o de alerta basado en el análisis de los planes de vuelos con el fin de controlar el cumplimiento de la prohibición de explotación aplicada a las compañías aéreas y/u otras medidas de seguridad
+-{{pause:list}} asistir a las entidades habilitadas para la investigación de accidentes e incidentes en la aviación civil o para el análisis de los mismos cuando así lo soliciten
+-{{pause:list}} proporcionar a la Comisión un sistema de aviso o de alerta basado en el análisis de los planes de vuelos con el fin de controlar el cumplimiento de la prohibición de explotación aplicada a las compañías aéreas y/u otras medidas de seguridad
 
 ### 2.3.7 Participación de España
 
@@ -462,97 +462,97 @@ En el ámbito del transporte aéreo participan tanto funcionarios del Ministerio
 
 La labor fundamental de la Dirección General de Aviación Civil en relación con estas tareas se centra en la colaboración con el resto de organismos interesados para la definición de posturas nacionales que sean compatibles con el bien común de la Unión y con los intereses de España y sus ciudadanos Para ello se realiza un seguimiento constante de los distintos procesos legislativos en curso En particular en lo que respecta al desarrollo de la regulación de Cielo Único participa en el Comité de Cielo Único (Single Sky Committee) en el que se discuten las políticas comunitarias y proyectos de reglamentación
 
-ENAIRE junto con los principales Proveedores de Servicio de  Aérea Aerolíneas y Aeropuertos Europeos es miembro del Consorcio {{PAUSEACRONYM}}SESAR Deployment Alliance ({{PAUSEACRONYM}}SDA) desde su creación y designación por la Comisión Europea en diciembre 2014 para ejercer la función del Gestor de Despliegue de {{PAUSEACRONYM}}SESAR ({{PAUSEACRONYM}}SDM) El 1 de enero de 2018 el Consorcio {{PAUSEACRONYM}}SDA evolucionará a una Asociación Internacional sin ánimo de lucro en la que ENAIRE seguirá participando
+ENAIRE junto con los principales Proveedores de Servicio de  Aérea Aerolíneas y Aeropuertos Europeos es miembro del Consorcio SESAR{{pause:acronym}} Deployment Alliance (SDA{{pause:acronym}}) desde su creación y designación por la Comisión Europea en diciembre 2014 para ejercer la función del Gestor de Despliegue de SESAR{{pause:acronym}} (SDM{{pause:acronym}}) El 1 de enero de 2018 el Consorcio SDA{{pause:acronym}} evolucionará a una Asociación Internacional sin ánimo de lucro en la que ENAIRE seguirá participando
 
-## 2.4 {{PAUSEACRONYM}}EASA (EUROPEAN {{PAUSEACRONYM}}UNION AVIATION SAFETY AGENCY / AGENCIA DE SEGURIDAD AÉREA DE LA UNIÓN EUROPEA)
+## 2.4 EASA{{pause:acronym}} (EUROPEAN UNION{{pause:acronym}} AVIATION SAFETY AGENCY / AGENCIA DE SEGURIDAD AÉREA DE LA UNIÓN EUROPEA)
 
 ### 2.4.1 Orígenes
 
-La Agencia de seguridad aérea de la Unión Europea es el componente esencial de la estrategia de seguridad aérea de la Unión Europea se creó en 2002 y actualmente se rige por el Reglamento {{PAUSEACRONYM}}UE 2018/1139.
+La Agencia de seguridad aérea de la Unión Europea es el componente esencial de la estrategia de seguridad aérea de la Unión Europea se creó en 2002 y actualmente se rige por el Reglamento UE{{pause:acronym}} 2018/1139.
 Tiene estatus de organismo comunitario y personalidad jurídica propia mediante la que puede establecer sus propias sedes locales en los Estados miembros previo consentimiento de éstos
 
 ### 2.4.2 Misión
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Garantizar los más altos niveles comunes de seguridad para los ciudadanos de la Unión Europea y de protección del medio ambiente de la aviación civil
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Un proceso único de reglamentación y certificación entre los Estados miembros
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Facilitar el mercado único interno de la aviación y crear igualdad de condiciones
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Colaborar con otras organizaciones y organismos reguladores internacionales de la aviación
+-{{pause:list}} Garantizar los más altos niveles comunes de seguridad para los ciudadanos de la Unión Europea y de protección del medio ambiente de la aviación civil
+-{{pause:list}} Un proceso único de reglamentación y certificación entre los Estados miembros
+-{{pause:list}} Facilitar el mercado único interno de la aviación y crear igualdad de condiciones
+-{{pause:list}} Colaborar con otras organizaciones y organismos reguladores internacionales de la aviación
 
 ### 2.4.3 Objetivos
 
-Las principales tareas de la Agencia en la actualidad incluyen
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Normativa elaborar la legislación en materia de seguridad y proporcionar apoyo técnico a la Comisión Europea y a los Estados miembros
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Inspecciones programas de formación y de estandarización para garantizar la aplicación uniforme de la legislación europea de seguridad aérea en todos los Estados miembros
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Certificación de tipo de aeronavegabilidad en el ámbito de la seguridad y compatibilidad medioambiental de aeronaves motores y componentes
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Certificación y supervisión de los productos aeronáuticos y de las organizaciones que participen en su diseño producción y mantenimiento en países terceros
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Recogida de datos análisis e investigación para mejorar la seguridad aérea
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Coordinar el programa de la Comunidad Europea {{PAUSEACRONYM}}SAFA (Safety Assessment of Foreign Aircraft) por orden de la Comisión Europea
+Las principales tareas de la Agencia en la actualidad incluyen:
+-{{pause:list}} Normativa: elaborar la legislación en materia de seguridad y proporcionar apoyo técnico a la Comisión Europea y a los Estados miembros
+-{{pause:list}} Inspecciones programas de formación y de estandarización para garantizar la aplicación uniforme de la legislación europea de seguridad aérea en todos los Estados miembros
+-{{pause:list}} Certificación de tipo de aeronavegabilidad en el ámbito de la seguridad y compatibilidad medioambiental de aeronaves motores y componentes
+-{{pause:list}} Certificación y supervisión de los productos aeronáuticos y de las organizaciones que participen en su diseño producción y mantenimiento en países terceros
+-{{pause:list}} Recogida de datos análisis e investigación para mejorar la seguridad aérea
+-{{pause:list}} Coordinar el programa de la Comunidad Europea SAFA{{pause:acronym}} (Safety Assessment of Foreign Aircraft) por orden de la Comisión Europea
 
 ### 2.4.4 Estructura
 
-Su estructura se compone de
+Su estructura se compone de:
 
 **Consejo de Administración**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Es el órgano directivo de {{PAUSEACRONYM}}EASA que cuenta con un representante de cada Estado miembro y de un representante de la Comisión
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Cada Estado miembro y la Comisión nombran a un miembro del Consejo de Administración y a un suplente que lo sustituirá en su ausencia
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La duración de los mandatos es de cinco años renovables
+-{{pause:list}} Es el órgano directivo de EASA{{pause:acronym}} que cuenta con un representante de cada Estado miembro y de un representante de la Comisión
+-{{pause:list}} Cada Estado miembro y la Comisión nombran a un miembro del Consejo de Administración y a un suplente que lo sustituirá en su ausencia
+-{{pause:list}} La duración de los mandatos es de cinco años renovables
 
 **Dirección Ejecutiva**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La gestión de la Agencia correrá a cargo de un Director ejecutivo quien será totalmente independiente en el cumplimiento de sus obligaciones Sin perjuicio de las competencias respectivas de la Comisión y del Consejo de Administración el director ejecutivo no pedirá ni recibirá instrucciones de ningún Gobierno o de cualquier otro organismo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- El Parlamento Europeo o el Consejo podrán convocar al director ejecutivo de la Agencia para que rinda cuentas acerca del ejercicio de su cometido
+-{{pause:list}} La gestión de la Agencia correrá a cargo de un Director ejecutivo quien será totalmente independiente en el cumplimiento de sus obligaciones Sin perjuicio de las competencias respectivas de la Comisión y del Consejo de Administración el director ejecutivo no pedirá ni recibirá instrucciones de ningún Gobierno o de cualquier otro organismo
+-{{pause:list}} El Parlamento Europeo o el Consejo podrán convocar al director ejecutivo de la Agencia para que rinda cuentas acerca del ejercicio de su cometido
 
 **Composición**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Dirección de gestión de estrategia y seguridad Es responsable de programas investigación análisis y acciones a tomar sobre la seguridad y cooperación internacional estrechando relaciones de trabajo con otras organizaciones mundiales homólogas {{PAUSEACRONYM}}OACI la Administración Federal de aviación de Estados Unidos y las autoridades aeronáuticas de Canadá Brasil Israel China y Rusia
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Dirección de certificación Tiene atribuidas también competencias en la certificación de tipo de aeronavegabilidad es decir la certificación de modelos concretos de aeronaves motores o componentes aprobados para su explotación en la Unión Europea
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Dirección de normas de vuelo Tienen por objeto armonizar las normas fomentar las mejores prácticas en el ámbito de la seguridad aérea Es responsable de la normalización (supervisión nacional) y la elaboración de normas sobre mantenimiento operaciones aéreas tripulación y aspectos médicos gestión del tráfico aéreo / servicios de  aérea y aeródromos
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Dirección de recursos y apoyo Se encarga de las finanzas y contratación recursos humanos informática y servicios empresariales
+-{{pause:list}} Dirección de gestión de estrategia y seguridad: Es responsable de programas investigación análisis y acciones a tomar sobre la seguridad y cooperación internacional estrechando relaciones de trabajo con otras organizaciones mundiales homólogas OACI{{pause:acronym}} la Administración Federal de aviación de Estados Unidos y las autoridades aeronáuticas de Canadá Brasil Israel China y Rusia
+-{{pause:list}} Dirección de certificación: Tiene atribuidas también competencias en la certificación de tipo de aeronavegabilidad es decir la certificación de modelos concretos de aeronaves motores o componentes aprobados para su explotación en la Unión Europea
+-{{pause:list}} Dirección de normas de vuelo: Tienen por objeto armonizar las normas fomentar las mejores prácticas en el ámbito de la seguridad aérea Es responsable de la normalización (supervisión nacional) y la elaboración de normas sobre mantenimiento operaciones aéreas tripulación y aspectos médicos gestión del tráfico aéreo / servicios de  aérea y aeródromos
+-{{pause:list}} Dirección de recursos y apoyo: Se encarga de las finanzas y contratación recursos humanos informática y servicios empresariales
 
 **Salas de recursos**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- En el seno de la Agencia existirán una o más salas de recursos que serán competentes para pronunciarse sobre los recursos interpuestos contra las decisiones tales como las adoptadas en materia de certificaciones de aeronavegabilidad y medioambiental investigación de empresas y/o tasas e ingresos etc
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Se convocará a la sala o salas de recursos siempre que sean necesarios
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La Comisión decidirá el número de salas de recursos y el reparto de tareas
+-{{pause:list}} En el seno de la Agencia existirán una o más salas de recursos que serán competentes para pronunciarse sobre los recursos interpuestos contra las decisiones tales como las adoptadas en materia de certificaciones de aeronavegabilidad y medioambiental investigación de empresas y/o tasas e ingresos etc
+-{{pause:list}} Se convocará a la sala o salas de recursos siempre que sean necesarios
+-{{pause:list}} La Comisión decidirá el número de salas de recursos y el reparto de tareas
 
 ### 2.4.5 Proceso de elaboración de normas
 
-La Agencia elabora material normativo en forma de reglamentos de ejecución medios aceptables de cumplimiento material guía y especificaciones de certificación Estos documentos están disponibles para consulta (como términos de referencia (ToR) avisos de modificación propuesta ({{PAUSEACRONYM}}NPA) y documentos de respuesta a comentarios {{PAUSEACRONYM}}CRD)) Tras la consulta los proyectos de reglamentos de ejecución se envían a la Comisión Europea que si supera la revisión del Parlamento Europeo y del Consejo se publicará en el Diario Oficial de la Unión Europea
+La Agencia elabora material normativo en forma de reglamentos de ejecución medios aceptables de cumplimiento material guía y especificaciones de certificación Estos documentos están disponibles para consulta (como términos de referencia (ToR) avisos de modificación propuesta (NPA{{pause:acronym}}) y documentos de respuesta a comentarios CRD{{pause:acronym}})) Tras la consulta los proyectos de reglamentos de ejecución se envían a la Comisión Europea que si supera la revisión del Parlamento Europeo y del Consejo se publicará en el Diario Oficial de la Unión Europea
 
-## 2.5 {{PAUSEACRONYM}}OTRAS ORGANIZACIONES
+## 2.5 OTRAS{{pause:acronym}} ORGANIZACIONES
 
 **EUROCAE (Organización Europea para el Equipamiento en la Aviación Civil)**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Origen Es una organización sin ánimo de lucro que se formó en Lucerna (Suiza)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Función Intentaba proporcionar un foro europeo para la resolución de problemas y creación de estándares para la electrónica en la aviación
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Miembros Más de 500 entre especialistas en aviación universidades laboratorios fabricantes reguladores proveedores de servicios y/o usuarios
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Normas Las normas recogidas en sus documentos son de carácter voluntario
+-{{pause:list}} Origen: Es una organización sin ánimo de lucro que se formó en Lucerna (Suiza)
+-{{pause:list}} Función: Intentaba proporcionar un foro europeo para la resolución de problemas y creación de estándares para la electrónica en la aviación
+-{{pause:list}} Miembros: Más de 500 entre especialistas en aviación universidades laboratorios fabricantes reguladores proveedores de servicios y/o usuarios
+-{{pause:list}} Normas: Las normas recogidas en sus documentos son de carácter voluntario
 
-**{{PAUSEACRONYM}}RCTA (Comisión Radiotécnica para la aeronáutica)**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Origen Es una organización estadounidense sin ánimo de lucro con sede en Washington DC
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Función Realiza recomendaciones para la comunicación  y vigilancia de la gestión del tráfico aéreo ({{PAUSEACRONYM}}CNS/{{PAUSEACRONYM}}ATM)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Miembros 400 organizaciones gubernamentales industriales y académicas líneas aéreas usuarios del espacio aéreo y los aeropuertos sindicatos además de servicio de aviación y proveedores de equipos de los Estados Unidos y del resto del mundo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Normas Son recomendaciones adoptadas por las autoridades federales estadounidenses (Federal Aviation Administration {{PAUSEACRONYM}}FAA) así como por empresas privadas
+**RCTA{{pause:acronym}} (Comisión Radiotécnica para la aeronáutica)**
+-{{pause:list}} Origen: Es una organización estadounidense sin ánimo de lucro con sede en Washington DC{{pause:acronym}}
+-{{pause:list}} Función: Realiza recomendaciones para la comunicación  y vigilancia de la gestión del tráfico aéreo (CNS{{pause:acronym}}/ATM{{pause:acronym}})
+-{{pause:list}} Miembros: 400 organizaciones gubernamentales industriales y académicas líneas aéreas usuarios del espacio aéreo y los aeropuertos sindicatos además de servicio de aviación y proveedores de equipos de los Estados Unidos y del resto del mundo
+-{{pause:list}} Normas: Son recomendaciones adoptadas por las autoridades federales estadounidenses (Federal Aviation Administration FAA{{pause:acronym}}) así como por empresas privadas
 
-**{{PAUSEACRONYM}}IATA (Asociación internacional del Transporte Aéreo)**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Origen Es un organismo no gubernamental fundada en La Habana Cuba
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Función Es el primer vehículo para la cooperación entre las aerolíneas en la promoción de servicios de transporte aéreo seguro fiable y económico
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Miembros Más de 350 aerolíneas que comprenden el 80% del tráfico aéreo total
+**IATA{{pause:acronym}} (Asociación internacional del Transporte Aéreo)**
+-{{pause:list}} Origen: Es un organismo no gubernamental fundada en La Habana Cuba
+-{{pause:list}} Función: Es el primer vehículo para la cooperación entre las aerolíneas en la promoción de servicios de transporte aéreo seguro fiable y económico
+-{{pause:list}} Miembros: Más de 350 aerolíneas que comprenden el 80% del tráfico aéreo total
 
-**{{PAUSEACRONYM}}CANSO (Organización de proveedores de Servicios de  Aérea)**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Origen Fundada para representar los intereses de los proveedores de servicio de  aérea ({{PAUSEACRONYM}}ANSP) en todo el mundo así como la gestión del tráfico aéreo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Función Es proporcionar una plataforma mundial para los clientes y aquéllos interesados en impulsar los Servicios de  Aérea civiles ({{PAUSEACRONYM}}SNA) con el fin de prestar un servicio eficaz seguro eficiente y rentable
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Miembros
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- M de pleno derecho Cualquier organización establecida como proveedor de servicio de  aérea
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- M asociados Cualquier otra organización como suministradores de bienes y servicios a instituciones académicas y operadores de aeronaves
+**CANSO{{pause:acronym}} (Organización de proveedores de Servicios de  Aérea)**
+-{{pause:list}} Origen: Fundada para representar los intereses de los proveedores de servicio de  aérea (ANSP{{pause:acronym}}) en todo el mundo así como la gestión del tráfico aéreo
+-{{pause:list}} Función: Es proporcionar una plataforma mundial para los clientes y aquéllos interesados en impulsar los Servicios de  Aérea civiles (SNA{{pause:acronym}}) con el fin de prestar un servicio eficaz seguro eficiente y rentable
+-{{pause:list}} Miembros:
+    -{{pause:list}} M de pleno derecho: Cualquier organización establecida como proveedor de servicio de  aérea
+    -{{pause:list}} M asociados: Cualquier otra organización como suministradores de bienes y servicios a instituciones académicas y operadores de aeronaves
 
-**{{PAUSEACRONYM}}ACI (Consejo Internacional de Aeropuertos)**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Origen Los operadores de aeropuertos en todo el mundo crearon la primera asociación mundial para representar sus intereses comunes y fomentar la cooperación con socios de toda la industria del transporte aéreo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Función
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Desarrollar a escala mundial una política aeroportuaria común para los aeropuertos miembros y presentarla ante los organismos mundiales más relevantes
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Promover el intercambio de información sobre asuntos técnicos financieros comerciales de marketing o medio ambiente
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Miembros 2181 aeropuertos principales del mundo pertenecientes a 830 operadores en 170 países
+**ACI{{pause:acronym}} (Consejo Internacional de Aeropuertos)**
+-{{pause:list}} Origen: Los operadores de aeropuertos en todo el mundo crearon la primera asociación mundial para representar sus intereses comunes y fomentar la cooperación con socios de toda la industria del transporte aéreo
+-{{pause:list}} Función:
+    -{{pause:list}} Desarrollar a escala mundial una política aeroportuaria común para los aeropuertos miembros y presentarla ante los organismos mundiales más relevantes
+    -{{pause:list}} Promover el intercambio de información sobre asuntos técnicos financieros comerciales de marketing o medio ambiente
+-{{pause:list}} Miembros: 2181 aeropuertos principales del mundo pertenecientes a 830 operadores en 170 países
 
-**{{PAUSEACRONYM}}ESA (Agencia Espacial Europea)**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Origen Fue establecida en Paris por el Convenio de creación de una Agencia Espacial Europea
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Función Consiste en elaborar el programa espacial europeo y llevarlo a cabo La {{PAUSEACRONYM}}ESA también trabaja en estrecha colaboración con organizaciones espaciales no europeas
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Miembros 23 Estados Miembros
+**ESA{{pause:acronym}} (Agencia Espacial Europea)**
+-{{pause:list}} Origen: Fue establecida en Paris por el Convenio de creación de una Agencia Espacial Europea
+-{{pause:list}} Función: Consiste en elaborar el programa espacial europeo y llevarlo a cabo La ESA{{pause:acronym}} también trabaja en estrecha colaboración con organizaciones espaciales no europeas
+-{{pause:list}} Miembros: 23 Estados Miembros
 
 # 3. INSTITUCIONES NACIONALES
 
@@ -568,156 +568,156 @@ Durante los quince últimos años el tráfico aéreo se ha multiplicado por 25 y
 
 Por todo ello se aprueba el Real Decreto 184/2008 en el que se lleva a cabo un nuevo modelo de gestión que se caracteriza por un desdoblamiento de la autoridad aeronáutica
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La Dirección General de Aviación Civil del Ministerio de Transportes y Movilidad Sostenible es responsable de la competencia para la formulación de propuestas sectoriales y de la política estratégica en materia de aviación civil la representación y coordinación con otras administraciones y con la Unión Europea en materia de política de transporte aéreo y la adopción de circulares aeronáuticas entre otras
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La Agencia Estatal de Seguridad Aérea ({{PAUSEACRONYM}}AESA) es el organismo al que compete el ejercicio de las potestades inspectoras y sancionadoras en materia de aviación civil la iniciativa para la aprobación de la normativa reguladora en los ámbitos de la seguridad aérea y la protección del usuario del transporte aéreo para su elevación a los órganos competentes del Ministerio de Transportes y Movilidad Sostenible así como la evaluación de riesgos en materia de seguridad de la aviación civil
+-{{pause:list}} La Dirección General de Aviación Civil del Ministerio de Transportes y Movilidad Sostenible es responsable de la competencia para la formulación de propuestas sectoriales y de la política estratégica en materia de aviación civil la representación y coordinación con otras administraciones y con la Unión Europea en materia de política de transporte aéreo y la adopción de circulares aeronáuticas entre otras
+-{{pause:list}} La Agencia Estatal de Seguridad Aérea (AESA{{pause:acronym}}) es el organismo al que compete el ejercicio de las potestades inspectoras y sancionadoras en materia de aviación civil la iniciativa para la aprobación de la normativa reguladora en los ámbitos de la seguridad aérea y la protección del usuario del transporte aéreo para su elevación a los órganos competentes del Ministerio de Transportes y Movilidad Sostenible así como la evaluación de riesgos en materia de seguridad de la aviación civil
 
-## 3.3. {{PAUSEACRONYM}}DGAC (DIRECCIÓN GENERAL DE AVIACIÓN {{PAUSEACRONYM}}CIVIL)
+## 3.3. DGAC{{pause:acronym}} (DIRECCIÓN GENERAL DE AVIACIÓN CIVIL{{pause:acronym}})
 
-La Dirección General de Aviación Civil ({{PAUSEACRONYM}}DGAC) es el órgano mediante el cual el Ministerio de Transportes Movilidad Sostenible diseña la estrategia dirige la política aeronáutica a cuyo efecto coordina a los organismos entes y entidades adscritos al Departamento con funciones en aviación civil y ejerce de regulador en el sector aéreo dentro de las competencias de la Administración General del Estado
+La Dirección General de Aviación Civil (DGAC{{pause:acronym}}) es el órgano mediante el cual el Ministerio de Transportes Movilidad Sostenible diseña la estrategia dirige la política aeronáutica a cuyo efecto coordina a los organismos entes y entidades adscritos al Departamento con funciones en aviación civil y ejerce de regulador en el sector aéreo dentro de las competencias de la Administración General del Estado
 
 ### 3.3.1. Funciones
 
-Realiza las siguientes funciones
+Realiza las siguientes funciones:
 
 **Específicas**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La aprobación de circulares aeronáuticas de Seguridad aérea bien por propia iniciativa o a propuesta de la Agencia Estatal de Seguridad Aérea
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La coordinación de las actuaciones que corresponden a los Ministerios de Defensa y Transportes en el ámbito de sus respectivas competencias asumiendo la Presidencia de la Comisión Interministerial entre Defensa y Transportes (CIDETRA) según se establezca en su normativa reguladora
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La máxima representación del Departamento ante los organismos nacionales e internacionales relacionados con la aviación civil
+-{{pause:list}} La aprobación de circulares aeronáuticas de Seguridad aérea bien por propia iniciativa o a propuesta de la Agencia Estatal de Seguridad Aérea
+-{{pause:list}} La coordinación de las actuaciones que corresponden a los Ministerios de Defensa y Transportes en el ámbito de sus respectivas competencias asumiendo la Presidencia de la Comisión Interministerial entre Defensa y Transportes (CIDETRA) según se establezca en su normativa reguladora
+-{{pause:list}} La máxima representación del Departamento ante los organismos nacionales e internacionales relacionados con la aviación civil
 
 **Con carácter general**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- El fomento del desarrollo sostenible del transporte aéreo y del uso eficaz y seguro del sistema aeroportuario y de  aérea
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La preparación de la normativa reguladora en el ámbito de la aviación civil para su elevación a los órganos competentes del Ministerio
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La representación del Departamento ante los organismos nacionales e internacionales relacionados con la aviación civil y la participación internacional en asuntos relacionados con esta materia sin perjuicio de las competencias de otros órganos superiores o directivos del Ministerio de Transportes y Movilidad Sostenible y del Ministerio de Asuntos Exteriores y de Cooperación así como de las competencias atribuidas a la Agencia Estatal de Seguridad Aérea
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Propuestas sobre política
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La elaboración de estudios y formulación de propuestas sobre política estratégica en materia de transporte aéreo y sistemas de  aérea y aeroportuarios
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La coordinación de los intereses y puntos de vista del sector para la formulación de propuestas sobre política aeronáutica en el ámbito nacional e internacional en particular en el ámbito de la Unión Europea
+-{{pause:list}} El fomento del desarrollo sostenible del transporte aéreo y del uso eficaz y seguro del sistema aeroportuario y de  aérea
+-{{pause:list}} La preparación de la normativa reguladora en el ámbito de la aviación civil para su elevación a los órganos competentes del Ministerio
+-{{pause:list}} La representación del Departamento ante los organismos nacionales e internacionales relacionados con la aviación civil y la participación internacional en asuntos relacionados con esta materia sin perjuicio de las competencias de otros órganos superiores o directivos del Ministerio de Transportes y Movilidad Sostenible y del Ministerio de Asuntos Exteriores y de Cooperación así como de las competencias atribuidas a la Agencia Estatal de Seguridad Aérea
+-{{pause:list}} Propuestas sobre política:
+    -{{pause:list}} La elaboración de estudios y formulación de propuestas sobre política estratégica en materia de transporte aéreo y sistemas de  aérea y aeroportuarios
+    -{{pause:list}} La coordinación de los intereses y puntos de vista del sector para la formulación de propuestas sobre política aeronáutica en el ámbito nacional e internacional en particular en el ámbito de la Unión Europea
 
 **En materia de política de infraestructuras aeronáuticas**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Aeropuertos
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Informar las propuestas de calificación de los aeropuertos civiles
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Elaboración de las propuestas de autorización para el establecimiento de los aeropuertos que sean competencia de la Administración General del Estado y de las modificaciones estructurales que alteren dicha autorización así como de su autorización de puesta en funcionamiento o clausura sin perjuicio de las competencias de elaboración y aprobación de proyectos de aeropuertos públicos civiles atribuidas a la Entidad Pública Empresarial ENAIRE
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- El informe previo sobre el establecimiento modificación y apertura al tráfico aéreo de los aeródromos y aeropuertos de competencia de las comunidades autónomas y sobre la aprobación de planes o instrumentos de ordenación y delimitación de su respectiva zona de servicios así como la certificación de compatibilidad del espacio aéreo en el caso de helipuertos de competencia autonómica
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Aeropuertos de interés general
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- El informe a los planes directores y planes especiales de aeropuertos de interés general Este informe será vinculante en el caso de que se afecten competencias de la Administración General del Estado
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- El informe de los instrumentos de ordenación territorial y urbanística que afecten a los aeropuertos de interés general y sistemas de  y en particular a su zona de servicio y servidumbres aeronáuticas
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Las actuaciones expropiatorias en materia de infraestructuras aeroportuarias y de  aérea cuya gestión esté reservada al Estado
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La Presidencia de la Comisión Interministerial entre Defensa y Transportes (CIDETRA) según se establezca en su normativa reguladora para la coordinación de las actuaciones que corresponden a los Ministerios de Defensa y Transportes en el ámbito de sus respectivas competencias así como la participación en el Pleno ponencias y grupos de trabajo que correspondan sin perjuicio de las competencias atribuidas a la Agencia Estatal de Seguridad Aérea
+-{{pause:list}} Aeropuertos:
+    -{{pause:list}} Informar las propuestas de calificación de los aeropuertos civiles
+    -{{pause:list}} Elaboración de las propuestas de autorización para el establecimiento de los aeropuertos que sean competencia de la Administración General del Estado y de las modificaciones estructurales que alteren dicha autorización así como de su autorización de puesta en funcionamiento o clausura sin perjuicio de las competencias de elaboración y aprobación de proyectos de aeropuertos públicos civiles atribuidas a la Entidad Pública Empresarial ENAIRE
+    -{{pause:list}} El informe previo sobre el establecimiento modificación y apertura al tráfico aéreo de los aeródromos y aeropuertos de competencia de las comunidades autónomas y sobre la aprobación de planes o instrumentos de ordenación y delimitación de su respectiva zona de servicios así como la certificación de compatibilidad del espacio aéreo en el caso de helipuertos de competencia autonómica
+-{{pause:list}} Aeropuertos de interés general:
+    -{{pause:list}} El informe a los planes directores y planes especiales de aeropuertos de interés general Este informe será vinculante en el caso de que se afecten competencias de la Administración General del Estado
+    -{{pause:list}} El informe de los instrumentos de ordenación territorial y urbanística que afecten a los aeropuertos de interés general y sistemas de  y en particular a su zona de servicio y servidumbres aeronáuticas
+-{{pause:list}} Las actuaciones expropiatorias en materia de infraestructuras aeroportuarias y de  aérea cuya gestión esté reservada al Estado
+-{{pause:list}} La Presidencia de la Comisión Interministerial entre Defensa y Transportes (CIDETRA) según se establezca en su normativa reguladora para la coordinación de las actuaciones que corresponden a los Ministerios de Defensa y Transportes en el ámbito de sus respectivas competencias así como la participación en el Pleno ponencias y grupos de trabajo que correspondan sin perjuicio de las competencias atribuidas a la Agencia Estatal de Seguridad Aérea
 
 **En materia de promoción del transporte aéreo y continuidad de los servicios**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La negociación de los convenios internacionales de transporte aéreo bien bilaterales o en negociaciones supranacionales y la asignación de los derechos de tráfico derivados de los mismos sin perjuicio de las competencias del Ministerio de Asuntos Exteriores y de Cooperación y del apoyo técnico atribuido a la Agencia Estatal de Seguridad Aérea
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La gestión de los créditos consignados para subvenciones al transporte aéreo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La propuesta de obligaciones de servicio público en el ámbito de la aviación civil
+-{{pause:list}} La negociación de los convenios internacionales de transporte aéreo bien bilaterales o en negociaciones supranacionales y la asignación de los derechos de tráfico derivados de los mismos sin perjuicio de las competencias del Ministerio de Asuntos Exteriores y de Cooperación y del apoyo técnico atribuido a la Agencia Estatal de Seguridad Aérea
+-{{pause:list}} La gestión de los créditos consignados para subvenciones al transporte aéreo
+-{{pause:list}} La propuesta de obligaciones de servicio público en el ámbito de la aviación civil
 
 Cualesquiera otras en el ámbito de la aviación civil que no estén atribuidas a la Agencia Estatal de Seguridad Aérea de acuerdo con su estatuto
 
 ### 3.3.2. Estructura
 
-La Dirección de Aviación Civil ({{PAUSEACRONYM}}DGAC) depende del Ministerio de Transportes y Movilidad Sostenible y su estructura es
+La Dirección de Aviación Civil (DGAC{{pause:acronym}}) depende del Ministerio de Transportes y Movilidad Sostenible y su estructura es:
 
 **Unidad de Apoyo**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Unidad de Ordenación y Normativa Aeronáutica
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Servicio de Gestión Económico-Financiera
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Servicio de Gestión de Recursos Humanos
+-{{pause:list}} Unidad de Ordenación y Normativa Aeronáutica
+-{{pause:list}} Servicio de Gestión Económico-Financiera
+-{{pause:list}} Servicio de Gestión de Recursos Humanos
 
 **Subdirección General de Transporte Aéreo**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Unidad de Política Estratégica del Transporte Aéreo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Área de Explotación
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Área de Convenios Internacionales
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Oficina de Relaciones Internacionales
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Área de Estudios Estratégicos y Análisis de Mercados
+-{{pause:list}} Unidad de Política Estratégica del Transporte Aéreo
+-{{pause:list}} Área de Explotación
+-{{pause:list}} Área de Convenios Internacionales
+-{{pause:list}} Oficina de Relaciones Internacionales
+-{{pause:list}} Área de Estudios Estratégicos y Análisis de Mercados
 
 **Subdirección General de Aeropuertos y  Aérea**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Área de Política de Estrategia de  Aérea
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Área de Estrategia Aeroportuaria
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Servicio de Expropiaciones
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Servicio de Planificación y Representación Institucional
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Servicio Civil de la Comisión Interministerial entre Defensa y Transportes y Movilidad Sostenible (CIDETMA)
+-{{pause:list}} Área de Política de Estrategia de  Aérea
+-{{pause:list}} Área de Estrategia Aeroportuaria
+-{{pause:list}} Servicio de Expropiaciones
+-{{pause:list}} Servicio de Planificación y Representación Institucional
+-{{pause:list}} Servicio Civil de la Comisión Interministerial entre Defensa y Transportes y Movilidad Sostenible (CIDETMA)
 
 ### 3.3.3. CIAIAC (Comisión de Investigación de Accidentes e Incidentes de Aviación Civil)
 
 Adscrita a la Subsecretaría del Ministerio de Transportes y Movilidad Sostenible es el organismo oficial encargado de realizar la investigación de los accidentes e incidentes de aviación civil que se producen en territorio español
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La investigación tiene un carácter exclusivamente técnico su fin último es la prevención de futuros accidentes e incidentes y no está dirigida a determinar ni establecer culpa o responsabilidad de tipo alguno
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Los resultados de la investigación se plasman en un informe que contempla la información factual en relación con el accidente o incidente un análisis de la misma unas conclusiones y unas recomendaciones en materia de seguridad Estas recomendaciones constituyen el medio que se considera más adecuado para proponer medidas que permitan aumentar la seguridad aérea
+-{{pause:list}} La investigación tiene un carácter exclusivamente técnico su fin último es la prevención de futuros accidentes e incidentes y no está dirigida a determinar ni establecer culpa o responsabilidad de tipo alguno
+-{{pause:list}} Los resultados de la investigación se plasman en un informe que contempla la información factual en relación con el accidente o incidente un análisis de la misma unas conclusiones y unas recomendaciones en materia de seguridad Estas recomendaciones constituyen el medio que se considera más adecuado para proponer medidas que permitan aumentar la seguridad aérea
 
 La CIAIAC cuenta con personal y medios propios adecuados para el desarrollo de su actividad así como con la colaboración puntual de organismos y especialistas externos
 
-## 3.4. {{PAUSEACRONYM}}AESA (AGENCIA ESTATAL DE SEGURIDAD AÉREA)
+## 3.4. AESA{{pause:acronym}} (AGENCIA ESTATAL DE SEGURIDAD AÉREA)
 
-{{PAUSEACRONYM}}AESA es el organismo del Estado adscrito a la Secretaría de Estado de Transporte del Ministerio de Transportes y Movilidad Sostenible que vela para que se cumplan las normas de aviación civil en el conjunto de la actividad aeronáutica de España
+AESA{{pause:acronym}} es el organismo del Estado adscrito a la Secretaría de Estado de Transporte del Ministerio de Transportes y Movilidad Sostenible que vela para que se cumplan las normas de aviación civil en el conjunto de la actividad aeronáutica de España
 
 ### 3.4.1. Funciones
 
 La Agencia tiene las misiones de Supervisión Inspección y Ordenación del Transporte Aéreo la  Aérea y la Seguridad Aeroportuaria Evalúa los riesgos en la seguridad del transporte y tiene potestad sancionadora ante las infracciones de las normas de aviación civil Trabaja para que se cumplan las normas de seguridad en el transporte aéreo en España para promover el desarrollo establecimiento y aplicación de legislación aeronáutica nacional e internacional de seguridad aérea y protección a los pasajeros
 
-Para el cumplimiento de dicho objeto la Agencia ejerce las siguientes competencias
+Para el cumplimiento de dicho objeto la Agencia ejerce las siguientes competencias:
 
 **Licencias y registro**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La expedición renovación suspensión mantenimiento y revocación de autorizaciones habilitaciones licencias certificaciones y otros títulos habilitantes para la realización de actividades aeronáuticas civiles tales como la operación de aeronaves de aeropuertos y de servicios de  aérea así como para el diseño fabricación mantenimiento y uso de las aeronaves los productos componentes y equipos aeronáuticos civiles
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- El reconocimiento y aceptación de títulos licencias autorizaciones o certificados expedidos por otras autoridades y que sean requeridos para el ejercicio de profesiones aeronáuticas
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La gestión del Registro de matrícula de aeronaves
+-{{pause:list}} La expedición renovación suspensión mantenimiento y revocación de autorizaciones habilitaciones licencias certificaciones y otros títulos habilitantes para la realización de actividades aeronáuticas civiles tales como la operación de aeronaves de aeropuertos y de servicios de  aérea así como para el diseño fabricación mantenimiento y uso de las aeronaves los productos componentes y equipos aeronáuticos civiles
+-{{pause:list}} El reconocimiento y aceptación de títulos licencias autorizaciones o certificados expedidos por otras autoridades y que sean requeridos para el ejercicio de profesiones aeronáuticas
+-{{pause:list}} La gestión del Registro de matrícula de aeronaves
 
 **Inspección y sanción**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La inspección aeronáutica
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La autorización acreditación e inspección a personas físicas y jurídicas para su actuación como entidades colaboradoras en materia de inspección aeronáutica
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La gestión de riesgos en materia de seguridad de la aviación civil
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- El ejercicio de la potestad sancionadora en materia de aviación
+-{{pause:list}} La inspección aeronáutica
+-{{pause:list}} La autorización acreditación e inspección a personas físicas y jurídicas para su actuación como entidades colaboradoras en materia de inspección aeronáutica
+-{{pause:list}} La gestión de riesgos en materia de seguridad de la aviación civil
+-{{pause:list}} El ejercicio de la potestad sancionadora en materia de aviación
 
 **Aprobación y aplicación de normas**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Las funciones que los reglamentos o directivas comunitarios atribuyen al Estado y corresponden al Ministerio de Transportes y Movilidad Sostenible en el ámbito de la seguridad en el transporte aéreo civil y la protección al usuario del transporte aéreo entre otras como autoridad nacional de supervisión o como organismo responsable del cumplimiento de los mismos
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La aprobación previa de procedimientos y programas internos de autoverificación y control desarrollados y aplicados por los explotadores de servicios de transporte aéreo y los titulares o prestadores de servicios aeroportuarios y de  aérea en cumplimiento de la normativa técnica y de seguridad aplicable
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La iniciativa de la normativa reguladora en los ámbitos de la aviación civil atribuidos a su responsabilidad para su elevación a los órganos competentes del Ministerio de Transportes y Movilidad Sostenible
+-{{pause:list}} Las funciones que los reglamentos o directivas comunitarios atribuyen al Estado y corresponden al Ministerio de Transportes y Movilidad Sostenible en el ámbito de la seguridad en el transporte aéreo civil y la protección al usuario del transporte aéreo entre otras como autoridad nacional de supervisión o como organismo responsable del cumplimiento de los mismos
+-{{pause:list}} La aprobación previa de procedimientos y programas internos de autoverificación y control desarrollados y aplicados por los explotadores de servicios de transporte aéreo y los titulares o prestadores de servicios aeroportuarios y de  aérea en cumplimiento de la normativa técnica y de seguridad aplicable
+-{{pause:list}} La iniciativa de la normativa reguladora en los ámbitos de la aviación civil atribuidos a su responsabilidad para su elevación a los órganos competentes del Ministerio de Transportes y Movilidad Sostenible
 
 **Accesibilidad a infraestructuras**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La facilitación en el transporte aéreo para garantizar la accesibilidad y el tránsito eficaz fluido y seguro de personas y bienes a través de las infraestructuras del transporte aéreo
+-{{pause:list}} La facilitación en el transporte aéreo para garantizar la accesibilidad y el tránsito eficaz fluido y seguro de personas y bienes a través de las infraestructuras del transporte aéreo
 
 **Colaboración**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La colaboración técnica y participación en organismos nacionales e internacionales en materia de seguridad aérea y protección al usuario del transporte aéreo así como la colaboración con la Unión Europea y la Agencia Europea de Seguridad Aérea para realizar inspecciones e investigaciones en territorio español
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Prestará asistencia técnica y colaborará con el Ministerio de Transportes y Movilidad Sostenible en el ejercicio de las competencias de aquél en materia de aviación civil
+-{{pause:list}} La colaboración técnica y participación en organismos nacionales e internacionales en materia de seguridad aérea y protección al usuario del transporte aéreo así como la colaboración con la Unión Europea y la Agencia Europea de Seguridad Aérea para realizar inspecciones e investigaciones en territorio español
+-{{pause:list}} Prestará asistencia técnica y colaborará con el Ministerio de Transportes y Movilidad Sostenible en el ejercicio de las competencias de aquél en materia de aviación civil
 
 **Otras**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Aquellas otras relacionadas con el objeto y fines de la Agencia que pudieran serle atribuidas
+-{{pause:list}} Aquellas otras relacionadas con el objeto y fines de la Agencia que pudieran serle atribuidas
 
 ### 3.4.2. Estructura
 
-La Agencia se compone de las siguientes direcciones
+La Agencia se compone de las siguientes direcciones:
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **D de seguridad de aeronaves ({{PAUSEACRONYM}}DSA)**
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Es responsable de aquellas en los ámbitos de la seguridad de la operación y el mantenimiento la certificación de aeronaves así como de la explotación del transporte aéreo y los permisos comerciales
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Será competente para la gestión del Registro de matrícula de aeronaves
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Competencias en materia de derechos de emisión de gases de efecto invernadero
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La Oficina de seguridad en vuelo ({{PAUSEACRONYM}}OSV) se integran en esta dirección
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **D de gestión de la seguridad y personal de vuelo**
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Ejerce la competencia en materia de gestión de riesgos en materia de seguridad de la aviación civil
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Competencias en relación con el personal de vuelo las escuelas de vuelo y la medicina aeronáutica
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Protección del usuario incluida la supervisión de los planes de asistencia a las víctimas de accidentes de aviación civil y sus familiares
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **D de aeropuertos y seguridad de la aviación civil**
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Ejerce las competencias en el ámbito de los aeropuertos
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Competencias frente a los actos de interferencia ilícita en la aviación civil
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Ejercicio de las funciones de facilitación en el transporte aéreo
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Órgano sustantivo en la evaluación ambiental
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **D de  aérea**
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Ejerce las competencias recogidas en el ámbito de la  aérea
+-{{pause:list}} **D de seguridad de aeronaves (DSA{{pause:acronym}})**:
+    -{{pause:list}} Es responsable de aquellas en los ámbitos de la seguridad de la operación y el mantenimiento la certificación de aeronaves así como de la explotación del transporte aéreo y los permisos comerciales
+    -{{pause:list}} Será competente para la gestión del Registro de matrícula de aeronaves
+    -{{pause:list}} Competencias en materia de derechos de emisión de gases de efecto invernadero
+    -{{pause:list}} La Oficina de seguridad en vuelo (OSV{{pause:acronym}}) se integran en esta dirección
+-{{pause:list}} **D de gestión de la seguridad y personal de vuelo**:
+    -{{pause:list}} Ejerce la competencia en materia de gestión de riesgos en materia de seguridad de la aviación civil
+    -{{pause:list}} Competencias en relación con el personal de vuelo las escuelas de vuelo y la medicina aeronáutica
+    -{{pause:list}} Protección del usuario incluida la supervisión de los planes de asistencia a las víctimas de accidentes de aviación civil y sus familiares
+-{{pause:list}} **D de aeropuertos y seguridad de la aviación civil**:
+    -{{pause:list}} Ejerce las competencias en el ámbito de los aeropuertos
+    -{{pause:list}} Competencias frente a los actos de interferencia ilícita en la aviación civil
+    -{{pause:list}} Ejercicio de las funciones de facilitación en el transporte aéreo
+    -{{pause:list}} Órgano sustantivo en la evaluación ambiental
+-{{pause:list}} **D de  aérea**:
+    -{{pause:list}} Ejerce las competencias recogidas en el ámbito de la  aérea
 
-## 3.5. Aena SME SA
+## 3.5. Aena SME{{pause:acronym}} SA{{pause:acronym}}
 
-Aena SME SA (antes Aena Aeropuertos SA) es una sociedad mercantil estatal que gestiona 46 aeropuertos y 2 helipuertos españoles de interés general A través de su filial Aena Internacional participa también en la gestión de 32 aeropuertos en distintos países
+Aena SME{{pause:acronym}} SA{{pause:acronym}} (antes Aena Aeropuertos SA{{pause:acronym}}) es una sociedad mercantil estatal que gestiona 46 aeropuertos y 2 helipuertos españoles de interés general A través de su filial Aena Internacional participa también en la gestión de 32 aeropuertos en distintos países
 
 ### 3.5.1. Orígenes
 
-Se constituye por el Real Decreto 905/1991 con ente público bajo las siglas {{PAUSEACRONYM}}AENA que responden a Aeropuertos Españoles y  Aérea sentando las bases para la modernización del sistema aeroportuario español
+Se constituye por el Real Decreto 905/1991 con ente público bajo las siglas AENA{{pause:acronym}} que responden a Aeropuertos Españoles y  Aérea sentando las bases para la modernización del sistema aeroportuario español
 
-En 1998 nace {{PAUSEACRONYM}}AENA Internacional para gestionar el desarrollo de su negocio fuera de España siendo el primer paso de {{PAUSEACRONYM}}AENA en el ámbito internacional en 1997 con el contrato de concesión del aeropuerto de Barranquilla (Colombia)
+En 1998 nace AENA{{pause:acronym}} Internacional para gestionar el desarrollo de su negocio fuera de España siendo el primer paso de AENA{{pause:acronym}} en el ámbito internacional en 1997 con el contrato de concesión del aeropuerto de Barranquilla (Colombia)
 
 Entre el 2000 y el 2010 se lleva a cabo la mejora y ampliación de tres grandes aeropuertos mediante el Plan Barajas el Plan Barcelona y el Plan Málaga además de la ampliación de la red con nuevos aeropuertos en Logroño Albacete Burgos y Huesca-Pirineos
 
-En virtud del Real Decreto-ley 13/2010 se liberaliza la prestación de servicios aeroportuarios creándose Aena Aeropuertos SA con un 49% de capital privado Mientras que Aeropuertos Españoles y  Aérea mantiene su naturaleza y régimen jurídico ejerciendo solo las competencias en materia de  aérea
+En virtud del Real Decreto-ley 13/2010 se liberaliza la prestación de servicios aeroportuarios creándose Aena Aeropuertos SA{{pause:acronym}} con un 49% de capital privado Mientras que Aeropuertos Españoles y  Aérea mantiene su naturaleza y régimen jurídico ejerciendo solo las competencias en materia de  aérea
 
-En julio de 2014 pasó a denominarse Aena SA añadiéndose en abril de 2017 la abreviatura SME en su condición de sociedad mercantil estatal
+En julio de 2014 pasó a denominarse Aena SA{{pause:acronym}} añadiéndose en abril de 2017 la abreviatura SME{{pause:acronym}} en su condición de sociedad mercantil estatal
 
-Además en 2014 se establece un nuevo marco de regulación y supervisión aeroportuaria para garantizar la calidad del servicio y el mantenimiento de la totalidad de la red el régimen de inversiones y los ingresos máximos por pasajeros de Aena a través del Documento de Regulación Aeroportuaria ({{PAUSEACRONYM}}DORA)
+Además en 2014 se establece un nuevo marco de regulación y supervisión aeroportuaria para garantizar la calidad del servicio y el mantenimiento de la totalidad de la red el régimen de inversiones y los ingresos máximos por pasajeros de Aena a través del Documento de Regulación Aeroportuaria (DORA{{pause:acronym}})
 
-Desde el 11 de febrero de 2015 Aena SA cotiza en Bolsa
+Desde el 11 de febrero de 2015 Aena SA{{pause:acronym}} cotiza en Bolsa
 
 ### 3.5.2. Gestión
 
@@ -727,22 +727,22 @@ Cerro el año 2024 con un récord histórico de 25 millones de operaciones y 309
 
 ### 3.5.3. Funciones
 
-La Sociedad tiene por objeto
+La Sociedad tiene por objeto:
 
 **Aeropuertos**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La ordenación dirección coordinación explotación conservación administración y gestión de los aeropuertos de interés general y de los helipuertos gestionados por Aena {{PAUSEACRONYM}}SME SA y de los servicios afectos a ellos
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La coordinación explotación conservación administración y gestión de las zonas civiles de las bases aéreas abiertas al tráfico civil y de los aeropuertos de utilización conjunta
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La participación gestión y dirección directa o indirectamente en aeropuertos extranjeros
+-{{pause:list}} La ordenación dirección coordinación explotación conservación administración y gestión de los aeropuertos de interés general y de los helipuertos gestionados por Aena SME{{pause:acronym}} SA{{pause:acronym}} y de los servicios afectos a ellos
+-{{pause:list}} La coordinación explotación conservación administración y gestión de las zonas civiles de las bases aéreas abiertas al tráfico civil y de los aeropuertos de utilización conjunta
+-{{pause:list}} La participación gestión y dirección directa o indirectamente en aeropuertos extranjeros
 
 **Infraestructuras e instalaciones**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- El diseño y elaboración de los proyectos ejecución dirección y control de las inversiones en las infraestructuras e instalaciones aeroportuarias y en bienes destinados a la prestación de los servicios de tránsito aéreo de aeródromo adscritos a las mismas
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La evaluación de las necesidades y en su caso la propuesta de planificación de nuevas infraestructuras aeroportuarias y de las servidumbres aeronáuticas y acústicas vinculadas a los aeropuertos y servicios cuya gestión se atribuya a la Sociedad
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- El desarrollo de los servicios de orden y seguridad en las instalaciones aeroportuarias que gestione sin perjuicio de las atribuciones asignadas en esta materia al Ministerio de Interior
+-{{pause:list}} El diseño y elaboración de los proyectos ejecución dirección y control de las inversiones en las infraestructuras e instalaciones aeroportuarias y en bienes destinados a la prestación de los servicios de tránsito aéreo de aeródromo adscritos a las mismas
+-{{pause:list}} La evaluación de las necesidades y en su caso la propuesta de planificación de nuevas infraestructuras aeroportuarias y de las servidumbres aeronáuticas y acústicas vinculadas a los aeropuertos y servicios cuya gestión se atribuya a la Sociedad
+-{{pause:list}} El desarrollo de los servicios de orden y seguridad en las instalaciones aeroportuarias que gestione sin perjuicio de las atribuciones asignadas en esta materia al Ministerio de Interior
 
 **Formación**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La formación en materias relacionadas con el transporte aéreo incluida la formación de profesionales aeronáuticos sujetos a la obtención de licencias títulos autorizaciones o habilitaciones y la promoción divulgación o fomento de la actividad aeronáutica o aeroportuaria
+-{{pause:list}} La formación en materias relacionadas con el transporte aéreo incluida la formación de profesionales aeronáuticos sujetos a la obtención de licencias títulos autorizaciones o habilitaciones y la promoción divulgación o fomento de la actividad aeronáutica o aeroportuaria
 
-## 3.6. ENAIRE EPE
+## 3.6. ENAIRE EPE{{pause:acronym}}
 
 La entidad pública empresarial ENAIRE adscrita al Ministerio de Transportes y Movilidad Sostenible es el gestor del control del tránsito aéreo de la información aeronáutica y de las redes de comunicación  y vigilancia necesarias para que las compañías aéreas y sus aeronaves vuelen de forma segura fluida y ordenada por el espacio aéreo español
 
@@ -754,87 +754,87 @@ Conforme a la Ley 09/2010 ENAIRE es la empresa designada por el Estado para el s
 
 Controla un espacio aéreo que comprende la península Ibérica (excepto Portugal) Canarias Baleares parte del Atlántico norte del oeste del Mediterráneo y el Sáhara Occidental en total 219 millones de kilómetros cuadrados
 
-La gestión de este espacio aéreo lo hace a través de
-a) Cinco direcciones regionales de  Aérea Centro Norte Este Canaria Sur y Baleares cuyas sedes se ubican respectivamente en los centros de control ({{PAUSEACRONYM}}ACC) de Madrid Barcelona Canarias Sevilla y Palma de Mallorca
-b) Dos centros de control de área terminal ({{PAUSEACRONYM}}TACC) en Santiago y Valencia
+La gestión de este espacio aéreo lo hace a través de:
+a) Cinco direcciones regionales de  Aérea: Centro Norte Este Canaria Sur y Baleares cuyas sedes se ubican respectivamente en los centros de control (ACC{{pause:acronym}}) de Madrid Barcelona Canarias Sevilla y Palma de Mallorca
+b) Dos centros de control de área terminal (TACC{{pause:acronym}}) en Santiago y Valencia
 c) Veintiuna torres de control
 
 En 2024 se han gestionado más de 25 millones de vuelos con una eficiencia de vuelo en ruta del 967% lo que le convierte en uno de los cuatro mayores gestores de  aérea de Europa
 
 ### 3.6.3. Funciones
 
-Las funciones de ENAIRE en  aérea son
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La planificación dirección coordinación explotación conservación y administración del tráfico aéreo de los servicios de telecomunicaciones e información aeronáutica de las infraestructuras instalaciones y redes de comunicaciones del sistema de  aérea El objetivo es que las aeronaves que se desplazan por el espacio aéreo español obtengan la máxima seguridad fluidez eficacia y puntualidad
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La elaboración y la aprobación de distintos tipos de proyectos además de la ejecución y gestión de control de las inversiones
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La evaluación de las necesidades y propuestas para nuevas infraestructuras al igual que las posibles modificaciones en la ordenación del espacio aéreo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La participación en la formación aeronáutica específica y sujeta a la concesión de licencias oficiales
+Las funciones de ENAIRE en  aérea son:
+-{{pause:list}} La planificación dirección coordinación explotación conservación y administración del tráfico aéreo de los servicios de telecomunicaciones e información aeronáutica de las infraestructuras instalaciones y redes de comunicaciones del sistema de  aérea El objetivo es que las aeronaves que se desplazan por el espacio aéreo español obtengan la máxima seguridad fluidez eficacia y puntualidad
+-{{pause:list}} La elaboración y la aprobación de distintos tipos de proyectos además de la ejecución y gestión de control de las inversiones
+-{{pause:list}} La evaluación de las necesidades y propuestas para nuevas infraestructuras al igual que las posibles modificaciones en la ordenación del espacio aéreo
+-{{pause:list}} La participación en la formación aeronáutica específica y sujeta a la concesión de licencias oficiales
 
 ## 3.7. ASOCIACIONES
 
-Las asociaciones quedan recogidas en el siguiente cuadro
+Las asociaciones quedan recogidas en el siguiente cuadro:
 
-**{{PAUSEACRONYM}}AECA (Asociación Española de Compañías Aéreas)**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Origen Se fundó en 1988 como una asociación de compañías privadas de aviación
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Función Constituirse en nexo entre el sector privado de aviación y las administraciones públicas
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Miembros Más de 30 compañías aéreas asociadas pertenecientes a los sectores de tráfico regular chárter carga aerotaxis helicópteros trabajos aéreos y empresas del sector aéreo
+**AECA{{pause:acronym}} (Asociación Española de Compañías Aéreas)**
+-{{pause:list}} Origen: Se fundó en 1988 como una asociación de compañías privadas de aviación
+-{{pause:list}} Función: Constituirse en nexo entre el sector privado de aviación y las administraciones públicas
+-{{pause:list}} Miembros: Más de 30 compañías aéreas asociadas pertenecientes a los sectores de tráfico regular chárter carga aerotaxis helicópteros trabajos aéreos y empresas del sector aéreo
 
-**{{PAUSEACRONYM}}ALA (Asociación de Líneas Aéreas)**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Origen Registrada hace más de 50 años y constituida por la inmensa mayoría de las Compañías Aéreas Regulares que operan en España tanto nacionales como internacionales
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Función
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Defender los intereses colectivos de sus asociados ante los organismos y entidades que regulan la actividad del transporte aéreo
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Informar y asesorar a los asociados sobre los asuntos de la industria del transporte aéreo manteniendo la cooperación necesaria con los organismos y entidades que intervienen en los procesos tales como el Ministerio de Transportes y Movilidad Sostenible ({{PAUSEACRONYM}}DGAC ENAIRE) {{PAUSEACRONYM}}OACI {{PAUSEACRONYM}}IATA etc
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Velar por la Seguridad y la Calidad de los Servicios prestados a las Compañías Aéreas promoviendo al mismo tiempo la eficacia necesaria para asegurar las operaciones aeroportuarias
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Promover la formación continua de los empleados contratados por nuestros asociados
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Miembros Pueden pertenecer a {{PAUSEACRONYM}}ALA cuantas empresas estén dedicadas al transporte aéreo de pasajeros carga y correo que lo deseen siempre que estén legalmente registradas en España
+**ALA{{pause:acronym}} (Asociación de Líneas Aéreas)**
+-{{pause:list}} Origen: Registrada hace más de 50 años y constituida por la inmensa mayoría de las Compañías Aéreas Regulares que operan en España tanto nacionales como internacionales
+-{{pause:list}} Función:
+    -{{pause:list}} Defender los intereses colectivos de sus asociados ante los organismos y entidades que regulan la actividad del transporte aéreo
+    -{{pause:list}} Informar y asesorar a los asociados sobre los asuntos de la industria del transporte aéreo manteniendo la cooperación necesaria con los organismos y entidades que intervienen en los procesos tales como el Ministerio de Transportes y Movilidad Sostenible (DGAC{{pause:acronym}} ENAIRE) OACI{{pause:acronym}} IATA{{pause:acronym}} etc
+    -{{pause:list}} Velar por la Seguridad y la Calidad de los Servicios prestados a las Compañías Aéreas promoviendo al mismo tiempo la eficacia necesaria para asegurar las operaciones aeroportuarias
+    -{{pause:list}} Promover la formación continua de los empleados contratados por nuestros asociados
+-{{pause:list}} Miembros: Pueden pertenecer a ALA{{pause:acronym}} cuantas empresas estén dedicadas al transporte aéreo de pasajeros carga y correo que lo deseen siempre que estén legalmente registradas en España
 
-**{{PAUSEACRONYM}}ACETA (Asociación de Compañías Españolas de Transporte Aéreo)**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Origen Se funda en el año 2004 como una entidad de derecho privado sin fines de lucro de la que forman parte Air Europa Air Nostrum Binter Canarias Gestair Iberia Naysa Orbest y Vueling y que cubre todos los segmentos de negocio del transporte aéreo tráfico regular carga aviación ejecutiva regional y chárter
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Función
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Defender y fortalecer los intereses de sus compañías asociadas
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Contribuir a la elaboración y desarrollo de las normas y decisiones que afectan al transporte aéreo
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Impulsar estándares de calidad que satisfagan las expectativas de sus clientes
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Miembros Air Europa Air Nostrum Binter Canarias Gestair Iberia Naysa Orbest y Vueling
+**ACETA{{pause:acronym}} (Asociación de Compañías Españolas de Transporte Aéreo)**
+-{{pause:list}} Origen: Se funda en el año 2004 como una entidad de derecho privado sin fines de lucro de la que forman parte Air Europa Air Nostrum Binter Canarias Gestair Iberia Naysa Orbest y Vueling y que cubre todos los segmentos de negocio del transporte aéreo: tráfico regular carga aviación ejecutiva regional y chárter
+-{{pause:list}} Función:
+    -{{pause:list}} Defender y fortalecer los intereses de sus compañías asociadas
+    -{{pause:list}} Contribuir a la elaboración y desarrollo de las normas y decisiones que afectan al transporte aéreo
+    -{{pause:list}} Impulsar estándares de calidad que satisfagan las expectativas de sus clientes
+-{{pause:list}} Miembros: Air Europa Air Nostrum Binter Canarias Gestair Iberia Naysa Orbest y Vueling
 
-**{{PAUSEACRONYM}}AOC (Asociaciones de Operadores de Compañías Locales)**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Origen Las compañías aéreas que operan en cada aeropuerto se agruparon en las Asociaciones de Operadores de Compañías ({{PAUSEACRONYM}}AOC) locales Asimismo éstas se agrupan en la {{PAUSEACRONYM}}AOC de España
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Función
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Mejorar la coordinación entre las distintas compañías y las autoridades aeroportuarias (Aena SME SA)
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Recibir y transmitir información de las otras asociaciones nacionales de líneas y operadores aéreos
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Estudiar y resolver conjuntamente problemas relacionados con la seguridad  aérea infraestructuras tráfico etc
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Miembros Compañías aéreas que operan en cada aeropuerto
+**AOC{{pause:acronym}} (Asociaciones de Operadores de Compañías Locales)**
+-{{pause:list}} Origen: Las compañías aéreas que operan en cada aeropuerto se agruparon en las Asociaciones de Operadores de Compañías (AOC{{pause:acronym}}) locales Asimismo éstas se agrupan en la AOC{{pause:acronym}} de España
+-{{pause:list}} Función:
+    -{{pause:list}} Mejorar la coordinación entre las distintas compañías y las autoridades aeroportuarias (Aena SME{{pause:acronym}} SA{{pause:acronym}})
+    -{{pause:list}} Recibir y transmitir información de las otras asociaciones nacionales de líneas y operadores aéreos
+    -{{pause:list}} Estudiar y resolver conjuntamente problemas relacionados con la seguridad  aérea infraestructuras tráfico etc
+-{{pause:list}} Miembros: Compañías aéreas que operan en cada aeropuerto
 
 ## 3.8. COMISIONES Y SUBCOMITÉ
 
 **CIDETRA (Comisión Interministerial entre Defensa y Trasportes Movilidad y Agenda Urbana)**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Origen
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Tras la creación en 1977 del Ministerio de Transportes Turismo y Comunicaciones las competencias en aeronáutica civil se traspasaron desde el Ministerio de Defensa donde residían hasta ese momento
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- En 1979 se creó un organismo la Comisión Interministerial Defensa-Transportes (CIDETRA) para permitir y asegurar la coordinación entre la aeronáutica civil y militar
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Se adecuó posteriormente el nombre a Comisión Interministerial entre Defensa y Fomento (CIDEFO)
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- El 1 de abril de 2020 mediante acuerdo de la Comisión se adoptó el cambio de denominación de la Comisión referida en el artículo 6 de la Ley de Seguridad Aérea como “Comisión Interministerial entre Defensa y Transportes Movilidad y Agenda Urbana” así como la designación mediante siglas que pasará a ser CIDETMA En 2024 con el nuevo cambio de nombre del Ministerio ahora Ministerio de Transportes y Movilidad Sostenible la comisión interministerial pasa a denominarse CIDETRA
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Competencias
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Aeródromos Planificación de nuevos aeropuertos y aeródromos públicos civiles así como las modificaciones que se precisen en los mismos o en sus instalaciones Concesión de autorización de aeródromos privados Establecimiento y modificación de las servidumbres aeronáuticas de los aeropuertos y aeródromos públicos civiles y privados
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Cartas aeronáuticas Regulación de las maniobras de aproximación y aterrizaje por instrumentos Determinación de cartas especiales que deben editarse y datos referentes a la  que deben figurar en la cartografía aeronáutica
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Espacios aéreos Estructura del espacio aéreo
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}-  aérea Planificación de la red de ayudas a la  sistema de control y telecomunicaciones así como sus modificaciones Requerimientos de la  aérea en relación con el Instituto Nacional de Meteorología Información de cuantos asuntos relacionados con la  aérea hayan de tratarse en congresos y reuniones internacionales de aviación civil así como de los acuerdos adoptados
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Reglamentación Reglamentación de la circulación aérea Organización y reglamentación de la búsqueda y salvamento Cualquier otra relacionada con los diferentes aspectos del control del tráfico y de la  aérea al objeto de su reglamentación perfeccionamiento y desarrollo
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Otras Cualquier otra función de las que corresponden al Ministerio de Transportes y Comunicaciones que a juicio de uno y otro Departamento afecte a la aviación militar o a los intereses de la defensa nacional
+-{{pause:list}} Origen:
+    -{{pause:list}} Tras la creación en 1977 del Ministerio de Transportes Turismo y Comunicaciones las competencias en aeronáutica civil se traspasaron desde el Ministerio de Defensa donde residían hasta ese momento
+    -{{pause:list}} En 1979 se creó un organismo la Comisión Interministerial Defensa-Transportes (CIDETRA) para permitir y asegurar la coordinación entre la aeronáutica civil y militar
+    -{{pause:list}} Se adecuó posteriormente el nombre a Comisión Interministerial entre Defensa y Fomento (CIDEFO)
+    -{{pause:list}} El 1 de abril de 2020 mediante acuerdo de la Comisión se adoptó el cambio de denominación de la Comisión referida en el artículo 6 de la Ley de Seguridad Aérea como “Comisión Interministerial entre Defensa y Transportes Movilidad y Agenda Urbana” así como la designación mediante siglas que pasará a ser CIDETMA En 2024 con el nuevo cambio de nombre del Ministerio ahora Ministerio de Transportes y Movilidad Sostenible la comisión interministerial pasa a denominarse CIDETRA
+-{{pause:list}} Competencias:
+    -{{pause:list}} Aeródromos: Planificación de nuevos aeropuertos y aeródromos públicos civiles así como las modificaciones que se precisen en los mismos o en sus instalaciones Concesión de autorización de aeródromos privados Establecimiento y modificación de las servidumbres aeronáuticas de los aeropuertos y aeródromos públicos civiles y privados
+    -{{pause:list}} Cartas aeronáuticas: Regulación de las maniobras de aproximación y aterrizaje por instrumentos Determinación de cartas especiales que deben editarse y datos referentes a la  que deben figurar en la cartografía aeronáutica
+    -{{pause:list}} Espacios aéreos: Estructura del espacio aéreo
+    -{{pause:list}}  aérea: Planificación de la red de ayudas a la  sistema de control y telecomunicaciones así como sus modificaciones Requerimientos de la  aérea en relación con el Instituto Nacional de Meteorología Información de cuantos asuntos relacionados con la  aérea hayan de tratarse en congresos y reuniones internacionales de aviación civil así como de los acuerdos adoptados
+    -{{pause:list}} Reglamentación: Reglamentación de la circulación aérea Organización y reglamentación de la búsqueda y salvamento Cualquier otra relacionada con los diferentes aspectos del control del tráfico y de la  aérea al objeto de su reglamentación perfeccionamiento y desarrollo
+    -{{pause:list}} Otras: Cualquier otra función de las que corresponden al Ministerio de Transportes y Comunicaciones que a juicio de uno y otro Departamento afecte a la aviación militar o a los intereses de la defensa nacional
 
-**{{PAUSEACRONYM}}CIPAI (Comisión Interministerial de Política Aeroespacial Internacional)**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Origen
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Es un órgano colegiado de la Administración General del Estado adscrito al Ministerio de Asuntos Exteriores creado en 1946 con el nombre de Comisión Interministerial de Política Aérea Internacional ({{PAUSEACRONYM}}CIPAI)
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Tiene como finalidad el asesoramiento a la Administración General del Estado y la coordinación entre los departamentos de dicha Administración en cuestiones de política aérea y espacial internacional
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- En 2003 mediante el Real Decreto 1342/2003 se modifica para ajustarla a la situación actual
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Competencias
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Emitirá su opinión y hará las propuestas que estime oportunas sobre cuestiones de política aérea y espacial internacionales respetando las competencias del Ministerio de Asuntos Exteriores en materia de tratados internacionales
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Emitirá informes y propondrá las resoluciones pertinentes en lo relativo a la preparación negociación aplicación y vigilancia de la ejecución de tratados internacionales sobre políticas aéreas y espaciales internacionales de interés para España
+**CIPAI{{pause:acronym}} (Comisión Interministerial de Política Aeroespacial Internacional)**
+-{{pause:list}} Origen:
+    -{{pause:list}} Es un órgano colegiado de la Administración General del Estado adscrito al Ministerio de Asuntos Exteriores creado en 1946 con el nombre de Comisión Interministerial de Política Aérea Internacional (CIPAI{{pause:acronym}})
+    -{{pause:list}} Tiene como finalidad el asesoramiento a la Administración General del Estado y la coordinación entre los departamentos de dicha Administración en cuestiones de política aérea y espacial internacional
+    -{{pause:list}} En 2003 mediante el Real Decreto 1342/2003 se modifica para ajustarla a la situación actual
+-{{pause:list}} Competencias:
+    -{{pause:list}} Emitirá su opinión y hará las propuestas que estime oportunas sobre cuestiones de política aérea y espacial internacionales respetando las competencias del Ministerio de Asuntos Exteriores en materia de tratados internacionales
+    -{{pause:list}} Emitirá informes y propondrá las resoluciones pertinentes en lo relativo a la preparación negociación aplicación y vigilancia de la ejecución de tratados internacionales sobre políticas aéreas y espaciales internacionales de interés para España
 
-**{{PAUSEACRONYM}}SCA (Subcomité de la Circulación Aérea)**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Origen
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Con el objetivo de establecer un adecuado foro de coordinación entre la administración de aviación civil y los usuarios del sistema de  aérea se fundó en 1986 el Comité de Coordinación Operativa
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- En el momento de su creación se dividió a su vez en cinco subcomités entre los que se encuentra el Subcomité de Circulación Aérea ({{PAUSEACRONYM}}SCA)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Competencias
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- coordinar todos los requisitos operacionales identificados y justificados por los usuarios
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- participan ENAIRE la {{PAUSEACRONYM}}DGAC la {{PAUSEACRONYM}}AEMET y las compañías aéreas españolas
+**SCA{{pause:acronym}} (Subcomité de la Circulación Aérea)**
+-{{pause:list}} Origen:
+    -{{pause:list}} Con el objetivo de establecer un adecuado foro de coordinación entre la administración de aviación civil y los usuarios del sistema de  aérea se fundó en 1986 el Comité de Coordinación Operativa
+    -{{pause:list}} En el momento de su creación se dividió a su vez en cinco subcomités entre los que se encuentra el Subcomité de Circulación Aérea (SCA{{pause:acronym}})
+-{{pause:list}} Competencias:
+    -{{pause:list}} coordinar todos los requisitos operacionales identificados y justificados por los usuarios
+    -{{pause:list}} participan ENAIRE la DGAC{{pause:acronym}} la AEMET{{pause:acronym}} y las compañías aéreas españolas
 
 # 4. LEGISLACIÓN
 
@@ -842,20 +842,20 @@ Las asociaciones quedan recogidas en el siguiente cuadro
 
 La expresión “Derecho Aeronáutico” remite al conjunto de normas jurídicas que regulan la  aérea y el establecimiento y uso de sus infraestructuras sea con fines civiles (comerciales o no) o militares
 
-La  aérea puede suscitar relaciones jurídicas de diversa naturaleza o especialidad y por ello las normas que las regulan aunque puedan ser agrupadas e identificadas por su objeto aeronáutico pertenecen a diversas ramas del Derecho
+La  aérea puede suscitar relaciones jurídicas de diversa naturaleza o especialidad y por ello las normas que las regulan aunque puedan ser agrupadas e identificadas por su objeto aeronáutico pertenecen a diversas ramas del Derecho:
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **D Administrativo** Normas que regulan o autorizan la apertura de aeródromos las licencias de vuelo o la imposición de sanciones
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **D Internacional Público** Las normas y organizaciones aeronáuticas derivadas de acuerdos internacionales
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **D Mercantil** Del que forman parte las normas que regulan el contrato de transporte aéreo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **D Laboral** Del que forman parte las normas sobre condiciones de trabajo de las tripulaciones
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **D Penal** Del que proceden las normas que determinan y reprueban los delitos aeronáuticos
+-{{pause:list}} **D Administrativo**: Normas que regulan o autorizan la apertura de aeródromos las licencias de vuelo o la imposición de sanciones
+-{{pause:list}} **D Internacional Público**: Las normas y organizaciones aeronáuticas derivadas de acuerdos internacionales
+-{{pause:list}} **D Mercantil**: Del que forman parte las normas que regulan el contrato de transporte aéreo
+-{{pause:list}} **D Laboral**: Del que forman parte las normas sobre condiciones de trabajo de las tripulaciones
+-{{pause:list}} **D Penal**: Del que proceden las normas que determinan y reprueban los delitos aeronáuticos
 
 ## 4.2 FUENTES DEL DERECHO AERONÁUTICO
 
-El derecho aeronáutico se encuentra regulado por tres fuentes
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}1. Derecho internacional
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}2. Derecho Comunitario
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}3. Derecho nacional
+El derecho aeronáutico se encuentra regulado por tres fuentes:
+1.{{pause:list}} Derecho internacional
+2.{{pause:list}} Derecho Comunitario
+3.{{pause:list}} Derecho nacional
 
 ### 4.2.1 Derecho internacional
 
@@ -863,91 +863,91 @@ Incluye los acuerdos y tratados multilaterales y convenios bilaterales por los q
 
 #### ACUERDOS MULTILATERALES
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Partes** Son acuerdos entre varias partes
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Ordenamiento** En España solamente formarán parte de nuestro ordenamiento jurídico como normas de obligado cumplimiento los convenios internacionales que hayan sido ratificados y publicados en el {{PAUSEACRONYM}}BOE
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Tipos**
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Convenio de Chicago sobre Aviación Civil Internacional de 7 diciembre 1944 ratificado el 21 febrero 1947. Este acuerdo internacional sienta las bases del derecho aeronáutico y crea la {{PAUSEACRONYM}}OACI como institución asociada a la {{PAUSEACRONYM}}ONU
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Convenio de Montreal para la unificación de ciertas reglas sobre el transporte aéreo internacional de 28 mayo 1999. Este convenio deroga y sustituye al Convenio de Varsovia de 12 octubre 1929 modificado por el Protocolo de La Haya (1955) el de Guadalajara (1961) y el de Montreal (1975)
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Convenio de Tokio sobre infracciones y ciertos actos cometidos a bordo de aeronaves de 1963.
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Convenio de La Haya sobre el delito de interferencia y represión del apoderamiento ilícito de aeronaves de 16 diciembre 1971.
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Convenio de Montreal para la represión de actos ilícitos contra la seguridad de la aviación civil de 23 septiembre 1971.
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Convenio de Roma de 1933 sobre regulación de daños a terceros modificado por sus protocolos adicionales de Bruselas (1938) Roma (7 octubre 1952) y Montreal (1978)
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Tratado sobre cielos abiertos de 24 marzo 1992.
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Convenio de Bruselas sobre cooperación relativo a la seguridad de la  aérea “EUROCONTROL” de 13 diciembre 1960 posteriormente modificado por distintos protocolos y acuerdos multilaterales
+-{{pause:list}} **Partes**: Son acuerdos entre varias partes
+-{{pause:list}} **Ordenamiento**: En España solamente formarán parte de nuestro ordenamiento jurídico como normas de obligado cumplimiento los convenios internacionales que hayan sido ratificados y publicados en el BOE{{pause:acronym}}
+-{{pause:list}} **Tipos**:
+    -{{pause:list}} Convenio de Chicago sobre Aviación Civil Internacional de 7 diciembre 1944 ratificado el 21 febrero 1947. Este acuerdo internacional sienta las bases del derecho aeronáutico y crea la OACI{{pause:acronym}} como institución asociada a la ONU{{pause:acronym}}
+    -{{pause:list}} Convenio de Montreal para la unificación de ciertas reglas sobre el transporte aéreo internacional de 28 mayo 1999. Este convenio deroga y sustituye al Convenio de Varsovia de 12 octubre 1929 modificado por el Protocolo de La Haya (1955) el de Guadalajara (1961) y el de Montreal (1975)
+    -{{pause:list}} Convenio de Tokio sobre infracciones y ciertos actos cometidos a bordo de aeronaves de 1963.
+    -{{pause:list}} Convenio de La Haya sobre el delito de interferencia y represión del apoderamiento ilícito de aeronaves de 16 diciembre 1971.
+    -{{pause:list}} Convenio de Montreal para la represión de actos ilícitos contra la seguridad de la aviación civil de 23 septiembre 1971.
+    -{{pause:list}} Convenio de Roma de 1933 sobre regulación de daños a terceros modificado por sus protocolos adicionales de Bruselas (1938) Roma (7 octubre 1952) y Montreal (1978)
+    -{{pause:list}} Tratado sobre cielos abiertos de 24 marzo 1992.
+    -{{pause:list}} Convenio de Bruselas sobre cooperación relativo a la seguridad de la  aérea “EUROCONTROL” de 13 diciembre 1960 posteriormente modificado por distintos protocolos y acuerdos multilaterales
 
 #### CONVENIOS BILATERALES
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Partes** Convenios entre un estado miembro y otro país para regular las condiciones en que va a ser desarrollado el transporte aéreo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Ordenamiento**
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Quedan limitados a la regulación de servicios extracomunitarios
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La negociación de estos convenios está afectada por el Reglamento comunitario 847/2004 que otorga a la {{PAUSEACRONYM}}UE la facultad de negociar acuerdos bilaterales con 3º Estados en materias sobre las que tenga competencias transferidas (p e tarifas)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Tipos** Los aspectos que regulan son rutas de los servicios aéreos establecimientos y reparto de la capacidad en cada ruta nº de compañías aéreas designadas para prestar los servicios de transporte aéreo y los requisitos que deben cumplir tarifas etc
+-{{pause:list}} **Partes**: Convenios entre un estado miembro y otro país para regular las condiciones en que va a ser desarrollado el transporte aéreo
+-{{pause:list}} **Ordenamiento**:
+    -{{pause:list}} Quedan limitados a la regulación de servicios extracomunitarios
+    -{{pause:list}} La negociación de estos convenios está afectada por el Reglamento comunitario 847/2004 que otorga a la UE{{pause:acronym}} la facultad de negociar acuerdos bilaterales con 3º Estados en materias sobre las que tenga competencias transferidas (p e tarifas)
+-{{pause:list}} **Tipos**: Los aspectos que regulan son: rutas de los servicios aéreos establecimientos y reparto de la capacidad en cada ruta nº de compañías aéreas designadas para prestar los servicios de transporte aéreo y los requisitos que deben cumplir tarifas etc
 
-#### LIBERTADES DEL {{PAUSEACRONYM}}AIRE
+#### LIBERTADES DEL AIRE{{pause:acronym}}
 
 En el Derecho aeronáutico son una serie de derechos relativos a la aviación comercial que garantizan a las aerolíneas de un Estado entrar en el espacio aéreo de otro Estado y aterrizar en éste (recogidas en el Convenio de Chicago)
 
 **Técnicas**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Primera libertad** Llamada Libertad de Sobrevuelo determina el derecho de una aeronave del Estado “A” a volar sobre el territorio de otro Estado “B” sin aterrizar
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Segunda Libertad** Llamada Libertad de Escala Técnica otorga a una aeronave del Estado “A” el derecho de aterrizar en el territorio del Estado “B” otro estado por razones técnicas (no comerciales) tales como repostar combustible mantenimiento emergencias etc
+-{{pause:list}} **Primera libertad**: Llamada Libertad de Sobrevuelo determina el derecho de una aeronave del Estado “A” a volar sobre el territorio de otro Estado “B” sin aterrizar
+-{{pause:list}} **Segunda Libertad**: Llamada Libertad de Escala Técnica otorga a una aeronave del Estado “A” el derecho de aterrizar en el territorio del Estado “B” otro estado por razones técnicas (no comerciales) tales como repostar combustible mantenimiento emergencias etc
 
 **Comerciales**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Tercera libertad** Llamada Libertad de Transporte al Exterior Otorga a una aeronave del Estado “A” el derecho de desembarcar en el Estado “B” pasajeros correo y carga tomad os en el territorio del Estado “A”
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Cuarta Libertad** Llamada Libertad de Transporte al Interior Define el derecho de una aeronave del Estado “A” para embarcar pasajeros correo y carga en el Estado “B” y que tengan como destino el Estado “A”
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Quinta Libertad** Llamada Libertad de Transporte Externo Consecutivo Otorga el derecho a una aeronave del Estado “A” a embarcar pasajeros correo y carga en el Estado “B” y transportarlos hasta otro Estado “C” con tal y la última parte del vuelo sea una continuación del vuelo inicial “A”-”B”
+-{{pause:list}} **Tercera libertad**: Llamada Libertad de Transporte al Exterior Otorga a una aeronave del Estado “A” el derecho de desembarcar en el Estado “B” pasajeros correo y carga tomad os en el territorio del Estado “A”
+-{{pause:list}} **Cuarta Libertad**: Llamada Libertad de Transporte al Interior Define el derecho de una aeronave del Estado “A” para embarcar pasajeros correo y carga en el Estado “B” y que tengan como destino el Estado “A”
+-{{pause:list}} **Quinta Libertad**: Llamada Libertad de Transporte Externo Consecutivo Otorga el derecho a una aeronave del Estado “A” a embarcar pasajeros correo y carga en el Estado “B” y transportarlos hasta otro Estado “C” con tal y la última parte del vuelo sea una continuación del vuelo inicial “A”-”B”
 
 **Otras libertades**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Sexta Libertad** Llamada Libertad de Transporte Externo-Interno Otorga el derecho a una aeronave del Estado “A” para que transporte tráfico comercial entre otros dos Estados “B” y “C” siempre y cuando haga escala en su propio territorio
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Séptima Libertad** Llamada Libertad de Transporte Externo Da el derecho a una aeronave del Estado “A” para que efectúe transporte comercial enteramente fuera de su territorio entre dos Estados “B” y “C”
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Octava Libertad** Llamada Libertad de Cabotaje Consecutivo Es el derecho que se acuerda a un Estado para que sus líneas aéreas puedan realizar transporte de cabotaje (interno) en otro Estado partiendo (o culminando el servicio) en el país al que pertenece la línea aérea
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Novena libertad** Llamada Libertad de Cabotaje autónomo Es el derecho que se acuerda a un Estado para que sus líneas aéreas puedan realizar transporte de cabotaje (interno) en otro Estado
+-{{pause:list}} **Sexta Libertad**: Llamada Libertad de Transporte Externo-Interno Otorga el derecho a una aeronave del Estado “A” para que transporte tráfico comercial entre otros dos Estados “B” y “C” siempre y cuando haga escala en su propio territorio
+-{{pause:list}} **Séptima Libertad**: Llamada Libertad de Transporte Externo Da el derecho a una aeronave del Estado “A” para que efectúe transporte comercial enteramente fuera de su territorio entre dos Estados “B” y “C”
+-{{pause:list}} **Octava Libertad**: Llamada Libertad de Cabotaje Consecutivo Es el derecho que se acuerda a un Estado para que sus líneas aéreas puedan realizar transporte de cabotaje (interno) en otro Estado partiendo (o culminando el servicio) en el país al que pertenece la línea aérea
+-{{pause:list}} **Novena libertad**: Llamada Libertad de Cabotaje autónomo Es el derecho que se acuerda a un Estado para que sus líneas aéreas puedan realizar transporte de cabotaje (interno) en otro Estado
 
 ### 4.2.2 Derecho comunitario
 
 La mayoría de las disposiciones que regulan el sector aeronáutico y aeroportuario emanan de las instituciones de la Unión Europea Así el Tratado de la Comunidad Económica Europea de 1957 tiene entre sus objetivos el establecimiento de una política común en el transporte En todo caso la liberalización comunitaria del transporte aéreo por la que se aplicarían las normas sobre defensa de la competencia en el sector comenzó a concretarse al finalizar la década de 1980.
 
-Entre estas normas cabe destacar
+Entre estas normas cabe destacar:
 
 **REGLAMENTOS COMUNITARIOS**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- AFECTA Vincula a todos los estados miembros
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- {{PAUSEACRONYM}}RANGO Se trata de una norma de Derecho comunitario que goza de primacía es superior a cualquier otra norma del Derecho de los Estados miembros
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- EFECTO Eficacia directa directamente aplicable en todo el territorio de la Unión desde su publicación en el Diario Oficial de la Unión Europea
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- {{PAUSEACRONYM}}TIPOS
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- REGLAMENTO ({{PAUSEACRONYM}}CE) Nº 550/2004 relativo a la prestación de servicios de  aérea en el cielo único europeo
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- REGLAMENTO DE EJECUCIÓN ({{PAUSEACRONYM}}UE) Nº 1035/2011 por el que se establecen requisitos comunes para la prestación de servicios de  aérea
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- REGLAMENTO ({{PAUSEACRONYM}}CE) Nº 216/2008 sobre normas comunes en el ámbito de la aviación civil y por el que se crea una Agencia Europea de Seguridad Aérea
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- REGLAMENTO DE EJECUCIÓN ({{PAUSEACRONYM}}UE) Nº 390/2013 por el que se establece un sistema de evaluación del rendimiento de los servicios de  aérea y de las funciones de red
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- REGLAMENTO ({{PAUSEACRONYM}}UE) 2015/340 por el que se establecen requisitos técnicos y procedimientos administrativos relativos a las licencias y los certificados de los controladores de tránsito aéreo
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- REGLAMENTO DE EJECUCIÓN ({{PAUSEACRONYM}}UE) 2017/373 por el que se establecen requisitos comunes para los proveedores de servicios de gestión del tránsito aéreo/ aérea y otras funciones de la red de gestión del tránsito aéreo y su supervisión
+-{{pause:list}} AFECTA: Vincula a todos los estados miembros
+-{{pause:list}} RANGO{{pause:acronym}}: Se trata de una norma de Derecho comunitario que goza de primacía: es superior a cualquier otra norma del Derecho de los Estados miembros
+-{{pause:list}} EFECTO: Eficacia directa: directamente aplicable en todo el territorio de la Unión desde su publicación en el Diario Oficial de la Unión Europea
+-{{pause:list}} TIPOS{{pause:acronym}}:
+    -{{pause:list}} REGLAMENTO (CE{{pause:acronym}}) Nº 550/2004 relativo a la prestación de servicios de  aérea en el cielo único europeo
+    -{{pause:list}} REGLAMENTO DE EJECUCIÓN (UE{{pause:acronym}}) Nº 1035/2011 por el que se establecen requisitos comunes para la prestación de servicios de  aérea
+    -{{pause:list}} REGLAMENTO (CE{{pause:acronym}}) Nº 216/2008 sobre normas comunes en el ámbito de la aviación civil y por el que se crea una Agencia Europea de Seguridad Aérea
+    -{{pause:list}} REGLAMENTO DE EJECUCIÓN (UE{{pause:acronym}}) Nº 390/2013 por el que se establece un sistema de evaluación del rendimiento de los servicios de  aérea y de las funciones de red
+    -{{pause:list}} REGLAMENTO (UE{{pause:acronym}}) 2015/340 por el que se establecen requisitos técnicos y procedimientos administrativos relativos a las licencias y los certificados de los controladores de tránsito aéreo
+    -{{pause:list}} REGLAMENTO DE EJECUCIÓN (UE{{pause:acronym}}) 2017/373 por el que se establecen requisitos comunes para los proveedores de servicios de gestión del tránsito aéreo/ aérea y otras funciones de la red de gestión del tránsito aéreo y su supervisión
 
 **DIRECTIVAS COMUNITARIAS**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- AFECTA Vincula a los Estados de la Unión o en su caso al Estado destinatario
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- {{PAUSEACRONYM}}RANGO Lo determinan los Estados Se trata de una norma de Derecho comunitario porque intenta la consecución de resultados u objetivos concretos en un plazo determinado dejando a las autoridades competentes de cada Estado la elección de la forma y los medios adecuados a tal fin
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- EFECTO Lo determinan los Estados es decir necesita mecanismo de transposición (consiste en incorporar dicha directiva al ordenamiento jurídico de cada estado miembro de la UE para adaptar así las legislaciones estatales a las directrices que marca la UE)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- {{PAUSEACRONYM}}TIPOS Directiva 2006/23/{{PAUSEACRONYM}}CE del Parlamento Europeo y del Consejo de 5 de abril de 2006 relativa a la licencia comunitaria de controlador de tránsito aéreo
+-{{pause:list}} AFECTA: Vincula a los Estados de la Unión o en su caso al Estado destinatario
+-{{pause:list}} RANGO{{pause:acronym}}: Lo determinan los Estados: Se trata de una norma de Derecho comunitario porque intenta la consecución de resultados u objetivos concretos en un plazo determinado dejando a las autoridades competentes de cada Estado la elección de la forma y los medios adecuados a tal fin
+-{{pause:list}} EFECTO: Lo determinan los Estados es decir necesita mecanismo de transposición (consiste en incorporar dicha directiva al ordenamiento jurídico de cada estado miembro de la UE{{pause:acronym}} para adaptar así las legislaciones estatales a las directrices que marca la UE{{pause:acronym}})
+-{{pause:list}} TIPOS{{pause:acronym}}: Directiva 2006/23/CE{{pause:acronym}} del Parlamento Europeo y del Consejo de 5 de abril de 2006 relativa a la licencia comunitaria de controlador de tránsito aéreo
 
 **DECISIONES COMUNITARIAS**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- AFECTA Vincula únicamente a los destinatarios de la misma
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- {{PAUSEACRONYM}}RANGO Se trata de una norma de Derecho comunitario que goza de primacía es superior a cualquier otra norma del Derecho de los Estados miembros
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- EFECTO Eficacia directa directamente aplicable en todo el territorio de la Unión desde su publicación en el Diario Oficial de la Unión Europea
+-{{pause:list}} AFECTA: Vincula únicamente a los destinatarios de la misma
+-{{pause:list}} RANGO{{pause:acronym}}: Se trata de una norma de Derecho comunitario que goza de primacía: es superior a cualquier otra norma del Derecho de los Estados miembros
+-{{pause:list}} EFECTO: Eficacia directa: directamente aplicable en todo el territorio de la Unión desde su publicación en el Diario Oficial de la Unión Europea
 
 ### 4.2.3 Derecho nacional
 
 Es el conjunto de las normas aprobadas de acuerdo con la Constitución Española
-Está compuesto por orden de importancia
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Leyes
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Reales Decretos
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Órdenes Ministeriales
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Circulares Aeronáuticas
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Resoluciones de la Dirección General de Aviación Civil
+Está compuesto por orden de importancia:
+-{{pause:list}} Leyes
+-{{pause:list}} Reales Decretos
+-{{pause:list}} Órdenes Ministeriales
+-{{pause:list}} Circulares Aeronáuticas
+-{{pause:list}} Resoluciones de la Dirección General de Aviación Civil
 
 #### 4.2.3.1 Circulares Aeronáuticas
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Son disposiciones de carácter secundario
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Aprobadas por la Dirección General de Aviación Civil
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Contenido técnico que completan precisan y aseguran la aplicación eficaz de las normas dirigidas a preservar la seguridad y el orden del tránsito y del transporte aéreos civiles
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Deberán tener en cuenta las prescripciones y recomendaciones adoptadas por la {{PAUSEACRONYM}}OACI (Organización de Aviación Civil Internacional)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Serán obligatorias dentro del ámbito de la aviación civil para las personas físicas y jurídicas que ejecuten actividades y presten servicios vinculados a
+-{{pause:list}} Son disposiciones de carácter secundario
+-{{pause:list}} Aprobadas por la Dirección General de Aviación Civil
+-{{pause:list}} Contenido técnico que completan precisan y aseguran la aplicación eficaz de las normas dirigidas a preservar la seguridad y el orden del tránsito y del transporte aéreos civiles
+-{{pause:list}} Deberán tener en cuenta las prescripciones y recomendaciones adoptadas por la OACI{{pause:acronym}} (Organización de Aviación Civil Internacional)
+-{{pause:list}} Serán obligatorias dentro del ámbito de la aviación civil para las personas físicas y jurídicas que ejecuten actividades y presten servicios vinculados a:
     a) la formación del personal aeronáutico
     b) diseño producción mantenimiento y explotación de las aeronaves y los productos aeronáuticos
     c) la gestión de los sistemas aeroportuarios y de  aérea
@@ -958,121 +958,121 @@ Está compuesto por orden de importancia
 
 ### 4.3.1 Marco para la creación del Cielo Único Europeo
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}CE) 549/2004 que fija el marco para la creación de {{PAUSEACRONYM}}SES (“Reglamento marco”)** Establecer un marco regulador armonizado para la creación de {{PAUSEACRONYM}}SES con el objetivo de reforzar las normas de seguridad del tránsito aéreo contribuyendo al desarrollo sostenible del sistema de transporte aéreo y mejorando el rendimiento global con el fin de responder a las necesidades de los usuarios
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 2019/317 que establece un sistema de evaluación del rendimiento y de tarificación en {{PAUSEACRONYM}}SES** Establecer las medidas necesarias para el funcionamiento de los sistemas de evaluación del rendimiento y de tarificación de los servicios {{PAUSEACRONYM}}ANS y funciones de red
+-{{pause:list}} **Reglamento (CE{{pause:acronym}}) 549/2004 que fija el marco para la creación de SES{{pause:acronym}} (“Reglamento marco”)**: Establecer un marco regulador armonizado para la creación de SES{{pause:acronym}} con el objetivo de reforzar las normas de seguridad del tránsito aéreo contribuyendo al desarrollo sostenible del sistema de transporte aéreo y mejorando el rendimiento global con el fin de responder a las necesidades de los usuarios
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 2019/317 que establece un sistema de evaluación del rendimiento y de tarificación en SES{{pause:acronym}}**: Establecer las medidas necesarias para el funcionamiento de los sistemas de evaluación del rendimiento y de tarificación de los servicios ANS{{pause:acronym}} y funciones de red
 
 ### 4.3.2 Prestación de servicios de  aérea
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}CE) 550/2004 relativo a la prestación {{PAUSEACRONYM}}ANS en {{PAUSEACRONYM}}SES (“Reglamento de prestación de servicios”)** Establecer requisitos comunes para una prestación segura y eficaz de servicios {{PAUSEACRONYM}}ANS
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 176/2011 sobre la información previa que debe facilitarse con miras al establecimiento y modificación de un {{PAUSEACRONYM}}FAB** Establecer los requisitos relativos a la información previa que deberán facilitar los Estados miembros considerados a la Comisión a {{PAUSEACRONYM}}AESA a los demás Estados miembros y a las otras partes interesadas con miras al establecimiento y la modificación de un {{PAUSEACRONYM}}FAB
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 409/2013 relativo a la definición de proyectos comunes** Definir los proyectos comunes a que se refiere el artículo 15 bis del Reglamento ({{PAUSEACRONYM}}CE) 550/2004 detallando sus mecanismos de gobernanza y estableciendo incentivos para su despliegue
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 2021/116 relativo a la creación del Proyecto Común Uno de apoyo a la ejecución del Plan Maestro {{PAUSEACRONYM}}ATM europeo** Definir el Proyecto Común Uno (PC1) para apoyar la ejecución del Plan Maestro {{PAUSEACRONYM}}ATM europeo
+-{{pause:list}} **Reglamento (CE{{pause:acronym}}) 550/2004 relativo a la prestación ANS{{pause:acronym}} en SES{{pause:acronym}} (“Reglamento de prestación de servicios”)**: Establecer requisitos comunes para una prestación segura y eficaz de servicios ANS{{pause:acronym}}
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 176/2011 sobre la información previa que debe facilitarse con miras al establecimiento y modificación de un FAB{{pause:acronym}}**: Establecer los requisitos relativos a la información previa que deberán facilitar los Estados miembros considerados a la Comisión a AESA{{pause:acronym}} a los demás Estados miembros y a las otras partes interesadas con miras al establecimiento y la modificación de un FAB{{pause:acronym}}
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 409/2013 relativo a la definición de proyectos comunes**: Definir los proyectos comunes a que se refiere el artículo 15 bis del Reglamento (CE{{pause:acronym}}) 550/2004 detallando sus mecanismos de gobernanza y estableciendo incentivos para su despliegue
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 2021/116 relativo a la creación del Proyecto Común Uno de apoyo a la ejecución del Plan Maestro ATM{{pause:acronym}} europeo**: Definir el Proyecto Común Uno (PC1) para apoyar la ejecución del Plan Maestro ATM{{pause:acronym}} europeo
 
 ### 4.3.3 Organización y utilización del espacio aéreo
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE)2024/2803 relativo a la realización del Cielo Único Europeo** Reforzar las normas de seguridad del tránsito aéreo contribuir al desarrollo sostenible del sistema de transporte aéreo y mejorar el rendimiento global de la gestión del tránsito aéreo y de los servicios de  aérea para el tránsito aéreo general en Europa
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}CE) 2150/2005 que establece normas comunes para {{PAUSEACRONYM}}FUA** Reforzar y armonizar la aplicación dentro de {{PAUSEACRONYM}}SES del concepto {{PAUSEACRONYM}}FUA definido en el Reglamento ({{PAUSEACRONYM}}CE) 551/2004.
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 255/2010 sobre Gestión de Afluencia de Tránsito Aéreo ({{PAUSEACRONYM}}ATFM)** Optimizar la capacidad disponible de la Red Europea {{PAUSEACRONYM}}ATM y mejorar los procesos {{PAUSEACRONYM}}ATFM
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 923/2012 que establece el reglamento del aire y disposiciones operativas comunes para los servicios y procedimientos {{PAUSEACRONYM}}ANS ({{PAUSEACRONYM}}SERA)** Establecer el Reglamento del Aire y las disposiciones operativas comunes para los servicios y procedimientos {{PAUSEACRONYM}}ANS aplicables a {{PAUSEACRONYM}}GAT dentro del ámbito de aplicación del Reglamento ({{PAUSEACRONYM}}CE) 551/2004.
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 2019/123 que establece disposiciones de aplicación de las funciones de la red {{PAUSEACRONYM}}ATM** Establecer las reglas relativas a las funciones de la red {{PAUSEACRONYM}}ATM así como las normas para la gestión de las crisis de la red
+-{{pause:list}} **Reglamento (UE{{pause:acronym}})2024/2803 relativo a la realización del Cielo Único Europeo**: Reforzar las normas de seguridad del tránsito aéreo contribuir al desarrollo sostenible del sistema de transporte aéreo y mejorar el rendimiento global de la gestión del tránsito aéreo y de los servicios de  aérea para el tránsito aéreo general en Europa
+-{{pause:list}} **Reglamento (CE{{pause:acronym}}) 2150/2005 que establece normas comunes para FUA{{pause:acronym}}**: Reforzar y armonizar la aplicación dentro de SES{{pause:acronym}} del concepto FUA{{pause:acronym}} definido en el Reglamento (CE{{pause:acronym}}) 551/2004.
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 255/2010 sobre Gestión de Afluencia de Tránsito Aéreo (ATFM{{pause:acronym}})**: Optimizar la capacidad disponible de la Red Europea ATM{{pause:acronym}} y mejorar los procesos ATFM{{pause:acronym}}
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 923/2012 que establece el reglamento del aire y disposiciones operativas comunes para los servicios y procedimientos ANS{{pause:acronym}} (SERA{{pause:acronym}})**: Establecer el Reglamento del Aire y las disposiciones operativas comunes para los servicios y procedimientos ANS{{pause:acronym}} aplicables a GAT{{pause:acronym}} dentro del ámbito de aplicación del Reglamento (CE{{pause:acronym}}) 551/2004.
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 2019/123 que establece disposiciones de aplicación de las funciones de la red ATM{{pause:acronym}}**: Establecer las reglas relativas a las funciones de la red ATM{{pause:acronym}} así como las normas para la gestión de las crisis de la red
 
-### 4.3.4 Normas comunes en aviación civil y constitución de {{PAUSEACRONYM}}EASA
+### 4.3.4 Normas comunes en aviación civil y constitución de EASA{{pause:acronym}}
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 2018/1139 sobre normas comunes en el ámbito de la aviación civil y por el que se crea una Agencia de la Unión Europea para la Seguridad Aérea** Establecer y mantener un nivel elevado y uniforme de seguridad y protección en la aviación civil en la {{PAUSEACRONYM}}UE
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 628/2013 sobre los métodos de trabajo que debe aplicar {{PAUSEACRONYM}}EASA en las inspecciones de normalización** Establecer los métodos de trabajo para que {{PAUSEACRONYM}}EASA supervise la aplicación por parte de las autoridades competentes de los Estados miembros del Reglamento ({{PAUSEACRONYM}}UE) 2018/1139.
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 139/2014 que establece los requisitos y procedimientos administrativos relativos a los aeródromos** Establecer disposiciones detalladas sobre la certificación y supervisión de aeródromos y operadores de aeródromos
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 2015/340 que establece requisitos técnicos y procedimientos administrativos relativos a licencias y certificados de ATCOs** Establecer los requisitos técnicos y los procedimientos administrativos relativos a las licencias y certificados de ATCOs y alumnos ATCOs
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 2017/373 que establece requisitos comunes para los proveedores {{PAUSEACRONYM}}ATM/{{PAUSEACRONYM}}ANS y otras funciones de la red {{PAUSEACRONYM}}ATM y su supervisión** Establecer los requisitos comunes para la certificación y supervisión de ANSPs y funciones de la red {{PAUSEACRONYM}}ATM
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 2018/1048 que establece los requisitos de utilización del espacio aéreo y los procedimientos operativos en relación con {{PAUSEACRONYM}}PBN**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 2019/947 relativo a las normas y procedimientos aplicables a la utilización de aeronaves no tripuladas**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 2021/664 sobre un marco regulador para el U-Space**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 2023/203 que establece requisitos relativos a la gestión de riesgos de seguridad de la información que puedan repercutir sobre la seguridad aérea**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 2023/1768 que establece normas detalladas para la certificación/declaración de sistemas y componentes {{PAUSEACRONYM}}ATM/{{PAUSEACRONYM}}ANS**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 2023/1769 que establece requisitos técnicos y procedimientos administrativos para la aprobación de organizaciones de diseño/producción de sistemas y componentes {{PAUSEACRONYM}}ATM/{{PAUSEACRONYM}}ANS**
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 2018/1139 sobre normas comunes en el ámbito de la aviación civil y por el que se crea una Agencia de la Unión Europea para la Seguridad Aérea**: Establecer y mantener un nivel elevado y uniforme de seguridad y protección en la aviación civil en la UE{{pause:acronym}}
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 628/2013 sobre los métodos de trabajo que debe aplicar EASA{{pause:acronym}} en las inspecciones de normalización**: Establecer los métodos de trabajo para que EASA{{pause:acronym}} supervise la aplicación por parte de las autoridades competentes de los Estados miembros del Reglamento (UE{{pause:acronym}}) 2018/1139.
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 139/2014 que establece los requisitos y procedimientos administrativos relativos a los aeródromos**: Establecer disposiciones detalladas sobre la certificación y supervisión de aeródromos y operadores de aeródromos
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 2015/340 que establece requisitos técnicos y procedimientos administrativos relativos a licencias y certificados de ATCOs**: Establecer los requisitos técnicos y los procedimientos administrativos relativos a las licencias y certificados de ATCOs y alumnos ATCOs
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 2017/373 que establece requisitos comunes para los proveedores ATM{{pause:acronym}}/ANS{{pause:acronym}} y otras funciones de la red ATM{{pause:acronym}} y su supervisión**: Establecer los requisitos comunes para la certificación y supervisión de ANSPs y funciones de la red ATM{{pause:acronym}}
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 2018/1048 que establece los requisitos de utilización del espacio aéreo y los procedimientos operativos en relación con PBN{{pause:acronym}}**
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 2019/947 relativo a las normas y procedimientos aplicables a la utilización de aeronaves no tripuladas**
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 2021/664 sobre un marco regulador para el U-Space**
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 2023/203 que establece requisitos relativos a la gestión de riesgos de seguridad de la información que puedan repercutir sobre la seguridad aérea**
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 2023/1768 que establece normas detalladas para la certificación/declaración de sistemas y componentes ATM{{pause:acronym}}/ANS{{pause:acronym}}**
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 2023/1769 que establece requisitos técnicos y procedimientos administrativos para la aprobación de organizaciones de diseño/producción de sistemas y componentes ATM{{pause:acronym}}/ANS{{pause:acronym}}**
 
 ### 4.3.5 Investigación de accidentes e incidentes
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 996/2010 sobre investigación y prevención de accidentes e incidentes en la aviación civil** Establecer normas comunes en el ámbito de las investigaciones de seguridad en la aviación civil europea para prevenir accidentes e incidentes
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 996/2010 sobre investigación y prevención de accidentes e incidentes en la aviación civil**: Establecer normas comunes en el ámbito de las investigaciones de seguridad en la aviación civil europea para prevenir accidentes e incidentes
 
 ### 4.3.6 Notificación de sucesos
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 376/2014 relativo a la notificación de sucesos en la aviación civil** Establecer normas que garanticen la notificación recogida almacenamiento protección intercambio difusión y análisis de la información pertinente sobre seguridad de la aviación civil
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 2015/1018 que establece una lista de clasificación de los sucesos en la aviación civil de notificación obligatoria**
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 376/2014 relativo a la notificación de sucesos en la aviación civil**: Establecer normas que garanticen la notificación recogida almacenamiento protección intercambio difusión y análisis de la información pertinente sobre seguridad de la aviación civil
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 2015/1018 que establece una lista de clasificación de los sucesos en la aviación civil de notificación obligatoria**
 
-### 4.3.7 Establecimiento de Empresa Común {{PAUSEACRONYM}}SESAR 3
+### 4.3.7 Establecimiento de Empresa Común SESAR{{pause:acronym}} 3
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Reglamento ({{PAUSEACRONYM}}UE) 2021/2085 que establece las empresas comunes en el marco de Horizonte Europa** Establecer empresas comunes para la correcta ejecución de programas de investigación de desarrollo tecnológico y de demostración de la {{PAUSEACRONYM}}UE
+-{{pause:list}} **Reglamento (UE{{pause:acronym}}) 2021/2085 que establece las empresas comunes en el marco de Horizonte Europa**: Establecer empresas comunes para la correcta ejecución de programas de investigación de desarrollo tecnológico y de demostración de la UE{{pause:acronym}}
 
 ## 4.4 RESUMEN DE LA NORMATIVA DE NACIONAL CON MAYORES IMPLICACIONES PARA ENAIRE
 
 ### 4.4.1 Normativa de primer nivel
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Ley 48/1960 de  Aérea** Disposiciones generales sobre soberanía del espacio aéreo leyes aeronáuticas y su aplicación
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Ley 21/2003 de Seguridad Aérea** Determinar las competencias de la Administración General del Estado en materia de aviación civil regular la investigación técnica de accidentes e incidentes aéreos civiles y establecer el régimen jurídico de la inspección aeronáutica
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Ley 9/2010 que regula la prestación {{PAUSEACRONYM}}ATS** Establece las obligaciones de los proveedores civiles {{PAUSEACRONYM}}ATS y se fijan determinadas condiciones laborales para CTAs
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Ley 8/2011 que establece medidas para la protección de infraestructuras críticas**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto-ley 12/2018 de seguridad de las redes y sistemas de información**
+-{{pause:list}} **Ley 48/1960 de  Aérea**: Disposiciones generales sobre soberanía del espacio aéreo leyes aeronáuticas y su aplicación
+-{{pause:list}} **Ley 21/2003 de Seguridad Aérea**: Determinar las competencias de la Administración General del Estado en materia de aviación civil regular la investigación técnica de accidentes e incidentes aéreos civiles y establecer el régimen jurídico de la inspección aeronáutica
+-{{pause:list}} **Ley 9/2010 que regula la prestación ATS{{pause:acronym}}**: Establece las obligaciones de los proveedores civiles ATS{{pause:acronym}} y se fijan determinadas condiciones laborales para CTAs
+-{{pause:list}} **Ley 8/2011 que establece medidas para la protección de infraestructuras críticas**
+-{{pause:list}} **Real Decreto-ley 12/2018 de seguridad de las redes y sistemas de información**
 
 ### 4.4.2 Marco institucional
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Ley 4/1990 de Presupuestos Generales del Estado para 1990** Se crea el Ente “Aeropuertos Españoles y  Aérea”
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto-ley 13/2010** «Aena Aeropuertos S A» asume las funciones de gestión aeroportuaria y la entidad pública empresarial «Aeropuertos Españoles y  Aérea» (actual ENAIRE) mantiene las competencias en  aérea
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Ley 18/2014** Cambio de denominación de {{PAUSEACRONYM}}AENA a ENAIRE régimen de la red de aeropuertos de interés general y reorganización de competencias
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 184/2008 que aprueba el Estatuto de {{PAUSEACRONYM}}AESA**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 186/2008 que aprueba el Estatuto de {{PAUSEACRONYM}}AEMET**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 253/2024** Desarrolla la estructura orgánica básica del Ministerio de Transportes y Movilidad Sostenible
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 160/2023 que aprueba el Estatuto de la entidad pública empresarial Enaire**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Orden de 8 de noviembre de 1979 que crea la Comisión Interministerial Defensa - Transportes (CIDETRA)**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Orden {{PAUSEACRONYM}}FOM/1525/2011** Acuerda el inicio del ejercicio efectivo de funciones y obligaciones en materia de gestión aeroportuaria por «Aena Aeropuertos {{PAUSEACRONYM}}SA»
+-{{pause:list}} **Ley 4/1990 de Presupuestos Generales del Estado para 1990**: Se crea el Ente “Aeropuertos Españoles y  Aérea”
+-{{pause:list}} **Real Decreto-ley 13/2010**: «Aena Aeropuertos S A» asume las funciones de gestión aeroportuaria y la entidad pública empresarial «Aeropuertos Españoles y  Aérea» (actual ENAIRE) mantiene las competencias en  aérea
+-{{pause:list}} **Ley 18/2014**: Cambio de denominación de AENA{{pause:acronym}} a ENAIRE régimen de la red de aeropuertos de interés general y reorganización de competencias
+-{{pause:list}} **Real Decreto 184/2008 que aprueba el Estatuto de AESA{{pause:acronym}}**
+-{{pause:list}} **Real Decreto 186/2008 que aprueba el Estatuto de AEMET{{pause:acronym}}**
+-{{pause:list}} **Real Decreto 253/2024**: Desarrolla la estructura orgánica básica del Ministerio de Transportes y Movilidad Sostenible
+-{{pause:list}} **Real Decreto 160/2023 que aprueba el Estatuto de la entidad pública empresarial Enaire**
+-{{pause:list}} **Orden de 8 de noviembre de 1979 que crea la Comisión Interministerial Defensa - Transportes (CIDETRA)**
+-{{pause:list}} **Orden FOM{{pause:acronym}}/1525/2011**: Acuerda el inicio del ejercicio efectivo de funciones y obligaciones en materia de gestión aeroportuaria por «Aena Aeropuertos SA{{pause:acronym}}»
 
 ### 4.4.3 Supervisión y certificación
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 310/2022** Completa el régimen jurídico para la aprobación de los cambios de espacio aéreo y los procedimientos civiles de vuelo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 515/2020** Regula el procedimiento de certificación de ANSPs y funciones {{PAUSEACRONYM}}ATM/{{PAUSEACRONYM}}ANS y su control normativo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 98/2009 que aprueba el Reglamento de inspección aeronáutica**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 1133/2010 que regula la provisión {{PAUSEACRONYM}}AFIS**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Orden {{PAUSEACRONYM}}FOM/3352/2010** Determina los aeropuertos gestionados por {{PAUSEACRONYM}}AENA para la selección de nuevos proveedores civiles {{PAUSEACRONYM}}ATC de aeródromo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Orden {{PAUSEACRONYM}}FOM/922/2013** Establece las directrices para determinar el contenido de los planes de actuaciones inspectoras de {{PAUSEACRONYM}}AESA
+-{{pause:list}} **Ley 39/2015 del Procedimiento Administrativo Común de las Administraciones Públicas**
+-{{pause:list}} **Real Decreto 310/2022**: Completa el régimen jurídico para la aprobación de los cambios de espacio aéreo y los procedimientos civiles de vuelo
+-{{pause:list}} **Real Decreto 515/2020**: Regula el procedimiento de certificación de ANSPs y funciones ATM{{pause:acronym}}/ANS{{pause:acronym}} y su control normativo
+-{{pause:list}} **Real Decreto 98/2009 que aprueba el Reglamento de inspección aeronáutica**
+-{{pause:list}} **Real Decreto 1133/2010 que regula la provisión AFIS{{pause:acronym}}**
+-{{pause:list}} **Orden FOM{{pause:acronym}}/3352/2010**: Determina los aeropuertos gestionados por AENA{{pause:acronym}} para la selección de nuevos proveedores civiles ATC{{pause:acronym}} de aeródromo
+-{{pause:list}} **Orden FOM{{pause:acronym}}/922/2013**: Establece las directrices para determinar el contenido de los planes de actuaciones inspectoras de AESA{{pause:acronym}}
 
 ### 4.4.4 Recursos humanos
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 1516/2009** Establece disposiciones complementarias sobre licencias y certificados de CTAs
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 1001/2010** Establece normas de seguridad aeronáutica en relación con los tiempos de actividad y los requisitos de descanso de CTAs
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Orden {{PAUSEACRONYM}}FOM/1146/2019** Completa el régimen aplicable al personal aeronáutico en materia de competencia lingüística
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Resolución de 11 de octubre de 2011 de la Dirección de {{PAUSEACRONYM}}AESA** Regula el procedimiento de canje de licencias habilitaciones y anotaciones de CTAs
+-{{pause:list}} **Real Decreto 1516/2009**: Establece disposiciones complementarias sobre licencias y certificados de CTAs
+-{{pause:list}} **Real Decreto 1001/2010**: Establece normas de seguridad aeronáutica en relación con los tiempos de actividad y los requisitos de descanso de CTAs
+-{{pause:list}} **Orden FOM{{pause:acronym}}/1146/2019**: Completa el régimen aplicable al personal aeronáutico en materia de competencia lingüística
+-{{pause:list}} **Resolución de 11 de octubre de 2011 de la Dirección de AESA{{pause:acronym}}**: Regula el procedimiento de canje de licencias habilitaciones y anotaciones de CTAs
 
 ### 4.4.5 Sistemas y operaciones
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 57/2002 que aprueba el Reglamento de Circulación Aérea**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 1238/2011 que regula el servicio {{PAUSEACRONYM}}SDP**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 1180/2018** Desarrolla el Reglamento del aire y disposiciones operativas comunes para {{PAUSEACRONYM}}ANS
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 426/2021** Modifica el Reglamento de Circulación Aérea para actualizar la aproximación en pistas paralelas
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 517/2024** Desarrolla el régimen jurídico para la utilización civil de {{PAUSEACRONYM}}UAS
+-{{pause:list}} **Real Decreto 57/2002 que aprueba el Reglamento de Circulación Aérea**
+-{{pause:list}} **Real Decreto 1238/2011 que regula el servicio SDP{{pause:acronym}}**
+-{{pause:list}} **Real Decreto 1180/2018**: Desarrolla el Reglamento del aire y disposiciones operativas comunes para ANS{{pause:acronym}}
+-{{pause:list}} **Real Decreto 426/2021**: Modifica el Reglamento de Circulación Aérea para actualizar la aproximación en pistas paralelas
+-{{pause:list}} **Real Decreto 517/2024**: Desarrolla el régimen jurídico para la utilización civil de UAS{{pause:acronym}}
 
 ### 4.4.6 Seguridad operacional
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 369/2023** Regula las servidumbres aeronáuticas de protección de la  aérea
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 389/1998** Regula la investigación de los accidentes e incidentes de aviación Civil
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 995/2013** Desarrolla la regulación de {{PAUSEACRONYM}}PESO para la Aviación Civil
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 1088/2020** Completa el régimen aplicable a la notificación de sucesos de aviación civil
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 311/2022 que regula el Esquema Nacional de Seguridad**
+-{{pause:list}} **Real Decreto 369/2023**: Regula las servidumbres aeronáuticas de protección de la  aérea
+-{{pause:list}} **Real Decreto 389/1998**: Regula la investigación de los accidentes e incidentes de aviación Civil
+-{{pause:list}} **Real Decreto 995/2013**: Desarrolla la regulación de PESO{{pause:acronym}} para la Aviación Civil
+-{{pause:list}} **Real Decreto 1088/2020**: Completa el régimen aplicable a la notificación de sucesos de aviación civil
+-{{pause:list}} **Real Decreto 311/2022 que regula el Esquema Nacional de Seguridad**
 
 ### 4.4.7 Aeropuertos
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 862/2009** Aprueba las normas técnicas de diseño y operación de aeródromos de uso público y el Reglamento de certificación y verificación de aeropuertos
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Real Decreto 1189/2011** Regula el procedimiento de emisión de los informes previos al planeamiento de infraestructuras aeronáuticas establecimiento modificación y apertura al tráfico de aeródromos autonómicos
+-{{pause:list}} **Real Decreto 862/2009**: Aprueba las normas técnicas de diseño y operación de aeródromos de uso público y el Reglamento de certificación y verificación de aeropuertos
+-{{pause:list}} **Real Decreto 1189/2011**: Regula el procedimiento de emisión de los informes previos al planeamiento de infraestructuras aeronáuticas establecimiento modificación y apertura al tráfico de aeródromos autonómicos
 
 ### 4.4.8 Regulación económica
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Decreto 1675/1972** Aprueba las tarifas a aplicar por el uso de la Red de Ayudas a la  Aérea (Eurocontrol)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Acuerdo Multilateral relativo a las tarifas por ayudas a la  aérea de 12 de febrero de 1981**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Ley 25/1998** Modificación del Régimen Legal de las Tasas Estatales y Locales
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Ley 24/2001** Medidas Fiscales Administrativas y del Orden Social (para la tasa de aproximación)
+-{{pause:list}} **Decreto 1675/1972**: Aprueba las tarifas a aplicar por el uso de la Red de Ayudas a la  Aérea (Eurocontrol)
+-{{pause:list}} **Acuerdo Multilateral relativo a las tarifas por ayudas a la  aérea de 12 de febrero de 1981**
+-{{pause:list}} **Ley 25/1998**: Modificación del Régimen Legal de las Tasas Estatales y Locales
+-{{pause:list}} **Ley 24/2001**: Medidas Fiscales Administrativas y del Orden Social (para la tasa de aproximación)
 
 ### 4.4.9 Regulación ambiental
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Ley 37/2003 del Ruido**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Ley 42/2007 del Patrimonio Natural y de la Biodiversidad**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Ley 21/2013 de evaluación ambiental**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Ley 7/2021 de cambio climático y transición energética**
+-{{pause:list}} **Ley 37/2003 del Ruido**
+-{{pause:list}} **Ley 42/2007 del Patrimonio Natural y de la Biodiversidad**
+-{{pause:list}} **Ley 21/2013 de evaluación ambiental**
+-{{pause:list}} **Ley 7/2021 de cambio climático y transición energética**

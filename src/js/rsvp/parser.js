@@ -49,17 +49,11 @@ export function parseAnnotatedMarkdown(markdown) {
 
     // Count words in section (excluding heading markers)
     const headingText = heading.title;
-    const contentText = sectionContent
-      .replace(/^#{1,3}\s+.*$/m, '') // Remove heading line
-      .replace(/{{PAUSE:[\w\s]+}}/gi, '') // Remove pause markers
-      .trim();
+    const { text: contentText, pauses } = extractPauseMarkers(sectionContent.replace(/^#{1,3}\s+.*$/m, ''));
 
     const headingWords = headingText.split(/\s+/).filter(w => w.length > 0).length;
     const contentWords = contentText.split(/\s+/).filter(w => w.length > 0).length;
     const sectionWords = headingWords + contentWords;
-
-    // Extract pause markers from section
-    const pauses = extractPauseMarkers(sectionContent);
 
     // Update heading with word info
     heading.startWordIndex = currentWordIndex;
@@ -78,7 +72,7 @@ export function parseAnnotatedMarkdown(markdown) {
 
   // If no headings exist, treat entire content as one section
   if (headings.length === 0) {
-    const contentWithoutMarkers = trimmed.replace(/{{PAUSE:[\w\s]+}}/gi, '').trim();
+    const { text: contentWithoutMarkers } = extractPauseMarkers(trimmed);
     const wordCount = contentWithoutMarkers.split(/\s+/).filter(w => w.length > 0).length;
 
     return {
@@ -124,8 +118,8 @@ export function loadSection(metadata, sectionIndex) {
   const section = metadata.sections[sectionIndex];
   const heading = metadata.headings.find(h => h.id === section.headingId);
 
-  // Remove pause markers but track their positions
-  const cleanText = section.content.replace(/{{PAUSE:[\w\s]+}}/gi, '');
+  // Use the clean text and pauses from metadata
+  const cleanText = section.content;
   const pauses = heading ? heading.pauses : [];
 
   return {
@@ -216,19 +210,36 @@ export function generateHeadingId(level, index, title) {
  *   - type: The pause type (e.g., "SHORT", "LONG", "THEMATIC")
  *   - position: Character position in the original text
  */
+/**
+ * Extracts pause markers from text content and returns clean text plus marker info.
+ * This function calculates the position of pauses relative to the text WITHOUT markers.
+ *
+ * @param {string} text - The text to search for pause markers
+ * @returns {Object} { text: string, pauses: Array<Object> }
+ */
 function extractPauseMarkers(text) {
   const pauses = [];
-  const pauseRegex = /{{PAUSE:(\w+)}}/gi;
+  const pauseRegex = /{{pause[:\s]*(\w+)\s*}+/gi;
+  let cleanText = '';
+  let lastIndex = 0;
   let match;
 
   while ((match = pauseRegex.exec(text)) !== null) {
+    // Add text since last match to cleanText
+    cleanText += text.substring(lastIndex, match.index);
+    
     pauses.push({
       type: match[1].toUpperCase(),
-      position: match.index
+      position: cleanText.length // Position in the text WITHOUT markers
     });
+    
+    lastIndex = pauseRegex.lastIndex;
   }
 
-  return pauses;
+  // Add remaining text
+  cleanText += text.substring(lastIndex);
+
+  return { text: cleanText.trim(), pauses };
 }
 
 /**
@@ -253,5 +264,5 @@ export function countWords(text) {
  * @returns {boolean} True if the marker is valid
  */
 export function isValidPauseMarker(marker) {
-  return /^{{PAUSE:\w+}}$/i.test(marker);
+  return /^{{pause[:\s]*\w+\s*}+$/i.test(marker);
 }

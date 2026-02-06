@@ -92,8 +92,8 @@ export class RSVPReader {
     const tokens = text.split(/\s+/);
 
     tokens.forEach((token) => {
-      // Find all pause markers in this token
-      const pauseRegex = /\{\{PAUSE:(\w+)\}\}/g;
+      // Find all pause markers in this token (lenient: colon optional, 1 or 2 closing braces)
+      const pauseRegex = /\{\{pause[:\s]*(\w+)\s*\}+/gi;
       const matches = [...token.matchAll(pauseRegex)];
       
       let cleanToken = token;
@@ -101,7 +101,7 @@ export class RSVPReader {
       let lastPauseType = null;
 
       if (matches.length > 0) {
-        cleanToken = token.replace(/\{\{PAUSE:\w+\}\}/g, '').trim();
+        cleanToken = token.replace(/\{\{pause[:\s]*\w*\s*\}+/gi, '').trim();
         matches.forEach(match => {
           const type = match[1];
           if (type.toUpperCase() !== 'END') {

@@ -23,31 +23,31 @@ El geoide se define como la superficie equipotencial del campo de gravedad de la
 Debido a estas irregularidades y a la complejidad de su definición la superficie de la Tierra tiende a representarse con mucha aproximación mediante un eliposide de revolución (superficie que se obtiene al girar una elipse alrededor de uno de sus ejes principales)
 Debido a estas dificultades se define la Tierra para el estudio de puntos y líneas como una esfera perfecta cuyo radio medio se mide desde el centro de la Tierra hasta la superficie del mar
 
-A continuación se detallan sus dimensiones aproximadas
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Diámetro 12.742 {{PAUSEACRONYM}}KM
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Radio 6.371 Km
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Perímetro 40.076 Km
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Volumen 108.321 X 10^10 Km3
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Superficie 510 X 10^6 Km2
+A continuación se detallan sus dimensiones aproximadas:
+-{{pause:list}} Diámetro: 12.742 KM{{pause:acronym}}
+-{{pause:list}} Radio: 6.371 Km
+-{{pause:list}} Perímetro: 40.076 Km
+-{{pause:list}} Volumen: 108.321 X 10^10 Km3
+-{{pause:list}} Superficie: 510 X 10^6 Km2
 
 ## 2.2. Puntos y líneas destacados en la tierra
 
-El conocimiento de los puntos y líneas más importantes de la Tierra permite crear sistemas de coordenadas que representan los puntos de su superficie en un mapa Se toma como referencia una forma esférica perfecta ya que facilita y simplifica el estudio de los puntos y líneas destacados en la Tierra
+El conocimiento de los puntos y líneas más importantes de la Tierra permite crear sistemas de coordenadas que representan los puntos de su superficie en un mapa Se toma como referencia una forma esférica perfecta ya que facilita y simplifica el estudio de los puntos y líneas destacados en la Tierra:
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Centro de la Tierra** es el punto de simetría de la Tierra y tiene la propiedad de que «equidista» de todos los puntos de su superficie la distancia de 6.371 Km
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Eje terrestre** es una línea ideal que atraviesa la Tierra pasando por su centro De los infinitos ejes que tiene la Tierra el más importante es el de rotación cuya prolongación pasa por un punto fijo del universo llamado estrella polar
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Polos Geográficos** se denominan así a los puntos en los que el eje de rotación de la Tierra corta a la superficie terrestre existiendo de esta manera dos polos geográficos
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Polo Norte Geográfico (PNg)
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Polo Sur Geográfico (PSg)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Círculos máximos** son unos círculos ideales definidos por planos que pasan por el centro de la Tierra La circunferencia de cualquier círculo máximo mide 40.076 Km Tienen la propiedad de dividir a la Tierra en dos partes iguales llamadas hemisferios
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Meridianos** son los infinitos semicírculos máximos que pasan por los polos de la Tierra Dos meridianos opuestos forman un círculo máximo que divide a la Tierra en dos hemisferios Los meridianos se caracterizan porque cortan perpendicularmente al Ecuador y a todos los paralelos El más importante de todos los meridianos es el llamado meridiano de origen o de Greenwich que pasa por el observatorio astronómico situado en ese distrito de la ciudad de Londres y que fue considerado como meridiano de referencia del sistema horario a partir de 1884. Tomando como referencia dicho meridiano se divide la Tierra en dos hemisferios
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Hemisferio oriental situado al ESTE del meridiano origen
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Hemisferio occidental situado al {{PAUSEACRONYM}}OESTE del meridiano origen
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Ecuador terrestre** es el círculo máximo cuyo plano es perpendicular al eje de la Tierra El Ecuador divide a la esfera terrestre en dos hemisferios
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Hemisferio norte contiene al Polo Norte
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Hemisferio sur contiene al Polo Sur
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Círculos menores** son unos círculos ideales definidos por planos que no pasan por el centro de la Tierra Tienen la propiedad de dividir a la Tierra en dos partes desiguales llamadas casquetes esféricos
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Paralelos** se denominan así a los círculos menores y paralelos al Ecuador Son perpendiculares a los meridianos y tienen la propiedad de que por cualquier punto de la superficie terrestre pasa un paralelo Los paralelos más importantes son el Círculo Polar Ártico Círculo Polar Antártico Trópico de Cáncer y el Trópico de Capricornio
+-{{pause:list}} **Centro de la Tierra**: es el punto de simetría de la Tierra y tiene la propiedad de que «equidista» de todos los puntos de su superficie la distancia de 6.371 Km
+-{{pause:list}} **Eje terrestre**: es una línea ideal que atraviesa la Tierra pasando por su centro De los infinitos ejes que tiene la Tierra el más importante es el de rotación cuya prolongación pasa por un punto fijo del universo llamado estrella polar
+-{{pause:list}} **Polos Geográficos**: se denominan así a los puntos en los que el eje de rotación de la Tierra corta a la superficie terrestre existiendo de esta manera dos polos geográficos:
+    -{{pause:list}} Polo Norte Geográfico (PNg)
+    -{{pause:list}} Polo Sur Geográfico (PSg)
+-{{pause:list}} **Círculos máximos**: son unos círculos ideales definidos por planos que pasan por el centro de la Tierra La circunferencia de cualquier círculo máximo mide 40.076 Km Tienen la propiedad de dividir a la Tierra en dos partes iguales llamadas hemisferios
+-{{pause:list}} **Meridianos**: son los infinitos semicírculos máximos que pasan por los polos de la Tierra Dos meridianos opuestos forman un círculo máximo que divide a la Tierra en dos hemisferios Los meridianos se caracterizan porque cortan perpendicularmente al Ecuador y a todos los paralelos El más importante de todos los meridianos es el llamado meridiano de origen o de Greenwich que pasa por el observatorio astronómico situado en ese distrito de la ciudad de Londres y que fue considerado como meridiano de referencia del sistema horario a partir de 1884. Tomando como referencia dicho meridiano se divide la Tierra en dos hemisferios:
+    -{{pause:list}} Hemisferio oriental: situado al ESTE del meridiano origen
+    -{{pause:list}} Hemisferio occidental: situado al OESTE{{pause:acronym}} del meridiano origen
+-{{pause:list}} **Ecuador terrestre**: es el círculo máximo cuyo plano es perpendicular al eje de la Tierra El Ecuador divide a la esfera terrestre en dos hemisferios:
+    -{{pause:list}} Hemisferio norte: contiene al Polo Norte
+    -{{pause:list}} Hemisferio sur: contiene al Polo Sur
+-{{pause:list}} **Círculos menores**: son unos círculos ideales definidos por planos que no pasan por el centro de la Tierra Tienen la propiedad de dividir a la Tierra en dos partes desiguales llamadas casquetes esféricos
+-{{pause:list}} **Paralelos**: se denominan así a los círculos menores y paralelos al Ecuador Son perpendiculares a los meridianos y tienen la propiedad de que por cualquier punto de la superficie terrestre pasa un paralelo Los paralelos más importantes son el Círculo Polar Ártico Círculo Polar Antártico Trópico de Cáncer y el Trópico de Capricornio
 
 ## 2.3. Movimientos de la tierra y sus efectos
 
@@ -68,10 +68,10 @@ a El tiempo que tarda es de 365 días La trayectoria u órbita recorrida se llam
 b Debido a que la Tierra describe una órbita elíptica la distancia entre el Sol y la Tierra no es constante siendo el punto más alejado el afelio (en torno al 4 de julio) y el punto más cercano el perihelio (4 de enero)
 c Los efectos causados son las variaciones climáticas (primavera verano otoño e invierno) debidas también a la inclinación del eje de rotación terrestre formando éste con el plano de la órbita elíptica un ángulo aproximado de 66º33´
 
-Debida a esta inclinación los efectos sobre los distintos puntos terrestres son
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Trópico de Cáncer paralelo situado a una distancia angular de 23º27´ al norte del Ecuador Sobre él los rayos solares inciden perpendicularmente una vez al año en el Solsticio de Verano éste será el día del año con más horas de luz solar en el hemisferio norte y por tanto el día más corto del año en el hemisferio sur
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Trópico de Capricornio paralelo situado a una distancia angular de 23º27´ al sur del Ecuador Sobre él los rayos solares inciden perpendicularmente una vez al año en el Solsticio de Invierno éste será el día del año con menos horas de luz solar en el hemisferio norte y por lo tanto será el día más largo del año en el hemisferio sur
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Los momentos en los que los rayos solares inciden perpendicularmente sobre el Ecuador son denominados Equinoccios y se caracterizan por la equivalencia en el número de horas nocturnas y diurnas
+Debida a esta inclinación los efectos sobre los distintos puntos terrestres son:
+-{{pause:list}} Trópico de Cáncer: paralelo situado a una distancia angular de 23º27´ al norte del Ecuador Sobre él los rayos solares inciden perpendicularmente una vez al año en el Solsticio de Verano éste será el día del año con más horas de luz solar en el hemisferio norte y por tanto el día más corto del año en el hemisferio sur
+-{{pause:list}} Trópico de Capricornio: paralelo situado a una distancia angular de 23º27´ al sur del Ecuador Sobre él los rayos solares inciden perpendicularmente una vez al año en el Solsticio de Invierno éste será el día del año con menos horas de luz solar en el hemisferio norte y por lo tanto será el día más largo del año en el hemisferio sur
+-{{pause:list}} Los momentos en los que los rayos solares inciden perpendicularmente sobre el Ecuador son denominados Equinoccios y se caracterizan por la equivalencia en el número de horas nocturnas y diurnas
 
 La combinación del movimiento de traslación y de rotación unido a la inclinación del eje de rotación causan los ciclos climáticos y atmosféricos del planeta la duración del día la dirección de los vientos predominantes la cantidad de radiación solar y el movimiento aparente de los astros
 Dichas consecuencias tienen gran importancia en la  aérea a la hora de realizar el cálculo de rutas corrección de errores previsiones meteorológicas estimación de tiempos de vuelo etc
@@ -95,16 +95,16 @@ Además de los movimientos de la Tierra hay otros conceptos relevantes en el est
 
 ### 2.4.1 Magnetismo terrestre
 
-La tierra funciona como un enorme imán creando su propio campo magnético y teniendo dos polos un polo Norte y uno Sur aunque estos polos magnéticos no están alineados con los polos geográficos
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Polo Norte Magnético Es aquel por donde entran las líneas de fuerza de Campo Magnético Terrestre
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Polo Sur Magnético Es aquel por donde salen las líneas de fuerza del Campo Magnético Terrestre
+La tierra funciona como un enorme imán creando su propio campo magnético y teniendo dos polos: un polo Norte y uno Sur aunque estos polos magnéticos no están alineados con los polos geográficos:
+-{{pause:list}} Polo Norte Magnético: Es aquel por donde entran las líneas de fuerza de Campo Magnético Terrestre
+-{{pause:list}} Polo Sur Magnético: Es aquel por donde salen las líneas de fuerza del Campo Magnético Terrestre
 
 ### 2.4.2 Declinación magnética
 
 Como los polos magnéticos apuntan siempre al norte magnético podremos decir que la declinación magnética en un punto de la Tierra es el ángulo comprendido entre el norte magnético local y el geográfico
-La declinación puede ser
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Este (E) o positiva cuando un observador situado en el lugar mirando al norte geográfico viera el norte magnético a su derecha
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Oeste (W) o negativa cuando un observador situado en el lugar mirando al norte geográfico viera el norte magnético a su izquierda
+La declinación puede ser:
+-{{pause:list}} Este (E) o positiva cuando un observador situado en el lugar mirando al norte geográfico viera el norte magnético a su derecha
+-{{pause:list}} Oeste (W) o negativa cuando un observador situado en el lugar mirando al norte geográfico viera el norte magnético a su izquierda
 
 ### 2.4.3 Rumbo
 
@@ -112,7 +112,7 @@ Se define rumbo como la distancia angular entre el norte de referencia y el eje 
 Cuando el norte de referencia sea el magnético se habla de rumbo magnético cuando sea el geográfico se habla de rumbo geográfico
 Los rumbos se denominan por medio de tres cifras que representan el ángulo respecto al origen que es el Norte geográfico o magnético según se considere y medido en sentido de giro de las agujas del reloj
 
-El cálculo de los rumbos se basará en la siguiente fórmula
+El cálculo de los rumbos se basará en la siguiente fórmula:
 **Rumbo magnético = Rumbo geográfico – declinación**
 La declinación será negativa para W y positiva para E
 
@@ -122,20 +122,20 @@ Se define como la proyección del movimiento de una aeronave persona u objeto so
 La ruta trazada sobre una carta de  hace referencia a la trayectoria que une el punto de salida con el punto de destino Podrá ser magnética o geográfica según se tome como referencia el Norte Magnético o el Geográfico
 Siempre que la  se lleve a cabo en ausencia de viento el rumbo de la aeronave coincidirá con el de la ruta que sobrevuela Sin embargo el viento en ocasiones provoca que el rumbo de la aeronave no coincida con el de la ruta sobrevolada en estos casos la aeronave puede desplazarse a través de un rumbo que no es el propio
 
-Los dos tipos de rutas más importantes son la Ruta Ortodrómica y la Ruta Loxodrómica
+Los dos tipos de rutas más importantes son: la Ruta Ortodrómica y la Ruta Loxodrómica
 
-{{PAUSE:TABLE}}| RUTA ORTODRÓMICA | RUTA LOXODRÓMICA |
+{{pause:table}}| RUTA ORTODRÓMICA | RUTA LOXODRÓMICA |
 | :--- | :--- |
 | Es arco de círculo máximo que une dos puntos sobre la superficie terrestre. | Es aquélla que describimos sobre la superficie terrestre cuando nos desplazamos de un punto a otro manteniendo un rumbo constante en la brújula. |
 | Ruta más corta entre dos puntos | Es más larga que la ortodrómica. |
 | Distancias: Para grandes distancias, la diferencia es importante, y se preferirá seguir la ortodrómica al ser más corta. | Distancias: para pequeñas distancias (rutas inferiores a 1.000 Km) la diferencia es pequeña y se suele seguir la loxodrómica, ya que permite mantener un rumbo constante sin que por ello se recorra una distancia mucho mayor. |
 | Forma ángulos distintos con cada meridiano excepto cuando dicha ruta coincide con un meridiano o con el Ecuador. | Forma el mismo ángulo con todos los meridianos |
-| Es difícil de seguir | Es fácil de seguir |{{PAUSE:END}}
+| Es difícil de seguir | Es fácil de seguir |{{pause:end}}
 
 En el ámbito aeronáutico la ortodrómica sigue siendo fundamental especialmente para a largas distancias ya que el consumo o mejor dicho el ahorro de combustible es uno de los objetivos principales del transporte aéreo
 En el ámbito aeronáutico la  loxodrómica cae en desuso Su cualidad de simplicidad en la  ha sido superada por la precisión de los sistemas modernos de 
 
-A partir de estos arcos de círculo máximo u ortodrómico se define una de las unidades de medida de longitud más utilizadas en  la **milla náutica ({{PAUSEACRONYM}}NM)** definida como la longitud recorrida en un minuto sobre un arco de círculo máximo 1NM = 1.852 km
+A partir de estos arcos de círculo máximo u ortodrómico se define una de las unidades de medida de longitud más utilizadas en : la **milla náutica (NM{{pause:acronym}})** definida como la longitud recorrida en un minuto sobre un arco de círculo máximo 1NM = 1.852 km
 
 ### 2.4.5 Deriva
 
@@ -151,43 +151,43 @@ La derrota se debe principalmente a los vientos ya que no siempre es sencillo so
 ## 2.5 Sistemas de referencia terrestre
 
 El trazado de un mapa requiere el establecimiento de un método que permita localizar puntos concretos de la superficie terrestre para su posterior representación
-Con este objetivo se han desarrollado diferentes modelos matemáticos caracterizados básicamente por
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}1. Un sistema de coordenadas que permite posicionar puntos sobre el elipsoide
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}2. Datum Conjunto de parámetros que fijan el origen la orientación y la escala del sistema de coordenadas con respecto a un elipsoide de referencia (un modelo asociado de la forma de la tierra)
+Con este objetivo se han desarrollado diferentes modelos matemáticos caracterizados básicamente por:
+1.{{pause:list}} Un sistema de coordenadas que permite posicionar puntos sobre el elipsoide
+2.{{pause:list}} Datum: Conjunto de parámetros que fijan el origen la orientación y la escala del sistema de coordenadas con respecto a un elipsoide de referencia (un modelo asociado de la forma de la tierra)
 
 ### 2.5.1 Sistema de coordenadas geográficas
 
-El sistema de coordenadas geográficas es uno de los métodos más utilizados en la determinación de puntos sobre la superficie terrestre Dicha localización se realiza mediante dos distancias angulares tomando como referencia una aproximación esférica de la Tierra Longitud y Latitud
+El sistema de coordenadas geográficas es uno de los métodos más utilizados en la determinación de puntos sobre la superficie terrestre Dicha localización se realiza mediante dos distancias angulares tomando como referencia una aproximación esférica de la Tierra: Longitud y Latitud
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Latitud** Se llama latitud de un punto de la superficie terrestre a la distancia angular medida en grados sobre un meridiano entre dicho punto y el Ecuador que es la línea que se toma como origen de latitudes Se mide en grados minutos y segundos Varía de 0º a 90º y puede ser
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Norte o positiva (N) si el punto se encuentra por encima del Ecuador
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Sur o negativa (S) si el punto se encuentra por debajo del Ecuador
+-{{pause:list}} **Latitud**: Se llama latitud de un punto de la superficie terrestre a la distancia angular medida en grados sobre un meridiano entre dicho punto y el Ecuador que es la línea que se toma como origen de latitudes Se mide en grados minutos y segundos Varía de 0º a 90º y puede ser:
+    -{{pause:list}} Norte o positiva (N): si el punto se encuentra por encima del Ecuador
+    -{{pause:list}} Sur o negativa (S): si el punto se encuentra por debajo del Ecuador
     Según la definición de latitud los puntos situados sobre el Ecuador tienen como latitud 0º y los Polos tienen como latitud 90º por tanto todos los puntos de un mismo paralelo tienen la misma latitud
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Longitud** se llama longitud de un punto a la distancia angular medida en grados sobre el Ecuador entre el meridiano del lugar y el meridiano de origen o de Greenwich Se mide en grados minutos y segundos Varía de 0º a 180º y puede ser
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Este o positiva (E) si el punto se sitúa a la derecha del meridiano origen
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Oeste o negativa (W) si el punto se sitúa a la izquierda del meridiano origen
+-{{pause:list}} **Longitud**: se llama longitud de un punto a la distancia angular medida en grados sobre el Ecuador entre el meridiano del lugar y el meridiano de origen o de Greenwich Se mide en grados minutos y segundos Varía de 0º a 180º y puede ser:
+    -{{pause:list}} Este o positiva (E): si el punto se sitúa a la derecha del meridiano origen
+    -{{pause:list}} Oeste o negativa (W): si el punto se sitúa a la izquierda del meridiano origen
     Según la definición de longitud los puntos situados en el meridiano origen tienen como longitud 0º por tanto todos los puntos situados en un mismo meridiano tienen la misma longitud
 
 ### 2.5.2 Datum WGS84
 
 La ambigüedad en el cálculo de coordenadas ocasionada por el uso de diferentes datums puso de manifiesto la necesidad de normalizar un modelo único de referencia que pudiera ser utilizado en diferentes aplicaciones
-Con este objetivo el Departamento de Defensa estadounidense desarrolló el World Geodetic System 1984 (WGS84) un sistema de referencia geodésico universal con cobertura para toda la superficie terrestre definido por los siguientes parámetros
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}1. Origen centro de masas de la Tierra
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}2. Sistemas de ejes coordenados
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Eje Z dirección del polo medio convencional terrestre definido por el {{PAUSEACRONYM}}IERS (Servicio Internacional de Rotación de la Tierra) perpendicular al plano fundamental (Ecuador medio) Coincidente con el eje medio de rotación de la Tierra
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Eje X formado por la intersección determinada por el plano del Ecuador y el meridiano de Greenwich también definido por el {{PAUSEACRONYM}}IERS
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Eje Y situado sobre el plano del Ecuador medio y a 90° a la derecha del eje X formando junto con el eje Z un triedro a derechas siendo el origen del triedro el centro de masas de la Tierra
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}3. Elipsoide WGS84 elipsoide de revolución definido por los parámetros
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Semieje mayor (a) = 6 378 137 m
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Semieje menor (b) = 6 356 752 m
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Constante de Gravitación Terrestre {{PAUSEACRONYM}}GM = (3986004.418 ± 0.008) x 10^8 m3 / s2.
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Velocidad angular W= 7292115 x 10^-11 rad/s
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Coeficiente de forma dinámica J2= -484166 85 x 10^-6.
+Con este objetivo el Departamento de Defensa estadounidense desarrolló el World Geodetic System 1984 (WGS84) un sistema de referencia geodésico universal con cobertura para toda la superficie terrestre definido por los siguientes parámetros:
+1.{{pause:list}} Origen: centro de masas de la Tierra
+2.{{pause:list}} Sistemas de ejes coordenados:
+    -{{pause:list}} Eje Z: dirección del polo medio convencional terrestre definido por el IERS{{pause:acronym}} (Servicio Internacional de Rotación de la Tierra) perpendicular al plano fundamental (Ecuador medio) Coincidente con el eje medio de rotación de la Tierra
+    -{{pause:list}} Eje X: formado por la intersección determinada por el plano del Ecuador y el meridiano de Greenwich también definido por el IERS{{pause:acronym}}
+    -{{pause:list}} Eje Y: situado sobre el plano del Ecuador medio y a 90° a la derecha del eje X formando junto con el eje Z un triedro a derechas siendo el origen del triedro el centro de masas de la Tierra
+3.{{pause:list}} Elipsoide WGS84: elipsoide de revolución definido por los parámetros:
+    -{{pause:list}} Semieje mayor (a) = 6 378 137 m
+    -{{pause:list}} Semieje menor (b) = 6 356 752 m
+    -{{pause:list}} Constante de Gravitación Terrestre: GM{{pause:acronym}} = (3986004.418 ± 0.008) x 10^8 m3 / s2.
+    -{{pause:list}} Velocidad angular: W= 7292115 x 10^-11 rad/s
+    -{{pause:list}} Coeficiente de forma dinámica: J2= -484166 85 x 10^-6.
 
-Las coordenadas aeronáuticas publicadas en el {{PAUSEACRONYM}}AIP-ESPAÑA están referidas al sistema geodésico WGS84 de acuerdo con lo establecido en el Anexo 15 de la {{PAUSEACRONYM}}OACI El Real Decreto 1071/2007 de 27 de julio adaptación del mandato de la Comisión Europea de 1999 por el que se regula el sistema geodésico de referencia oficial en España establece que se adopta el sistema ETRS89 (European Terrestrial Reference System 1989) como sistema de referencia geodésico oficial en España para la referenciación geográfica y cartográfica en el ámbito de la península Ibérica y las Islas Baleares En el caso de las islas Canarias se adopta el sistema REGCAN95.
+Las coordenadas aeronáuticas publicadas en el AIP{{pause:acronym}}-ESPAÑA están referidas al sistema geodésico WGS84 de acuerdo con lo establecido en el Anexo 15 de la OACI{{pause:acronym}} El Real Decreto 1071/2007 de 27 de julio adaptación del mandato de la Comisión Europea de 1999 por el que se regula el sistema geodésico de referencia oficial en España establece que se adopta el sistema ETRS89 (European Terrestrial Reference System 1989) como sistema de referencia geodésico oficial en España para la referenciación geográfica y cartográfica en el ámbito de la península Ibérica y las Islas Baleares En el caso de las islas Canarias se adopta el sistema REGCAN95.
 Ambos sistemas tienen asociado el elipsoide GRS80 (Sistema de Referencia Geodésico 1980) y están materializados por el marco que define la Red Geodésica Nacional por Técnicas Espaciales REGENTE y sus densificaciones Inicialmente teniendo en cuenta la exactitud requerida para los diferentes datos establecidas en el Catálogo de Datos Aeronáuticos ETRS89 y REGCAN95 se consideraron equivalentes a WGS84.
-Sin embargo debido a la deriva existente entre estos sistemas se han hallado discrepancias cada vez mayores que la exactitud requerida para algunos datos por lo que los sistemas ETRS89 y REGCAN95 no se pueden considerar válidos para la publicación de coordenadas en {{PAUSEACRONYM}}AIP ESPAÑA
+Sin embargo debido a la deriva existente entre estos sistemas se han hallado discrepancias cada vez mayores que la exactitud requerida para algunos datos por lo que los sistemas ETRS89 y REGCAN95 no se pueden considerar válidos para la publicación de coordenadas en AIP{{pause:acronym}} ESPAÑA
 
 # 3. Representación de la superficie terrestre
 
@@ -204,14 +204,14 @@ Existen diversas formas de expresar la escala pero las dos más comunes son la g
 
 Se formula mediante una fracción cuyo numerador es la medida de la distancia lineal de un objeto en su representación sobre el plano y cuyo denominador refleja la magnitud real de esa misma distancia
 **E= Longitud en el plano/ Longitud en el terreno**
-Ejemplo si la escala de un plano es 110 una distancia en el plano de 5 cm equivale a una distancia en el terreno de 5x10= 50 cm
+Ejemplo: si la escala de un plano es 1:10 una distancia en el plano de 5 cm equivale a una distancia en el terreno de 5x10= 50 cm
 Se han de utilizar siempre las mismas unidades ya que de no ser así se perderían las proporciones
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Escalas de reducción** cuando el numerador es menor que el denominador
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Una escala es grande cuando el denominador es pequeño es decir abarcan poco terreno se emplean para representar ciudades fincas caminos etc Ejemplo 15.000 110.000.
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Una escala es pequeña cuando el denominador es grande es decir abarcan mucho terreno se emplean para representar países y continentes Ejemplo 15.000.000 17.000.000.
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Escala de ampliación** Si el numerador de la fracción es mayor que el denominador
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Escala natural** corresponde a la representación de un objeto a tamaño real (11)
+-{{pause:list}} **Escalas de reducción**: cuando el numerador es menor que el denominador
+    -{{pause:list}} Una escala es grande cuando el denominador es pequeño es decir abarcan poco terreno se emplean para representar ciudades fincas caminos etc Ejemplo: 1:5.000 1:10.000.
+    -{{pause:list}} Una escala es pequeña cuando el denominador es grande es decir abarcan mucho terreno se emplean para representar países y continentes Ejemplo: 1:5.000.000 1:7.000.000.
+-{{pause:list}} **Escala de ampliación**: Si el numerador de la fracción es mayor que el denominador
+-{{pause:list}} **Escala natural**: corresponde a la representación de un objeto a tamaño real (1:1)
 
 ### 3.1.2 La escala gráfica
 
@@ -227,64 +227,64 @@ Se entiende por sistema de representación o proyección cartográfica a las tra
 Dado que no existe la posibilidad geométrica y/o analítica de transformar un área esférica en una plana sin deformarla cualquier mapa generado a partir de una proyección cartográfica llevará implícitas una serie de distorsiones respecto a la superficie real que representa que tienen que ver con las distancias entre puntos los ángulos entre líneas o curvas y la equivalencia entre áreas
 Por este motivo las proyecciones cartográficas no sólo estudian la forma de reproducir la superficie terrestre sino que también intentan minimizar en la medida de lo posible las alteraciones causadas en el proceso
 
-La elección del tipo de proyección a utilizar en un caso determinado dependerá principalmente de dos factores
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}1. La zona de la superficie terrestre que se quiera representar
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}2. La especialización del mapa es decir la finalidad para la que se construya Éste es un factor clave ya que el uso de una proyección concreta puede evitar determinadas distorsiones geométricas que dificulten la utilización práctica del mapa
+La elección del tipo de proyección a utilizar en un caso determinado dependerá principalmente de dos factores:
+1.{{pause:list}} La zona de la superficie terrestre que se quiera representar
+2.{{pause:list}} La especialización del mapa es decir la finalidad para la que se construya Éste es un factor clave ya que el uso de una proyección concreta puede evitar determinadas distorsiones geométricas que dificulten la utilización práctica del mapa
 
 ### 3.2.2 Clasificación
 
-Las proyecciones cartográficas se pueden clasificar de diferentes maneras
+Las proyecciones cartográficas se pueden clasificar de diferentes maneras:
 
 **A Atendiendo al tipo de magnitud geométrica que el mapa sea capaz de conservar respecto a la real**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Proyecciones conformes** Conserva el ángulo entre dos puntos medidos en la superficie de referencia y el mapa
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Proyecciones equivalentes** Conserva la proporcionalidad entre las áreas A este respecto es necesario aclarar que la equivalencia no es posible sin deformar considerablemente los ángulos originales Por lo tanto ninguna proyección puede ser equivalente y conforme a la vez
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Proyecciones equidistantes** Guardan la proporcionalidad entre las distancias En la práctica no existe ninguna proyección capaz de conservar esta propiedad a lo largo de todo el mapa Sin embargo puede conservarse a lo largo de determinadas líneas que se denominan automecoicas
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Proyecciones afilácticas** No poseen ninguna de las tres propiedades señaladas
+-{{pause:list}} **Proyecciones conformes**: Conserva el ángulo entre dos puntos medidos en la superficie de referencia y el mapa
+-{{pause:list}} **Proyecciones equivalentes**: Conserva la proporcionalidad entre las áreas A este respecto es necesario aclarar que la equivalencia no es posible sin deformar considerablemente los ángulos originales Por lo tanto ninguna proyección puede ser equivalente y conforme a la vez
+-{{pause:list}} **Proyecciones equidistantes**: Guardan la proporcionalidad entre las distancias En la práctica no existe ninguna proyección capaz de conservar esta propiedad a lo largo de todo el mapa Sin embargo puede conservarse a lo largo de determinadas líneas que se denominan automecoicas
+-{{pause:list}} **Proyecciones afilácticas**: No poseen ninguna de las tres propiedades señaladas
 
 Para la  aérea por ejemplo es interesante el uso de cartas que no deformen los ángulos entre rumbos o la distancia entre dos puntos Está matemáticamente demostrado que no existe ningún sistema de proyección en el que se mantengan las tres dimensiones sino solamente una de ellas
 
-**B Atendiendo a la forma de proyección**
+**B Atendiendo a la forma de proyección:**
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}1. **PROYECCIONES {{PAUSEACRONYM}}PURAS** Resultan de la verdadera proyección geométrica de la superficie terrestre o parte de ella sobre un plano o una superficie desarrollable
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Proyecciones planas o perspectivas** Resultan de la proyección geométrica de los puntos de la superficie terrestre sobre un plano
-        {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Según el lugar donde se sitúe el centro de proyección
-            {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Ortográficas el foco de proyección se encuentra fuera de la superficie terrestre y a una distancia infinita de la misma
-            {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Escenográficas el foco de proyección se encuentra fuera de la superficie terrestre a una distancia finita
-            {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Estereográficas cuando el foco de proyección se encuentra sobre la superficie terrestre
-            {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Gnomónicas el foco de proyección se encuentra en el centro de la superficie terrestre
-        {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- En función de la posición del plano de proyección
-            {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Polares el plano el cuadro es tangente a la superficie terrestre en uno de sus Polos
-            {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Ecuatoriales el plano de proyección es tangente en algún punto del Ecuador
-            {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Horizontales el plano de proyección es tangente a algún punto no significativo de la superficie terrestre
-    {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Proyecciones por desarrollo** Resultan de la proyección geométrica de los puntos de la Tierra sobre una superficie desarrollable
-        {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Dependiendo de la posición relativa de la superficie de proyección
-            {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Directa el eje de la superficie de proyección es paralelo al eje de rotación terrestre
-            {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Transversal el eje de la superficie de proyección es perpendicular al eje de rotación terrestre
-            {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Oblicua el eje de la superficie de proyección forma un ángulo comprendido entre 0º y 90º con el eje de rotación terrestre
-        {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Tipos
-            {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Cónicas aquéllas en las que la superficie de proyección es un cono tangente o secante a la superficie terrestre de referencia
-            {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Cilíndricas aquéllas en las que la superficie de proyección es un cilindro tangente o secante a la esfera
+1.{{pause:list}} **PROYECCIONES PURAS{{pause:acronym}}**: Resultan de la verdadera proyección geométrica de la superficie terrestre o parte de ella sobre un plano o una superficie desarrollable
+    -{{pause:list}} **Proyecciones planas o perspectivas**: Resultan de la proyección geométrica de los puntos de la superficie terrestre sobre un plano
+        -{{pause:list}} Según el lugar donde se sitúe el centro de proyección:
+            -{{pause:list}} Ortográficas: el foco de proyección se encuentra fuera de la superficie terrestre y a una distancia infinita de la misma
+            -{{pause:list}} Escenográficas: el foco de proyección se encuentra fuera de la superficie terrestre a una distancia finita
+            -{{pause:list}} Estereográficas: cuando el foco de proyección se encuentra sobre la superficie terrestre
+            -{{pause:list}} Gnomónicas: el foco de proyección se encuentra en el centro de la superficie terrestre
+        -{{pause:list}} En función de la posición del plano de proyección:
+            -{{pause:list}} Polares: el plano el cuadro es tangente a la superficie terrestre en uno de sus Polos
+            -{{pause:list}} Ecuatoriales: el plano de proyección es tangente en algún punto del Ecuador
+            -{{pause:list}} Horizontales: el plano de proyección es tangente a algún punto no significativo de la superficie terrestre
+    -{{pause:list}} **Proyecciones por desarrollo**: Resultan de la proyección geométrica de los puntos de la Tierra sobre una superficie desarrollable
+        -{{pause:list}} Dependiendo de la posición relativa de la superficie de proyección:
+            -{{pause:list}} Directa: el eje de la superficie de proyección es paralelo al eje de rotación terrestre
+            -{{pause:list}} Transversal: el eje de la superficie de proyección es perpendicular al eje de rotación terrestre
+            -{{pause:list}} Oblicua: el eje de la superficie de proyección forma un ángulo comprendido entre 0º y 90º con el eje de rotación terrestre
+        -{{pause:list}} Tipos:
+            -{{pause:list}} Cónicas: aquéllas en las que la superficie de proyección es un cono tangente o secante a la superficie terrestre de referencia
+            -{{pause:list}} Cilíndricas: aquéllas en las que la superficie de proyección es un cilindro tangente o secante a la esfera
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}2. **PROYECCIONES MODIFICADAS** Recurren a distintos artificios geométricos y analíticos para conseguir que una determinada proyección pura adquiera alguna propiedad que no posea originariamente con el fin de disminuir las distorsiones geométricas en determinadas áreas que resulten de interés para el uso de la carta En la actualidad la mayoría de los mapas se hacen a base de proyecciones modificadas Entre las más populares se encuentran las proyecciones de Bonne Lambert Mercator Mollweide Goode o Boggs
+2.{{pause:list}} **PROYECCIONES MODIFICADAS**: Recurren a distintos artificios geométricos y analíticos para conseguir que una determinada proyección pura adquiera alguna propiedad que no posea originariamente con el fin de disminuir las distorsiones geométricas en determinadas áreas que resulten de interés para el uso de la carta En la actualidad la mayoría de los mapas se hacen a base de proyecciones modificadas Entre las más populares se encuentran las proyecciones de Bonne Lambert Mercator Mollweide Goode o Boggs
 
 ### 3.2.3 Aplicación de las proyecciones cartográficas en la aeronáutica
 
 Las proyecciones cónicas tienen un uso muy extendido en la cartografía aeronáutica especialmente en lo referido a la  en ruta debido a la facilidad y exactitud con la que se pueden representar las trayectorias
 Las cónicas más utilizadas son las gnomónicas-directas en las que el plano cónico es tangente a la superficie terrestre a lo largo de un paralelo que se denomina estándar
-Este tipo de proyección tiene varias características importantes
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}1. Los meridianos se transforman en rectas concurrentes en el Polo y los paralelos en arcos de circunferencias concéntricas en el punto de concurrencia de los meridianos Ambos tipos de línea mantienen un ángulo constante de 90º
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}2. La proyección es conforme por su propia construcción a lo largo de toda la representación Las distorsiones lineales y superficiales son mínimas en las inmediaciones del paralelo estándar (único automecoico es decir sin deformación lineal) y aumentan según se aleja de esta línea
+Este tipo de proyección tiene varias características importantes:
+1.{{pause:list}} Los meridianos se transforman en rectas concurrentes en el Polo y los paralelos en arcos de circunferencias concéntricas en el punto de concurrencia de los meridianos Ambos tipos de línea mantienen un ángulo constante de 90º
+2.{{pause:list}} La proyección es conforme por su propia construcción a lo largo de toda la representación Las distorsiones lineales y superficiales son mínimas en las inmediaciones del paralelo estándar (único automecoico es decir sin deformación lineal) y aumentan según se aleja de esta línea
 
 La proyección cónica conforme de Lambert es una proyección modificada que se basa en la directa-gnomónica pero sustituye el cono tangente por uno secante
-Lambert calculó matemáticamente la posición de los paralelos de corte del cono de proyección con la superficie terrestre
+Lambert calculó matemáticamente la posición de los paralelos de corte del cono de proyección con la superficie terrestre:
 a consiguiéndose dos paralelos estándares automecoicos y
 b logrando que las deformaciones lineales queden reducidas a la mitad del valor absoluto de las que se producirían en el caso de usar un cono tangente
 De este modo no sólo se mantiene una constancia en la escala bastante extendida en la carta sino que además por ser ésta conforme la distorsión de las áreas es mínima
 
-La proyección cónica conforme de Lambert resulta de enorme utilidad para la  aérea por diversos motivos
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Al tratarse de una carta conforme y prácticamente equidistante se pueden medir los rumbos y las distancias directamente sobre ella con bastante precisión
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La ortodrómica se representa -con gran aproximación- por una recta por lo que el trazado de una ruta de estas características puede realizarse uniendo directamente los puntos sobre la carta
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- La loxodrómica está representada por una curva con la concavidad orientada hacia el vértice de la proyección
+La proyección cónica conforme de Lambert resulta de enorme utilidad para la  aérea por diversos motivos:
+-{{pause:list}} Al tratarse de una carta conforme y prácticamente equidistante se pueden medir los rumbos y las distancias directamente sobre ella con bastante precisión
+-{{pause:list}} La ortodrómica se representa -con gran aproximación- por una recta por lo que el trazado de una ruta de estas características puede realizarse uniendo directamente los puntos sobre la carta
+-{{pause:list}} La loxodrómica está representada por una curva con la concavidad orientada hacia el vértice de la proyección
 
 ## 3.3 Las representaciones topográficas
 
@@ -308,166 +308,166 @@ La topografía basada en curvas de nivel es muy común en determinadas cartas ae
 
 En el ámbito cartográfico y topográfico los símbolos son figuras gráficas diseñadas para identificar en el mapa o el plano correspondiente aquellos objetos y/o elementos geográficos que o bien resulten imperceptibles en la propia representación o bien proporcionen una determinada información útil para la funcionalidad demandada por parte de los usuarios
 Los símbolos se crean conforme a signos evocadores figurativos cuantitativos o ideogramas que produzcan una percepción significativa asociada a la realidad que pretenden representar
-En función de la especialización de los mapas o planos el diseño de la simbología específica se suele ajustar a las normas que dicten los organismos correspondientes en cada caso En el caso de la cartografía aeronáutica la simbología empleada está normalizada en el Anexo 4 de {{PAUSEACRONYM}}OACI
-En España por las necesidades de su cartografía ha sido necesario idear símbolos distintos a los de la {{PAUSEACRONYM}}OACI estos vienen recogidos en el {{PAUSEACRONYM}}GEN 2.3 del {{PAUSEACRONYM}}AIP-España indicados con un * que hace referencia a “No incluidos en el {{PAUSEACRONYM}}ANEXO 4 de {{PAUSEACRONYM}}OACI”
+En función de la especialización de los mapas o planos el diseño de la simbología específica se suele ajustar a las normas que dicten los organismos correspondientes en cada caso En el caso de la cartografía aeronáutica la simbología empleada está normalizada en el Anexo 4 de OACI{{pause:acronym}}
+En España por las necesidades de su cartografía ha sido necesario idear símbolos distintos a los de la OACI{{pause:acronym}} estos vienen recogidos en el GEN{{pause:acronym}} 2.3 del AIP{{pause:acronym}}-España indicados con un * que hace referencia a: “No incluidos en el ANEXO{{pause:acronym}} 4 de OACI{{pause:acronym}}”
 Además de los símbolos los mapas y planos –según su propósito- también suelen incluir nombres números siglas valores etc teniendo en cuenta la adecuación del color la forma la dimensión la orientación y la ubicación
 
 # 4. Cartas aeronáuticas
 
 La carta aeronáutica se define como la representación de una porción de tierra su relieve y construcciones diseñada especialmente para satisfacer los requisitos de la  aérea
-La seguridad de la  aérea exige el establecimiento oportuno de cartas aeronáuticas actualizadas y precisas que respondan a las necesidades actuales de la aviación En la actualidad la Organización de Aviación Civil Internacional ({{PAUSEACRONYM}}OACI) se erige como el mayor órgano de regulación mundial para la aviación civil que dictamina las normas y las recomendaciones necesarias para la seguridad eficiencia y ordenación del transporte aéreo internacional indicando que cada Estado tiene la obligación de proporcionar información del propio territorio a través de las cartas aeronáuticas
+La seguridad de la  aérea exige el establecimiento oportuno de cartas aeronáuticas actualizadas y precisas que respondan a las necesidades actuales de la aviación En la actualidad la Organización de Aviación Civil Internacional (OACI{{pause:acronym}}) se erige como el mayor órgano de regulación mundial para la aviación civil que dictamina las normas y las recomendaciones necesarias para la seguridad eficiencia y ordenación del transporte aéreo internacional indicando que cada Estado tiene la obligación de proporcionar información del propio territorio a través de las cartas aeronáuticas
 
-a Las cartas aeronáuticas se desarrollan en el Anexo 4 y en el {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}DOC}}Documento8697 de la {{PAUSEACRONYM}}OACI
-b En el Anexo 15 «Servicios de Información Aeronáutica» recoge que es el Servicio de Información Aeronáutica ({{PAUSEACRONYM}}AIS) responsable de la producción de la cartografía aeronáutica necesaria utilizada por la aviación civil tanto nacional como internacional en territorio español y en aquellas zonas donde el Estado tenga la responsabilidad de suministrar servicios de tránsito aéreo
-En España este servicio está gestionado por ENAIRE y específicamente en cuanto a la cartografía aeronáutica recae sobre la División {{PAUSEACRONYM}}AIS
+a Las cartas aeronáuticas se desarrollan en el Anexo 4 y en el Documento 8697{{pause:doc}} de la OACI{{pause:acronym}}
+b En el Anexo 15 «Servicios de Información Aeronáutica» recoge que es el Servicio de Información Aeronáutica (AIS{{pause:acronym}}) responsable de la producción de la cartografía aeronáutica necesaria utilizada por la aviación civil tanto nacional como internacional en territorio español y en aquellas zonas donde el Estado tenga la responsabilidad de suministrar servicios de tránsito aéreo
+En España este servicio está gestionado por ENAIRE y específicamente en cuanto a la cartografía aeronáutica recae sobre la División AIS{{pause:acronym}}
 
-## 4.1 Anexo 4 de {{PAUSEACRONYM}}OACI «CARTAS AERONÁUTICAS»
+## 4.1 Anexo 4 de OACI{{pause:acronym}} «CARTAS AERONÁUTICAS»
 
 ### 4.1.1 Generalidades
 
-Cada Estado es responsable de su propia producción cartográfica atendiendo a las necesidades de sus servicios de tránsito aéreo Además de cumplir con las especificaciones de {{PAUSEACRONYM}}OACI (Anexo 4 y 15) puede desarrollar cartografías específicas con el propósito de adecuar la información publicada a sus necesidades
+Cada Estado es responsable de su propia producción cartográfica atendiendo a las necesidades de sus servicios de tránsito aéreo Además de cumplir con las especificaciones de OACI{{pause:acronym}} (Anexo 4 y 15) puede desarrollar cartografías específicas con el propósito de adecuar la información publicada a sus necesidades
 El Anexo 4 establece que las cartas deben ser de interpretación rápida y deben dejar abierto el camino para posibles mejoras de diseño es preciso encontrar un equilibrio entre la uniformidad de presentación de las cartas los requisitos operacionales y la aplicación de técnicas eficaces y económicas para ello la cooperación entre estados es fundamental
 Se hace necesaria una organización cartográfica adecuada en cada Estado Todas las ramas de actividad implicadas en la realización y difusión de las cartas aeronáuticas deben estar al tanto de la relación funcional entre las cartas así como de las especificaciones y necesidades correspondientes
 
 ### 4.1.2 Aspectos recogidos en el Anexo 4
 
-El Anexo 4 intenta dar una serie de normas y métodos recomendados que permitan la unificación del formato de las cartas para todos los países miembros mediante el desarrollo de puntos como
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}1. Declaración de las diferencias que se tengan respecto a este Anexo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}2. Publicación de información relativa a la disponibilidad de las cartas
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}3. Idioma de publicación (en España en la actualidad se están empezando a hacer bilingües las cartas español e inglés)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}4. Especificaciones generales tales como requisitos de utilización de la carta título símbolos etc
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}5. Desarrollo de cada una de las cartas y todas sus especificaciones específicas
-Exhaustivamente se encuentra en el {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}DOC}}doc.8697 Manual de Cartas Aeronáuticas
+El Anexo 4 intenta dar una serie de normas y métodos recomendados que permitan la unificación del formato de las cartas para todos los países miembros mediante el desarrollo de puntos como:
+1.{{pause:list}} Declaración de las diferencias que se tengan respecto a este Anexo
+2.{{pause:list}} Publicación de información relativa a la disponibilidad de las cartas
+3.{{pause:list}} Idioma de publicación (en España en la actualidad se están empezando a hacer bilingües las cartas: español e inglés)
+4.{{pause:list}} Especificaciones generales tales como requisitos de utilización de la carta título símbolos etc
+5.{{pause:list}} Desarrollo de cada una de las cartas y todas sus especificaciones específicas
+Exhaustivamente se encuentra en el doc 8697{{pause:doc}} Manual de Cartas Aeronáuticas
 
 ## 4.2 Carácter de las cartas aeronáuticas
 
-En el Manual de Cartas Aeronáuticas ({{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}DOC}}Doc.8697 de la {{PAUSEACRONYM}}OACI) se indican los siguientes tipos de cartas atendiendo a su carácter
+En el Manual de Cartas Aeronáuticas (Doc 8697{{pause:doc}} de la OACI{{pause:acronym}}) se indican los siguientes tipos de cartas atendiendo a su carácter:
 
 ### 4.2.1 Cartas obligatorias
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Plano de Obstáculos de Aeródromo - {{PAUSEACRONYM}}OACI Tipo A
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta Topográfica para Aproximaciones de Precisión – {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de  en Ruta – {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de Aproximación por Instrumentos – {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Plano de Aeródromo / Helipuerto – {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta Aeronáutica Mundial - {{PAUSEACRONYM}}OACI 11.000.000
+-{{pause:list}} Plano de Obstáculos de Aeródromo - OACI{{pause:acronym}} Tipo A
+-{{pause:list}} Carta Topográfica para Aproximaciones de Precisión – OACI{{pause:acronym}}
+-{{pause:list}} Carta de  en Ruta – OACI{{pause:acronym}}
+-{{pause:list}} Carta de Aproximación por Instrumentos – OACI{{pause:acronym}}
+-{{pause:list}} Plano de Aeródromo / Helipuerto – OACI{{pause:acronym}}
+-{{pause:list}} Carta Aeronáutica Mundial - OACI{{pause:acronym}} 1:1.000.000
 
 ### 4.2.2 Cartas opcionales
-Sólo deben producirse si en opinión de las autoridades estatales su disponibilidad contribuiría a la seguridad regularidad y eficiencia de las operaciones de las aeronaves Estas cartas son
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Plano de Obstáculos de Aeródromo - {{PAUSEACRONYM}}OACI Tipo B
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Plano de Aeródromo para Movimientos en Tierra - {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Plano de Estacionamiento y Atraque de Aeronaves - {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta Aeronáutica - {{PAUSEACRONYM}}OACI 1500.000
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de  Aeronáutica - {{PAUSEACRONYM}}OACI Escala Pequeña
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de Posición – {{PAUSEACRONYM}}OACI
+Sólo deben producirse si en opinión de las autoridades estatales su disponibilidad contribuiría a la seguridad regularidad y eficiencia de las operaciones de las aeronaves Estas cartas son:
+-{{pause:list}} Plano de Obstáculos de Aeródromo - OACI{{pause:acronym}} Tipo B
+-{{pause:list}} Plano de Aeródromo para Movimientos en Tierra - OACI{{pause:acronym}}
+-{{pause:list}} Plano de Estacionamiento y Atraque de Aeronaves - OACI{{pause:acronym}}
+-{{pause:list}} Carta Aeronáutica - OACI{{pause:acronym}} 1:500.000
+-{{pause:list}} Carta de  Aeronáutica - OACI{{pause:acronym}} Escala Pequeña
+-{{pause:list}} Carta de Posición – OACI{{pause:acronym}}
 
 ### 4.2.3 Cartas condicionalmente necesarias
-Significa que solamente serían necesarias si se cumplen determinadas condiciones o circunstancias Estas cartas son
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Carta de Área - {{PAUSEACRONYM}}OACI** sólo si las rutas de los servicios de tránsito aéreo o los requisitos de notificación de posición son complicados y no pueden indicarse en la Carta de  en Ruta - {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Carta de Salida Normalizada - Vuelo por Instrumentos ({{PAUSEACRONYM}}SID) - {{PAUSEACRONYM}}OACI** debe producirse siempre que se haya establecido una ruta de salida normalizada de vuelo por instrumentos y ésta no puede indicarse con suficiente claridad en la Carta de Área - {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Carta de Llegada Normalizada - Vuelo por Instrumentos ({{PAUSEACRONYM}}STAR) - {{PAUSEACRONYM}}OACI** debe prepararse siempre que se haya establecido una ruta de llegada normalizada de vuelo por instrumentos y ésta no pueda indicarse con suficiente claridad en la Carta de Área - {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Carta de Aproximación Visual - {{PAUSEACRONYM}}OACI** debe prepararse para los aeródromos utilizados por la aviación civil internacional en los que solamente existen instalaciones y servicios limitados de  o en los que no se cuenta con instalaciones y servicios de radiocomunicaciones o en los que no existen otras cartas aeronáuticas adecuadas del aeródromo y de sus alrededores a escala 1500.000 o escala superior o en los que se han establecido procedimientos de aproximación visual
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- **Carta de altitud mínima de vigilancia {{PAUSEACRONYM}}ATC - {{PAUSEACRONYM}}OACI** debe prepararse cuando se ha establecido procedimientos de guía vectorial y las altitudes mínimas de guía vectorial no puedan indicarse con suficiente claridad en la Carta de área - {{PAUSEACRONYM}}OACI la Carta de salida normalizada vuelo por instrumentos ({{PAUSEACRONYM}}SID) - {{PAUSEACRONYM}}OACI o la Carta de llegada normalizada - vuelo por instrumentos ({{PAUSEACRONYM}}STAR) - {{PAUSEACRONYM}}OACI
+Significa que solamente serían necesarias si se cumplen determinadas condiciones o circunstancias Estas cartas son:
+-{{pause:list}} **Carta de Área - OACI{{pause:acronym}}**: sólo si las rutas de los servicios de tránsito aéreo o los requisitos de notificación de posición son complicados y no pueden indicarse en la Carta de  en Ruta - OACI{{pause:acronym}}
+-{{pause:list}} **Carta de Salida Normalizada - Vuelo por Instrumentos (SID{{pause:acronym}}) - OACI{{pause:acronym}}**: debe producirse siempre que se haya establecido una ruta de salida normalizada de vuelo por instrumentos y ésta no puede indicarse con suficiente claridad en la Carta de Área - OACI{{pause:acronym}}
+-{{pause:list}} **Carta de Llegada Normalizada - Vuelo por Instrumentos (STAR{{pause:acronym}}) - OACI{{pause:acronym}}**: debe prepararse siempre que se haya establecido una ruta de llegada normalizada de vuelo por instrumentos y ésta no pueda indicarse con suficiente claridad en la Carta de Área - OACI{{pause:acronym}}
+-{{pause:list}} **Carta de Aproximación Visual - OACI{{pause:acronym}}**: debe prepararse para los aeródromos utilizados por la aviación civil internacional en los que solamente existen instalaciones y servicios limitados de  o en los que no se cuenta con instalaciones y servicios de radiocomunicaciones o en los que no existen otras cartas aeronáuticas adecuadas del aeródromo y de sus alrededores a escala 1:500.000 o escala superior o en los que se han establecido procedimientos de aproximación visual
+-{{pause:list}} **Carta de altitud mínima de vigilancia ATC{{pause:acronym}} - OACI{{pause:acronym}}**: debe prepararse cuando se ha establecido procedimientos de guía vectorial y las altitudes mínimas de guía vectorial no puedan indicarse con suficiente claridad en la Carta de área - OACI{{pause:acronym}} la Carta de salida normalizada vuelo por instrumentos (SID{{pause:acronym}}) - OACI{{pause:acronym}} o la Carta de llegada normalizada - vuelo por instrumentos (STAR{{pause:acronym}}) - OACI{{pause:acronym}}
 
-Además en España se producen otras cartas (solamente deben producirse si su disponibilidad contribuiría a la seguridad regularidad y eficiencia de las operaciones) como son
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de área de cobertura radar
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de Altitud Minima de Vigilancia {{PAUSEACRONYM}}ATC (ATCSMAC) -{{PAUSEACRONYM}}OACI en {{PAUSEACRONYM}}TMA
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de Circulación {{PAUSEACRONYM}}VFR en {{PAUSEACRONYM}}TMA
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de Transición a la aproximación final - vuelo por instrumentos ({{PAUSEACRONYM}}TRAN)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de llegada vuelo por instrumentos - Descenso Continuo
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Luces aeronáuticas de superficie - en ruta
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de áreas prioritarias a evitar en vuelos particulares
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de concentración de aves
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de presencia de buitres y cigüeñas
+Además en España se producen otras cartas (solamente deben producirse si su disponibilidad contribuiría a la seguridad regularidad y eficiencia de las operaciones) como son:
+-{{pause:list}} Carta de área de cobertura radar
+-{{pause:list}} Carta de Altitud Minima de Vigilancia ATC{{pause:acronym}} (ATCSMAC) -OACI{{pause:acronym}} en TMA{{pause:acronym}}
+-{{pause:list}} Carta de Circulación VFR{{pause:acronym}} en TMA{{pause:acronym}}
+-{{pause:list}} Carta de Transición a la aproximación final - vuelo por instrumentos (TRAN{{pause:acronym}})
+-{{pause:list}} Carta de llegada vuelo por instrumentos - Descenso Continuo
+-{{pause:list}} Luces aeronáuticas de superficie - en ruta
+-{{pause:list}} Carta de áreas prioritarias a evitar en vuelos particulares
+-{{pause:list}} Carta de concentración de aves
+-{{pause:list}} Carta de presencia de buitres y cigüeñas
 
 ## 4.3 Fases del vuelo y relación entre cartas
 
 Cada carta aeronáutica tiene una finalidad específica y está orientada a ayudar al piloto a desarrollar correctamente una determinada fase del vuelo
-En cada tipo de carta se proporcionará la información apropiada a la fase correspondiente del vuelo En función de la fase del vuelo las cartas a utilizar son
+En cada tipo de carta se proporcionará la información apropiada a la fase correspondiente del vuelo En función de la fase del vuelo las cartas a utilizar son:
 
 **Fase 1. Rodaje desde el puesto de estacionamiento hasta el punto de despegue**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Plano de Estacionamiento y Atraque de Aeronaves - {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Plano de Aeródromo para Movimientos en Tierra - {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Plano e Aeródromo / Helipuerto - {{PAUSEACRONYM}}OACI
+-{{pause:list}} Plano de Estacionamiento y Atraque de Aeronaves - OACI{{pause:acronym}}
+-{{pause:list}} Plano de Aeródromo para Movimientos en Tierra - OACI{{pause:acronym}}
+-{{pause:list}} Plano e Aeródromo / Helipuerto - OACI{{pause:acronym}}
 
-**Fase 2. Despegue y ascenso hasta la estructura de rutas {{PAUSEACRONYM}}ATS**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Plano de Obstáculos de Aeródromo - {{PAUSEACRONYM}}OACI Tipo A
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de Salida Normalizada - Vuelo por Instrumentos ({{PAUSEACRONYM}}SID) - {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de altitud mínima de vigilancia {{PAUSEACRONYM}}ATC – {{PAUSEACRONYM}}OACI
+**Fase 2. Despegue y ascenso hasta la estructura de rutas ATS{{pause:acronym}}**
+-{{pause:list}} Plano de Obstáculos de Aeródromo - OACI{{pause:acronym}} Tipo A
+-{{pause:list}} Carta de Salida Normalizada - Vuelo por Instrumentos (SID{{pause:acronym}}) - OACI{{pause:acronym}}
+-{{pause:list}} Carta de altitud mínima de vigilancia ATC{{pause:acronym}} – OACI{{pause:acronym}}
 
-**Fase 3. Estructura de rutas {{PAUSEACRONYM}}ATS en ruta**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de Área - {{PAUSEACRONYM}}OACI Rutas de salida y tránsito
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de  en Ruta - {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de Área - {{PAUSEACRONYM}}OACI Rutas de llegada y tránsito
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de Circulación {{PAUSEACRONYM}}VFR
+**Fase 3. Estructura de rutas ATS{{pause:acronym}} en ruta**
+-{{pause:list}} Carta de Área - OACI{{pause:acronym}} Rutas de salida y tránsito
+-{{pause:list}} Carta de  en Ruta - OACI{{pause:acronym}}
+-{{pause:list}} Carta de Área - OACI{{pause:acronym}} Rutas de llegada y tránsito
+-{{pause:list}} Carta de Circulación VFR{{pause:acronym}}
 
-**Fase 4 Descenso hasta la aproximación**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de Llegada Normalizada - Vuelo por Instrumentos ({{PAUSEACRONYM}}STAR) - {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de Llegada Vuelo por Instrumentos - Descenso Continuo ({{PAUSEACRONYM}}CDA)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de Transición a la Aproximación Final - Vuelo por Instrumentos ({{PAUSEACRONYM}}TRAN)
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de altitud mínima de vigilancia {{PAUSEACRONYM}}ATC - {{PAUSEACRONYM}}OACI
+**Fase 4: Descenso hasta la aproximación**
+-{{pause:list}} Carta de Llegada Normalizada - Vuelo por Instrumentos (STAR{{pause:acronym}}) - OACI{{pause:acronym}}
+-{{pause:list}} Carta de Llegada Vuelo por Instrumentos - Descenso Continuo (CDA{{pause:acronym}})
+-{{pause:list}} Carta de Transición a la Aproximación Final - Vuelo por Instrumentos (TRAN{{pause:acronym}})
+-{{pause:list}} Carta de altitud mínima de vigilancia ATC{{pause:acronym}} - OACI{{pause:acronym}}
 
-**Fase 5 Aproximación para aterrizar**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de Aproximación por Instrumentos - {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta Topográfica para Aproximaciones de Precisión - {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Carta de Aproximación Visual - {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Plano de Obstáculos de Aeródromo - {{PAUSEACRONYM}}OACI Tipo A (Limitaciones de utilización)
+**Fase 5: Aproximación para aterrizar**
+-{{pause:list}} Carta de Aproximación por Instrumentos - OACI{{pause:acronym}}
+-{{pause:list}} Carta Topográfica para Aproximaciones de Precisión - OACI{{pause:acronym}}
+-{{pause:list}} Carta de Aproximación Visual - OACI{{pause:acronym}}
+-{{pause:list}} Plano de Obstáculos de Aeródromo - OACI{{pause:acronym}} Tipo A (Limitaciones de utilización)
 
-**Fase 6 Aterrizaje y rodaje hasta el puesto de estacionamiento de aeronave**
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Plano de Aeródromo / Helipuerto - {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Plano de Aeródromo para Movimientos en Tierra - {{PAUSEACRONYM}}OACI
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Plano de Estacionamiento y Atraque de Aeronaves - {{PAUSEACRONYM}}OACI
+**Fase 6: Aterrizaje y rodaje hasta el puesto de estacionamiento de aeronave**
+-{{pause:list}} Plano de Aeródromo / Helipuerto - OACI{{pause:acronym}}
+-{{pause:list}} Plano de Aeródromo para Movimientos en Tierra - OACI{{pause:acronym}}
+-{{pause:list}} Plano de Estacionamiento y Atraque de Aeronaves - OACI{{pause:acronym}}
 
-## 4.4 Cartas aeronáuticas {{PAUSEACRONYM}}OACI y específicas publicadas por España
+## 4.4 Cartas aeronáuticas OACI{{pause:acronym}} y específicas publicadas por España
 
-En este apartado se dará una breve explicación de las cartas aeronáuticas {{PAUSEACRONYM}}OACI pero solo de aquellas que España publica y de aquellas cartas que no son {{PAUSEACRONYM}}OACI pero contenidas en el {{PAUSEACRONYM}}AIP-España
+En este apartado se dará una breve explicación de las cartas aeronáuticas OACI{{pause:acronym}} pero solo de aquellas que España publica y de aquellas cartas que no son OACI{{pause:acronym}} pero contenidas en el AIP{{pause:acronym}}-España
 
-### 4.4.1 Plano de Aeródromo / Helipuerto – {{PAUSEACRONYM}}OACI
+### 4.4.1 Plano de Aeródromo / Helipuerto – OACI{{pause:acronym}}
 Proporciona información detallada sobre el movimiento de las aeronaves en el área de maniobras del aeródromo incluyendo pistas calles de rodaje y plataforma
 
-### 4.4.2 Plano de Aeródromo para Movimientos en Tierra – {{PAUSEACRONYM}}OACI
+### 4.4.2 Plano de Aeródromo para Movimientos en Tierra – OACI{{pause:acronym}}
 Este plano suplementario es necesario cuando el Plano de Aeródromo no puede mostrar con suficiente claridad el detalle de las calles de rodaje la plataforma y los puestos de estacionamiento
 
-### 4.4.3 Plano de Estacionamiento y Atraque de Aeronaves – {{PAUSEACRONYM}}OACI
+### 4.4.3 Plano de Estacionamiento y Atraque de Aeronaves – OACI{{pause:acronym}}
 Proporciona información detallada sobre las posiciones de estacionamiento y las maniobras de entrada y salida de las mismas
 
 ### 4.4.4 Plano de obstáculos de Tipo A (Limitaciones de utilización)
 Proporciona información sobre los obstáculos que limitan la carga útil de despegue
 
-### 4.4.5 Carta Topográfica para Aproximaciones de Precisión - {{PAUSEACRONYM}}OACI
+### 4.4.5 Carta Topográfica para Aproximaciones de Precisión - OACI{{pause:acronym}}
 Proporciona información detallada sobre el perfil del terreno en la parte final de la aproximación para el uso de radioaltímetros
 
-### 4.4.6 Carta de  en Ruta – {{PAUSEACRONYM}}OACI
+### 4.4.6 Carta de  en Ruta – OACI{{pause:acronym}}
 Proporciona información sobre los servicios de tránsito aéreo (rutas puntos de notificación límites de espacio aéreo etc) para la  en ruta
 
-### 4.4.7 Carta de Área – {{PAUSEACRONYM}}OACI
-Proporciona información detallada de las rutas {{PAUSEACRONYM}}ATS y ayudas a la  en áreas terminales complejas
+### 4.4.7 Carta de Área – OACI{{pause:acronym}}
+Proporciona información detallada de las rutas ATS{{pause:acronym}} y ayudas a la  en áreas terminales complejas
 
-### 4.4.8 Carta de Salida Normalizada Vuelo por Instrumentos ({{PAUSEACRONYM}}SID) – {{PAUSEACRONYM}}OACI
+### 4.4.8 Carta de Salida Normalizada Vuelo por Instrumentos (SID{{pause:acronym}}) – OACI{{pause:acronym}}
 Proporciona información sobre las rutas de salida designadas desde el aeródromo hasta la fase en ruta
 
-### 4.4.9 Carta de Llegada Normalizada Vuelo por Instrumentos ({{PAUSEACRONYM}}STAR) – {{PAUSEACRONYM}}OACI
+### 4.4.9 Carta de Llegada Normalizada Vuelo por Instrumentos (STAR{{pause:acronym}}) – OACI{{pause:acronym}}
 Proporciona información sobre las rutas de llegada designadas desde la fase en ruta hasta el punto de inicio de la aproximación
 
-### 4.4.10 Carta de Llegada Vuelo por Instrumentos – Descenso Continuo ({{PAUSEACRONYM}}CDA)
+### 4.4.10 Carta de Llegada Vuelo por Instrumentos – Descenso Continuo (CDA{{pause:acronym}})
 Proporciona información para realizar operaciones de descenso continuo reduciendo ruido y consumo de combustible
 
-### 4.4.11 Carta de Transición a la Aproximación Final - Vuelo por Instrumentos ({{PAUSEACRONYM}}TRAN)
+### 4.4.11 Carta de Transición a la Aproximación Final - Vuelo por Instrumentos (TRAN{{pause:acronym}})
 Proporciona información para la transición desde la fase de llegada hasta la aproximación final
 
-### 4.4.12 Carta de altitud mínima de vigilancia {{PAUSEACRONYM}}ATC - {{PAUSEACRONYM}}OACI
-Proporciona información sobre las altitudes mínimas que pueden asignarse por el {{PAUSEACRONYM}}ATC cuando se utiliza vigilancia radar
+### 4.4.12 Carta de altitud mínima de vigilancia ATC{{pause:acronym}} - OACI{{pause:acronym}}
+Proporciona información sobre las altitudes mínimas que pueden asignarse por el ATC{{pause:acronym}} cuando se utiliza vigilancia radar
 
-### 4.4.13 Carta de Aproximación por Instrumentos ({{PAUSEACRONYM}}IAC) - {{PAUSEACRONYM}}OACI
+### 4.4.13 Carta de Aproximación por Instrumentos (IAC{{pause:acronym}}) - OACI{{pause:acronym}}
 Proporciona la información necesaria para realizar una aproximación por instrumentos y el aterrizaje incluyendo el procedimiento de aproximación frustrada
 
-### 4.4.14 Carta de Aproximación Visual – {{PAUSEACRONYM}}OACI
+### 4.4.14 Carta de Aproximación Visual – OACI{{pause:acronym}}
 Proporciona información para realizar una aproximación visual al aeródromo
 
-### 4.4.15 Carta Aeronáutica - {{PAUSEACRONYM}}OACI 1 500.000
+### 4.4.15 Carta Aeronáutica - OACI{{pause:acronym}} 1: 500.000
 Proporciona información para la  visual y para la planificación de vuelos a baja velocidad y corta/media distancia
 
-### 4.4.16 Carta de circulación {{PAUSEACRONYM}}VFR para {{PAUSEACRONYM}}TMA
-Proporciona información específica para la circulación de vuelos {{PAUSEACRONYM}}VFR en áreas terminales
+### 4.4.16 Carta de circulación VFR{{pause:acronym}} para TMA{{pause:acronym}}
+Proporciona información específica para la circulación de vuelos VFR{{pause:acronym}} en áreas terminales
 
 ### 4.4.17 Carta de Luces aeronáuticas de superficie - en ruta
 Proporciona información sobre luces aeronáuticas de superficie que pueden servir como referencia para la 
@@ -479,15 +479,15 @@ Proporciona información sobre áreas sensibles que deben evitarse
 Proporciona información sobre áreas con riesgo de impacto con aves
 
 ## 4.5 Presentación electrónica de cartas aeronáuticas
-Las cartas aeronáuticas pueden presentarse en formato electrónico lo que facilita su actualización y uso en vuelo mediante dispositivos {{PAUSEACRONYM}}EFB (Electronic Flight Bag)
+Las cartas aeronáuticas pueden presentarse en formato electrónico lo que facilita su actualización y uso en vuelo mediante dispositivos EFB{{pause:acronym}} (Electronic Flight Bag)
 
 ## 4.6 Mantenimiento de las cartas
-Las cartas deben mantenerse actualizadas para garantizar la seguridad de las operaciones Los cambios se notifican a través del ciclo {{PAUSEACRONYM}}AIRAC (Aeronautical Information Regulation and Control)
+Las cartas deben mantenerse actualizadas para garantizar la seguridad de las operaciones Los cambios se notifican a través del ciclo AIRAC{{pause:acronym}} (Aeronautical Information Regulation and Control)
 
 # 5. BIBLIOGRAFÍA
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- {{PAUSEACRONYM}}OACI Anexo 4
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- {{PAUSEACRONYM}}OACI {{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}DOC}}Doc8697
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- {{PAUSEACRONYM}}AIP España
+-{{pause:list}} OACI{{pause:acronym}} Anexo 4
+-{{pause:list}} OACI{{pause:acronym}} Doc 8697{{pause:doc}}
+-{{pause:list}} AIP{{pause:acronym}} España
 
 # 6. ANEXOS
 (Sin contenido en el documento original)

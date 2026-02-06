@@ -1,93 +1,93 @@
 ## 1. Familiarización
-La Entidad Pública Empresarial Aeropuertos españoles y  Aérea (Aena {{PAUSEACRONYM}}EPE) creada por el artículo 82 de la Ley 4/1990 de 29 de junio de Presupuestos Generales del Estado para 1990 pasó a  denominarse  ENAIRE  por  la  Ley  18/2014  de  15  de  octubre  de  aprobación  de  medidas urgentes para el crecimiento la competitividad y la eficiencia
+La Entidad Pública Empresarial Aeropuertos españoles y  Aérea (Aena EPE{{pause:acronym}}) creada por el artículo 82 de la Ley 4/1990 de 29 de junio de Presupuestos Generales del Estado para 1990 pasó a  denominarse  ENAIRE  por  la  Ley  18/2014  de  15  de  octubre  de  aprobación  de  medidas urgentes para el crecimiento la competitividad y la eficiencia
 
 Plan de Vuelo Define la hoja de ruta de la transformación de
 
-## 1.1 Acerca de ENAIRE La   entidad   pública   empresarial   ENAIRE   adscrita   al Ministerio   de   Transportes y Movilidad Sostenible es el gestor nacional de  aérea en España sus cinco centros de control y 21 torres gestionan más de 2 millones de vuelos al año
+## 1.1 Acerca de ENAIRE La   entidad   pública   empresarial   ENAIRE   adscrita   al Ministerio   de   Transportes y Movilidad Sostenible es el gestor nacional de  aérea en España: sus cinco centros de control y 21 torres gestionan más de 2 millones de vuelos al año
 ENAIRE tiene encomendada la planificación dirección coordinación explotación conservación y administración del tráfico aéreo de los servicios de telecomunicaciones e información aeronáutica así  como  de  las  infraestructuras  instalaciones  y  redes  de  comunicaciones  del  sistema  de aérea con el objetivo de que la prestación del servicio sea segura eficaz continuada y sostenible
 
 ENAIRE es el principal proveedor de servicios de  aérea y de información aeronáutica en España el cuarto en Europa por volumen de tráfico y uno de los más importantes a nivel mundial
-Como  entidad  pública  empresarial  dependiente  del Ministerio  de  Transportes y  Movilidad Sostenible gestiona el espacio  aéreo  español 2.190.000  kilómetros  cuadrados  El  tráfico  aéreo atendido por ENAIRE más de 2 millones de vuelos transportó a más de 328 millones de personas en  el  año  2023.  A  través  de  sus  cinco  centros  de  control  21  torres  y  una  completa  red  de infraestructuras  y  equipamientos  aeronáuticos  ENAIRE  presta  los  servicios  de  tránsito  aéreo  de control  de  área  aproximación  y  aeródromo  así  como  los  de  información  de  vuelo  alerta  y
+Como  entidad  pública  empresarial  dependiente  del Ministerio  de  Transportes y  Movilidad Sostenible gestiona el espacio  aéreo  español: 2.190.000  kilómetros  cuadrados  El  tráfico  aéreo atendido por ENAIRE más de 2 millones de vuelos transportó a más de 328 millones de personas en  el  año  2023.  A  través  de  sus  cinco  centros  de  control  21  torres  y  una  completa  red  de infraestructuras  y  equipamientos  aeronáuticos  ENAIRE  presta  los  servicios  de  tránsito  aéreo  de control  de  área  aproximación  y  aeródromo  así  como  los  de  información  de  vuelo  alerta  y
 
 asesoramiento Es el proveedor de servicios de comunicaciones  y vigilancia en todo el espacio aéreo español y en los aeropuertos de la red Aena
 ENAIRE fue designada por el Estado como Operador de Infraestructuras Críticas en 2015 y como Operador de Servicios Esenciales en 2019.
 
-### 1.1.1 Estructura de Gestión Fuente https//wwwenairees/sobre_enaire/organizacion/organigrama_enaire
+### 1.1.1 Estructura de Gestión Fuente: https://wwwenairees/sobre_enaire/organizacion/organigrama_enaire
 
 ## 1.1.2 Grupo Empresarial
 ENAIRE constituye un Grupo Empresarial cuya actividad central es la gestión de la  aérea en España
-ENAIRE es también el accionista mayoritario del gestor aeroportuario Aena SA con el 51% de sus acciones
-Posee  también  accionariado  en  varias  empresas  estratégicas  entre  las  que  destacan  {{PAUSEACRONYM}}CRIDA (6666%) STARTICAL (50%) Ineco (4585%) y el Grupo {{PAUSEACRONYM}}EAD (36%)
+ENAIRE es también el accionista mayoritario del gestor aeroportuario Aena SA{{pause:acronym}} con el 51% de sus acciones
+Posee  también  accionariado  en  varias  empresas  estratégicas  entre  las  que  destacan  CRIDA{{pause:acronym}} (6666%) STARTICAL (50%) Ineco (4585%) y el Grupo EAD{{pause:acronym}} (36%)
 Además dispone de la Fundación ENAIRE dedicada a gestionar conservar y difundir el patrimonio artístico  de  la  entidad  así  como  a  fomentar  divulgar  e  impulsar  la  cultura  aeronáutica  en  la sociedad
 
 ## 1.1.3 Equipo
 La plantilla de ENAIRE la componen más de 4.200 personas trabajadoras
 ## 1
 ## 
-En ENAIRE existen dos Convenios Colectivos diferenciados
-➢ {{PAUSEACRONYM}}III Convenio Colectivo profesional de Controladores de Tránsito Aéreo ➢ I   Convenio   Colectivo   del   Grupo   Aena   (personal   no   controlador) Técnicos   de Mantenimiento Operaciones     Sistemas     Seguridad     Personas     Calidad     y Medioambiente   Comunicación   Jurídico   Sistemas   de   Información   EconómicoAdministrativo Planificación Comunicación Delineación Servicios y Mantenimiento
+En ENAIRE existen dos Convenios Colectivos diferenciados:
+➢ III{{pause:acronym}} Convenio Colectivo profesional de Controladores de Tránsito Aéreo ➢ I   Convenio   Colectivo   del   Grupo   Aena   (personal   no   controlador): Técnicos   de Mantenimiento Operaciones     Sistemas     Seguridad     Personas     Calidad     y Medioambiente   Comunicación   Jurídico   Sistemas   de   Información   EconómicoAdministrativo Planificación Comunicación Delineación Servicios y Mantenimiento
 ## General
-Personal por ocupaciones
-o Controladores aéreos alrededor del 49% de la plantilla
-o Ingeniería   y   Explotación   Técnica personal   Técnico   y   de   Ingeniería   dedicado   al mantenimiento y explotación técnica y al desarrollo de los sistemas e instalaciones de Aérea Sobre un 20%
-o Operaciones personal dedicado a información aeronáutica planes de vuelo y apoyo a la gestión de los servicios de tránsito aéreo {{PAUSEACRONYM}}ATS sobre un 5%
-o Gestión personal dedicado a tareas de administración y gestión de la empresa (incluye ambos Convenios) Alrededor de un 26%
+Personal por ocupaciones:
+o Controladores aéreos: alrededor del 49% de la plantilla
+o Ingeniería   y   Explotación   Técnica: personal   Técnico   y   de   Ingeniería   dedicado   al mantenimiento y explotación técnica y al desarrollo de los sistemas e instalaciones de Aérea Sobre un 20%
+o Operaciones: personal dedicado a información aeronáutica planes de vuelo y apoyo a la gestión de los servicios de tránsito aéreo ATS{{pause:acronym}} sobre un 5%
+o Gestión: personal dedicado a tareas de administración y gestión de la empresa (incluye ambos Convenios) Alrededor de un 26%
 ## 1
 Datos de plantilla a 31 de octubre de 2024
 
 ### 1.1.4 Grupos de interés
 
-## 1.2 Plan estratégico de ENAIRE Plan de Vuelo 2025
+## 1.2 Plan estratégico de ENAIRE: Plan de Vuelo 2025
 ## 1.2.1 Propósito
 “Cuidamos De tu vuelo para que sea seguro rápido eficiente y sostenible”
 ## 1.2.2 Misión
 “Proporcionamos servicios de  aérea con seguridad calidad eficiencia y respeto al medioambiente contribuyendo al desarrollo de la aviación y por tanto al desarrollo económico y social de España”
-### 1.2.3 Visión nuestra ambición Queremos  convertir  a ENAIRE  en  un  operador  global  líder  del  sector  de  la   aérea basándonos en las personas la innovación y la digitalización”
+### 1.2.3 Visión: nuestra ambición Queremos  convertir  a ENAIRE  en  un  operador  global  líder  del  sector  de  la   aérea basándonos en las personas la innovación y la digitalización”
 ### 1.2.4 Los Valores en ENAIRE
 
-### 1.2.5 Objetivos estratégicos
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}-  Reforzar  continuamente  la seguridad  prestando  especial  atención  a  la  cultura  de seguridad al factor humano y a la ciberseguridad ante los nuevos riesgos emergentes
+### 1.2.5 Objetivos estratégicos:
+-{{pause:list}}  Reforzar  continuamente  la seguridad  prestando  especial  atención  a  la  cultura  de seguridad al factor humano y a la ciberseguridad ante los nuevos riesgos emergentes
 
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}-  Mejorar  la calidad  escalabilidad  y  resiliencia  de  los  servicios prestados  a  través  de  la digitalización la modernización del espacio aéreo y los conceptos operativos y el refuerzo de la cultura de orientación al cliente y grupos de interés
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Contribuir a la movilidad sostenible en el sector minimizando el impacto de la actividad de ENAIRE en el medioambiente e impulsando su descarbonización
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}- Acometer el desarrollo del negocio e internacionalización de ENAIRE para posicionarnos en un entorno global y liberalizado del futuro sector de la  aérea
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}-  Asegurar  la  recuperación  económica  y  viabilidad  futura  de  ENAIRE  y  aumentar  la eficiencia productividad y por tanto la competitividad de la empresa para superar la crisis y  adaptarse  a  los  cambios  estructurales  del  sector  a  la  vez  que  se  contribuye  a  la recuperación global del sector de la aviación
-{{{{PAUSEACRONYM}}PAUSE{{PAUSEACRONYM}}LIST}}-   Acelerar   la transformación   cultural   organizativa   y   modernización de   ENAIRE aprovechando  las  nuevas  tecnologías  para  ser  más  ágiles  y  eficientes  y  desarrollando  una cultura
-## 1.3 Cielo Único Europeo Single European Sky ({{PAUSEACRONYM}}SES) La iniciativa  del  Cielo  Único  Europeo ({{PAUSEACRONYM}}SES  Single  European  Sky) creada  por  la  Comisión Europea en 1999 tiene como principal objetivo aumentar la eficiencia de la gestión del tránsito aéreo y los servicios de  aérea mediante
+-{{pause:list}}  Mejorar  la calidad  escalabilidad  y  resiliencia  de  los  servicios prestados  a  través  de  la digitalización la modernización del espacio aéreo y los conceptos operativos y el refuerzo de la cultura de orientación al cliente y grupos de interés
+-{{pause:list}} Contribuir a la movilidad sostenible en el sector minimizando el impacto de la actividad de ENAIRE en el medioambiente e impulsando su descarbonización
+-{{pause:list}} Acometer el desarrollo del negocio e internacionalización de ENAIRE para posicionarnos en un entorno global y liberalizado del futuro sector de la  aérea
+-{{pause:list}}  Asegurar  la  recuperación  económica  y  viabilidad  futura  de  ENAIRE  y  aumentar  la eficiencia productividad y por tanto la competitividad de la empresa para superar la crisis y  adaptarse  a  los  cambios  estructurales  del  sector  a  la  vez  que  se  contribuye  a  la recuperación global del sector de la aviación
+-{{pause:list}}   Acelerar   la transformación   cultural   organizativa   y   modernización de   ENAIRE aprovechando  las  nuevas  tecnologías  para  ser  más  ágiles  y  eficientes  y  desarrollando  una cultura
+## 1.3 Cielo Único Europeo Single European Sky (SES{{pause:acronym}}) La iniciativa  del  Cielo  Único  Europeo (SES{{pause:acronym}}  Single  European  Sky) creada  por  la  Comisión Europea en 1999 tiene como principal objetivo aumentar la eficiencia de la gestión del tránsito aéreo y los servicios de  aérea mediante:
 a la mejora  en  la  prestación  de  los  servicios  de    aérea en  términos  de capacidad seguridad coste-eficiencia y medio  ambiente  para  hacer  frente  a  la demanda creciente de tráfico aéreo
 b la reducción de la fragmentación del espacio aéreo europeo
 
 Ambos objetivos siguen estando vigentes tras más de 20 años
-Tras la aprobación y entrada en vigor de los paquetes {{PAUSEACRONYM}}SES I en 2004 y {{PAUSEACRONYM}}SES {{PAUSEACRONYM}}II en 2009 la Comisión Europea retomó a finales de 2020 la propuesta de nuevo texto reglamentario para SES2+ que está  actualmente  en  proceso  de  negociación  (trílogos  entre  la  Comisión  Europea  Consejo  y
+Tras la aprobación y entrada en vigor de los paquetes SES{{pause:acronym}} I en 2004 y SES{{pause:acronym}} II{{pause:acronym}} en 2009 la Comisión Europea retomó a finales de 2020 la propuesta de nuevo texto reglamentario para SES2+ que está  actualmente  en  proceso  de  negociación  (trílogos  entre  la  Comisión  Europea  Consejo  y
 ## Parlamento Europeo)
 ➢ Sistema de Rendimientos o El  sistema  europeo  de  rendimientos  requiere  a  los  Estados  (y  a  los  proveedores  de servicios  como  ENAIRE)  el  cumplimiento  de  metas  en  cuatro  áreas  (Seguridad  CosteEficiencia    Capacidad    y    Medioambiente)    con    un esquema    de    incentivos    y penalizaciones asociado
 o La normativa se despliega en períodos de cinco años (aunque el primero duró tres) el período actual se extiende desde 2020 hasta 2024.
 o RP4 (2025-2029) supondrá un importante reto en cuanto que se prevé que los objetivos planteados en las cuatro áreas de rendimientos sean ambiciosos
 
-## 1.4 Principales servicios prestados ENAIRE está certificada como organización proveedora de los siguientes servicios de aérea de acuerdo con la normativa aplicable de la Unión Europea
-### 1.4.1 Servicio de Tránsito Aéreo ({{PAUSEACRONYM}}ATS) o Previene  colisiones  y  acelera  y  mantiene  ordenadamente  el  movimiento  del tránsito aéreo
+## 1.4 Principales servicios prestados ENAIRE está certificada como organización proveedora de los siguientes servicios de aérea de acuerdo con la normativa aplicable de la Unión Europea:
+### 1.4.1 Servicio de Tránsito Aéreo (ATS{{pause:acronym}}) o Previene  colisiones  y  acelera  y  mantiene  ordenadamente  el  movimiento  del tránsito aéreo
 o Proporciona asesoramiento e información útil para la operación segura y eficaz de los vuelos
 o Notifica  y  auxilia  a  los  organismos  pertinentes  respecto  de  las  aeronaves  que necesitan ayuda y salvamento
 
-### 1.4.2 Servicio de Comunicaciones  y Vigilancia ({{PAUSEACRONYM}}CNS) o Garantiza la disponibilidad explotación y mantenimiento de los medios técnicos e instalaciones  del  sistema  de    aérea  en apoyo  a  la  operación  de aeronaves
-### 1.4.3 Servicio de Información Aeronáutica ({{PAUSEACRONYM}}AIS) o Pone  a  disposición  de  los  usuarios  del  espacio  aéreo  toda  la  información  del sistema  de    aérea relevante  para  la  planificación de  sus  operaciones de una forma adecuada actualizada y con la calidad necesaria para que éstas se desarrollen de forma segura y eficiente
-### 1.4.4 Gestión de Afluencia del Tráfico Aéreo ({{PAUSEACRONYM}}ATFM) para garantizar la regularidad de los vuelos y la capacidad en el espacio aéreo
-### 1.4.5 Gestión   del   Espacio   Aéreo   ({{PAUSEACRONYM}}ASM)   local   (táctico/nivel   3) asegurando   la coordinación con civil / militar en el desarrollo de las operaciones
-### 1.4.6 Diseño de procedimientos de vuelo ({{PAUSEACRONYM}}FPD)
+### 1.4.2 Servicio de Comunicaciones  y Vigilancia (CNS{{pause:acronym}}) o Garantiza la disponibilidad explotación y mantenimiento de los medios técnicos e instalaciones  del  sistema  de    aérea  en apoyo  a  la  operación  de aeronaves
+### 1.4.3 Servicio de Información Aeronáutica (AIS{{pause:acronym}}) o Pone  a  disposición  de  los  usuarios  del  espacio  aéreo  toda  la  información  del sistema  de    aérea relevante  para  la  planificación de  sus  operaciones de una forma adecuada actualizada y con la calidad necesaria para que éstas se desarrollen de forma segura y eficiente
+### 1.4.4 Gestión de Afluencia del Tráfico Aéreo (ATFM{{pause:acronym}}) para garantizar la regularidad de los vuelos y la capacidad en el espacio aéreo
+### 1.4.5 Gestión   del   Espacio   Aéreo   (ASM{{pause:acronym}})   local   (táctico/nivel   3) asegurando   la coordinación con civil / militar en el desarrollo de las operaciones
+### 1.4.6 Diseño de procedimientos de vuelo (FPD{{pause:acronym}})
 
-## 1.5  Formación en ENAIRE A Formación de controladores aéreos
-Formación   de   Unidad   Cursos   de   formación   para   cada   anotación   de   unidad establecida en la dependencia de {{PAUSEACRONYM}}ATC tal y como se define en el plan de formación de la unidad una vez superada esta formación podrás ejercer las atribuciones de tu Licencia en dicha unidad Consta de 3 partes
-o Formación de transición (teoría) o Pre – {{PAUSEACRONYM}}OJT Formación en simulador o {{PAUSEACRONYM}}OJT (On the job Training) Formación en el puesto de trabajo Formación  continua  Formación  de  actualización  y  conversión  que  se  impartirá  de conformidad con los requisitos incluidos en el plan de capacitación de unidad dirigida a mantener la cualificación
-Formación  de  Actualización  Necesaria  para  mantener  la  anotación  de  Unidad (procedimientos y prácticas estándar situaciones anormales y emergencias y {{PAUSEACRONYM}}PCATS (Plan de contingencia {{PAUSEACRONYM}}ATS) Factores Humanos)
-Formación de Conversión Asociada a los cambios operativos que se implementen en cada Unidad
-Para   puestos   de   trabajo   de   carrera   profesional   Formación   para   instructores evaluadores supervisores y puestos de Gestión y Libre designación
-Lingüística formación en idioma de inglés
-Otra  prevención  de  riesgos  laborales  seguridad  física  y  operacional  ofimática técnica
+## 1.5  Formación en ENAIRE A Formación de controladores aéreos:
+Formación   de   Unidad:   Cursos   de   formación   para   cada   anotación   de   unidad establecida en la dependencia de ATC{{pause:acronym}} tal y como se define en el plan de formación de la unidad una vez superada esta formación podrás ejercer las atribuciones de tu Licencia en dicha unidad Consta de 3 partes:
+o Formación de transición (teoría) o Pre – OJT{{pause:acronym}}: Formación en simulador o OJT{{pause:acronym}} (On the job Training): Formación en el puesto de trabajo Formación  continua:  Formación  de  actualización  y  conversión  que  se  impartirá  de conformidad con los requisitos incluidos en el plan de capacitación de unidad dirigida a mantener la cualificación
+Formación  de  Actualización:  Necesaria  para  mantener  la  anotación  de  Unidad (procedimientos y prácticas estándar situaciones anormales y emergencias y PCATS{{pause:acronym}} (Plan de contingencia ATS{{pause:acronym}}) Factores Humanos)
+Formación de Conversión: Asociada a los cambios operativos que se implementen en cada Unidad
+Para   puestos   de   trabajo   de   carrera   profesional:   Formación   para   instructores evaluadores supervisores y puestos de Gestión y Libre designación
+Lingüística: formación en idioma de inglés
+Otra:  prevención  de  riesgos  laborales  seguridad  física  y  operacional  ofimática técnica
 
-B Máster en Gestión de Servicios de  Aérea
-ENAIRE  junto  con  la Universidad  Politécnica  y  la  Universidad  Autónoma  de  Madrid  y  en colaboración  con  la  Organización  de  Aviación  Civil  Internacional  ({{PAUSEACRONYM}}OACI)  ofrecen  un  programa formativo  especializado  y  único  en  gestión  de  servicios  de    aérea  avalado  por  la experiencia y un sólido conocimiento del sector
-El  máster  en  Gestión  de  Servicios  de    Aérea  de  ENAIRE  cuenta  actualmente  con  la certificación de programa TRAINAIR {{PAUSEACRONYM}}PLUS de {{PAUSEACRONYM}}OACI
+B Máster en Gestión de Servicios de  Aérea:
+ENAIRE  junto  con  la Universidad  Politécnica  y  la  Universidad  Autónoma  de  Madrid  y  en colaboración  con  la  Organización  de  Aviación  Civil  Internacional  (OACI{{pause:acronym}})  ofrecen  un  programa formativo  especializado  y  único  en  gestión  de  servicios  de    aérea  avalado  por  la experiencia y un sólido conocimiento del sector
+El  máster  en  Gestión  de  Servicios  de    Aérea  de  ENAIRE  cuenta  actualmente  con  la certificación de programa TRAINAIR PLUS{{pause:acronym}} de OACI{{pause:acronym}}
 El  objetivo  del  máster  es  capacitar  a las  personas  candidatas con  competencias  técnicas operativas y de gestión especializadas para adquirir una amplia comprensión de los servicios de aérea y de los retos del sector
 Un programa orientado al management mediante la combinación de conocimientos y resolución de  casos  reales  con  el foco  puesto en  la  estrategia  y  el  desarrollo  de habilidades  de  gestión  y toma de decisiones hacia la resolución de problemas en un sector complejo en constante cambio
 Consulta nuestro folleto para conocer el programa en detalle
-El  máster  está  dirigido  principalmente  a  profesionales  de  ENAIRE  proveedores  de  servicios internacionales  y  otras  organizaciones  del  sector  compañías  aéreas  gestores  aeroportuarios reguladores  y  supervisores  autoridades  militares  proveedores  de  meteorología  así  como  la industria tecnológica consultoras y titulados universitarios interesados en el sector
+El  máster  está  dirigido  principalmente  a  profesionales  de  ENAIRE  proveedores  de  servicios internacionales  y  otras  organizaciones  del  sector:  compañías  aéreas  gestores  aeroportuarios reguladores  y  supervisores  autoridades  militares  proveedores  de  meteorología  así  como  la industria tecnológica consultoras y titulados universitarios interesados en el sector
