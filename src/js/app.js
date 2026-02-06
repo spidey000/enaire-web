@@ -38,6 +38,77 @@ const themeManager = {
   }
 };
 
+// ==================== NAVBAR MANAGEMENT ====================
+
+const navbarManager = {
+  init() {
+    this.navbar = document.querySelector('.navbar');
+    this.toggleBtn = document.getElementById('navbar-toggle');
+    this.setupListeners();
+    // Initial check
+    setTimeout(() => this.checkRoute(), 100);
+  },
+
+  setupListeners() {
+    if (this.toggleBtn) {
+      this.toggleBtn.addEventListener('click', () => this.toggle());
+    }
+    // Check route on hash change
+    window.addEventListener('hashchange', () => this.checkRoute());
+  },
+
+  toggle() {
+    if (this.navbar) {
+      if (this.navbar.classList.contains('hidden')) {
+        this.show();
+      } else {
+        this.hide();
+      }
+    }
+  },
+
+  show() {
+    if (this.navbar) {
+      this.navbar.classList.remove('hidden');
+      this.navbar.style.marginBottom = '0px';
+      
+      // Update toggle button icon/state if needed
+      if (this.toggleBtn) {
+        this.toggleBtn.classList.remove('navbar-hidden');
+      }
+    }
+  },
+
+  hide() {
+    if (this.navbar) {
+      const height = this.navbar.offsetHeight;
+      this.navbar.style.marginBottom = `-${height}px`;
+      this.navbar.classList.add('hidden');
+      
+      // Update toggle button icon/state if needed
+      if (this.toggleBtn) {
+        this.toggleBtn.classList.add('navbar-hidden');
+      }
+    }
+  },
+
+  checkRoute() {
+    // Get current page from hash
+    const hash = window.location.hash.slice(1) || 'home';
+    const page = hash.split('?')[0].replace(/^\//, ''); // Clean leading slash if any
+    
+    // Pages where navbar should be auto-hidden
+    const autoHidePages = ['quiz', 'flashcards', 'syllabus'];
+    
+    if (autoHidePages.includes(page)) {
+      this.hide();
+    } else {
+      this.show();
+    }
+  }
+};
+
+
 // ==================== AUTO-GUARDADO ====================
 
 // Guardar posición de scroll automáticamente
@@ -113,6 +184,7 @@ router.handleRoute = async function() {
 // Handle initial route
 window.addEventListener('load', () => {
   themeManager.init();
+  navbarManager.init();
   router.handleRoute();
 
   // Registrar tiempo de inicio de sesión

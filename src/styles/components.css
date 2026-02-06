@@ -6,47 +6,83 @@
   position: sticky;
   top: 0;
   z-index: 100;
+  transition: transform 0.3s ease, margin-bottom 0.3s ease;
+}
+
+.navbar.hidden {
+  transform: translateY(-100%);
 }
 
 .navbar-container {
   max-width: 1400px;
   margin: 0 auto;
-  padding: 1rem 2rem;
+  padding: 0.5rem 1rem;
+  padding-right: 3.5rem; /* Make space for the fixed toggle button */
   display: flex;
   justify-content: space-between;
   align-items: center;
 }
 
 .navbar-brand a {
-  font-size: 1.5rem;
+  font-size: 1.25rem;
   font-weight: 700;
   color: var(--primary);
 }
 
 .navbar-menu {
   display: flex;
-  gap: 2rem;
+  gap: 1rem;
 }
 
 .navbar-actions {
   display: flex;
   align-items: center;
-  gap: 1rem;
+  gap: 0.5rem;
+}
+
+/* Navbar Visibility Toggle Button */
+.navbar-toggle-btn {
+  position: fixed;
+  top: 0.5rem;
+  right: 1rem; /* Adjust position as needed, maybe closer to center or left? */
+  /* Actually, let's put it in the top right corner, but make sure it doesn't overlap with scrollbars or other fixed elements */
+  z-index: 101;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 2px 4px var(--shadow);
+  opacity: 0.7;
+  transition: all 0.3s ease;
+}
+
+.navbar-toggle-btn:hover {
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+.navbar-toggle-btn.hidden {
+  display: none;
 }
 
 .theme-toggle {
   background: var(--bg);
   border: 1px solid var(--border);
-  padding: 0.5rem;
+  padding: 0.4rem;
   border-radius: 50%;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 40px;
-  height: 40px;
+  width: 32px;
+  height: 32px;
   transition: var(--transition);
-  font-size: 1.25rem;
+  font-size: 1rem;
 }
 
 .theme-toggle:hover {
@@ -63,9 +99,10 @@
 .nav-link {
   color: var(--text);
   font-weight: 500;
-  padding: 0.5rem 1rem;
+  padding: 0.35rem 0.75rem;
   border-radius: var(--radius);
   transition: var(--transition);
+  font-size: 0.9rem;
 }
 
 .nav-link:hover,
