@@ -161,30 +161,30 @@ Un Anexo puede tener varios desarrollos en manuales:{{PAUSE:LONG}}
 
 | {{PAUSE:{{PAUSE:LONG}}ACRONYM}}ANEXO | {{PAUSE:{{PAUSE:LONG}}ACRONYM}}MANUAL {{PAUSE:{{PAUSE:LONG}}ACRONYM}}QUE LO {{PAUSE:{{PAUSE:LONG}}ACRONYM}}DESARROLLA |
 | :{{PAUSE:LONG}}--- | :{{PAUSE:LONG}}--- |
-| Anexo 2 Reglamento del aire | Doc.{{PAUSE:{{PAUSE:LONG}}LONG}} 4444 Gestión del Tránsito Aéreo |
-| | Doc.{{PAUSE:{{PAUSE:LONG}}LONG}} 7030 Procedimientos suplementarios regionales |
-| Anexo 4 Cartas aeronáuticas | Doc.{{PAUSE:{{PAUSE:LONG}}LONG}} 8697 Manual de cartas aeronáuticas |
+| Anexo 2 Reglamento del aire | {{PAUSE:{{PAUSE:LONG}}DOC}}Doc.4444 Gestión del Tránsito Aéreo |
+| | {{PAUSE:{{PAUSE:LONG}}DOC}}Doc.7030 Procedimientos suplementarios regionales |
+| Anexo 4 Cartas aeronáuticas | {{PAUSE:{{PAUSE:LONG}}DOC}}Doc.8697 Manual de cartas aeronáuticas |
 
 Algunos ejemplos son:{{PAUSE:LONG}}
 
-**Doc.{{PAUSE:{{PAUSE:LONG}}LONG}} 9750 Plan mundial de  aérea ({{PAUSE:{{PAUSE:LONG}}ACRONYM}}GANP)**
+**{{PAUSE:{{PAUSE:LONG}}DOC}}Doc.9750 Plan mundial de  aérea ({{PAUSE:{{PAUSE:LONG}}ACRONYM}}GANP)**
 
 Es un marco general que incluye los principios clave de la política de aviación civil en el periodo 2016-2030 para ayudar a las Regiones,{{PAUSE:{{PAUSE:LONG}}SHORT}} subregiones y Estados de la {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI a preparar sus planes Regionales y Estatales de  aérea.{{PAUSE:{{PAUSE:LONG}}LONG}}
 El objetivo del {{PAUSE:{{PAUSE:LONG}}ACRONYM}}GANP es aumentar la capacidad y mejorar la eficiencia del sistema mundial de aviación civil mejorando o,{{PAUSE:{{PAUSE:LONG}}SHORT}} al menos,{{PAUSE:{{PAUSE:LONG}}SHORT}} manteniendo la seguridad operacional,{{PAUSE:{{PAUSE:LONG}}SHORT}} e incluye estrategias para abordar los otros Objetivos Estratégicos de la {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI.{{PAUSE:{{PAUSE:LONG}}LONG}}
 
-**Doc.{{PAUSE:{{PAUSE:LONG}}LONG}} 4444 Gestión del tránsito aéreo ({{PAUSE:{{PAUSE:LONG}}ACRONYM}}PANS–{{PAUSE:{{PAUSE:LONG}}ACRONYM}}ATM)**
+**{{PAUSE:{{PAUSE:LONG}}DOC}}Doc.4444 Gestión del tránsito aéreo ({{PAUSE:{{PAUSE:LONG}}ACRONYM}}PANS–{{PAUSE:{{PAUSE:LONG}}ACRONYM}}ATM)**
 
 Estos procedimientos complementan las normas y métodos recomendados contenidos en los Anexos 2 y 11.
 Se especifican más detalladamente los procedimientos efectivos que han de aplicar las dependencias de los servicios de tránsito aéreo al tráfico aéreo para facilitar los diversos servicios de su ramo.{{PAUSE:{{PAUSE:LONG}}LONG}}
 
-**Doc.{{PAUSE:{{PAUSE:LONG}}LONG}} 8168 Operación de aeronaves ({{PAUSE:{{PAUSE:LONG}}ACRONYM}}PANS – {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OPS)**
+**{{PAUSE:{{PAUSE:LONG}}DOC}}Doc.8168 Operación de aeronaves ({{PAUSE:{{PAUSE:LONG}}ACRONYM}}PANS – {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OPS)**
 
 {{{{PAUSE:{{PAUSE:LONG}}ACRONYM}}PAUSE:{{PAUSE:LONG}}{{PAUSE:{{PAUSE:LONG}}ACRONYM}}LIST}}- Volumen I - Procedimientos de vuelo:{{PAUSE:LONG}} Describe los procedimientos operacionales recomendados para guía del personal de operaciones de vuelo.{{PAUSE:{{PAUSE:LONG}}LONG}} Marca la necesidad de que el personal de operaciones y las tripulaciones de vuelo respeten estrictamente los procedimientos publicados,{{PAUSE:{{PAUSE:LONG}}SHORT}} con el fin de lograr y preservar un nivel aceptable de seguridad en las operaciones.{{PAUSE:{{PAUSE:LONG}}LONG}}
 {{{{PAUSE:{{PAUSE:LONG}}ACRONYM}}PAUSE:{{PAUSE:LONG}}{{PAUSE:{{PAUSE:LONG}}ACRONYM}}LIST}}- Volumen II — Construcción de procedimientos de vuelo visual y por instrumentos:{{PAUSE:LONG}} Sirve de guía para los especialistas en procedimientos,{{PAUSE:{{PAUSE:LONG}}SHORT}} ya que:{{PAUSE:LONG}}
     {{{{PAUSE:{{PAUSE:LONG}}ACRONYM}}PAUSE:{{PAUSE:LONG}}{{PAUSE:{{PAUSE:LONG}}ACRONYM}}LIST}}- Describe las áreas esenciales y las condiciones que deben satisfacer los márgenes de franqueamiento de obstáculos,{{PAUSE:{{PAUSE:LONG}}SHORT}} para poder hacer regularmente,{{PAUSE:{{PAUSE:LONG}}SHORT}} y con seguridad,{{PAUSE:{{PAUSE:LONG}}SHORT}} vuelos por instrumentos.{{PAUSE:{{PAUSE:LONG}}LONG}}
     {{{{PAUSE:{{PAUSE:LONG}}ACRONYM}}PAUSE:{{PAUSE:LONG}}{{PAUSE:{{PAUSE:LONG}}ACRONYM}}LIST}}- Proporciona orientación básica a los Estados y a los explotadores y organismos que editan cartas de vuelo por instrumentos
 
-**Doc.{{PAUSE:{{PAUSE:LONG}}LONG}} 8126 Manual para los servicios de información aeronáutica ({{PAUSE:{{PAUSE:LONG}}ACRONYM}}AIS)**
+**{{PAUSE:{{PAUSE:LONG}}DOC}}Doc.8126 Manual para los servicios de información aeronáutica ({{PAUSE:{{PAUSE:LONG}}ACRONYM}}AIS)**
 
 Su objetivo es explicar las funciones básicas del {{PAUSE:{{PAUSE:LONG}}ACRONYM}}AIS y describir el tipo de organización básica que se requiere,{{PAUSE:{{PAUSE:LONG}}SHORT}} y ayudar a que se instruya al personal {{PAUSE:{{PAUSE:LONG}}ACRONYM}}AIS.{{PAUSE:{{PAUSE:LONG}}LONG}}
 

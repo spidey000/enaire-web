@@ -22,7 +22,7 @@ El indicador de lugar {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI es un grupo de cuatro 
 
 ## 2.2 Asignación de los indicadores de lugar
 
-a.{{PAUSE:{{PAUSE:LONG}}LONG}} Los códigos son asignados por los Estados pertinentes.{{PAUSE:{{PAUSE:LONG}}LONG}} {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI (Organización de Aviación Civil Internacional) supervisa que su formulación se realiza conforme a las normas recogidas en el documento 7910 “Indicadores de lugar”.{{PAUSE:{{PAUSE:LONG}}LONG}}
+a.{{PAUSE:{{PAUSE:LONG}}LONG}} Los códigos son asignados por los Estados pertinentes.{{PAUSE:{{PAUSE:LONG}}LONG}} {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI (Organización de Aviación Civil Internacional) supervisa que su formulación se realiza conforme a las normas recogidas en el {{PAUSE:{{PAUSE:LONG}}DOC}}documento7910 “Indicadores de lugar”.{{PAUSE:{{PAUSE:LONG}}LONG}}
 b.{{PAUSE:{{PAUSE:LONG}}LONG}} No debería volverse a asignar un indicador de lugar a otro lugar durante un período de seis meses,{{PAUSE:{{PAUSE:LONG}}SHORT}} como mínimo,{{PAUSE:{{PAUSE:LONG}}SHORT}} después de que se haya anulado su asignación previa.{{PAUSE:{{PAUSE:LONG}}LONG}}
 c.{{PAUSE:{{PAUSE:LONG}}LONG}} Los cambios de asignación de indicadores de lugar deberían promulgarse por medio de {{PAUSE:{{PAUSE:LONG}}ACRONYM}}NOTAM o {{PAUSE:{{PAUSE:LONG}}ACRONYM}}AIP con la mayor antelación posible a la fecha de efectividad.{{PAUSE:{{PAUSE:LONG}}LONG}}
 d.{{PAUSE:{{PAUSE:LONG}}LONG}} Los indicadores de lugar que se asignan a lugares en los cuales no es posible cursar mensajes por la {{PAUSE:{{PAUSE:LONG}}ACRONYM}}AFTN (al no estar conectados a dicha red),{{PAUSE:{{PAUSE:LONG}}SHORT}} deberían identificarse con un asterisco (*).{{PAUSE:{{PAUSE:LONG}}LONG}}
@@ -54,7 +54,7 @@ A continuación,{{PAUSE:{{PAUSE:LONG}}SHORT}} se muestran algunos de los indicad
 {{{{PAUSE:{{PAUSE:LONG}}ACRONYM}}PAUSE:{{PAUSE:LONG}}{{PAUSE:{{PAUSE:LONG}}ACRONYM}}LIST}}- Aeródromos en situación excepcional.{{PAUSE:{{PAUSE:LONG}}LONG}}
 {{{{PAUSE:{{PAUSE:LONG}}ACRONYM}}PAUSE:{{PAUSE:LONG}}{{PAUSE:{{PAUSE:LONG}}ACRONYM}}LIST}}- {{PAUSE:{{PAUSE:LONG}}ACRONYM}}FICC y {{PAUSE:{{PAUSE:LONG}}ACRONYM}}ACC adyacentes.{{PAUSE:{{PAUSE:LONG}}LONG}}
 
-Es necesario indicar que los datos incluidos en estas tablas están sujetos a continuas actualizaciones.{{PAUSE:{{PAUSE:LONG}}LONG}} Por este motivo,{{PAUSE:{{PAUSE:LONG}}SHORT}} para consultas específicas,{{PAUSE:{{PAUSE:LONG}}SHORT}} se recomienda acudir a la última edición del documento 7910 de {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI.{{PAUSE:{{PAUSE:LONG}}LONG}}
+Es necesario indicar que los datos incluidos en estas tablas están sujetos a continuas actualizaciones.{{PAUSE:{{PAUSE:LONG}}LONG}} Por este motivo,{{PAUSE:{{PAUSE:LONG}}SHORT}} para consultas específicas,{{PAUSE:{{PAUSE:LONG}}SHORT}} se recomienda acudir a la última edición del {{PAUSE:{{PAUSE:LONG}}DOC}}documento7910 de {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI.{{PAUSE:{{PAUSE:LONG}}LONG}}
 
 ### ESPAÑA {{PAUSE:{{PAUSE:LONG}}ACRONYM}}FIC/{{PAUSE:{{PAUSE:LONG}}ACRONYM}}ACC/{{PAUSE:{{PAUSE:LONG}}ACRONYM}}TACC
 
@@ -148,7 +148,7 @@ Es necesario indicar que los datos incluidos en estas tablas están sujetos a co
 
 ## 2.5 Identificación de oficinas en los indicadores de lugar
 
-En ciertos mensajes {{PAUSE:{{PAUSE:LONG}}ACRONYM}}AFTN será necesario poder indicar un destinatario o remitente y solo con el propio indicador de lugar no se hace.{{PAUSE:{{PAUSE:LONG}}LONG}} Para ello se añade al final del indicador de lugar el apropiado designador de tres o cuatro letras de la {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI,{{PAUSE:{{PAUSE:LONG}}SHORT}} tomado del Doc.{{PAUSE:{{PAUSE:LONG}}LONG}} 8585 — Designadores de empresas explotadoras de aeronaves,{{PAUSE:{{PAUSE:LONG}}SHORT}} de entidades oficiales y de servicios aeronáuticos.{{PAUSE:{{PAUSE:LONG}}LONG}}
+En ciertos mensajes {{PAUSE:{{PAUSE:LONG}}ACRONYM}}AFTN será necesario poder indicar un destinatario o remitente y solo con el propio indicador de lugar no se hace.{{PAUSE:{{PAUSE:LONG}}LONG}} Para ello se añade al final del indicador de lugar el apropiado designador de tres o cuatro letras de la {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI,{{PAUSE:{{PAUSE:LONG}}SHORT}} tomado del {{PAUSE:{{PAUSE:LONG}}DOC}}Doc.8585 — Designadores de empresas explotadoras de aeronaves,{{PAUSE:{{PAUSE:LONG}}SHORT}} de entidades oficiales y de servicios aeronáuticos.{{PAUSE:{{PAUSE:LONG}}LONG}}
 
 Los designadores de tres letras pueden usarse a continuación del indicador de lugar como la quinta,{{PAUSE:{{PAUSE:LONG}}SHORT}} sexta y séptima letras seguidos por la letra de relleno "X",{{PAUSE:{{PAUSE:LONG}}SHORT}} o por una letra que represente un departamento o división dentro del organismo respectivo.{{PAUSE:{{PAUSE:LONG}}LONG}}
 
@@ -184,7 +184,7 @@ Veamos unos cuantos ejemplos:{{PAUSE:LONG}}
 
 A cada designador telefónico le corresponde un designador telegráfico determinado.{{PAUSE:{{PAUSE:LONG}}LONG}}
 
-Es necesario apuntar que los datos presentados están en continua actualización,{{PAUSE:{{PAUSE:LONG}}SHORT}} ya que las compañías aéreas están sujetas a la dinámica comercial,{{PAUSE:{{PAUSE:LONG}}SHORT}} lo que provoca que haya cambios en los designadores,{{PAUSE:{{PAUSE:LONG}}SHORT}} que se eliminan o reasignan cuando desaparecen antiguas o surgen nuevas empresas.{{PAUSE:{{PAUSE:LONG}}LONG}} Por este motivo,{{PAUSE:{{PAUSE:LONG}}SHORT}} para consultas acudir a la última edición del citado documento 8585 “Designadores de empresas explotadoras de aeronaves,{{PAUSE:{{PAUSE:LONG}}SHORT}} de entidades oficiales y de servicios aeronáuticos”.{{PAUSE:{{PAUSE:LONG}}LONG}}
+Es necesario apuntar que los datos presentados están en continua actualización,{{PAUSE:{{PAUSE:LONG}}SHORT}} ya que las compañías aéreas están sujetas a la dinámica comercial,{{PAUSE:{{PAUSE:LONG}}SHORT}} lo que provoca que haya cambios en los designadores,{{PAUSE:{{PAUSE:LONG}}SHORT}} que se eliminan o reasignan cuando desaparecen antiguas o surgen nuevas empresas.{{PAUSE:{{PAUSE:LONG}}LONG}} Por este motivo,{{PAUSE:{{PAUSE:LONG}}SHORT}} para consultas acudir a la última edición del citado {{PAUSE:{{PAUSE:LONG}}DOC}}documento8585 “Designadores de empresas explotadoras de aeronaves,{{PAUSE:{{PAUSE:LONG}}SHORT}} de entidades oficiales y de servicios aeronáuticos”.{{PAUSE:{{PAUSE:LONG}}LONG}}
 
 Es importante apuntar que los designadores {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI para empresas explotadoras no coinciden con los códigos {{PAUSE:{{PAUSE:LONG}}ACRONYM}}IATA.{{PAUSE:{{PAUSE:LONG}}LONG}} Éstos últimos los utilizan las compañías aéreas para su gestión comercial y las relaciones con los clientes.{{PAUSE:{{PAUSE:LONG}}LONG}}
 
@@ -465,7 +465,7 @@ Las aeronaves se presentan en seis grupos,{{PAUSE:{{PAUSE:LONG}}SHORT}} por util
 
 ## 7.1 Designador y descripción de aeronave {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI
 
-El documento 8643 de {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI permite conocer el designador y descripción de aeronave.{{PAUSE:{{PAUSE:LONG}}LONG}}
+El {{PAUSE:{{PAUSE:LONG}}DOC}}documento8643 de {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI permite conocer el designador y descripción de aeronave.{{PAUSE:{{PAUSE:LONG}}LONG}}
 
 **Designador**
 Es un código de 2 a 4 caracteres alfanuméricos

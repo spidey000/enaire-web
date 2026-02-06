@@ -317,7 +317,7 @@ Además de los símbolos,{{PAUSE:{{PAUSE:LONG}}SHORT}} los mapas y planos –seg
 La carta aeronáutica se define como la representación de una porción de tierra,{{PAUSE:{{PAUSE:LONG}}SHORT}} su relieve y construcciones,{{PAUSE:{{PAUSE:LONG}}SHORT}} diseñada especialmente para satisfacer los requisitos de la  aérea.{{PAUSE:{{PAUSE:LONG}}LONG}}
 La seguridad de la  aérea exige el establecimiento oportuno de cartas aeronáuticas actualizadas y precisas,{{PAUSE:{{PAUSE:LONG}}SHORT}} que respondan a las necesidades actuales de la aviación.{{PAUSE:{{PAUSE:LONG}}LONG}} En la actualidad,{{PAUSE:{{PAUSE:LONG}}SHORT}} la Organización de Aviación Civil Internacional ({{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI) se erige como el mayor órgano de regulación mundial para la aviación civil,{{PAUSE:{{PAUSE:LONG}}SHORT}} que dictamina las normas y las recomendaciones necesarias para la seguridad,{{PAUSE:{{PAUSE:LONG}}SHORT}} eficiencia y ordenación del transporte aéreo internacional,{{PAUSE:{{PAUSE:LONG}}SHORT}} indicando que cada Estado tiene la obligación de proporcionar información del propio territorio a través de las cartas aeronáuticas.{{PAUSE:{{PAUSE:LONG}}LONG}}
 
-a.{{PAUSE:{{PAUSE:LONG}}LONG}} Las cartas aeronáuticas se desarrollan en el Anexo 4 y en el Documento 8697 de la {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI.{{PAUSE:{{PAUSE:LONG}}LONG}}
+a.{{PAUSE:{{PAUSE:LONG}}LONG}} Las cartas aeronáuticas se desarrollan en el Anexo 4 y en el {{PAUSE:{{PAUSE:LONG}}DOC}}Documento8697 de la {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI.{{PAUSE:{{PAUSE:LONG}}LONG}}
 b.{{PAUSE:{{PAUSE:LONG}}LONG}} En el Anexo 15 «Servicios de Información Aeronáutica» recoge que es el Servicio de Información Aeronáutica ({{PAUSE:{{PAUSE:LONG}}ACRONYM}}AIS) responsable de la producción de la cartografía aeronáutica necesaria utilizada por la aviación civil,{{PAUSE:{{PAUSE:LONG}}SHORT}} tanto nacional como internacional,{{PAUSE:{{PAUSE:LONG}}SHORT}} en territorio español y en aquellas zonas donde el Estado tenga la responsabilidad de suministrar servicios de tránsito aéreo.{{PAUSE:{{PAUSE:LONG}}LONG}}
 En España este servicio está gestionado por {{PAUSE:{{PAUSE:LONG}}ACRONYM}}ENAIRE y,{{PAUSE:{{PAUSE:LONG}}SHORT}} específicamente en cuanto a la cartografía aeronáutica,{{PAUSE:{{PAUSE:LONG}}SHORT}} recae sobre la División {{PAUSE:{{PAUSE:LONG}}ACRONYM}}AIS.{{PAUSE:{{PAUSE:LONG}}LONG}}
 
@@ -337,11 +337,11 @@ El Anexo 4 intenta dar una serie de normas y métodos recomendados que permitan 
 {{{{PAUSE:{{PAUSE:LONG}}ACRONYM}}PAUSE:{{PAUSE:LONG}}{{PAUSE:{{PAUSE:LONG}}ACRONYM}}LIST}}3. Idioma de publicación (en España en la actualidad se están empezando a hacer bilingües las cartas:{{PAUSE:LONG}} español e inglés).{{PAUSE:{{PAUSE:LONG}}LONG}}
 {{{{PAUSE:{{PAUSE:LONG}}ACRONYM}}PAUSE:{{PAUSE:LONG}}{{PAUSE:{{PAUSE:LONG}}ACRONYM}}LIST}}4. Especificaciones generales tales como requisitos de utilización de la carta,{{PAUSE:{{PAUSE:LONG}}SHORT}} título,{{PAUSE:{{PAUSE:LONG}}SHORT}} símbolos,{{PAUSE:{{PAUSE:LONG}}SHORT}} etc.{{PAUSE:{{PAUSE:LONG}}LONG}}
 {{{{PAUSE:{{PAUSE:LONG}}ACRONYM}}PAUSE:{{PAUSE:LONG}}{{PAUSE:{{PAUSE:LONG}}ACRONYM}}LIST}}5. Desarrollo de cada una de las cartas y todas sus especificaciones específicas.{{PAUSE:{{PAUSE:LONG}}LONG}}
-Exhaustivamente se encuentra en el doc.{{PAUSE:{{PAUSE:LONG}}LONG}} 8697 Manual de Cartas Aeronáuticas.{{PAUSE:{{PAUSE:LONG}}LONG}}
+Exhaustivamente se encuentra en el {{PAUSE:{{PAUSE:LONG}}DOC}}doc.8697 Manual de Cartas Aeronáuticas.{{PAUSE:{{PAUSE:LONG}}LONG}}
 
 ## 4.2 Carácter de las cartas aeronáuticas
 
-En el Manual de Cartas Aeronáuticas (Doc.{{PAUSE:{{PAUSE:LONG}}LONG}} 8697 de la {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI) se indican los siguientes tipos de cartas atendiendo a su carácter:{{PAUSE:LONG}}
+En el Manual de Cartas Aeronáuticas ({{PAUSE:{{PAUSE:LONG}}DOC}}Doc.8697 de la {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI) se indican los siguientes tipos de cartas atendiendo a su carácter:{{PAUSE:LONG}}
 
 ### 4.2.1 Cartas obligatorias
 {{{{PAUSE:{{PAUSE:LONG}}ACRONYM}}PAUSE:{{PAUSE:LONG}}{{PAUSE:{{PAUSE:LONG}}ACRONYM}}LIST}}- Plano de Obstáculos de Aeródromo - {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI Tipo A
@@ -486,7 +486,7 @@ Las cartas deben mantenerse actualizadas para garantizar la seguridad de las ope
 
 # 5. BIBLIOGRAFÍA
 {{{{PAUSE:{{PAUSE:LONG}}ACRONYM}}PAUSE:{{PAUSE:LONG}}{{PAUSE:{{PAUSE:LONG}}ACRONYM}}LIST}}- {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI Anexo 4
-{{{{PAUSE:{{PAUSE:LONG}}ACRONYM}}PAUSE:{{PAUSE:LONG}}{{PAUSE:{{PAUSE:LONG}}ACRONYM}}LIST}}- {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI Doc 8697
+{{{{PAUSE:{{PAUSE:LONG}}ACRONYM}}PAUSE:{{PAUSE:LONG}}{{PAUSE:{{PAUSE:LONG}}ACRONYM}}LIST}}- {{PAUSE:{{PAUSE:LONG}}ACRONYM}}OACI {{PAUSE:{{PAUSE:LONG}}DOC}}Doc8697
 {{{{PAUSE:{{PAUSE:LONG}}ACRONYM}}PAUSE:{{PAUSE:LONG}}{{PAUSE:{{PAUSE:LONG}}ACRONYM}}LIST}}- {{PAUSE:{{PAUSE:LONG}}ACRONYM}}AIP España
 
 # 6. {{PAUSE:{{PAUSE:LONG}}ACRONYM}}ANEXOS

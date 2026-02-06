@@ -28,7 +28,13 @@ def annotate_text(text):
         # \b([A-Z]{2,}[A-Z0-9]+)\b matches e.g. OACI, A320, but not A (too short)
         line = re.sub(r'\b([A-Z]{3,})\b', r'{{PAUSE:ACRONYM}}\1', line)
         
-        # 3. Punctuation
+        # 3. OACI Docs (4 digits)
+        # Matches "Doc. 4444", "Doc 4444", "Documento 4444"
+        # Joins them (removes space) and adds pause marker
+        # We do this before punctuation to prevent splitting "Doc." from the number
+        line = re.sub(r'\b(Doc\.?|Documento)\s+(\d{4})\b', r'{{PAUSE:DOC}}\1\2', line, flags=re.IGNORECASE)
+        
+        # 4. Punctuation
         # Periods: Not preceded/followed by digit (3.5), not part of ellipsis (...)
         # Using negative lookbehind/ahead for digits and dots
         line = re.sub(r'(?<![\d\.])\.(?![\d\.])', r'.{{PAUSE:LONG}}', line)
