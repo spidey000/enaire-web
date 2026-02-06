@@ -68,15 +68,8 @@ export class RSVPUI {
    * @private
    */
   _onWordChange(word, index) {
-    // Update position display
-    const positionEl = document.getElementById('spritzPosition');
-    const totalEl = document.getElementById('spritzTotal');
-    if (positionEl) positionEl.textContent = index + 1; // 1-based display
-    if (totalEl) totalEl.textContent = this.reader.words.length;
-
-    // Update slider
-    const slider = document.getElementById('spritzNavSlider');
-    if (slider) slider.value = index;
+    // Update display (position, slider, time left)
+    this._updateDisplay();
 
     // Debounced save position
     this._debouncedSave();
@@ -110,6 +103,7 @@ export class RSVPUI {
               </div>
               <div class="spritz-progress">
                 <span id="spritzPosition">0</span> / <span id="spritzTotal">0</span>
+                <span id="spritzTimeLeft" class="spritz-time-left"></span>
               </div>
             </div>
 
@@ -410,7 +404,31 @@ export class RSVPUI {
     document.getElementById('spritzPosition').textContent = total > 0 ? position + 1 : 0;
     document.getElementById('spritzTotal').textContent = total;
 
+    // Update Time Left
+    const timeEl = document.getElementById('spritzTimeLeft');
+    if (timeEl && total > 0) {
+      const remainingWords = total - (position + 1);
+      if (remainingWords > 0) {
+        const secondsLeft = Math.ceil((remainingWords / this.currentWPM) * 60);
+        timeEl.textContent = `(${this._formatTime(secondsLeft)})`;
+      } else {
+        timeEl.textContent = '';
+      }
+    } else if (timeEl) {
+      timeEl.textContent = '';
+    }
+
     this._updateSlider();
+  }
+
+  /**
+   * Format seconds into MM:SS
+   * @private
+   */
+  _formatTime(seconds) {
+    const minutes = Math.floor(seconds / 60);
+    const remSeconds = seconds % 60;
+    return `${minutes}:${remSeconds.toString().padStart(2, '0')}`;
   }
 
   /**
@@ -612,6 +630,9 @@ export class RSVPUI {
       });
       select.value = nearest.value;
     }
+
+    // Update display to reflect new time estimate
+    this._updateDisplay();
   }
 
   /**

@@ -379,6 +379,14 @@
   letter-spacing: 1px;
 }
 
+.spritz-time-left {
+  margin-left: 10px;
+  font-weight: normal;
+  color: var(--spritz-gray-dark);
+  opacity: 0.8;
+  font-size: 0.9em;
+}
+
 .spritz-banner.fullscreen .spritz-progress {
   font-size: 24px;
   background-color: rgba(0, 0, 0, 0.05);
