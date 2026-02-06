@@ -13,40 +13,46 @@ def annotate_text(text):
     annotated_lines = []
     
     for line in lines:
-        # 1. Lists
-        # Match list items (bullets or numbers)
-        # ^(\s*)([-*+]|\d+\.)\s+
-        # We want to insert {{PAUSE:LIST}} before the marker
-        if re.match(r'^\s*([-*+]|\d+\.)\s+', line):
-            line = re.sub(r'^(\s*)([-*+]|\d+\.)', r'\1{{PAUSE:LIST}}\2', line, count=1)
+        # Step 1: Use temporary lowercase placeholders to avoid regex collisions
         
-        # 2. Acronyms
-        # Words with 3+ uppercase letters/numbers, allowing for some flexibility
-        # Avoid matching if already annotated (though we do this first)
-        # We use a lookahead to ensure we don't break things like URLs if possible, 
-        # but simple regex for [A-Z]{3,} is usually safe in plain text.
-        # \b([A-Z]{2,}[A-Z0-9]+)\b matches e.g. OACI, A320, but not A (too short)
-        line = re.sub(r'\b([A-Z]{3,})\b', r'{{PAUSE:ACRONYM}}\1', line)
-        
-        # 3. OACI Docs (4 digits)
+        # 1. OACI Docs (4 digits)
         # Matches "Doc. 4444", "Doc 4444", "Documento 4444"
         # Joins them (removes space) and adds pause marker
-        # We do this before punctuation to prevent splitting "Doc." from the number
-        line = re.sub(r'\b(Doc\.?|Documento)\s+(\d{4})\b', r'{{PAUSE:DOC}}\1\2', line, flags=re.IGNORECASE)
+        line = re.sub(r'\b(Doc\.?|Documento)\s+(\d{4})\b', r'__pause_doc__\1\2', line, flags=re.IGNORECASE)
         
+        # 2. Acronyms
+        # Words with 3+ uppercase letters/numbers
+        # We use a lookahead to ensure we don't break things like URLs if possible.
+        # \b([A-Z]{2,}[A-Z0-9]+)\b matches e.g. OACI, A320, but not A (too short)
+        # We replace with a placeholder to avoid being matched by subsequent steps or itself
+        # Note: We must be careful not to match our own placeholders if we used uppercase, but we use lowercase now.
+        line = re.sub(r'\b([A-Z]{3,})\b', r'__pause_acronym__\1', line)
+        
+        # 3. Lists
+        # Match list items (bullets or numbers)
+        # ^(\s*)([-*+]|\d+\.)\s+
+        if re.match(r'^\s*([-*+]|\d+\.)\s+', line):
+            line = re.sub(r'^(\s*)([-*+]|\d+\.)', r'\1__pause_list__\2', line, count=1)
+            
         # 4. Punctuation
         # Periods: Not preceded/followed by digit (3.5), not part of ellipsis (...)
-        # Using negative lookbehind/ahead for digits and dots
-        line = re.sub(r'(?<![\d\.])\.(?![\d\.])', r'.{{PAUSE:LONG}}', line)
+        line = re.sub(r'(?<![\d\.])\.(?![\d\.])', r'.__pause_long__', line)
         
         # Commas
-        line = re.sub(r',', r',{{PAUSE:SHORT}}', line)
+        line = re.sub(r',', r',__pause_short__', line)
         
         # Colons
-        line = re.sub(r':', r':{{PAUSE:LONG}}', line)
+        line = re.sub(r':', r':__pause_long__', line)
         
         # Semicolons
-        line = re.sub(r';', r';{{PAUSE:LONG}}', line)
+        line = re.sub(r';', r';__pause_long__', line)
+        
+        # Step 2: Finalize placeholders to actual tags
+        line = line.replace('__pause_doc__', '{{PAUSE:DOC}}')
+        line = line.replace('__pause_acronym__', '{{PAUSE:ACRONYM}}')
+        line = line.replace('__pause_list__', '{{PAUSE:LIST}}')
+        line = line.replace('__pause_long__', '{{PAUSE:LONG}}')
+        line = line.replace('__pause_short__', '{{PAUSE:SHORT}}')
         
         annotated_lines.append(line)
     
